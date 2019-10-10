@@ -1,4 +1,3 @@
-m.route.prefix('#')
 
 
 var HA = {
