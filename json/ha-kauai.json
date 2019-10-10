@@ -1,0 +1,133 @@
+{
+	"trip": {
+		"nav": "1",
+		"id": "201411kauai",
+		"backgroundImg": "../img/kauai/201411kauaipic1.jpg",
+		"pageLink": "201411kauai.html",
+		"pageTitle": "30th Anniversary in Paradise",
+		"pageSubtitle": "Kauai, Hawaii",
+		"summ": "A bit of the rainy season",
+		"intro": "--",
+		"introDescr": "Kathy and I took a 8 day trip to Kauai to celebrate our 30th Anniversary.  We started the trip on the east side of the island for a couple days and then moved around to Priceville and the northeast end of the island.",
+		"introPic1": "",
+		"introPic1span": "",
+		"introPic2": "",
+		"introPic2span": "",
+		"videoLink": "",
+		"videoIframe": "",
+		"foot": "1",
+		"endMap": "1DXdaTExM2XjREmmZTxBqeqPQaHo",
+		"endmapName": "Kauai 2015",
+		"tripFooterPic1": "",
+		"tripFooterPic2": "",
+		"tripFooterPicSpan": "",
+		"days": [
+		]
+	},
+	"adventureDay": [
+		{
+			"dayId": "20141106",
+			"h1title": "Kauai Sheraton near Poipu",
+			"h3": " Sailing near Port Allen",
+			"pdate": "Thursday/Friday, November 6 & 7, 2014",
+			"pdesc": "We hiked around the area east of our hotel, Makauwahi Cave Trailand the drove to Port Allen to take an afternoon sailboat cruise.",
+			"mappic": "https://photos.smugmug.com/201411-Kauai/201411-07Kauai/i-rDKnT4c/1/b4274f71/M/2014-11-07-kauai---beach-and-boat-047_18422003265_o-M.jpg",
+			"mapspan": "The coast on west side of Kauai",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201411-Kauai/201411-07Kauai/i-xczd4fM/0/d5daaba4/M/2014-11-07-kauai---beach-and-boat-008_18417932032_o-M.jpg",
+					"piccap": "Kathy near the Sheraton hotel",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201411-Kauai/201411-07Kauai/i-vqxz62V/1/b8a652cf/M/2014-11-07-kauai---beach-and-boat-042_17801354433_o-M.jpg",
+					"piccap": "Out on a sailboat for sunset",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=qwCpmh",
+			"smugAlbum": "https://havingadventures.smugmug.com/201411-Kauai/201411-07Kauai",
+			"smugAlbumName": "Kauai Sailing"
+		},
+		{
+			"dayId": "20141108",
+			"h1title": " Kauai - Canyon",
+			"h3": "Waipo'o Falls (or slips)",
+			"pdate": "Saturday, Nov 8, 2015",
+			"pdesc": "We drove along the Kaumualii Highway into Waimea Canyon State Park and got as far as the Kalalau Lookout.  The view was pretty cloudy so went to discover some other areas of the park.  We had lunch at the Koke'e Lodge and then began our hike down to Waipo'o Falls.  It was quite slippery and ....",
+			"mappic": "../img/kauai/201411kauaipic.jpg",
+			"mapspan": "Waimea Canyon",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201411-Kauai/20141108Kauai-Canyon/i-ZfKNVBV/0/40113dc9/M/2014-11-08%20Kauai%20-%20Canyon%20027-M.jpg",
+					"piccap": "Along our hile to Waipo'o Falls",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201411-Kauai/20141108Kauai-Canyon/i-22bFkJ7/0/cf050250/L/2014-11-08%20Kauai%20-%20Canyon%20017-L.jpg",
+					"piccap": "Waimea Canyon",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=F9BkXq",
+			"smugAlbum": "https://havingadventures.smugmug.com/201411-Kauai/20141108Kauai-Canyon",
+			"smugAlbumName": "Kauai - Canyon"
+		},
+		{
+			"dayId": "20141111",
+			"h1title": "Kauai - Princeville",
+			"h3": "",
+			"pdate": "Monday, Nov 10, 2015",
+			"pdesc": "We had a couple of rest days after a fall on the trail.  We got out to see the suset at Kalalau Trailhead and had a look around Princeville",
+			"mappic": "https://photos.smugmug.com/201411-Kauai/201410-Kauai-Princeville/i-jQmsDM2/1/e127c0b4/S/2014-11-09-princeville-008_18234515170_o-S.jpg",
+			"mapspan": "From the porch at the St Regis Princeville",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201411-Kauai/201410-Kauai-Princeville/i-RQs9p3J/0/32a86f2d/M/2014-11-08-kauai---canyon--4_17799339804_o-M.jpg",
+					"piccap": "Botanical Garden",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201411-Kauai/201410-Kauai-Princeville/i-GNrmW42/1/50571905/M/2014-11-10-kee-beach-sunset-011_17799545434_o-M.jpg",
+					"piccap": "Sunset at Ke'e Beach",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=RQ2DZm",
+			"smugAlbum": "https://havingadventures.smugmug.com/201411-Kauai/201410-Kauai-Princeville",
+			"smugAlbumName": "Priceville"
+		},
+		{
+			"dayId": "20141113",
+			"h1title": "Kalalau Trail",
+			"h3": "Hiking the trail to Hanakoa Falls",
+			"pdate": "Tuesday, Nov 11, 2015",
+			"pdesc": "I was up early to try and get out to the Kalalau trail before the rain began.  It was a very nice trail which I took about 4 miles in to the Hanakoa Falls which was about a mile in from the coastal trail.  I made back to my car just before the rain.",
+			"mappic": "https://photos.smugmug.com/201411-Kauai/20141111-Kalalau-Trail/i-ZS4mJGp/0/90741e66/M/2014-11-11-kalalau-trail-014_18417974652_o-M.jpg",
+			"mappicport": "",
+			"mapspan": "Hanakoa Falls",
+			"pictures": [
+				{
+					"pic": "https://havingadventures.smugmug.com/201411-Kauai/20141111-Kalalau-Trail/i-g57NFsR/A",
+					"piccap": "Jim along the Kalalau Trail",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201411-Kauai/20141111-Kalalau-Trail/i-J6cLN35/0/206efaf3/M/2014-11-11%20Kalalau%20Trail%20025-M.jpg",
+					"piccap": "Toward sunset at Ke'e Beach",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=wp37Dc",
+			"smugAlbum": "https://havingadventures.smugmug.com/201411-Kauai/20141111-Kalalau-Trail",
+			"smugAlbumName": "Kalalau Trail"
+		}
+	]
+}

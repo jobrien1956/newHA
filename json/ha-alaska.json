@@ -1,0 +1,262 @@
+{
+	"trip": {
+		"nav": "1",
+		"id": "201008alaska",
+		"backgroundImg": "https://www.havingadventures.com/img/alaska/20100818RussianRiver2.jpg",
+		"summ": "Just touching the surface - Kenai Penninsula, Price William Sound and a quick look north",
+		"intro": "--",
+		"introDescr": "In Aug 2010, prior to Kelly's senior year, we took advantage of one of our last opportunities to take the entire family on a vacation before he went off into the world of limited vacation time.  Our trip to Alaska covered a very small area around Anchorage and Price William Sound.  We got as far north as Talkeetna and as far south as Cordova",
+		"introPic1": "https://photos.smugmug.com/201008-Alaska/20100828WhalesCruise/i-HqSDVL3/1/b0475267/L/2010-08-28%20Whales%20%2812%29-L.jpg",
+		"introPic1span": "Last day of the trip",
+		"pageLink": "ha_alaska.html",
+		"pageTitle": "Aug 2010 - Alaska",
+		"pageSubtitle": "An Alaskan Tour",
+		"foot": "1",
+		"endMap": "1tojviX1QsKAzceSYtICpJeD44fs",
+		"endmapName": "2010 Alaska",
+		"footerPic1": "https://photos.smugmug.com/201008-Alaska/20100828WhalesCruise/i-6zsxSR4/0/d0a11d2b/M/Alaska%20-%201st%20week-map%20of%20track-M.jpg",
+		"footerPic1Span": "This map shows a bit of an outline of the areas we went.  The one below gives you a better sense of how big Alaska is and we were  in only a tiny part.",
+		"footerPic2": "../img/alaska/2010Alaska.JPG",
+		"days": [
+		]
+	},
+	"adventureDay": [
+		{
+			"dayId": "20100815",
+			"h1title": "Arriving in Anchorage and hiking around town",
+			"h3": "We flew all day thru Seattle and arrived in the evening.",
+			"pdate": "08/15/2010",
+			"pdesc": "We explored town in the morning and just missed the marathon.  We were picked up at the hotel in the afternoon and after stopping at the airport to pick up our new friends the Cullens we were on our way to Coopers Landing and the Kenai Riverside Lodge.Upon arriving there we had a nice cabin along the Copper river and saw the first of many bald eagles.",
+			"mappic": "../img/alaska/20100815Ankmap.JPG",
+			"mapspan": "Overview of first couple days - from Anchorage to Coopers Landing",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201008-Alaska/20100815Anchorage/i-6bJrPWd/0/f1ce7cee/M/2010-08-15%20Alaska%20%20%2816%29-M.jpg",
+					"piccap": "Cook Inlet from Anchorage"
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201008-Alaska/20100815Anchorage/i-nJTFZDc/0/c40bab99/M/2010-08-15%20Alaska%20Coopers%20Landing%20%2812%29-M.jpg",
+					"piccap": "Sitting on the back deck of the Cooper River Lodge"
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=Nvw9PV",
+			"smugAlbum": "https://havingadventures.smugmug.com/201008-Alaska/20100815Anchorage",
+			"smugAlbumName": "Anchorage and Coopers Landing"
+		},
+		{
+			"dayId": "20100816",
+			"h1title": "Rafting to the Backcountry Lodge",
+			"h3": "Coopers Landing to Kenai Backcountry Lodge",
+			"pdate": "08/16/2010",
+			"pdesc": "In the morning we were up and out to start our rafting trip down the Copper and Tazlina rivers and out into Skilak Lake.  The rafting went smoothly until we entered the lake.  We dropped the engine to motor across the lake but were heading right into the wind and waves.",
+			"mappic": "../img/alaska/20100816Skilakmap.JPG",
+			"mapspan": "We rafted down the river and motored across the lake.",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201008-Alaska/20100816CopperRiver/i-SWxvCm3/0/2f4cdad9/M/2010-08-16%20Rafting%20Kenai%20River%20%2836%29-M.jpg",
+					"piccap": "Entering Skilak Lake and into the wind and waves"
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201008-Alaska/20100816CopperRiver/i-gcfkB7q/0/0d2a9906/M/2010-08-16%20Rafting%20Kenai%20River%20%2837%29-M.jpg",
+					"piccap": "Our cabin for the next two nights"
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=kVD8fB",
+			"smugAlbum": "https://havingadventures.smugmug.com/201008-Alaska/20100816CopperRiver",
+			"smugAlbumName": "Coopers Landing to Kenai Backcountry Lodge"
+		},
+		{
+			"dayId": "20100817",
+			"h1title": "Hiking up a muddy path to overlook the Lake",
+			"h3": "A rainy day and ....",
+			"pdate": "08/17/2010",
+			"pdesc": "We had an overcast day for our hike up above the lodge.  It was a couple hour hike up a slippery path.  Once on top we had great views of the surrounding area and the lake we had crossed the previous day to get here.  In the evening we took our kyacks on the lake and didnt get back until after dark.",
+			"mappic": "../img/alaska/20100817Skilakmap.JPG",
+			"mapspan": "We rafted down the river and motored across the lake.",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201008-Alaska/20100817Kenai/i-FR8tx77/0/f1c8483c/M/2010-08-17%20Kenai%20Backcountry%20%2818%29-M.jpg",
+					"piccap": "At the top of the mountain behind Kenai Backcountry Lodge"
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201008-Alaska/20100817Kenai/i-CV6KVmV/0/843cf39c/M/2010-08-16%20Kenai%20Backcountry%20%288%29-M.jpg",
+					"piccap": "Looking out onto Skilak Lake"
+				}
+				],
+					"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=BZMTQc",
+					"smugAlbum": "https://havingadventures.smugmug.com/201008-Alaska/20100817Kenai",
+					"smugAlbumName": "Kenai Backcountry"
+				},
+				{
+					"dayId": "20100818",
+					"h1title": "Backcountry Lodge, Coopers Landing, Kenai Riverside Lodge",
+					"h3": "Salmon running and bears tales",
+					"pdate": "08/18/2010",
+					"pdesc": "Back across the lake (by motor boat) and up the Russian River. Hiking along the streams watching the salmon fight there way up a very large water fall.  We saw the very manual fish counting process and had a nice conversation with the counter.  We also hiked to an overlook and then drove back to Coopers Landing and the Backcountry Lodge",
+					"mappic": "../img/alaska/20100818RussRvrmap.jpg",
+					"mapspan": "On our way back to Coopers Landing we stopped at the falls.",
+					"pictures": [
+						{
+							"picID": "1",
+							"pic": "https://photos.smugmug.com/201008-Alaska/20100818CoopersLanding/i-BwP86WH/0/9e8b4fbd/M/2010-08-18%20Russian%20River%20%20%284%29-M.jpg",
+							"piccap": "Looking back onto Skilak Lake"
+						},
+						{
+							"picID": "2",
+							"pic": "https://photos.smugmug.com/201008-Alaska/20100818CoopersLanding/i-39cqHMf/0/e96ee412/M/2010-08-18%20Russian%20River%20%20%2812%29-M.jpg",
+							"piccap": "Salmon climbing the falls - amazing"
+						}
+					],
+					"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=mgBv7J",
+					"smugAlbum": "https://havingadventures.smugmug.com/201008-Alaska/20100818CoopersLanding",
+					"smugAlbumName": "Russian River"
+				},
+				{
+					"dayId": "20100819",
+					"h1title": "Kenai Fjords Glacier Lodge",
+					"h3": "Ferrying along the Alaskan Coast to Kenai Fjords NP.",
+					"pdate": "08/19/2010",
+					"pdesc": "We drove from Coopers Landing to Seward where we caught a ferry to Aialk Bay and the Kenai Fjords NP.  The Kenai Fjords Glacier Lodge was our home for the next couple days.  On the way we got great views of Sea Lions and Pufers and took a ride past a glacier at the end of Aialk Bay before heading to our cabins at the lodge. ",
+					"mappic": "../img/alaska/AialikFyordMap.jpg",
+					"mapspan": "Our base was by Pedersen Lagoon in Kenai Fjords NP. We kyacked to the end of the fjord.",
+					"pictures": [
+						{
+							"picID": "1",
+							"pic": "https://photos.smugmug.com/201008-Alaska/20100819KFNPGlacierLdg/i-x25QDdb/0/c6f0a6b6/M/2010-08-19-17-21%20KFNP%20Glacier%20Lodge%20087-M.jpg",
+							"piccap": "Back porch at the lodge."
+						},
+						{
+							"picID": "2",
+							"pic": "https://photos.smugmug.com/201008-Alaska/20100819KFNPGlacierLdg/i-Mzx4jV9/0/34a1d2d1/M/2010-08-19-15-23%20KFNP%20Glacier%20Lodge%20068-M.jpg",
+							"piccap": "It doesn't look it but this glacier is over 2,000 ft high."
+						}
+					],
+					"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=jdKWZ5",
+					"smugAlbum": "https://havingadventures.smugmug.com/201008-Alaska/20100819KFNPGlacierLdg",
+					"smugAlbumName": "Kenai Fjords"
+				},
+				{
+					"dayId": "20100820",
+					"h1title": "Hiking and Kyacking to get upclose to the Glaciers",
+					"h3": "Kyacking amid swimming bears and calving glaciers",
+					"pdate": "08/20/2017",
+					"pdesc": "During the day we took a hike off to the side of the lodge and saw some bear activity along the way.  We then kayaked about 3 miles up to the glacier at the end of the bay where we had lunch.  On the way back a bear swam across our path on it's way to an island in the bay.  Further bear sightings came later in the day.",
+					"mappic": "../img/alaska/AialikFyordMap2.jpg",
+					"mapspan": "We kayaked to a peninsula near the glacier for lunch and to watch calving.",
+					"pictures": [
+						{
+							"picID": "1",
+							"pic": "https://photos.smugmug.com/201008-Alaska/20100820KFNPGlacierLdg/i-WHrZB2v/0/4fc997ab/M/2010-08-20-15-25%20KFNP%20Glacier%20Lodge%20033-M.jpg",
+							"piccap": "Lunch spot in front of the Glacier.  We could not get closer because might get squashed by a calfing glacier.  Then about 30 minutes later a giant piece fell off."
+						},
+						{
+							"picID": "2",
+							"pic": "https://photos.smugmug.com/201008-Alaska/20100820KFNPGlacierLdg/i-rzKFwk6/0/801dd557/M/2010-08-21-15-40%20KFNP%20Glacier%20Lodge%20026-M.jpg",
+							"piccap": "Glaicers in Pedersen Lagoon behind our lodge"
+						}
+					],
+					"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=3kmPkp",
+					"smugAlbum": "https://havingadventures.smugmug.com/201008-Alaska/20100820KFNPGlacierLdg",
+					"smugAlbumName": "Kenai Fjords-pt2"
+				},
+				{
+					"dayId": "20100822",
+					"h1title": "Taking the long road to Talkeetna",
+					"h3": "A side route to car trouble on top of ...",
+					"pdate": "08/22/2010",
+					"pdesc": "After another layover night  in Achorage we rented a ford explorer and headed north toward Talkeetna and decided to take a circutous route via an old mining town.  After passing the mine we started off toward the west and the top of a pass thru the mountains.  After stopping for a brief break the car died.  It took some good samiaritans,  two phones, two tow trucks and about 4 hours to get us back on our way.  We arrived in Talketna at sunset and had time for dinner.  The following day we explored a remote area called Trappers Creeek and the town of Talkeetna",
+					"mappic": "../img/alaska/20100822Talket.JPG",
+					"mapspan": "Our route from Anchorage to Talkeetna - with a long detour and change of cars.",
+					"pictures": [
+						{
+							"picID": "1",
+							"pic": "https://photos.smugmug.com/201008-Alaska/20100822Talkeetna/i-8HhFcsM/0/b1052730/M/2010-08-23-18-50%20Alaska%20Talkeetna%20067-M.jpg",
+							"piccap": "During our adventures we saw all kind of marshes and glacier carved rivers and weird birds."
+						},
+						{
+							"picID": "2",
+							"pic": "https://photos.smugmug.com/201008-Alaska/20100822Talkeetna/i-tW2skWW/0/4f275a2c/M/2010-08-24-14-11%20Alaska%20Talkeetna%20034-M.jpg",
+							"piccap": "Denali was still a 100 miles away but we had a good view on the morning we left."
+						}
+					],
+					"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=jMHGHT",
+					"smugAlbum": "https://havingadventures.smugmug.com/201008-Alaska/20100822Talkeetna",
+					"smugAlbumName": "Talkeetna"
+				},
+				{
+					"dayId": "20100826",
+					"h1title": "2010-08-26 Alaska Cruise aboad the Columbia",
+					"h3": "Along the coast in Prince William Sound and up close to Glaciers",
+					"pdate": "08/26/2010",
+					"pdesc": "After dropping Kelly at the airport, Allie, Kathy and I were shuttled down to Whitter for our three night cruise around Price William Sound.  We spent the next day and a half cruising around seeing glaciers and some of the fishing operations",
+					"mappic": "../img/alaska/CruiseMap.jpg",
+					"mapspan": "Our clockwise route around Prince William Sound.",
+					"pictures": [
+						{
+							"picID": "1",
+							"pic": "https://photos.smugmug.com/201008-Alaska/20100825Wittier/i-kh5DN53/0/4cbb5d79/M/2010-08-25-19-48%20Alaska%20Wittier%26Day1%20015-M.jpg",
+							"piccap": "Our home for the end of our trip on the water."
+						},
+						{
+							"picID": "2",
+							"pic": "https://photos.smugmug.com/201008-Alaska/20100825Wittier/i-f6f6TT4/0/263e3163/M/2010-08-25%20Alaska%20%20%2811%29-M.jpg",
+							"piccap": "All kinds of Eagles, Otters, Whales along the way."
+						}
+					],
+					"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=jZBhSf&autoStart=0&captions=1&navigation=1&playButton=0&randomize=1&speed=3&transition=fade&transitionSpeed=2' width='800' height='600' frameborder='no' scrolling='no'></iframe>",
+					"smugAlbum": "https://havingadventures.smugmug.com/201008-Alaska/20100825Wittier",
+					"smugAlbumName": "Cruise Prince William Sound"
+				},
+				{
+					"h1title": "2010-08-27 Cruising Prince William Sound",
+					"h3": "Cruise to Cordova and Kyacking amoung Glaciers",
+					"pdate": "08/27/2010",
+					"pdesc": "Our day in Cordova was a bit rainy but we took a rafting trip along the Cooper River and after this headed back into Prince William Sound.",
+					"mappic": "../img/alaska/20100822PWS.JPG",
+					"pictures": [
+						{
+							"picID": "1",
+							"pic": "https://photos.smugmug.com/201008-Alaska/20100826CruiseCordova/i-tCs8dgV/1/cdaad9ee/M/2010%2008%2027_Alaska_0003-M.jpg",
+							"piccap": "Ion our second morning we docked in Cordova and explored the town which is only reachable by boat."
+						},
+						{
+							"picID": "2",
+							"pic": "https://photos.smugmug.com/201008-Alaska/20100826CruiseCordova/i-XttTKzw/1/b7a211db/M/2010%2008%2027_Alaska_0009-M.jpg",
+							"piccap": "Our equipment was good so we rafted amoung floating glacier chucks up the Cooper River"
+						}
+					],
+					"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=cbXfRk",
+					"smugAlbum": "https://havingadventures.smugmug.com/201008-Alaska/20100826CruiseCordova",
+					"smugAlbumName": "Cruise and Cordova rafting"
+				},
+				{
+					"dayId": "20100828",
+					"h1title": "Whales and more whales",
+					"h3": "Prince William Sound",
+					"pdate": "Saturday, August 28, 2010 and end of trip",
+					"pdesc": "This was the final day of our cruise and vacation.  We had good weather and saw lots of whales.",
+					"mappic": "https://photos.smugmug.com/201008-Alaska/20100828WhalesCruise/i-FMzJXDv/0/0321a29e/S/2010-08-28%20Whales%20%285%29-S.jpg",
+					"pictures": [
+						{
+							"picID": "1",
+							"pic": "https://photos.smugmug.com/201008-Alaska/20100828WhalesCruise/i-HqSDVL3/0/9bf78beb/M/2010-08-28%20Whales%20%2812%29-M.jpg",
+							"piccap": "A little chilly out on deck."
+						},
+						{
+							"picID": "2",
+							"pic": "https://photos.smugmug.com/201008-Alaska/20100828WhalesCruise/i-QXHxPk7/0/98c97fad/M/2010-08-28%20Whales%20%2814%29-M.jpg",
+							"piccap": "Lots of Glacier calving."
+						}
+					],
+					"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=7RvCsm",
+					"smugAlbum": "https://havingadventures.smugmug.com/201008-Alaska/20100828WhalesCruise",
+					"smugAlbumName": "Whales and more whales"
+				}
+			]
+		}

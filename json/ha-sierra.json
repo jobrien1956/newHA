@@ -1,0 +1,339 @@
+{
+	"trip": {
+		"TripId": "201908sierra",
+		"nav": "1",
+		"id": "ha-sierra",
+		"jsonFile": "ha-sierra.json",
+		"backgroundImg": "../img/index/201908sierra.jpg",
+		"tripThumb": "../img/index/thumb/201908sierra.jpg",
+		"pageLink": "adventures/201908sierra.html",
+		"pageTitle": "June 2019 - Sierra Nevada",
+		"pageSubtitle": "",
+		"tripSumm": "A five day, 45 mile hike through the Benson Lake Loop",
+		"summ": "",
+		"intro": "--",
+		"introDescr": "",
+		"introPic1": "",
+		"introPic1span": "",
+		"introPic2": "",
+		"introPic2span": "",
+		"videoLink": "",
+		"videoIframe": "",
+		"foot": "1",
+		"footerPic1": "",
+		"footerPic2": "",
+		"footPic1Span": "",
+		"endMap": "1hCftVqAwUEDq6c8q2lYdi2WK9-1H30KT",
+		"endmapName": "Benson Lake Loop",
+		"days": [
+		]
+	},
+	"adventureDay": [
+		{
+			"dayId": "20190825",
+			"h1title": "Twin Lakes up to Rancheria Creek",
+			"h3": "",
+			"pdate": "Sunday, Aug 25, 2019",
+			"pdesc": "",
+			"pdescLink1": "",
+			"pdescLinktag1": "",
+			"pdesc2": "",
+			"pdescLink2": "",
+			"pdescLinktag2": "",
+			"pdesc3": "",
+			"pdescLink3": "",
+			"pdescLinktag3": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "3",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "4",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "20190826",
+			"h1title": "Down to Benson Lake",
+			"h3": "Hottest day of the trip",
+			"pdate": "Monday, Aug 26, 2019",
+			"pdesc": "",
+			"pdescLink1": "",
+			"pdescLinktag1": "",
+			"pdesc2": "",
+			"pdescLink2": "",
+			"pdescLinktag2": "",
+			"pdesc3": "",
+			"pdescLink3": "",
+			"pdescLinktag3": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "3",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "4",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "20190827",
+			"h1title": "Up to Smedberg Lake and over Benson Pass",
+			"h3": "",
+			"pdate": "Tuesday, Aug 27, 2019",
+			"pdesc": "",
+			"pdescLink1": "",
+			"pdescLinktag1": "",
+			"pdesc2": "",
+			"pdescLink2": "",
+			"pdescLinktag2": "",
+			"pdesc3": "",
+			"pdescLink3": "",
+			"pdescLinktag3": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "3",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "4",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "20190828",
+			"h1title": "Up Matterhorn Creek",
+			"h3": "",
+			"pdate": "Wednesday, Aug 28, 2019",
+			"pdesc": "",
+			"pdescLink1": "",
+			"pdescLinktag1": "",
+			"pdesc2": "",
+			"pdescLink2": "",
+			"pdescLinktag2": "",
+			"pdesc3": "",
+			"pdescLink3": "",
+			"pdescLinktag3": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "3",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "4",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "20190829",
+			"h1title": "Hiking out over Mule and Burro Pass",
+			"h3": "",
+			"pdate": "Thursday, Aug 29, 2019",
+			"pdesc": "",
+			"pdescLink1": "",
+			"pdescLinktag1": "",
+			"pdesc2": "",
+			"pdescLink2": "",
+			"pdescLinktag2": "",
+			"pdesc3": "",
+			"pdescLink3": "",
+			"pdescLinktag3": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "3",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "4",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "20190830",
+			"h1title": "Relaxing in Reno",
+			"h3": "A down day to relax before heading back to the world",
+			"pdate": "Friday, Aug 30, 2019",
+			"pdesc": "",
+			"pdescLink1": "",
+			"pdescLinktag1": "",
+			"pdesc2": "",
+			"pdescLink2": "",
+			"pdescLinktag2": "",
+			"pdesc3": "",
+			"pdescLink3": "",
+			"pdescLinktag3": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "3",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "4",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		}
+	]
+}

@@ -1,0 +1,155 @@
+{
+	"trip": {
+		"nav": "1",
+		"TripId": "200304sequoia",
+		"id": "ha-sequoia",
+		"backgroundImg": "../img/index/200304sequoia.jpg",
+		"tripThumb": "../img/index/thumb/200304sequoia.jpg",
+		"pageLink": "adventures/200304sequoia.html",
+		"pageTitle": "SF, Monterey, Sequoia and Yosemite",
+		"pageSubtitle": "Apr,2003 - Our Calif Easter trip.",
+		"tripSumm": "",
+		"summ": "Apr 17, 2003 to Sat, Apr 26",
+		"intro": "--",
+		"introDescr": "We hadn't had a family vacation in quite a while so we tried to cover maybe a bit more ground then we should have.  After leaving Frontpoint and before Cantillon we took an Easter trip out to San Francisco and drove down to Monterey, Sequoia NP & Yosemite.  We generally weren't prepared for the snow in  Sequoia but made the best of it.",
+		"introPic1": "../img/sequoia/SFFresnoTripMap.jpg",
+		"introPic1span": "",
+		"introPic2": "",
+		"introPic2span": "",
+		"videoLink": "",
+		"videoIframe": "",
+		"foot": "1",
+		"footerPic1": "../img/sequoia/200304sequoiaSeal.jpg",
+		"footerPic2": "",
+		"footPic1Span": "Marine Gardens Park",
+		"endMap": "1fd5SfCWH1zW32ofeNA_DXtwRtAbDjWx7",
+		"endmapName": "",
+		"days": [
+		]
+	},
+	"adventureDay": [
+		{
+			"dayId": "20030418",
+			"h1title": "Putting on the Ritz",
+			"h3": "",
+			"pdate": "Thursday, April 17, 2003",
+			"pdesc": "We arrived on Thursday evening and stayed at the Ritz on Nob Hill.  On Friday we rode the cable cars and went for a trip around the harbor.  Kelly and I took BART over to the A's game in Oakland.  We checked out on Saturday and drove down for a lunch with Jim Shorin and family in Palo Alto before driving down to Monterey.  The following day was Easter and the Easter rabbit brought our baskets to the hotel.  We spent the day at the Aquarium and then exploring the Pacific Grove Marine Gardens Park where we found all kinds on interesting creatures.  THe next day it was on to Sequoia.",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "https://photos.smugmug.com/200304Sequoia/SFMontery2003APR/i-NzhJFs3/1/edb1f119/M/200304SFSequoia%20-%204%20of%2097-L.jpg",
+			"mapspan": "SF Skyline from the ferry",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/200304Sequoia/SFMontery2003APR/i-3L9Phvm/0/fdf4a14e/M/200304SFSequoia%20-%209%20of%2097-L.jpg",
+					"piccap": "Taking the cable cars to the ferry.",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/200304Sequoia/SFMontery2003APR/i-ghV88NN/1/70e6f056/L/200304SFSequoia%20-%2012%20of%2097-L.jpg",
+					"piccap": "We went under the Bridge and then back.",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "3",
+					"pic": "https://photos.smugmug.com/200304Sequoia/SFMontery2003APR/i-cGnDPrG/0/79ed8b97/L/200304SFSequoia%20-%2017%20of%2097-L.jpg",
+					"piccap": "Exploring the cove in Pacific Grove on Monterey",
+					"pictop": "",
+					"picbotm": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=FqjMGr",
+			"smugAlbum": "https://havingadventures.smugmug.com/200304Sequoia/SFMontery2003APR",
+			"smugAlbumName": "SF / Montery"
+		},
+		{
+			"dayId": "20030422",
+			"h1title": "Snow in Sequoia",
+			"h3": "",
+			"pdate": "Monday, April 21, 2003",
+			"pdesc": "The drive to Sequoia NP was longer than we expected and we arrived very tired and hungry.  We may have missed dinner and the cabins in the Giant Forest Area  were covered with about 5 inches of new snow.  In the morning we went to the general store and bought ziplock bags to keep our feet dry and we trudged around the park, sometimes skipping ;).  The following day we drove north to Yosemite for the final leg of our trip.",
+			"mappic": "https://photos.smugmug.com/200304Sequoia/Sequoia2000APR/i-f88zsdq/1/6ac3a3db/M/200304SFSequoia%20-%2048%20of%2097-L.jpg",
+			"mappicport": "",
+			"mapspan": "We weren't really prepared for the weather.",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/200304Sequoia/Sequoia2000APR/i-9s4sh7m/0/4b89064c/M/200304SFSequoia%20-%2045%20of%2097-L.jpg",
+					"piccap": "Despite the snow it was worth the trip",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/200304Sequoia/Sequoia2000APR/i-58JnWjz/0/69c41891/M/200304SFSequoia%20-%2047%20of%2097-L.jpg",
+					"piccap": "It's hard to get the true prospective of the size.",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "3",
+					"pic": "https://photos.smugmug.com/200304Sequoia/Sequoia2000APR/i-R8FGWkX/0/d8a92185/L/200304SFSequoia%20-%2031%20of%2097-L.jpg",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=nk8kPM",
+			"smugAlbum": "https://havingadventures.smugmug.com/200304Sequoia/Sequoia2000APR",
+			"smugAlbumName": "Sequoia"
+		},
+		{
+			"dayId": "20030424",
+			"h1title": "Yosemite Valley",
+			"h3": "Upgrade to the Ahwanee",
+			"pdate": "Thursday, April 24, 2003",
+			"pdesc": "We had planned on two nights outside the park in the Tenaya but after our night there we were lucky to find availablity at the Ahwanee Hotel.",
+			"mappic": "https://photos.smugmug.com/200304Sequoia/Yosemite2000APR/i-ZHtFCR3/0/e6d0247d/M/200304SFSequoia%20-%2069%20of%2097-L.jpg",
+			"mappicport": "",
+			"mapspan": "Mirror Lake",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/200304Sequoia/Yosemite2000APR/i-L4THtPx/0/2983f62b/M/200304SFSequoia%20-%2052%20of%2097-L.jpg",
+					"piccap": "From the Ahwanee hotel",
+					"pictop": " We where given the Presidents Suite on the top floor with a view of Yosemite Falls. ",
+					"picbotm": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/200304Sequoia/Yosemite2000APR/i-QtG6T24/0/c2990b63/M/200304SFSequoia%20-%2057%20of%2097-L.jpg",
+					"piccap": "Vernal Falls",
+					"pictop": "",
+					"picbotm": "The following day, we hiked up to Vernal Falls and to the base of Yosemite falls which were each blasting away.  "
+				},
+				{
+					"picID": "3",
+					"pic": "https://photos.smugmug.com/200304Sequoia/Yosemite2000APR/i-DXFcC7x/0/8a939705/L/200304SFSequoia%20-%2039%20of%2097-L.jpg",
+					"piccap": "Allie and Kelly in from of ElCapitan",
+					"pictop": "",
+					"picbotm": "  On Friday, we drove back to Fresno where we stayed the night before flying home."
+				},
+				{
+					"picID": "4",
+					"pic": "https://photos.smugmug.com/200304Sequoia/Yosemite2000APR/i-R9BtKTL/0/11538f19/L/200304SFSequoia%20-%2080%20of%2097-L.jpg",
+					"piccap": "Half Dome",
+					"pictop": "",
+					"picbotm": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=mRWbt9",
+			"smugAlbum": "https://havingadventures.smugmug.com/200304Sequoia/Yosemite2000APR",
+			"smugAlbumName": "Yosemite"
+		}
+	]
+}
+
+

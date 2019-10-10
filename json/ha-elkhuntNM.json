@@ -1,0 +1,113 @@
+{
+	"trip": {
+		"nav": "1",
+		"TripId": "199510elkhuntNM",
+		"id": "ha-elkhuntNM",
+		"backgroundImg": "../img/index/199510NMElk.jpg",
+		"pageLink": "adventures/199510elkhuntNM.html",
+		"tripThumb": "../img/index/thumb/199510NMElk.jpg",
+		"pageTitle": "",
+		"pageSubtitle": "",
+		"tripSumm": "",
+		"summ": "Oct, 1995 - Elk Hunting in New Mexico",
+		"intro": "What are you having a war??",
+		"introDescr": "Along with Perry Handyside, the manager of Blue Valley ranch in Kremling, CO, I went to western NM for a four day elk hunt. I haven't been able to locate the exact location other than generally along the continental divide and not so far from Albuquerque.  ",
+		"introPic1": "",
+		"introPic1span": "",
+		"introPic2": "",
+		"introPic2span": "",
+		"videoLink": "",
+		"videoIframe": "",
+		"foot": "1",
+		"footerPic1": "https://photos.smugmug.com/199510NMElk/Base-Camp/i-n7TQK8V/1/021b153f/M/199510NMElk%20-%2016%20of%2029-M.jpg",
+		"footerPic2": "https://photos.smugmug.com/199510NMElk/Base-Camp/i-Lxt3zwn/1/02afd64c/M/Ridgewood%20Garage%20Elk2-M.jpg",
+		"footerPic1Span": "Perry Handyside 'cleaning' my elk skull which was shipped to NJ.",
+		"footerPic2Span": "In 2001, it was hung on our new garage in Ridgewood where it still hangs today.",
+		"endMap": "",
+		"endmapName": "",
+		"days": [
+		]
+	},
+	"adventureDay": [
+		{
+			"dayId": "19941015",
+			"h1title": "The Camp",
+			"h3": "  ",
+			"pdate": "Sun Oct 22, 1995",
+			"pdesc": "Our camp was on a cattle ranch and consisted of a bunch of raised platforms with a tent attached.  My practice with a 30-06 rifle consisted of 2-3 shots at a fence post after which i was pronounced ready to go hunt elk. I remembeer seeing a large bull elk on the road one day and one of the guides mentioned that you can't shoot them from the truck.",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "https://photos.smugmug.com/199510NMElk/Base-Camp/i-F9SLJSM/0/adee3bae/L/199510NMElk%20-%209%20of%2029-L.jpg",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/199510NMElk/Base-Camp/i-VLVJ4rq/0/65d32440/L/199510NMElk%20-%201%20of%2029-L.jpg",
+					"piccap": "",
+					"pictop": "The Elk were all over the place"
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/199510NMElk/Base-Camp/i-g3xVWHH/0/a07a9c04/M/199510NMElk%20-%207%20of%2029-M.jpg",
+					"piccap": "",
+					"pictop": "Unfortunately for this guy he didnt make it out of the tree"
+				},
+				{
+					"picID": "3",
+					"pic": "https://photos.smugmug.com/199510NMElk/NMOct24-1995/i-MqvTzDp/0/380b1d55/L/199510NMElk%20-%2027%20of%2029-L.jpg",
+					"piccap": "Bringing my elk back to camp",
+					"picbotm": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=mFdd6f",
+			"smugAlbum": "https://havingadventures.smugmug.com/199510NMElk/Base-Camp",
+			"smugAlbumName": "Camp"
+		},
+		{
+			"dayId": "19951024",
+			"h1title": "The Hunt",
+			"h3": "We walked many miles before coming across an elk across a small gully",
+			"pdate": "Sun Oct 24, 1995",
+			"pdesc": "My guide was a 22 year who had played D1 footalll at Arizona but had given it up to be a hunting guide.  I explained that it wouldn't be the end of world if I didn't shoot an elk and was mostly looking forward to hiking as much as we could.   ",
+			"pdesc2": "  It was toward the end of the day when we found our elk.  My first shot appeared to hit him but he didnt run or move so I kept on shooting.  A total of 5/6 shots.  If you look closely at the pics below you can see that one of the shots went thru his antler.  Evenually he fell over and we made the trek over to him.  It took another 15 minutes to go down the gully and back up he other side to reach him.  We got a call on the walkie talkie from another guide who said 'What are you having a war over there?'",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/199510NMElk/NMOct24-1995/i-Lm4NFFH/0/029f4d9e/L/199510NMElk%20-%204%20of%2029-L.jpg",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/199510NMElk/NMOct24-1995/i-Xx5DsSq/0/a47019c1/L/199510NMElk%20-%2023%20of%2029-L.jpg",
+					"piccap": "",
+					"pictop": "We went back to camp leaving the elk behind since there wasn't enough time to dress the elk and pack him out.  We went back the next morning and cut the guts out and removed the head to allow me to carry it down to the road.  I would have liked to have the hide but it was cut into pieces as they were bringing it out on pack mules."
+				},
+				{
+					"picID": "3",
+					"pic": "https://photos.smugmug.com/199510NMElk/NMOct24-1995/i-L6BRQsd/0/705bbfd0/L/199510NMElk%20-%2026%20of%2029-L.jpg",
+					"piccap": "Happy Jim",
+					"picbotm": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=H2QWSR",
+			"smugAlbum": "https://havingadventures.smugmug.com/199510NMElk/NMOct24-1995",
+			"smugAlbumName": "The Hunt"
+		}
+	]
+}
+
+

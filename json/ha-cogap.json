@@ -1,0 +1,80 @@
+{
+	"trip": {
+		"nav": "1",
+		"id": "201505cogap",
+		"backgroundImg": "../img/cogap/COtowpath.jpg",
+		"pageLink": "201505cogap.html",
+		"pageTitle": "C&O to the GAP Trail and back to DC",
+		"pageSubtitle": "May 12 to 15, 2015",
+		"summ": "Potomac River along C&O Towpath to the Great Allegheny Passage",
+		"intro": "--",
+		"introDescr": "Route from DC to to the Big Savage Tunnel in PA just past the Mason/Dixon line.  This was a 400 mile warm-up trip to see about riding with all my gear.  I learned a lot but mostly learned that each mile here equaled about a quarter mile on the Divide",
+		"introPic1": "https://photos.smugmug.com/201505-CO-to-GAP/COGAP/i-wqNjvrm/1/b70d5a4a/M/2015-05-14-08-22%20C%26O%20GAP%20037-M.jpg",
+		"tripIntroPic1Span": "An Owl early on Day 3",
+		"introPic1span": "An Owl early on Day 3",
+		"introPic2": "",
+		"introPic2span": "",
+		"videoLink": "",
+		"videoIframe": "",
+		"foot": "1",
+		"endMap": "1vPJRUauc2iOG56o45Vkcx1tKmSg",
+		"endmapName": "400 miles on C&O GAP Trail",
+		"days": [
+		]
+	},
+	"adventureDay": [
+		{
+			"dayId": "20150512",
+			"h1title": "DC to Williamsport and then on to Frostburg, MD",
+			"h3": "2 days, 200 miles",
+			"pdate": "Tuesday & Wed, May 12 & 13, 2015",
+			"pdesc": "The trip up from Judah's house to the river was part of the tricky part with minor issues with my setup. Once on the trail it was a relatively smooth ride. There weren't many stopping points so I crossed the river in Sheperdstown and had some lunch before continuing on to Williamsport where I stayed at the Hagerstown Red Roof Inn. In all I covered 108 miles. I was up and out reasonably early the next day and after stops in Hancock and Cumberland where the C&O trail ends and the GAP Trail begins on old rail beds. The final 16 miles was a 'railroad grade'' 1,500 feet up. Total 103 miles. Once in Frostburg the Gunter Hotel was not to be missed. I had pizza nearby and barred the door.",
+			"mappic": "https://photos.smugmug.com/201505-CO-to-GAP/201505-CO-GAP-Day-1-2/i-m5JQpnj/0/3ea388d5/M/2015-05-13-15-54%20C%26O%20GAP%20034-M.jpg",
+			"mappicport": "",
+			"mapspan": "End of the C&O in Cumberland",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201505-CO-to-GAP/201505-CO-GAP-Day-1-2/i-SZKwQht/0/bc70ee00/M/2015-05-12-09-01%20C%26O%20GAP%20005-M.jpg",
+					"piccap": "Great Falls Park, Maclean, VA",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201505-CO-to-GAP/201505-CO-GAP-Day-1-2/i-dsCgVZw/0/43eadca3/M/2015-05-13-14-52%20C%26O%20GAP%20033-M.jpg",
+					"piccap": "Cumberland Gap in Cumberland, MD",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=3MBTJK",
+			"smugAlbum": "https://havingadventures.smugmug.com/201505-CO-to-GAP/201505-CO-GAP-Day-1-2",
+			"smugAlbumName": "1st C&O-GAP"
+		},
+		{
+			"dayId": "20150514",
+			"h1title": "A few miles up to the Mason Dixon line and the Big Savage Tunnel ",
+			"h3": "and then a return to DC and riding away from the river",
+			"pdate": "Thur & Fri, May 14 & 15, 2015",
+			"pdesc": "I decided I needed to get into Pennsylvania so I started Day 3 continuing up hill across the Mason Dixon line and through the 'Big Savage' tunnel. Once thru I turned around and headed for the downhill section of my ride. 2,000 feet over 23 miles back to Cumberland. From there I returned to Williamsport and the Red Roof Inn. In all I cover 116 miles but it was the easiest day. The 4th day was harder than I thought because once I left the C&O Towpath I had to deal with the hills getting away from the Potomac River. This final 9 miles involved a number of walks which foreshadowed things to come out west.",
+			"mappic": "https://photos.smugmug.com/201505-CO-to-GAP/COGAP/i-GMDZb4W/0/af28f734/M/2015-05-14-15-18%20C%26O%20GAP%20054-M.jpg",
+			"mapspan": "The bike evolved over the trip",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201505-CO-to-GAP/COGAP/i-XpSGXWs/0/05cc21bf/M/2015-05-14-09-40%20C%26O%20GAP%20046-M.jpg",
+					"piccap": "PA side of the Big Savage Tunnel",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201505-CO-to-GAP/COGAP/i-mTc6DwB/0/f3559d34/M/2015-05-15-10-08%20C%26O%20GAP%20065-M.jpg",
+					"piccap": "Day 4 along the Potomac",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=j8LBHL",
+			"smugAlbum": "https://havingadventures.smugmug.com/201505-CO-to-GAP/COGAP",
+			"smugAlbumName": " 2nd C&O "
+		}
+	]
+}

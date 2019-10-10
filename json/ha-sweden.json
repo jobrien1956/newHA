@@ -1,0 +1,207 @@
+{
+	"trip": {
+		"nav": "1",
+		"id": "201707sweden",
+		"backgroundImg": "../img/sweden/20170709Sweden.jpg",
+		"pageLink": "201707sweden.html",
+		"pageTitle": "Stockholm and Copenhagen",
+		"pageSubtitle": "July 7 to 14, 2017",
+		"summ": "Backroads thru Sweden and Denmark",
+		"intro": "Two fascinating old cities",
+		"introDescr": "Our trip to Scandinavia was the result of our friend, Kristin, inviting us to join her daughter, Grace, and her on a bike trip in Europe. We decided to try the Backroads Sweden to Denmark Bike Tour.",
+		"introPic1": "https://photos.smugmug.com/201707StockholmCopen/20170714Copenhagen/i-dcKbhCV/2/ec863aff/M/IMG_1806-M.jpg",
+		"introPic1span": "Copenhagen Tricksters",
+		"endMap": "1iXP8_aEywtLKUrA0Ds_zguURP_8",
+		"endmapName": "Stockholm/Copenhagen",
+		"days": [
+		]
+	},
+	"adventureDay": [
+		{
+			"dayId": "20170707",
+			"h1title": "Stockholm, Sweden\n",
+			"h3": "Walking around and seeing the city",
+			"pdate": "Fri & Sat,July 7 & 8, 2017",
+			"pdesc": "We arrived on Friday morning and we able to get some sleep before taking a walk into old town and then up above the city.  On Saturday we had a nice walk around ",
+			"pdescLink1": "https://www.visitstockholm.com/guides/district-guide-djurgarden/",
+			"pdescLinktag1": "Djurgården",
+			"pdesc2": " an island in the harbor with a zoo and many historical structures.  We skipped the ABBA museum but did go into the ",
+			"pdescLink2": "https://www.vasamuseet.se/en",
+			"pdescLinktag2": "Vasa museum",
+			"pdesc3": " which houses the only almost fully intact 17th century ship that has ever been salvaged, the 64-gun warship Vasa that sank on her maiden voyage in 1628.  Yes - amazingly this giant boat sank after traveling a few km into the harbor.",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201707StockholmCopen/2017Stockholm01/i-7DQRwZv/0/7bffa1a7/M/IMG_1697-M.jpg",
+					"piccap": "64-gun warship Vasa",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201707StockholmCopen/2017Stockholm01/i-r92pQSd/1/4e75223c/M/IMG_3108-M.jpg",
+					"piccap": " Lake Mälaren, City Hall, and Riddarholmen from Monteliusvägen",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=NN85Rt",
+			"smugAlbum": "https://havingadventures.smugmug.com/201707StockholmCopen/2017Stockholm01",
+			"smugAlbumName": "Stockholm"
+		},
+		{
+			"dayId": "20170709",
+			"h1title": "Faringso and the king's summer palace",
+			"h3": "The King's summer palace",
+			"pdate": "Sun, Jul 9, 2017",
+			"pdesc": "Our first day with the backroads tour. We rolled our bags over to the Grand Hôtel Stockholm and were taken by bus to meet our bikes and trip leaders. We started near an 11th century church and cycled around very pretty countryside in Färingsö. The roads were a bit up and down but we are learning that Stockholm's archipelago only varies in height by 200 feet or so. We ended our ride at the King's summer palace, Drottningholm, and took a ferry back to Stockholm.",
+			"mappicport": "../img/sweden/Backroadsmap1.jpg",
+			"mapspan": "Our rounte around Faringso",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201707StockholmCopen/20170709Drottningholm/i-7n6fdTB/0/744f10e7/M/IMG_1708-M.jpg",
+					"piccap": "Which way to the palace?",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201707StockholmCopen/20170709Drottningholm/i-TjVBsgd/0/fac6fb95/M/IMG_1720-M.jpg",
+					"piccap": "The palace from the ferry taking us back to Stockholm",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=wpXQQr",
+			"smugAlbum": "https://havingadventures.smugmug.com/frame/slideshow?key=wpXQQr",
+			"smugAlbumName": "Drottningholm"
+		},
+		{
+			"dayId": "20170710",
+			"h1title": "Vaxholm",
+			"h3": "Water taxi, ferries and biking",
+			"pdate": "Mon, Jul 10, 2017",
+			"pdesc": "This was our second day of riding.  We started in water taxis right outside the hotel and took a 30 min ride ",
+			"mappic": "../img/sweden/Backroadsmap2.jpg",
+			"mapspan": "We ferried to the bottom of the map and rode counter-clockwise",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201707StockholmCopen/20170710Vaxholm/i-nzwpKzr/0/88a98232/M/IMG_1732-M.jpg",
+					"piccap": "From the back of the water taxi on Monday morning",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201707StockholmCopen/20170710Vaxholm/i-n46TxQV/0/cf003ff5/M/IMG_1738-M.jpg",
+					"piccap": "One of the forts guarding the entrance from the Baltic Sea",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=MXkMqS",
+			"smugAlbum": "https://havingadventures.smugmug.com/201707StockholmCopen/20170710Vaxholm",
+			"smugAlbumName": "Voxholm"
+		},
+		{
+			"dayId": "20170711",
+			"h1title": "Sodermanland",
+			"h3": "Leaving Stockholm and heading south",
+			"pdate": "Tues,Jul 11, 2017",
+			"pdesc": "We took a bus about 25 miles south to a golf course to get the day started.  Once again there were rolling hills and ferry rides across some of the fjords we travel thru.  We had lunch at a castle called Tullgarn Palace and they had a short ride into Trosa.",
+			"mappic": "../img/sweden/Backroadsmap3.jpg",
+			"mapspan": "-",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201707StockholmCopen/20170711Sodermanland/i-nb9L75N/1/669b10c9/M/IMG_1751-M.jpg",
+					"piccap": "Looking out from the castle where we stopped for lunch",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201707StockholmCopen/20170711Sodermanland/i-zwbsG5W/0/efeb11b5/M/IMG_1756-M.jpg",
+					"piccap": "An end of day toast for a job well done",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=zBK342",
+			"smugAlbum": "https://havingadventures.smugmug.com/201707StockholmCopen/20170711Sodermanland",
+			"smugAlbumName": "Sodermanland"
+		},
+		{
+			"dayId": "20170712",
+			"h1title": "Trosa",
+			"h3": "Ride in the morning and then take the train (2 actually)",
+			"pdate": "Wed, Jul 12, 2017",
+			"pdesc": "We got an early start from the world's end (Trosa) and had a nice morning ride out to Nynäs Castle & Nature Reserve where stopped for a break.  From there we proceeded to Svärdsklova which was out on the tip of a penninsula.  On a clear day you could probably see Latvia.  By lunch time we were on a train to Copenhagen and we arrived around 4 or in the afternoon",
+			"mappic": "../img/sweden/Backroadsmap4.jpg",
+			"mapspan": "-",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201707StockholmCopen/20170712Trosa/i-LM5R8FT/0/48128bbe/M/IMG_1788-M.jpg",
+					"piccap": "Kathy riding thru a field of lavender",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201707StockholmCopen/20170712Trosa/i-KKN8NNp/0/d24e0470/M/IMG_1779-M.jpg",
+					"piccap": "The road cruised along the edge of the Baltic Sea most of the day.",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=3HRwBS",
+			"smugAlbum": "https://havingadventures.smugmug.com/201707StockholmCopen/20170712Trosa",
+			"smugAlbumName": "Trosa"
+		},
+		{
+			"dayId": "20170713",
+			"h1title": "Ride to Frederiksborg Castle",
+			"h3": "Riding out and back to Frederiksborg Castle",
+			"pdate": "Thur, Jul 13, 2017",
+			"pdesc": "Copenhagan is the capital city of bike commuting.  We started the day slightly out of town in a small park.  We then proceeded for about 10 miles along a bike path following the sea between Denmark and Sweden.  We then turned inland to very quiet roads and more bike paths.  We ended the morning at  Frederiksborg Castle which is a \"real castle\" with moat and village which each playing their part.",
+			"mappic": "../img/sweden/Backroadsmap5.jpg",
+			"mapspan": "Ride out and back to Frederiksborg Castle ",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201707StockholmCopen/20170713Copenhagen/i-8xKQ7nH/0/580cc72c/M/IMG_1793-M.jpg",
+					"piccap": "We came around a corner after leaving a small village and \"wow\" there it is.",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201707StockholmCopen/20170713Copenhagen/i-jW6tZbp/0/f904a78e/M/IMG_3265-M.jpg",
+					"piccap": "In the courtyard behind the castle",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=3HRwBS",
+			"smugAlbum": "https://havingadventures.smugmug.com/201707StockholmCopen/20170713Copenhagen",
+			"smugAlbumName": "Frederiksborg Castle"
+		},
+		{
+			"dayId": "20170714",
+			"h1title": "A walking tour of Copenhagen",
+			"h3": "All over town and a rainbow to end our trip",
+			"pdate": "Fri, Jul 14, 2017",
+			"pdesc": "We walked with a local all over town in the morning and then took a scenic boat ride around Copenhagen Harbor going past the Little Mermaid statue along the way.  In the afternoon we headed over to the Marriott Copenhagen which was on the harbor.  Dinner was at a local pizza place called Mother.  It rained most of the afternoon and we were presented with a rainbow that lasted close to an hour.",
+			"mappic": "../img/sweden/Backroadsmap5.jpg",
+			"mapspan": "-",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201707StockholmCopen/20170714Copenhagen/i-bbRJfJ4/1/ae76604f/M/IMG_1809-M.jpg",
+					"piccap": "The little mermaid statue.  Not the cartoon character.",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201707StockholmCopen/20170714Copenhagen/i-dZxM4vt/1/aaef5b68/M/IMG_3370-M.jpg",
+					"piccap": "The rainbow lasted for an hour during and after dinner",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=42BfdZ",
+			"smugAlbum": "https://havingadventures.smugmug.com/201707StockholmCopen/20170714Copenhagen",
+			"smugAlbumName": "Copenhagen walking"
+		}
+	]
+}

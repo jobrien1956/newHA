@@ -1,0 +1,91 @@
+{
+	"trip": {
+		"nav": "1",
+		"TripId": "200606lakecomo",
+		"id": "ha-lakecomo",
+		"backgroundImg": "../img/index/200604LakeComo.jpg",
+		"tripThumb": "../img/index/thumb/200604LakeComo.jpg",
+		"pageLink": "adventures/ha_future.html",
+		"pageTitle": "Apr 2006 - Lake Como and Milan",
+		"pageSubtitle": "",
+		"tripSumm": "",
+		"summ": "Jim, Kathy and Allie in Lake Como Italy",
+		"intro": "--",
+		"introDescr": "I had to be in Milan (Lake Como) for a Cantillon board meeeting on Thursday and in Dublin on Tuesday so we decided to make a long family weekend of it.  It was a bit early in the spring for Lake Como and it was a little chilly and overcast but we had a nice stay.  We stayed at the Ville d Este and visited Bellagio and Milan.  We went into Milan by train one day and saw the big cathedral, Duomo di Milano and walk all over that area of the city.  The rest of our trip was spent around Lake Como.  We took a ferry to Como and a tram ride up to an area overlooking the lake and also took a longer ferry and spent the day in Bellagio which is at the fork in the Y shaped lake.",
+		"introPic1": "../img/lakecomo/AllieLakeComo2006.jpg",
+		"introPic1span": "Allie in Milan",
+		"introPic2": "../img/lakecomo/LagodiComo.jpg",
+		"introPic2span": "Map of Lake Como",
+		"videoLink": "",
+		"videoIframe": "",
+		"foot": "1",
+		"footerPic1": "../img/lakecomo/lakecomo2.jpg",
+		"footerPic2": "../img/lakecomo/VilledEste.jpg",
+		"footerPic1Span": "Allie and Kathy up above Villa d'Este",
+		"endMap": "",
+		"endmapName": "",
+		"days": [
+		]
+	},
+	"adventureDay": [
+		{
+			"dayId": "20060820",
+			"h1title": "A Ferry to Bellagio",
+			"h3": "",
+			"pdate": "Thursday, April 6, 2006",
+			"pdesc": "We took a ferry up to the center of the lake and stopped for lunch in Bellagio",
+			"mappic": "https://photos.smugmug.com/200604LakeComo/Cernobbio-Lombardy-April-8-2006/i-R6CgGJF/1/ce4cadea/M/200604LakeComo%20-%2029%20of%2039-M.jpg",
+			"mappicport": "",
+			"mapspan": "Allie in Bellagio",
+			"mappic2": "https://photos.smugmug.com/200604LakeComo/Cernobbio-Lombardy-April-8-2006/i-5bjc3xq/1/c98a2a45/M/200604LakeComo%20-%2019%20of%2039-M.jpg",
+			"mapspan2": "Jim & Kathy in Bellagio",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/200604LakeComo/Cernobbio-Lombardy-April-8-2006/i-C5sGQSW/0/b0c94b5d/L/200604LakeComo%20-%2033%20of%2039-L.jpg",
+					"piccap": "Jim and Allie on the ferry",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/200604LakeComo/Cernobbio-Lombardy-April-8-2006/i-ctvK5ZW/0/6b3506ae/L/200604LakeComo%20-%2032%20of%2039-L.jpg",
+					"piccap": "Our hotel from the Ferry",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=vVZzKD",
+			"smugAlbum": "https://havingadventures.smugmug.com/200604LakeComo/Cernobbio-Lombardy-April-8-2006",
+			"smugAlbumName": "Lake Como Bellagio"
+		},
+		{
+			"dayId": "20060820",
+			"h1title": "Milan and Lake Como",
+			"pdate": "Saturday, April 8, 2006",
+			"pdesc": "Continuing our Lake Como and Milan trip",
+			"mappic": "https://photos.smugmug.com/200604LakeComo/MilanComoApril72006/i-pQ9ZNRn/0/d8e89324/M/200604LakeComo%20-%2010%20of%2039-M.jpg",
+			"mappicport": "",
+			"mapspan": "Allie and Jim in front of the Leanardo statue",
+			"mappic2": "https://photos.smugmug.com/200604LakeComo/MilanComoApril72006/i-CWSBkDX/0/04796bd9/M/200604LakeComo%20-%206%20of%2039-M.jpg",
+			"mapspan2": "Ancient ruins behind the hotel",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/200604LakeComo/MilanComoApril72006/i-FbQmd3n/0/c643c6f5/L/200604LakeComo%20-%209%20of%2039-L.jpg",
+					"piccap": "Construction blocked the front of the Duomo",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/200604LakeComo/MilanComoApril72006/i-nTphkqs/0/f261d5ad/M/200604LakeComo%20-%205%20of%2039-M.jpg",
+					"piccap": "The Villa d'Este's pool was in the lake",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=vcB8wN",
+			"smugAlbum": "https://havingadventures.smugmug.com/200604LakeComo/MilanComoApril72006",
+			"smugAlbumName": "Milan, Lake Como"
+		}
+	]
+}
+
+

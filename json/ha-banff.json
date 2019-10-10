@@ -1,0 +1,300 @@
+{
+	"trip": {
+		"nav": "1",
+		"id": "201807banff",
+		"backgroundImg": "../img/index/201807Banff.jpg",
+		"pageLink": "adventures/201807banff.html",
+		"pageTitle": "Canadian Rockies",
+		"pageSubtitle": "July 2018",
+		"summ": "A Week in Banff, Jasper and Yoho NP",
+		"intro": "Waterfalls, Glaciers and endless mountains",
+		"introDescr": "Kathy and I were invited to join the Moriarties for a quick tour of the Canadian Rockies.  We went a few days earlier and got to see Banff and Lake Louise before heading to Yoho NP and the Kicking Horse River.  We were joined in Field BC by the Karen, Mike and Clare.  We did an amazing hike up along the Iceline Trail and then drove up to Jasper for two days of further sightseeing",
+		"introPic1": "https://photos.smugmug.com/201807Banff/20180705YohoIceline/i-gnr23bS/0/263ba452/L/2018-07-05-13-18%20Yoho%20109-L.jpg",
+		"introPic1span": "Along the Iceline Trail",
+		"foot": "1",
+		"endMap": "11HRniEVXMzQjoLSgfsvv87EN0d1xlYw3",
+		"endmapName": "2018-07 Canadian Rockies",
+		"footerPic1": "https://photos.smugmug.com/201807Banff/20180705YohoIceline/i-NkzpKMm/1/596d7ce0/S/IMG_4958-S.jpg",
+		"footPic1Span": "On the iceline trail",
+		"footerPic2": "https://photos.smugmug.com/201807Banff/20180706Jasper/i-KvLzPfs/0/a774e32d/S/2018-07-06%20Jasper%20%2823%29-S.jpg",
+		"days": [
+		]
+	},
+	"adventureDay": [
+		{
+			"dayId": "20180630",
+			"h1title": "Calgary to Banff",
+			"h3": "Canada Day - Biking and walking around Banff",
+			"pdate": "Sat, Jun 30, 2018",
+			"pdesc": "We arrived in Calgary about 10am after a very early wakeup in Ridgewood.  By 1pm we were in Banff and had a tasty burger at Eddie's and then rented bikes to ride up to Sundance Canyon.  The next day we were up early due to the time change.  We took a ride to the Vermilion Lakes just out of town and then circled around the Bow River Falls.  Finally we watched the Canada Day parade and then heading out to Lake Louise.",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "https://photos.smugmug.com/201807Banff/20180701Banff/i-hMJ38Wx/0/571d735b/L/IMG_4680-L.jpg",
+			"mapspan": "Downtown Banff",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201807Banff/20180701Banff/i-kgph6xF/1/63de53f1/L/2018-07-01-10-38%20Banff%2023-L.jpg",
+					"piccap": "Vermilion Lakes",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201807Banff/20180701Banff/i-x7CxRLC/0/a803da2b/L/2018-07-01-11-49%20Banff%2030-L.jpg",
+					"piccap": "Bow River Falls in Banff",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=GK8tw8",
+			"smugAlbum": "https://havingadventures.smugmug.com/201807Banff/20180701Banff",
+			"smugAlbumName": "2018-07-01 Banff NP"
+		},
+		{
+			"dayId": "20180701",
+			"h1title": "Lake Louise",
+			"h3": "Canada Day and many many tourist",
+			"pdate": "Sun, Jul 01, 2018",
+			"pdesc": "We were in Lake Louise by 3pm and it was really a mob scene with tour bus people all over both in the hotel and outside.  We walked down to the end of the lake and by the time we got back it had cleared up somewhat. ",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappicport": "https://photos.smugmug.com/201807Banff/20180702LakeLouise/i-nmzmFPh/0/45216627/L/IMG_4771-L.jpg",
+			"mapspan": "Lake Louise from Hotel",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201807Banff/20180702LakeLouise/i-ff27JrX/0/cb057a8d/L/2018-07-01-16-34%20LakeLouise-L.jpg",
+					"piccap": "View of hotel from the end of the lake",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201807Banff/20180702LakeLouise/i-LLbM9kp/0/78718e37/L/IMG_5145-L.jpg",
+					"piccap": "Jim at Lake Louise",
+					"pictop": ""
+				},
+				{
+					"picID": "3",
+					"pic": "https://photos.smugmug.com/201807Banff/20180702LakeLouise/i-8726QWT/0/5e39e191/L/2018-07-02-11-04%20LakeLouise_1-L.jpg",
+					"piccap": "From the Beehive down on Lake Louise",
+					"picbotm": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=P3JpVN",
+			"smugAlbum": "https://havingadventures.smugmug.com/201807Banff/20180702LakeLouise",
+			"smugAlbumName": "Jul 01 Lake Louise"
+		},
+		{
+			"dayId": "20180702",
+			"h1title": "Lake Agnes and the Beehive",
+			"h3": "Snowing on July 2",
+			"pdate": "Mon, Jul 02, 2018",
+			"pdesc": " On Monday, following a Grizzly rumor, we got up early and had our free breakfast and then headed out for the day.  We hiked up to Mirror Lake and Lake Agnes, hanging lakes about a hour hike from the hotel.  We proceeded up to the Beehave which gave us a grand view of the surrounding area until it started to snow.  In the afternoon we had a short hike up to the Fairmont view and a nice dinner in the lounge",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "https://photos.smugmug.com/201807Banff/20180702LakeLouise/i-DHfPhnv/0/b9da9b6e/L/2018-07-02-14-58%20LakeLouise-L.jpg",
+			"mapspan": "Mount Victoria and Lake Louise",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201807Banff/20180702LakeLouise/i-8726QWT/0/5e39e191/L/2018-07-02-11-04%20LakeLouise_1-L.jpg",
+					"piccap": "From the Beehive down on Lake Louise",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201807Banff/20180702LakeLouise/i-fDQP3Vd/0/1d131e6b/L/IMG_4805-L.jpg",
+					"piccap": "Looking back up at Beehive",
+					"pictop": ""
+				},
+				{
+					"picID": "3",
+					"pic": "https://photos.smugmug.com/201807Banff/20180702LakeLouise/i-2JXZZ7L/0/e5f3f4bf/L/IMG_5158-L.jpg",
+					"piccap": "Lake Agnes",
+					"picbotm": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=P3JpVN",
+			"smugAlbum": "https://havingadventures.smugmug.com/201807Banff/20180702LakeLouise",
+			"smugAlbumName": "Jul02 Lake Louise"
+		},
+		{
+			"dayId": "20180703",
+			"h1title": "Moraine Lake and on to Yoho NP",
+			"h3": "Leaving the crowds behind",
+			"pdate": "Tue, Jul 03, 2018",
+			"pdesc": "On our way out of Lake Louise we stopped at Moraine Lake which was also quite beautiful.  The mountains in the background form the Continental Divide.  From there we made the less than 90 minute ride over to Field, BC where we checked out Emerald Lake, Takakkaw Falls and the Natural Bridge.  We stayed at the Truffle Pig and had all our meals there which were excellent.",
+			"mappicport": "https://photos.smugmug.com/201807Banff/20180703Moraine/i-W37K6cs/0/5af49165/L/2018-07-03-12-26%20LakeLouise-L.jpg",
+			"mapspan": "Moraine Lake",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201807Banff/20180703Moraine/i-zVZvCFW/0/d66983d7/L/2018-07-03-14-32%20Yoho%2010-L.jpg",
+					"piccap": "Takakkaw Falls",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201807Banff/20180703Moraine/i-SpTDRqz/0/971a31c5/L/IMG_4866-L.jpg",
+					"piccap": "Natrual Bridge over Kicking Horse River",
+					"pictop": ""
+				},
+				{
+					"picID": "3",
+					"pic": "https://photos.smugmug.com/201807Banff/20180703Moraine/i-KC5VCDg/0/9a77549d/L/IMG_4853-L.jpg",
+					"piccap": "Moriane Lake",
+					"picbotm": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=VJcLcn",
+			"smugAlbum": "https://havingadventures.smugmug.com/201807Banff/20180703Moraine",
+			"smugAlbumName": "Jul 3 Moraine and Yoho"
+		},
+		{
+			"dayId": "20180704",
+			"h1title": "Rafting the Kicking Horse",
+			"h3": "",
+			"pdate": "Wed, Jul 04, 2018",
+			"pdesc": "Once again we were up and out early to travel down river to our rafting adventure.  We had a 90 minute raft trip down the Kicking Horse River with 10-14 reasonably nice class 2-3 rapids.  At the end we went for a swim in our wet suits.  From there we meet Mike, Karen and Clare in Golden for lunch at the Whitetooth Bistro.  We headed back to Field with stops at Wapta Falls, the Natural Bridge and Emerald Lake. We stopped for a drink before making it back to the Truffle Pig just in time for dinner on the patio.  All in all a great day.",
+			"mappic": "https://photos.smugmug.com/201807Banff/20180704Yoho/i-Bg5k699/0/3a79cd1b/L/IMG_4892-L.jpg",
+			"mapspan": "Soaked a 2nd time in front of Wapta Falls",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201807Banff/20180704Yoho/i-HmgfJTW/0/3e12dee4/L/2018-07-04%20Rafting%20%2816%29-L.jpg",
+					"piccap": "Rafting on the Kicking Horse River",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201807Banff/20180704Yoho/i-mCqpp3D/0/6bb35789/L/2018-07-04%20Rafting%20%2813%29-L.jpg",
+					"piccap": "Rafting on the Kicking Horse River",
+					"pictop": ""
+				},
+				{
+					"picID": "3",
+					"pic": "https://photos.smugmug.com/201807Banff/20180704Yoho/i-RhKBn6R/0/6f9eb325/L/2018-07-04-17-52%20Yoho%2041-L.jpg",
+					"piccap": "Wapta Falls",
+					"picbotm": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=bS4d3Q",
+			"smugAlbum": "https://havingadventures.smugmug.com/201807Banff/20180704Yoho",
+			"smugAlbumName": "Kicking Horse River"
+		},
+		{
+			"dayId": "20180705",
+			"h1title": "Yoho NP, Iceline Trail",
+			"h3": "11 mile loop",
+			"pdate": "Thu, Jul 05, 2018",
+			"pdesc": "We had been debating how long a hike to do on Thursday and we ended up doing the 11 mile loop to the iceline and then past Celeste Lake.  We got started about 10am and finished up at 4pm.  From there it was a three hour drive to Jasper where we had dinner and went to bed.",
+			"mappicport": "https://photos.smugmug.com/201807Banff/20180705YohoIceline/i-6khsVrJ/0/e5444c26/L/2018-07-05-13-07%20Yoho%20102-L.jpg",
+			"mapspan": "There are insufficient words in any language which could do justice to this eastern British Columbia Rocky Mountains world class hike.",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201807Banff/20180705YohoIceline/i-GBMDTf9/0/764ec1ed/L/2018-07-05-12-42%20Yoho%2092-L.jpg",
+					"piccap": "Up on Iceline Trail",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201807Banff/20180705YohoIceline/i-gnr23bS/0/263ba452/L/2018-07-05-13-18%20Yoho%20109-L.jpg",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "3",
+					"pic": "https://photos.smugmug.com/201807Banff/20180705YohoIceline/i-fX8DV65/0/18c35447/L/2018-07-05-13-18%20Yoho%20108-L.jpg",
+					"piccap": "Across the valley from Iceline trail",
+					"picbotm": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "https://havingadventures.smugmug.com/201807Banff/20180706Jasper",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "20180706",
+			"h1title": "Jasper",
+			"h3": "Bears, Moose and Water Falls",
+			"pdate": "Fri, Jul 06, 2018",
+			"pdesc": "Our full day in Jasper ended up being a bunch of driving with short hikes.  We saw 2 black bears and elk along the road and a  mother and baby moose along the river on our way to Medicine Lake ",
+			"mappic": "https://photos.smugmug.com/201807Banff/20180706Jasper/i-r8dmx8Z/0/67be9a6c/L/IMG_1470-L.jpg",
+			"mapspan": "Valley of Five Lakes group shot.",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201807Banff/20180706Jasper/i-HdBwGpH/0/9dc56e89/L/2018-07-06%20Jasper%20%2818%29-L.jpg",
+					"piccap": "Maligne Canyon",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201807Banff/20180706Jasper/i-CFtQNw8/0/d2daf55a/L/IMG_1514-L.jpg",
+					"piccap": "Maligne Lake",
+					"pictop": ""
+				},
+				{
+					"picID": "3",
+					"pic": "https://photos.smugmug.com/201807Banff/20180706Jasper/i-DdhxHnP/0/42494d44/L/2018-07-06-17-02%20Jasper%2029-L.jpg",
+					"piccap": "Moose and her baby along Maligne Lake Rd",
+					"picbotm": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=ZBXFMX",
+			"smugAlbum": "https://havingadventures.smugmug.com/frame/slideshow?key=ZBXFMX",
+			"smugAlbumName": "2018-07 Jasper"
+		},
+		{
+			"dayId": "20180707",
+			"h1title": "Back to Calgary",
+			"h3": "More Water Falls and a cold day at the Athabasca Glacier",
+			"pdate": "Sat, Jul 07, 2018",
+			"pdesc": "Our drive back to Calgary included a stop at various waterfalls and the Athabasca Glacier at the Columbia Icefield",
+			"mappic": "https://photos.smugmug.com/201807Banff/2018-07-Banff-Yoho-Jasper/i-PxhMr6W/0/79f0b903/L/IMG_5099-L.jpg",
+			"mapspan": "Sunwapta Falls",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201807Banff/2018-07-Banff-Yoho-Jasper/i-N4sr2FW/0/5addb026/L/IMG_1580-L.jpg",
+					"piccap": "Athabasca Glacier",
+					"pictop": ""
+				},
+				{
+					"picID": "3",
+					"pic": "https://photos.smugmug.com/201807Banff/2018-07-Banff-Yoho-Jasper/i-2wHML5Z/0/517cbf0e/L/2018-07-08%20AB%20%2812%29-L.jpg",
+					"piccap": "",
+					"picbotm": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=jpgBmw",
+			"smugAlbum": "https://havingadventures.smugmug.com/201807Banff/2018-07-Banff-Yoho-Jasper",
+			"smugAlbumName": "Jasper - Calgary"
+		}
+	]
+}
+
+

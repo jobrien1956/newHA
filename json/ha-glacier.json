@@ -1,0 +1,178 @@
+{
+	"trip": {
+		"nav": "1",
+		"TripId": "199908glacier",
+		"id": "ha-glacier",
+		"backgroundImg": "../img/index/199908Glacier.jpg",
+		"tripThumb": "../img/index/thumb/199908Glacier.jpg",
+		"pageLink": "adventures/ha_future.html",
+		"pageTitle": "A week in Montana & Glacier NP",
+		"pageSubtitle": "Aug, 1999",
+		"tripSumm": "",
+		"summ": "",
+		"intro": "--",
+		"introDescr": "Our 1999 summer vacation took us from Spokane thru Upper Idaho and Glacier NP",
+		"introPic1": "https://photos.smugmug.com/199908Glacier/Glacier-National-Park-Essex-MT-August-22-1999/i-bsn2Qdc/0/2afcafd0/M/199908Glacier%20-%201%20of%2042-M.jpg",
+		"introPic1span": "",
+		"introPic2": "",
+		"introPic2span": "",
+		"videoLink": "",
+		"videoIframe": "",
+		"foot": "1",
+		"footerPic1": "https://photos.smugmug.com/199908Glacier/Glacier-National-Park-Essex-MT-August-22-1999/i-6kfknP3/0/64fe900d/M/199908Glacier%20-%2032%20of%2042-M.jpg",
+		"footerPic2": "",
+		"footPic1Span": "",
+		"endMap": "",
+		"endmapName": "",
+		"days": [
+		]
+	},
+	"adventureDay": [
+		{
+			"dayId": "19990820",
+			"h1title": "",
+			"h3": "",
+			"pdate": "Friday, Aug 20, 1999",
+			"pdesc": "We originally had a round trip flight to Kalispell, MT but our flight was cancelled so we ended up in Spokane, WA.  We drove ~250 miles across the  upper part of Idaho and across into Montana.  ",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "https://photos.smugmug.com/199908Glacier/Glacier-National-Park-Essex-MT-August-22-1999/i-9DBg8kX/0/a41899e7/L/199908Glacier%20-%2016%20of%2042-L.jpg",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/199908Glacier/Glacier-National-Park-Essex-MT-August-22-1999/i-rCQDK6W/0/6be4ecbf/L/199908Glacier%20-%2025%20of%2042-L.jpg",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/199908Glacier/Glacier-National-Park-Essex-MT-August-22-1999/i-2nXZsFP/0/383fd247/M/199908Glacier%20-%2029%20of%2042-M.jpg",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "3",
+					"pic": "https://photos.smugmug.com/199908Glacier/Glacier-National-Park-Essex-MT-August-22-1999/i-3WWXvpP/0/2140e498/M/199908Glacier%20-%2039%20of%2042-M.jpg",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "19990820",
+			"h1title": "",
+			"h3": "",
+			"pdate": "Aug 1999",
+			"pdesc": "",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "https://photos.smugmug.com/199908Glacier/Glacier-National-Park-Essex-MT-August-22-1999/i-Hn78JQb/0/2578287a/M/199908Glacier%20-%2031%20of%2042-M.jpg",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/199908Glacier/Glacier-National-Park-Essex-MT-August-22-1999/i-sLmg7w5/0/0bca38c9/M/199908Glacier%20-%204%20of%2042-M.jpg",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/199908Glacier/Glacier-National-Park-Essex-MT-August-22-1999/i-z5gjSm9/0/b0ce58fa/L/199908Glacier%20-%2040%20of%2042-M.jpg",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "3",
+					"pic": "https://photos.smugmug.com/199908Glacier/Glacier-National-Park-Essex-MT-August-22-1999/i-95MCGTj/0/632f93bd/M/199908Glacier%20-%2022%20of%2042-M.jpg",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "19990823",
+			"h1title": "",
+			"h3": "",
+			"pdate": "",
+			"pdesc": "",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "https://photos.smugmug.com/199908Glacier/Glacier-National-Park-Essex-MT-August-22-1999/i-kkBxbbL/0/896b1961/M/199908Glacier%20-%2034%20of%2042-M.jpg",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/199908Glacier/Glacier-National-Park-Essex-MT-August-22-1999/i-8hvQWcn/0/3faa6ec5/M/199908Glacier%20-%2024%20of%2042-M.jpg",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "19990824",
+			"h1title": "",
+			"h3": "",
+			"pdate": "",
+			"pdesc": "",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "https://photos.smugmug.com/199908Glacier/Glacier-National-Park-Essex-MT-August-22-1999/i-TN2hVkR/0/b3fbc3d2/M/199908Glacier%20-%2033%20of%2042-M.jpg",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/199908Glacier/Glacier-National-Park-Essex-MT-August-22-1999/i-NXBN9bh/0/642a95cc/M/199908Glacier%20-%208%20of%2042-M.jpg",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/199908Glacier/Glacier-National-Park-Essex-MT-August-22-1999/i-z2DMSmn/0/ded8588b/M/199908Glacier%20-%2018%20of%2042-M.jpg",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=zjJb5N",
+			"smugAlbum": "https://havingadventures.smugmug.com/199908Glacier/Glacier-National-Park-Essex-MT-August-22-1999",
+			"smugAlbumName": "Glacier NP"
+		}
+	]
+}
+
+

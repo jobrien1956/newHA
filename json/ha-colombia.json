@@ -1,0 +1,306 @@
+{
+	"trip": {
+		"nav": "1",
+		"id": "201903colombia",
+		"backgroundImg": "../img/index/201903colombia.jpg",
+		"tripThumb": "../img/index/thumb/201903colombia.jpg",
+		"pageLink": "adventures/201903colombia.html",
+		"pageTitle": "Backroads - Colombia",
+		"pageSubtitle": "Mar 2019",
+		"tripSumm": "",
+		"summ": "The Andes, along the Caribbean Sea and Cartagena",
+		"intro": "",
+		"introDescr": "This was our second backroads trip with our friend Kristen.  We decided on Columbia in order to go somewhere warm in early March.  It also wasn't someplace I expected to go because of the 'troubles' over the years.  It turned out to be a nice combination of hikes in the mountains (Andes) and along the beaches (Caribbean Sea).  We flew thru Panama City and then on to the center of the country and finished with a tour of the walled city of Cartagena",
+		"introPic1": "https://photos.smugmug.com/201903Colombia/20190316/i-DjhkLNP/1/160f7fc3/M/UNADJUSTEDNONRAW_thumb_5b4a-M.jpg",
+		"introPic1span": "",
+		"videoLink": "",
+		"videoIframe": "",
+		"foot": "1",
+		"footerPic1": "https://photos.smugmug.com/201903Colombia/2019031011/i-bNPpZMv/0/3cdd4468/S/%25kdko6qMSYyewCdoCs7yzw_thumb_5a1b-S.jpg",
+		"footerPic1Span": "Peacocks at the Coffee Plantation",
+		"footerPic2": "https://photos.smugmug.com/201903Colombia/2019031213/i-tsjvqDK/0/fa2273bc/M/7%2BgGm%25ltRKyoFm%2BWhXuEdQ_thumb_5ac2-M.jpg",
+		"footerPic2Span": "On Cabo San Juan beach in Tayrona NP",
+		"endMap": "1roTKMOZvsUs5NqJiZywplM81SlyJFZqB",
+		"endmapName": "Colombia Mar 2019",
+		"days": [
+		]
+	},
+	"adventureDay": [
+		{
+			"dayId": "20190310",
+			"h1title": "Hacienda Venecia",
+			"h3": "Coffee Plantation",
+			"pdate": "Sunday, March 10, 2019",
+			"pdesc": "On the first day, we meet, we drove and we hiked, to Hacienda Venecia, where we had the opportunity to trace the journey of coffee from the plant all the way to the cup. We jumped in vintage Jeep Willies at the end of the day and got to experience a form of transportation, that was not only FUN but symbolic to the Andean region. Although the coffee was AMAZING, it was the Arepa de Choclo, at the start of the hike, that stole our hearts!",
+			"pdesc2": " ",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "https://photos.smugmug.com/201903Colombia/2019031011/i-BrHcfgT/0/adf1af17/M/OURNkfc%25SK%2Bhxf1OnlEoTQ_thumb_5a02-M.jpg",
+			"mappicport": "",
+			"mapspan": "At the top of our hike from the Coffee Plantation",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201903Colombia/2019031011/i-S9RVjvz/0/662f3d2e/M/UNADJUSTEDNONRAW_thumb_5a1f-M.jpg",
+					"piccap": "",
+					"pictop": "Day 1: word of the day: Tinto-Black coffee or Pintado-coffee with milk!"
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "3",
+					"pic": "https://photos.smugmug.com/201903Colombia/2019031011/i-WvhMn9P/0/3cfe8759/M/ggH7CdpXQ4CUtgGs2BOjhg_thumb_5a03-M.jpg",
+					"piccap": "Heading back to the bus at the end of day 1",
+					"picbotm": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "20190311",
+			"h1title": "Valle de Cocora",
+			"h3": "",
+			"pdate": "Monday, March 11, 2019",
+			"pdesc": "The next day we hiked the pristine ridge lines and river valleys of the acclaimed Valle de Cocora. We basked in the delicious breeze, some of us bounced over multiple artisanal hanging bridges, we ALL climbed the dreaded 'walls of pain' (whether we were planning on it or not) and gazed in wonderment, at the whimsical wax palm trees that stood nearly 200ft above our heads. Our guides from Fog Walkers, Daniel and Manuela, were nothing short of amazing as they connected us deeper to the ecology and culture of the area. What a day!",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201903Colombia/2019031011/i-52SDwKF/0/a442ada3/M/UNADJUSTEDNONRAW_thumb_5a68-M.jpg",
+					"piccap": "The wax palm trees could have been the model for the Lorax trees",
+					"pictop": "Day 2: word of the day: Yipao-loaded Jeep Willy."
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201903Colombia/2019031011/i-DBJDTmG/0/5ec2ad51/M/UNADJUSTEDNONRAW_thumb_5a92-M.jpg",
+					"piccap": "Up in the cloud forest Valle del Cocora",
+					"pictop": "Next we all had a chance to meander in-between the colorful, colonial walls of Salento, which although popular with tourists, retains its colonial charm and traditions. What a day! Day 2: word of the day: Yipao-loaded Jeep Willy."
+				},
+				{
+					"picID": "3",
+					"pic": "https://photos.smugmug.com/201903Colombia/2019031011/i-SqtBCQz/0/a5691350/M/UNADJUSTEDNONRAW_thumb_5a93-M.jpg",
+					"piccap": "",
+					"picbotm": "5-6 river crossing on the way up."
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=m2DkSk",
+			"smugAlbum": "https://havingadventures.smugmug.com/201903Colombia/2019031011",
+			"smugAlbumName": "Hacienda Venecia & Valle de Cocora"
+		},
+		{
+			"dayId": "20190312",
+			"h1title": "",
+			"h3": "",
+			"pdate": "Tuesday, March 12, 2019",
+			"pdesc": "Our last morning in the Coffee Triangle area, we were introduced to the Colombian Paso Fino horse as Dr. Juan Pablo and Carlos from Providencia Criadero, paraded million dollar horses around us demonstrating the different trots local to the area. Next we decided to exchange our lush, mountain landscapes, for the sun toasted sands and turquoise waters of the Caribbean. Vamos a la playa!!",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "https://photos.smugmug.com/201903Colombia/2019031011/i-x53bnrG/0/4ae09438/M/UNADJUSTEDNONRAW_thumb_5a8a-M.jpg",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201903Colombia/2019031011/i-f5jNsGM/0/6d58969e/M/UNADJUSTEDNONRAW_thumb_5a5f-M.jpg",
+					"piccap": "",
+					"pictop": "Day three word of the day: Pola-beer/cerveza."
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "3",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "20190313",
+			"h1title": "Caribbean Coast",
+			"h3": "Parque Tayrona",
+			"pdate": "Wed, March 13, 2019",
+			"pdesc": "The Caribbean Coast welcomed us with some sweltering heat and humidity, but it also revealed all of its exuberant nature and cultural traditions during our three days of exploration. Our day took us through Parque Tayrona where we had the opportunity to explore some of its bays like Boca de Saco, Playa Arenilla and Cabo San Juan. For some of us, we refreshed ourselves with coconuts hacked open by young Kogi men. Next we stoped by a favorite bakery in the Jungle for some amazing FRESH baked bread filled with chocolate, before getting to our Base Camp for the day. ",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "https://photos.smugmug.com/201903Colombia/2019031213/i-Vz84qNr/0/4d66ff75/M/UNADJUSTEDNONRAW_thumb_5a65-M.jpg",
+			"mappicport": "",
+			"mapspan": "The view from our room at Cyena Beach Villa",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201903Colombia/2019031213/i-35nBXx6/0/acc2a173/M/UNADJUSTEDNONRAW_thumb_5b8c-M.jpg",
+					"piccap": "Stopping for coconuts hacked open by young Kogi men, whose machete skills were impressive to say the least!",
+					"pictop": "To return, some hiked and some horsed our way out of the park. Later that night, as some of us turned into pumpkins, others of us enjoyed learning some Salsa dance moves with our friend Irina from Argentina. 1-2-3 and 4, 1 and 2, cha-cha,cha!"
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201903Colombia/2019031213/i-P74QF64/0/a21def9a/M/orRo5pxoTmiZX1nqfmb%258A_thumb_5ab5-M.jpg",
+					"piccap": "Getting ready for another busy day",
+					"pictop": ""
+				},
+				{
+					"picID": "3",
+					"pic": "",
+					"piccap": "This croc was about 50 feet from the really crowded beach",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=gP2ZsX",
+			"smugAlbum": "https://havingadventures.smugmug.com/201903Colombia/2019031213",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "20190314",
+			"h1title": "Sierra Nevada de Santa Marta",
+			"h3": "Wiwa Tribe",
+			"pdate": "Thursday, March 14, 2019",
+			"pdesc": "Day five, we dove deeper into the indigenous world that still thrives just off the shore of the Caribbean, as we hiked into the Sierra Nevada de Santa Marta, the tallest coastal mountain range in the world!  With the help of our local guide Juan and our spiritual leader of the Wiwa Tribe, Mamo Evangelista, we were able to learn more about the millenary traditions of the indigenous people of the Sierra Nevada. ",
+			"pdesc2": "  Day five word of the day: Parcero-amigo/dude and Chévere-cool/awesome",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "Thanks for being young fools again with us! Keep on learning, keep smiling and may the journey always remain the destination!",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201903Colombia/20190314/i-34Zz5pt/0/80a89db4/M/XTmkHmFvQgml1rpKbw%2Bb5w_thumb_5b0c-M.jpg",
+					"piccap": "The spiritual leader of the Wiwa Tribe, Mamo Evangelista",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201903Colombia/20190314/i-nPSvgT7/0/744ac6b0/M/UNADJUSTEDNONRAW_thumb_5b17-M.jpg",
+					"piccap": "Lunch at our guide, Juan's house.",
+					"pictop": ""
+				},
+				{
+					"picID": "3",
+					"pic": "https://photos.smugmug.com/201903Colombia/20190314/i-pjJnKB5/0/a7f89eaa/M/UNADJUSTEDNONRAW_thumb_5b00-M.jpg",
+					"piccap": "View out to the Caribbean Sea from Juan's house",
+					"picbotm": "At lunch we were introduced to some of the exotic fruits local to the area, like granadilla (passionfruit), sapote and mango with tahín and lime, and guama (long green seed pod with white, fleshy fruit). After dinner, our friend Luciano, demonstrated his musical talents, playing local and international rhythms that were so good, they brought us to our feet! Thanks for shaking a leg with us! ",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=jmbC84",
+			"smugAlbum": "https://havingadventures.smugmug.com/201903Colombia/20190314",
+			"smugAlbumName": "Sierra Nevada de Santa Marta"
+		},
+		{
+			"dayId": "20190315",
+			"h1title": "Don Diego River",
+			"h3": "Tubing, Exporing and then on to Cartagena",
+			"pdate": "Friday, March 15, 2019",
+			"pdesc": " On the morning of day six, we squeezed in our last hike of the week and then, happily, traded our tired legs for inner tubes, for a float on the crystalline, Don Diego River. As we cooled off, relaxed and absorbed the sights and sounds of nature around us, our team of local 'Mermen', steered us safely down the river. Next, we boarded our bus and headed to our last destination, a city that dates back to 1533, Cartagena!!! The city's magic and romanticism came alive as we road in style, in horse drawn carriages, to the one and only, Restaurante Don Juan.",
+			"pdesc2": " Day 6 word of the day: Sireno-Mermen that guided our tubes down Rio Don Diego",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "https://photos.smugmug.com/201903Colombia/20190315/i-pKpnPv9/0/8f6928a9/M/UNADJUSTEDNONRAW_thumb_5b27-M.jpg",
+			"mapspan": "Taironas people village museum",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201903Colombia/20190315/i-SF66sv3/0/f4891f97/M/UNADJUSTEDNONRAW_thumb_5b8b-M.jpg",
+					"piccap": "Before we got in our tubes",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "https://photos.smugmug.com/201903Colombia/20190315/i-MxdJhN2/0/4046a795/M/BQUTPtldTheHi0sP6NiMYA_thumb_5b1b-M.jpg",
+					"pictop": ""
+				},
+				{
+					"picID": "3",
+					"pic": "https://photos.smugmug.com/201903Colombia/20190316/i-2QPxX2J/0/f254f657/M/UNADJUSTEDNONRAW_thumb_5b38-M.jpg",
+					"piccap": "On our way in style to Restaurante Don Juan",
+					"picbotm": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=P38QmM",
+			"smugAlbum": "https://havingadventures.smugmug.com/201903Colombia/20190315",
+			"smugAlbumName": "Don Diego River"
+		},
+		{
+			"dayId": "20190316",
+			"h1title": "Cartagena",
+			"h3": "",
+			"pdate": "Saturday, March 16, 2019",
+			"pdesc": "Our final day together, we started our walking tour with, the wonderful, Nico, who oriented our photographers and historians, to the magic of the old, walled city. We could not possibly end the trip without, yet, another example of just how important music is to Colombians. ",
+			"pdesc2": "",
+			"pdesc3": " ",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "https://photos.smugmug.com/201903Colombia/20190316/i-tWKHh8m/0/389664f3/M/UNADJUSTEDNONRAW_thumb_5b34-M.jpg",
+			"mapspan": "The Cathedral at night",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201903Colombia/20190316/i-CcXmz7S/1/17ff8515/M/t5w7khgIR%2BiMVYJ9nNwO7w_thumb_5b30-M.jpg",
+					"piccap": "",
+					"pictop": "Day 7 words of the day: Palenqueras-symbols of Cartagena, women selling fruit, women from Palenque."
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201903Colombia/20190316/i-FJ8XpGD/0/90ee3674/M/UNADJUSTEDNONRAW_thumb_5b45-M.jpg",
+					"piccap": "Jim with the Palenqueras",
+					"pictop": ""
+				},
+				{
+					"picID": "3",
+					"pic": "https://photos.smugmug.com/201903Colombia/20190316/i-7jqKSmr/0/692581e5/M/UNADJUSTEDNONRAW_thumb_5b42-M.jpg",
+					"piccap": "Up on the wall - hot and windy",
+					"picbotm": " A dance performance, put on by, our friends and local artists,  lit up the streets with jubilance.  The dances that they performed, cumbia, fandango and mapalé, beautifully demonstrates the mixture of cultural and musical roots here in Cartagena. Since trip, Matthew has been recruited by the dance team after his amazing performance!!"
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=6LHx7g",
+			"smugAlbum": "https://havingadventures.smugmug.com/201903Colombia/20190316",
+			"smugAlbumName": "Cartagena"
+		}
+	]
+}
+

@@ -1,0 +1,184 @@
+{
+	"trip": {
+		"nav": "1",
+		"id": "201409ansel",
+		"summ": "UD goes to Yosemite",
+		"intro": "--",
+		"introDescr": "During early September, 2014,  Kathy and I along with some friends from UD spent a week in Yosemite NP and the Ansel Adams Willderness",
+		"introPic1": "https://photos.smugmug.com/201409AnselAdam/20140906Ansel/i-DqTbcj7/0/804f857b/M/2014-09-05%20Ansel%20Adams%20-%20Yosemite%20001-M.jpg",
+		"introPic1span": "Half Dome - Yosemite",
+		"backgroundImg": "../img/ansel/20140902AnselAdams00.jpg",
+		"pageLink": "201409ansel.html",
+		"pageTitle": "A week in the Sierra Nevadas",
+		"pageSubtitle": "Sept 2014",
+		"foot": "1",
+		"endMap": "1vAj909tdXvugD9vCOSd2xoqdfTo",
+		"endmapName": "2014 Ansel Adams Wilderness",
+		"days": [
+		]
+	},
+	"adventureDay": [
+		{
+			"nav": "1",
+			"TripId": "",
+			"tripPageBackgroundImg": "",
+			"tripPageLink": " ,",
+			"tripPageTitle": "",
+			"tripPageSubtitle": "",
+			"tripSumm": "",
+			"tripIntroDescr": "",
+			"dayId": "20140901",
+			"h1title": "Our day on Glacier Point",
+			"pdate": "Monday, September 1, 2014",
+			"pdesc": "After arriving at Tenaya Lodge the previous night we took a drive to Glacier Pt.  We had perfect weather and took a  short hike up yo Sentinal Dome.  By the end of the day we were meeting our guides at the The Pines Resort on Bass Lake.",
+			"mappic": "../img/ansel/GlacierPtMap.jpg",
+			"mapspan": "On the edge of the Valley",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201409AnselAdam/20140901Ansel/i-NsqmJnJ/0/5f492870/M/2014-09-01%20Glacier%20Point%20%283%29-S.jpg",
+					"piccap": "Jim and Kathy at Glacier Pt",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201409AnselAdam/20140901Ansel/i-PVsc5dD/0/ef83538e/L/2014-09-01%20Glacier%20Point%20%2858%29-S.jpg",
+					"piccap": "View from the Sentinal Trail",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=QZJHW6",
+			"smugAlbum": "https://havingadventures.smugmug.com/201409AnselAdam/20140901Ansel",
+			"smugAlbumName": "GlacierPt"
+		},
+		{
+			"dayId": "20140902",
+			"h1title": "Hiking up into the Wilderness",
+			"h3": "",
+			"pdate": "Tuesday, September 2, 2014",
+			"pdesc": "We had about an hour drive to get to the trailhead where we meet up with the pack horses and crew carrying our gear.  We had a long dusty hike up to Vanderburgh Lake where we set up camp.  We had time to explore and go for a swim before dinner and game night",
+			"mappic": "https://photos.smugmug.com/201409AnselAdam/20140902Ansel/i-CmLvj5F/0/d082b8dc/M/2014-09-02%20Ansel%20Adams%20011-S.jpg",
+			"mapspan": "The UD gang is ready",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201409AnselAdam/20140902Ansel/i-S9bt589/0/23e74e8f/L/2014-09-02%20Ansel%20Adams%20016-S.jpg",
+					"piccap": "Taking a break on the trail",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201409AnselAdam/20140902Ansel/i-TdkJ593/0/f292f2af/L/2014-09-02%20Ansel%20Adams%20063-S.jpg",
+					"piccap": "sunset at Vandenburgh Lake",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=jQdMP8",
+			"smugAlbum": "https://havingadventures.smugmug.com/201409AnselAdam/20140902Ansel",
+			"smugAlbumName": "Hiking to Vanderburg Lake"
+		},
+		{
+			"dayId": "20140903",
+			"h1title": "Lady Lake ",
+			"h3": "",
+			"pdate": "Wednesday, September 3, 2014",
+			"pdesc": "We were up early for our hike up to Lady Lake.  We hiked up above the lake into the pass below Madera Peak.  We came back for lunch at the Lake where we relaxed and swam before heading back to camp.",
+			"mappic": "../img/ansel/AnselHikeMap.jpg",
+			"mapspan": "4 mile trail into Vanderburgh",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201409AnselAdam/20140903Ansel/i-KXvdGbX/0/cbfbdb45/L/2014-09-03%20Ansel%20Adams%20004-S.jpg",
+					"piccap": "Lady Lake",
+					"pictop": ""
+				},
+				{
+					"pic": "https://photos.smugmug.com/201409AnselAdam/20140903Ansel/i-Jg7mWgb/0/94a60248/L/2014-09-03%20Ansel%20Adams%20036-S.jpg",
+					"piccap": "Hung lake in the pass up from Lady Lake",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=KbVQwF",
+			"smugAlbum": "https://havingadventures.smugmug.com/201409AnselAdam/20140903Ansel",
+			"smugAlbumName": "Lady Lake"
+		},
+		{
+			"dayId": "20140904",
+			"h1title": "Sing Peak and Chittenden Lake",
+			"h3": "",
+			"pdate": "Thursday, September 4, 2014",
+			"pdesc": "Day 3 was a similar hike to a different lake, Chittenden, and then a climb up to the top of Sing Peak where you could see up into Yosemite Valley.",
+			"mappic": "https://photos.smugmug.com/201409AnselAdam/20140904Ansel/i-vQmWXjX/1/11a65885/M/2014-09-04%20Ansel%20Adams%20019-S.jpg",
+			"mapspan": "Chittenden Lake",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201409AnselAdam/20140904Ansel/i-c8SNR8V/0/172d227a/L/2014-09-04%20Ansel%20Adams%20004-S.jpg",
+					"piccap": "The trail to Chittenden",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201409AnselAdam/20140904Ansel/i-bQfh3PS/1/38923c91/L/IMG_0572-S.jpg",
+					"piccap": "Sing Peak",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=dn67q5",
+			"smugAlbum": "https://havingadventures.smugmug.com/201409AnselAdam/20140904Ansel",
+			"smugAlbumName": "Sing Peak and Chittenden Lake"
+		},
+		{
+			"dayId": "20140905",
+			"h1title": "Hiking back to Norris Trailhead",
+			"h3": "Into Yosemite Valley",
+			"pdate": "Friday, September 5, 2014",
+			"pdesc": "We headed back to Norris Trailherad and drove down in to Yosemite Valley where we stayed at the Ahwahnee.  We had a great meal and a nice evening watching the El Capitan climbers lights on the wall.",
+			"mappic": "https://photos.smugmug.com/201409AnselAdam/20140905Ansel/i-qXTXpQB/0/9532d72c/M/2014-09-05%20Ansel%20Adams%20019-S.jpg",
+			"mapspan": "Hiking Out",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201409AnselAdam/20140905Ansel/i-XPdqrZh/0/8b0fbcf2/L/2014-09-05%20Ansel%20Adams%20010-S.jpg",
+					"piccap": "Home for 3 nights",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201409AnselAdam/20140905Ansel/i-B45Cq9b/0/2306113c/L/2014-09-05%20Ansel%20Adams%20002-S.jpg",
+					"piccap": "Happy Glampers",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=gjt4xx",
+			"smugAlbum": "https://havingadventures.smugmug.com/201409AnselAdam/20140905Ansel",
+			"smugAlbumName": "Hiking back to Norris Trailhead"
+		},
+		{
+			"dayId": "20140906",
+			"h1title": "Ahwahnee and Mariposa Grove",
+			"h3": "",
+			"pdate": "Saturday, September 6, 2014",
+			"pdesc": "We rented bikes and went out to Mirror Lake which was empty so we walked in the lake bed and climbed on some rocks.  We ended the day in the Giant Sequoia Grove before a long drive back to Fresno",
+			"mappic": " https://photos.smugmug.com/201409AnselAdam/20140906Ansel/i-sVq7mHp/0/177dd2f4/M/2014-09-06%20Yosemite%20053-S.jpg",
+			"mapspan": "Ahwahnee",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201409AnselAdam/20140906Ansel/i-DqTbcj7/0/804f857b/L/2014-09-05%20Ansel%20Adams%20-%20Yosemite%20001-S.jpg",
+					"piccap": "View from our room",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201409AnselAdam/20140906Ansel/i-TVBBvDV/1/89a999c5/L/2014-09-06%20Yosemite%20059-S.jpg",
+					"piccap": "Mariposa Grove",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=xsBtfX",
+			"smugAlbum": "https://havingadventures.smugmug.com/201409AnselAdam/20140906Ansel",
+			"smugAlbumName": "Ahwahnee and Mariposa Grove"
+		}
+	]
+}

@@ -1,0 +1,215 @@
+{
+	"trip": {
+		"nav": "1",
+		"id": "201511Ireland",
+		"backgroundImg": "https://photos.smugmug.com/201311Ireland/20131112Mohar/i-WrLfvv8/1/65485ad8/L/2013-11-11%20Cliffs%20of%20Mohar%20%2845%29-L.jpg",
+		"pageLink": "201511Ireland.html",
+		"pageTitle": "Ireland 2013",
+		"pageSubtitle": "Kelly, Sara, Kathy and Jim",
+		"summ": "Nov, 2013",
+		"intro": "--",
+		"introDescr": "A week in the southwest of Ireland with Kathy, Kelly and Sara.  We stopped by Lizcarroll, Cork  on our way to a quick loop around Cork and Kerry before heading up the coast to the Cliffs of Mohar",
+		"introPic1": "https://photos.smugmug.com/201311Ireland/20131112Mohar/i-wfNGXHH/0/e856b239/M/2013-11-12%20Cliffs%20of%20MoharIMG_0683-M.jpg",
+		"introPic1span": "O'Brien's Tower",
+		"endMap": "10lV3_wsuh8didCjQIujnIduXlyE",
+		"endmapName": "Dublin, Cork , Kerry and the Cliffs of Mohar",
+		"foot": "1",
+		"footerPic1": "https://photos.smugmug.com/201311Ireland/20131112Mohar/i-BJGBpz7/0/45aacc35/M/2013-11-11%20Cliffs%20of%20Mohar%20%2826%29-M.jpg",
+		"footerPic2": "https://photos.smugmug.com/201311Ireland/20131112Mohar/i-sMdfXGf/0/b8176945/M/2013-11-11%20Cliffs%20of%20Mohar%20%2839%29-M.jpg",
+		"footerPic1Span": "Our last day on the Cliffs of Mohar",
+		"days": [
+		]
+	},
+	"adventureDay": [
+		{
+			"dayId": "20131107",
+			"h1title": "Dublin",
+			"h3": "Walking around Dublin",
+			"pdate": "Thurs, November 7, 2013",
+			"pdesc": "Our first day in Ireland. Kelly, Sara and Kathy walked along the river and went over to Dublin Castle",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "https://photos.smugmug.com/201311Ireland/201311Dublin/i-hmsGFB5/1/62d034c4/S/2013-11-07%20Dublin%20IMG_0489-S.jpg",
+			"mapspan": "The river Lifffey",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201311Ireland/201311Dublin/i-FGNhNXj/0/58de1c3b/M/2013-11-07%20Dublin%20000-M.jpg",
+					"piccap": "From Dillon Eustance where I was working",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201311Ireland/201311Dublin/i-CJz5Fkn/0/ffec229c/M/2013-11-07%20Dublin%20IMG_0508-M.jpg",
+					"piccap": "Kelly and Sara in front of Dublin Castle",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=HdDBrN",
+			"smugAlbum": "https://havingadventures.smugmug.com/201311Ireland/201311Dublin",
+			"smugAlbumName": "Dublin Smugmug"
+		},
+		{
+			"dayId": "20131108",
+			"h1title": "Driving to the West",
+			"h3": "Liscarrol and drive to Kenmare",
+			"pdate": "Fri, Nov 8, 2013",
+			"pdesc": "We drove from Dublin to Kenmare, stopping along the way at the Rock of Cashel and the OBrien farm.The farm in Curraugs, Lizcarrol is where my great-grandfather, Tim O'Brien was born. He emigrated to Allegany County, New York in 1887 at 22.  We had a brief conversation with the wife of my cousin who put us in touch with Mary O'Connor who we met for diner a few nights later.  It was a long day of traveling but we ended up at the Marianne’s Cottage, Sheen Falls Lodge which was across the Roghty River from Kenmare.",
+			"mappicport": "https://photos.smugmug.com/201311Ireland/20131108Liscarroll/i-qZhppJd/0/75967292/L/2013-11-08%20Liscarroll%20and%20Kenmare%20013-L.jpg",
+			"mapspan": "Looking out from the Rock of Cashel",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201311Ireland/20131108Liscarroll/i-bQhGcDZ/0/1a57ff45/L/2013-11-08%20Liscarroll%20and%20Kenmare%20033-L.jpg",
+					"piccap": "O'Brien farm in Curraghs, Lizcarrol, Cork",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201311Ireland/20131108Liscarroll/i-6FLcTXq/0/0b3d5437/M/2013-11-08%20Liscarroll%20and%20Kenmare%20039%20Stitch-M.jpg",
+					"piccap": "Looking out from our 'cottage' at Shenna Falls.",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=tFTtKn",
+			"smugAlbum": "https://havingadventures.smugmug.com/201311Ireland/20131108Liscarroll",
+			"smugAlbumName": "Liscarrol and drive to Kenmare"
+		},
+		{
+			"dayId": "20131109",
+			"h1title": "Sheen Falls Lodge",
+			"h3": "Morning Falcon Walk",
+			"pdate": "Saturday morning, Nov 9, 2013",
+			"pdesc": "In a field behind the hotel we met a falconer who had a couple Harris Hawks from Arizona and we watched as they flew around. It was kind of a rainy morning which was a theme for our trip.",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201311Ireland/201311ShennaFalcon/i-qthFtdN/0/db6ecf4a/M/2013-11-09%20Falcon%20WalkDublin%20%20022-M.jpg",
+					"piccap": "We were able to get up close and personal",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201311Ireland/201311ShennaFalcon/i-RjX5cNc/0/9cecea42/M/2013-11-09%20Falcon%20WalkDublin%20%20034-M.jpg",
+					"piccap": "The owl wasn't allowed to fly but was really cool looking.",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=TVTMmR",
+			"smugAlbum": "https://havingadventures.smugmug.com/201311Ireland/201311ShennaFalcon",
+			"smugAlbumName": "ShennaFalcon"
+		},
+		{
+			"dayId": "210131109p2",
+			"h1title": "Gleninchaquin Park",
+			"h3": "No such thing as bad weather",
+			"pdate": "Saturday afternoon, Nov 9, 2013",
+			"pdesc": "After our morning raptor walk we struck out on our own to Gleninchaquin Park about 10 miles away. We hiked aroung here and got a good look out into Kenmare Bay.",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201311Ireland/201311GlennchaqPark/i-mCMPTrG/0/5d19fd72/M/2013-11-08%20Cliffs%20of%20Mohar%20005-M.jpg",
+					"piccap": "Waterfall in the park.",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201311Ireland/201311GlennchaqPark/i-8RPbw5g/0/4a87f5aa/M/2013-11-08%20Cliffs%20of%20Mohar%20016-M.jpg",
+					"piccap": "Looking out into Kenmare Bay",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=mRZsZD",
+			"smugAlbum": "https://havingadventures.smugmug.com/201311Ireland/201311GlennchaqPark",
+			"smugAlbumName": "No such thing as bad weather"
+		},
+		{
+			"dayId": "20131110",
+			"h1title": "Rabachs Glen",
+			"h3": "A slippery walk back in time",
+			"pdate": "Sun , Nov 10, 2013",
+			"pdesc": "Our guide didn't think we would show because the weather was pretty bad. We met him at the hotel and he found us some boots and umbrellas and we were off to toward the western end of Kerry.We signed into the trail register and paid 2 euros each. We walked about a mile and over a ridge into what had been a very small village in an area called Rahbachs Way.It was very slipper and the trail wasnt really a trail so there were a number of slips and falls. From a satalite view you can still see the house and field outlines.",
+			"mappicport": "https://photos.smugmug.com/201311Ireland/20131110RabachsClen/i-MDBJzmn/0/99810c44/M/2013-11-10%20009-M.jpg",
+			"mapspan": "Stepping into a place that hasn't changed since the 1850s",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "../img/ireland/20131110RabachsGlen.jpg",
+					"piccap": "A better look on a clearer day than we had",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201311Ireland/20131110RabachsClen/i-T3CV3RH/0/d837af72/M/2013-11-10%20014-M.jpg",
+					"piccap": "It was a rainy day but great to hike back into this 'famine village'",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=Gz7p32",
+			"smugAlbum": "",
+			"smugAlbumName": "Rabhachs Glen"
+		},
+		{
+			"dayId": "20131111",
+			"h1title": "Kerry and Loop Head",
+			"h3": "A travel day on to Doonbeg",
+			"pdate": "Mon, Nov. 11, 2013",
+			"pdesc": "After a quite day and dinner with my father's second cousin (?), we were traveling again from Kerry into Co. Claire.We took some detours to walk along the coast ands visited Loop Head Lighthouse and Kilkee before arriving at Doonbeg golf resort.",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201311Ireland/201311Kerry-LoopHead/i-fWzQVX3/0/1e5d8f11/L/2013-11-11%20Rabachs%20Glen%20006-L.jpg",
+					"piccap": "We ferried across the Shannon Estuary",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201311Ireland/201311Kerry-LoopHead/i-pVJz3cx/0/8f5c5513/L/2013-11-11%20Rabachs%20Glen%20021-L.jpg",
+					"piccap": "Stopping along the way to hike on the Kilkee Cliffs before also visiting Loop Head Lighthouse",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=Pj2KNq",
+			"smugAlbum": "https://photos.smugmug.com/201311Ireland/201311Kerry-LoopHead/i-nT38J9b/0/5eccca33/M/2013-11-11%20Rabachs%20Glen%20023-M.jpg",
+			"smugAlbumName": "Kerry-Loop Head"
+		},
+		{
+			"dayId": "20131112",
+			"h1title": "Cliffs of Mohar",
+			"h3": "",
+			"pdate": "Tues, Nov 12, 2013",
+			"pdesc": "From Doonbeg we drove up the coast to the Cliifs of Mohar. It was a pretty cold & windy day but we made the best of it.After our wlak along the cliffs we traveled to Ennis to spead the night and get to the Shannon airport in the morning.",
+			"mappicport": "https://photos.smugmug.com/201311Ireland/20131112Mohar/i-BJGBpz7/0/45aacc35/M/2013-11-11%20Cliffs%20of%20Mohar%20%2826%29-L.jpg",
+			"mapspan": "Another windy day on the west coast of Ireland",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201311Ireland/20131112Mohar/i-FhgvKpz/0/377f8178/L/2013-11-11%20Cliffs%20of%20Mohar%20%2827%29-L.jpg",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201311Ireland/20131112Mohar/i-HvBf4gQ/0/a4f25825/M/2013-11-11%20Cliffs%20of%20Mohar%20%2811%29-L.jpg",
+					"piccap": "O'Brien's Tower on the edge of the sea",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=MWZwf8",
+			"smugAlbum": "https://photos.smugmug.com/201311Ireland/20131112Mohar/i-BJGBpz7/0/45aacc35/M/2013-11-11%20Cliffs%20of%20Mohar%20%2826%29-L.jpg",
+			"smugAlbumName": "Cliffs of Mohar"
+		}
+	]
+}

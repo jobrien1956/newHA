@@ -1,0 +1,181 @@
+{
+	"trip": {
+		"nav": "1",
+		"TripId": "198807olympiaBC",
+		"id": "ha-olympiaBC",
+		"backgroundImg": "../img/index/198807BCOlympia.jpg",
+		"tripThumb": "../img/index/thumb/198807BCOlympia.jpg",
+		"pageLink": "adventures/ha_future.html",
+		"pageTitle": "Summer 1988 - SF, Olympia NP and Victoria Island",
+		"pageSubtitle": "",
+		"tripSumm": "After a wedding in SF, we flew to Seattle, took a ferry to Victoria and returned thru Olympia NP and a visit with Aaron.",
+		"summ": "",
+		"intro": "--",
+		"introDescr": "",
+		"introPic1": "",
+		"introPic1span": "",
+		"introPic2": "",
+		"introPic2span": "",
+		"videoLink": "",
+		"videoIframe": "",
+		"foot": "1",
+		"footerPic1": "",
+		"footerPic2": "",
+		"footPic1Span": "",
+		"endMap": "",
+		"endmapName": "",
+		"days": [
+		]
+	},
+	"adventureDay": [
+		{
+			"dayId": "19880725",
+			"h1title": "",
+			"h3": "",
+			"pdate": "Mon, Jul 25, 1988",
+			"pdesc": "",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "3",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "4",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "19880730",
+			"h1title": "",
+			"h3": "",
+			"pdate": "Wed, Jul 27, 1988",
+			"pdesc": "",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "3",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "4",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "19880801",
+			"h1title": "",
+			"h3": "",
+			"pdate": "Sun, Jul 31, 1988",
+			"pdesc": "",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "3",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "4",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		}
+	]
+}
+
+

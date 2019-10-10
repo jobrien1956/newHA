@@ -1,0 +1,175 @@
+{
+	"trip": {
+		"nav": "1",
+		"id": "201201canyon",
+		"backgroundImg": "../img/canyon/20120114GC001.jpg",
+		"pageLink": "201201canyon.html",
+		"pageTitle": "Grand Canyon Backpacking",
+		"pageSubtitle": "Jan 2012",
+		"summ": "5 days, 34 miles, many, many feet down & up",
+		"intro": "Tanner-Escalante-Hance-Grandview",
+		"introDescr": "In January, 2012, my friends, Nick and Jonas, invited newbies, Kelly and I, to take a 5 day hike down into the Grand Canyon.  We went down the Tanner Trail and spent three nights along the river and then a long hike up the Hance Creek Trail to Horseshoe Mesa.  The final push in the early morning was up to Grandview Point.  By the end we had gotten a great GC education",
+		"introPic1": "../img/canyon/2012mapimage.jpg",
+		"introPic1span": "From Lipan Pt straight down to river",
+		"foot": "1",
+		"endMap": "1WlLI42b18FZE0Cfsbo3OAwbBcX4",
+		"endmapName": "2012 Grand Canyon",
+		"footerPic1": "",
+		"footerPic1Span": "",
+		"days": [
+			{
+				"id": "1",
+				"name": "hawaii01",
+				"storeName": "hawaii01",
+				"sidebarName": "2006 Hawaii"
+			},
+			{
+				"id": "2",
+				"name": "hawaii02",
+				"storeName": "hawaii02"
+			},
+			{
+				"id": "3",
+				"name": "hawaii03",
+				"storeName": "hawaii03"
+			}
+		]
+	},
+	"adventureDay": [
+		{
+			"dayId": "20120114",
+			"h1title": "Tanner Trail down to Colorado",
+			"h3": "It’s a 4,600-foot, knee-buckling descent to the Colorado River over 9 miles",
+			"pdate": "14-Jan-12",
+			"pdesc": "We spent the first night at a campground on the rim, where I learned that Arizona is not as warm as you think it is – a lesson that would be further emphasized upon entering the Canyon.  The next morning we woke up, scrambled around REI buying stuff we’d forgot, bummed some coffee from a hotel to make up for a night spent shivering instead of sleeping, and drove to the trailhead. We dropped in at a place called Lipan Point, about 9 miles south of where the Little Colorado meets the big.",
+			"mappic": "../img/canyon/20120114GC005L.jpg",
+			"mapspan": "We hiked thru snow for the first hour",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201201-Grand-Canyon/20120114TannerTrail/i-3QxfcpZ/0/2c6b9a1c/L/2012-01-14-14-00%20Grand%20Canyon%20012-L.jpg",
+					"piccap": "Nick and Jonas had a much better idea where we were heading."
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "3",
+					"pic": "https://photos.smugmug.com/201201-Grand-Canyon/20120114TannerTrail/i-QxWcQr4/1/d988dfc9/L/2012-01-14-14-19%20Grand%20Canyon%20013-L.jpg",
+					"piccap": "By noon on the second day we would be well past those flats",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=gwJ9vz",
+			"smugAlbum": "https://havingadventures.smugmug.com/201201-Grand-Canyon/20120114TannerTrail",
+			"smugAlbumName": "Tanner Trail"
+		},
+		{
+			"dayId": "20120115",
+			"h1title": "A no-pack day up the river",
+			"h3": "",
+			"pdate": "15-Jan-12",
+			"pdesc": "Day 2 was a “rest day” in that we hiked without packs. In was not so much a rest day in that we set an insane goal of hiking to Little Colorado confluence and back (about 18 miles) by early afternoon.   We made it about half way.  Upon return we found the crows were much smarter than anticipated and kevlar bags are not always the answer.  We continued down the river a few more miles and made camp along the river.",
+			"mappicport": "https://photos.smugmug.com/201201-Grand-Canyon/20120115Sidetripto/i-4TcpKZZ/0/8e2bd7db/L/2012-01-15-10-57%20Grand%20Canyon%20001-L.jpg",
+			"mapspan": "We were hiking up the river and got past the flats on the left.",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201201-Grand-Canyon/20120115Sidetripto/i-mb6Jgxh/0/fac2b9c1/L/2012-01-15-14-19%20Grand%20Canyon%20013-L.jpg",
+					"piccap": "This was our lunch break prior to heading back down the river",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201201-Grand-Canyon/20120115Sidetripto/i-FcS7P3f/0/44fa79d6/L/2012-01-15-19-32%20Grand%20Canyon%20024-L.jpg",
+					"piccap": "Our tarp wouldn't look so good in the morning",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=vhhc4K",
+			"smugAlbum": "https://havingadventures.smugmug.com/201201-Grand-Canyon/20120115Sidetripto",
+			"smugAlbumName": "Up River"
+		},
+		{
+			"dayId": "20120116",
+			"h1title": "Into slot canyons and back up onto the Tonto Trail",
+			"h3": "The Papago Wall",
+			"pdate": "16-Jan-2012",
+			"pdesc": "After a night of rain we were going up the The Papago Wall which rises about 35 feet.  From there we had some long traverses along the Tonto Trail,  We ended the day for our third night on the river with great sunsets down the canyon",
+			"mappic": "https://photos.smugmug.com/201201-Grand-Canyon/201201-16/i-zcnsXxK/1/9543e86f/L/2012-01-16-16-01%20Grand%20Canyon%20019-L.jpg",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201201-Grand-Canyon/201201-16/i-cKdkN86/0/e37542dc/L/2012-01-16-12-00%20Grand%20Canyon%20007-L.jpg",
+					"piccap": "Looking out over the Unkar Creek",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201201-Grand-Canyon/201201-16/i-rmJx97S/0/ba3d55d6/L/2012-01-16-17-17%20Grand%20Canyon%20029-L.jpg",
+					"piccap": "We climbed down in 75 mile creek slot canyon",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=M2LRj3",
+			"smugAlbum": "https://havingadventures.smugmug.com/201201-Grand-Canyon/201201-16",
+			"smugAlbumName": "Slot canyon"
+		},
+		{
+			"dayId": "20120117",
+			"h1title": "A long hard hike up to Horseshoe Mesa",
+			"h3": "Leave the river and go up",
+			"pdate": "17-Jan-2012",
+			"pdesc": "Day four was our 'going up' day. This was a long day with some long stretches of switchbacks to get us up onto Horse Mesa and our camping spot.  It was pretty cold and we put on most of our warm clothes for the night.",
+			"mappic": "https://photos.smugmug.com/201201-Grand-Canyon/20120117-/i-vzcjBSp/0/0f6c9d8e/L/2012-01-17-10-19%20Grand%20Canyon%20001-L.jpg",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201201-Grand-Canyon/20120117-/i-R8p9ZPL/0/800e5555/M/2012-01-17-12-14%20Grand%20Canyon%20005-M.jpg",
+					"piccap": "Starting our day along the river.",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201201-Grand-Canyon/20120117-/i-5fhGDVN/0/96a86564/L/2012-01-17-19-43%20Grand%20Canyon%20023-L.jpg",
+					"piccap": "Nick, Jim, Kelly and Jonah on top of Horseshoe Mesa",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=q96GKr",
+			"smugAlbum": "https://havingadventures.smugmug.com/201201-Grand-Canyon/20120117-",
+			"smugAlbumName": "Horseshoe Mesa"
+		},
+		{
+			"dayId": "20120118",
+			"h1title": "Up early and hiking out by 9am",
+			"h3": "We left before sunup and walked the first hour in the dark",
+			"pdate": "18-Jan-2012",
+			"pdesc": "",
+			"mappic": "https://photos.smugmug.com/201201-Grand-Canyon/20120118/i-dWZzsrh/0/89919c80/L/2012-01-18-10-16%20%20Grand%20Canyon%20004-L.jpg",
+			"mapspan": "Rim - 7400ft Horseshoe Mesa 2600' below rim",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201201-Grand-Canyon/20120118/i-XgPSHMb/0/20dbaa13/L/2012-01-18-10-31%20%20Grand%20Canyon%20006-L.jpg",
+					"piccap": "Back into the snow at 6,500 feet",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201201-Grand-Canyon/20120118/i-xHTN5zZ/0/f877ab6e/L/2012-01-18-10-33%20%20Grand%20Canyon%20009-L.jpg",
+					"piccap": "Amazing morning from on top at aptly named Grandview Point",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=LVDd3D",
+			"smugAlbum": "https://havingadventures.smugmug.com/201201-Grand-Canyon/20120118",
+			"smugAlbumName": "Walking out and back to the snow"
+		}
+	]
+}

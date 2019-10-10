@@ -1,0 +1,78 @@
+{
+	"trip": {
+		"nav": "1",
+		"id": "201511tucson",
+		"backgroundImg": "../img/tucson/201511Tucson02.jpg",
+		"pageLink": "201511tucson.html",
+		"pageTitle": "Tucson 2015",
+		"pageSubtitle": "Kathy and Jim in the Land of Beige",
+		"summ": "A trip to the Arizona desert",
+		"intro": "===",
+		"introDescr": "Our trip to Tucson was hastily arranged after our trip to Napal was cancelled. We had never been and thought it would be a nice place to explore for a few days.  After a morning hike, we started by visiting the area around Sugudo National Park and the Arizona-Sonora Desert Museum",
+		"introPic1": "https://photos.smugmug.com/201511Tucson/201511TucsonMtLemon/i-gSw5NB3/1/8b5baa87/M/2015-11-03%20Tucson%20Canon%20PS%20007-M.jpg",
+		"introPic1span": "Tumacácori National Historical Park",
+		"introPic2": "",
+		"introPic2span": "",
+		"videoLink": "",
+		"videoIframe": "",
+		"foot": "1",
+		"endMap": "1UFG2bX_vvZddjYFehMFNLvjLTmo",
+		"endmapName": "Tucson Nov 2015",
+		"days": [
+		]
+	},
+	"adventureDay": [
+		{
+			"dayId": "20151101",
+			"h1title": "Exploring around the Ritz Carlton, Dove Mountain",
+			"h3": "Hiking trail behind the hotel.",
+			"pdate": "Sunday/Monday Nov 1 & 2, 2015",
+			"pdesc": "After a morning hike, we started by visiting the area around Sugudo National Park and the Arizona-Sonora Desert Museum.  We started out with a hike behind the hotel but on the way back we took a wrong turn and extended our hike and had to improvise somewhat. The dark blue is our intended route and the light blue is the way we ended up going.",
+			"mappic": "../img/tucson/201511Tucson03.jpg",
+			"mapspan": "Our hike around the hotel",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "../img/tucson/201511Tucson01.jpg",
+					"piccap": "View from behind the hotel",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201511Tucson/201511DoveandSaguaroNP/i-2WcmFdk/0/ac3e56fe/L/2015-11-02%20Tuscon%20011-L.jpg",
+					"piccap": "The hot and dusty trail",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=zXKsZb",
+			"smugAlbum": "https://havingadventures.smugmug.com/201511Tucson/201511DoveandSaguaroNP",
+			"smugAlbumName": "Dove Mtn and Suguaro"
+		},
+		{
+			"dayId": "20151103",
+			"h1title": "Dove Mtn and Saguaro NP",
+			"h3": "Mount Lemon, Mission San Xavier Del Bac and Sabino Canyon",
+			"pdate": "Tues/Wed Nov 3 & 4, 2015",
+			"pdesc": "",
+			"mappic": "../img/tucson/tucsontripmap.JPG",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201511Tucson/201511TucsonMtLemon/i-hXp7Cg9/1/970c99a3/L/2015-11-03%20Tucson%20Canon%20PS%20008-L.jpg",
+					"piccap": "Mission San Xavier Del Bac",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201511Tucson/201511TucsonMtLemon/i-ZWtkxBV/0/f410cd01/L/2015-11-01%20009-L.jpg",
+					"piccap": "On the way back from Mt Lemon",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=j5Kbgx",
+			"smugAlbum": "https://havingadventures.smugmug.com/201511Tucson/201511TucsonMtLemon",
+			"smugAlbumName": "Tucson and Mt Lemon"
+		}
+	]
+}

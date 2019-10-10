@@ -1,0 +1,497 @@
+{
+	"trip": {
+		"nav": "1",
+		"TripId": "201609sanjuan",
+		"id": "ha-sanjuan",
+		"backgroundImg": "../img/sanjuan/20160909LopezIsl.jpg",
+		"tripThumb": "../img/index/thumb/20160909LopezIsl.jpg",
+		"pageLink": "adventures/201609sanjuan.html",
+		"pageTitle": "Washington and Oregon",
+		"pageSubtitle": "Biking,Hiking and Kyacking",
+		"tripSumm": "10 days in the Cascades, San Juan Islands, Portland and NW Oregon with our UD friends",
+		"summ": "10 days in the Cascades, San Juan Islands, Portland and NW Oregon with our UD friends",
+		"intro": "Sept 2016",
+		"introDescr": "We started our trip with a day in Seattle and the wine area north of town.  After staying in Burlington, we followed this with a hike up to Cascade Pass .  We then took a ferry from Anacortes to Friday Harbor in the San Juan Islands. After four days on the various islands we spent another 5 days exploring Portland, the Columbia River area and the Oregon Coast.",
+		"introPic1": "https://www.havingadventures.com/img/sanjuan/day1-2map.PNG",
+		"introPic1span": "Our route from seattle",
+		"introPic2": "https://www.havingadventures.com/img/sanjuan/day3map.jpg",
+		"introPic2span": "Our route around San Juan Isl",
+		"videoLink": "",
+		"videoIframe": "",
+		"foot": "1",
+		"footerPic1": "",
+		"footerPic2": "",
+		"footPic1Span": "",
+		"endMap": "1sYQ3yVqZdoCKCvGGvsRdoEscSn4",
+		"endmapName": "2016-09 Oregon Coast",
+		"days": [
+		]
+	},
+	"adventureDay": [
+		{
+			"nav": "1",
+			"dayId": "20160904",
+			"h1title": "Pikes Market, Wine tour & Cascade Pass",
+			"h3": "",
+			"dayLink": "../sanjuanpost/sanjuan01.html",
+			"backgroundImg": "../img/sanjuan/cascadepass.JPG",
+			"pdate": "Sunday & Monday, September 4th & 5th, 2016",
+			"pdesc": "We met Mike and Karen at their hotel for breakfast in Seattle and took a walk through Pikes market, along the water and through Pioneer Square before getting on the road to meet Zav, Jackie, Michelle and Leo and find some wineries around Woodinville, WA. We stopped and sampled wine at the Brian Carter Cellars , the St. Michelle Winery and finally had some lunch and wine at the Novelty Hill Januik Winery. From there it was on to the Fairfield Inn in Burlington and dinner at the Skagit River Brewery.",
+			"mappic": "",
+			"mappicport": "../img/sanjuan/cascadepass.JPG",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201609-Wash-Oregon/2016-09-05-Cascade-Pass-Hike/i-kJ5BgDG/0/M/2016-09-05-12-57%20Cascade%20Pass%20Hike%20038-M.jpg",
+					"piccap": "picture from Washington Trail Assoc page",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "2",
+					"pic": "http://www.wta.org/site_images/hikes/cascade-pass.jpg/@@images/2c8fa935-59b9-405f-b8da-63e0b2853c13.jpeg",
+					"piccap": "picture from Washington Trail Assoc page",
+					"picbotm": "Our preview said this 'At Cascade Pass, the wow factor far exceeds the 'ow' factor – Sedately climbing a little less than 1,800 feet in 3.6 miles, it is the perfect hike to show new hikers the extraordinary places their feet can take them. The epic scenery begins before you even hit the trail.  After a couple hour drive through an overcast sky from Burlington we parked in a reasonably crowded parking lot. The switchbacks begin almost immediately. It was never steep so the 2.7 mile hike up to tree line was just long. Cloud cover didn't allow much in the way of views but what we could see was pretty cool.  The last mile plus traversed over to the pass and we got a bit of clearing once on top. All in all a good day in the North Cascade. We got a great appreciation for the mountains which were rugged and imposing.",
+					"pictop": ""
+				},
+				{
+					"picID": "3",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "4",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"nav": "1",
+			"dayId": "2060906",
+			"h1title": "San Juan Island",
+			"h3": "",
+			"pdate": "Tuesday, September 6th, 2016",
+			"pdesc": "The San Juan Island's part of our trip started with an early ferry from Anacortes to Friday Harbor.  We met Arnold and Miguel at the ferry terminal in Friday Harbor and shuttle the group to our starting point near the baseball fields just outside of downtown.",
+			"mappic": "http://localhost:63342/HavingAdventures/img/sanjuan/day3map.jpg",
+			"mappicport": "Google map of San Juan Isl",
+			"mapspan": "Google map of San Juan Isl",
+			"dayLink": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201609-Wash-Oregon/2016-09-06-Friday-Harbor/i-r4GCfH2/0/M/2016-09-06-11-10%20Friday%20Harbor%20Bike%20007-M.jpg",
+					"piccap": "All set for our loop around San Juan Island.",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201609-Wash-Oregon/2016-09-06-Friday-Harbor/i-DGjGCJw/0/M/2016-09-06-11-54%20Friday%20Harbor%20Bike%20009-M.jpg",
+					"piccap": "At the Lavender Farm.",
+					"pictop": "We cycled along quiet country roads, stopping at a Lavender Farm and then stopped for lunch in Lime Kiln State Park.",
+					"picbotm": ""
+				},
+				{
+					"picID": "3",
+					"pic": "https://photos.smugmug.com/201609-Wash-Oregon/2016-09-06-Friday-Harbor/i-3N3ckbR/0/M/2016-09-06-11-11%20Friday%20Harbor%20Bike%20011-M.jpg",
+					"piccap": "Lunch in Lime Kiln State Park.",
+					"picbotm": "Afterwards, we cycled north past an Alpaca Farm and British Camp then stopped at Roche Harbor to learn a bit more about the Lime Kiln business. We stopped briefly at the San Juan Island Vineyard where a few people decided to end for the day and bought a few bottles of wine for our dinner. We rode the final 5 miles or so to the Tucker House Inn where we had a couple hours to relax and enjoy happy hour before dinner. That evening we dined at the one of the island's best restaurants, the Friday Harbor House, overlooking the harbor with a perfect sunset view.",
+					"pictop": ""
+				},
+				{
+					"picID": "4",
+					"pic": "https://photos.smugmug.com/201609-Wash-Oregon/2016-09-06-Friday-Harbor/i-ZhD59HG/0/M/2016-09-06-19-06%20Friday%20Harbor%20Bike%20015-M.jpg",
+					"piccap": "Dinner in Friday Harbor.",
+					"pictop": "",
+					"picbotm": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=3tFfM8",
+			"smugAlbum": "https://havingadventures.smugmug.com/201609-Wash-Oregon/2016-09-06-Friday-Harbor",
+			"smugAlbumName": "Friday Harbor"
+		},
+		{
+			"nav": "1",
+			"dayId": "20160907",
+			"dayLink": "../sanjuanpost/sanjuan02.html",
+			"h1title": "San Juan Island - day 2",
+			"h3": "Bikes, Kayaks and Captain Pete",
+			"pdate": "Wednesday, September 7th, 2016",
+			"pdesc": "Day 2 on San Juan Island: Breakfast was suppose to be made fresh and homemade by your innkeepers but since we had changed the plan and were trying to both kyack and whale watch we got the brown bag breakfast to go. Not so great. We shuttled to the Snug Harbor Resort on the beautiful Westside of San Juan Island. We got to the kayak rental nice and early and were on the water by 9:30.",
+			"mappic": "https://photos.smugmug.com/201609-Wash-Oregon/2016-09-07-Friday-Harbor-pt-2/i-6BLhPT6/0/S/2016-09-07-09-00%20Friday%20Harbor%20Kyack-Whale%20001-S.jpg",
+			"mappicport": "",
+			"mapspan": "We received a kayak safety lesson from Arnold and then paddled out into the Haro Straight.",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201609-Wash-Oregon/2016-09-07-Friday-Harbor-pt-2/i-QDdQJ7k/0/S/2016-09-07%20Friday%20Harbor%20a-S.jpg",
+					"piccap": "Tim and Sara",
+					"pictop": "We tasted a piece of Bull Kelp and were out on the water for a couple hours",
+					"picbotm": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201609-Wash-Oregon/2016-09-07-Friday-Harbor-pt-2/i-vDjkhbS/0/S/20160907FridayHarborKyackWhale004-S.jpg",
+					"piccap": "",
+					"picbotm": "In the afternoon we went with Captain Pete on the Odyssey for Orca watching. This was our only rain. We did see lots of Orca all around a stretch near the southern tip of the island",
+					"pictop": ""
+				},
+				{
+					"picID": "3",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "4",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "https://havingadventures.smugmug.com/201609-Wash-Oregon/2016-09-07-Friday-Harbor-pt-2",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "20160908",
+			"h1title": "Cycling Orcas Island",
+			"h3": "From any approach a steep climb up the top of Mount Constitution",
+			"dayLink": "../sanjuanpost/sanjuan03.html",
+			"backgroundImg": "../img/sanjuan/cascadepass.JPG",
+			"pdate": "Thursday, Sept 8th, 2016",
+			"pdesc": "Today we once again got an early start with a brown bag lunch. We met the early Washington State ferry to Orcas Island and then cycled the horseshoe shaped highway along Orcas Island’s enchanted evergreen lined roads.",
+			"mappic": "https://www.havingadventures.com/img/sanjuan/20160908OrcasEastsound012.jpg",
+			"mappicport": "",
+			"mapspan": "Eastsound",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://www.havingadventures.com/img/sanjuan/20160908Orcas014.jpg",
+					"piccap": "Moran State Park - starting point for biking up to the top of Mount Constitution ",
+					"pictop": "After a stop at Orcas Island Pottery, we stopped for lunch in Eastsound. After lunch we climbed quite a long hill up and over into Moran State Park.",
+					"picbotm": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://www.havingadventures.com/img/sanjuan/20160908Orcas023.jpg",
+					"piccap": "From on top of Mount Constitution",
+					"pictop": "Here we took a break and some of the group decided to hike up from Mountain Lake to the tower on Mount Constitution while Miguel, Mike and I attempted the road ride up to the top. At the top of the tower on top of Mount Constitution we had a panoramic view of all the San Juan Islands, neighboring Canada, Mount Baker, Mount Rainier, the Cascade and Olympic Mountain ranges.",
+					"picbotm": ""
+				},
+				{
+					"picID": "3",
+					"pic": "https://www.havingadventures.com/img/sanjuan/20160908Orcas026.jpg",
+					"piccap": "Morning fog on the back porch at Turtleback Farm Inn",
+					"picbotm": "We stayed at the Turtleback Farm Inn and dinner was at The Mansion Restaurant at Rosario which was the mansion built by Seattle Shipbuilder and Mayor Robert Moran",
+					"pictop": ""
+				},
+				{
+					"picID": "4",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=XVrXkr",
+			"smugAlbum": "https://havingadventures.smugmug.com/201609-Wash-Oregon/2016-09-08-Orcas-Isl",
+			"smugAlbumName": "Orcas Island"
+		},
+		{
+			"dayId": "20160909",
+			"h1title": "Day 4 on San Juan - Cycling Lopez Island",
+			"h3": "Back to Anacortes and drive to Portland",
+			"pdate": "Friday, Sept 9, 2016",
+			"pdesc": "Day 4: After a delicious breakfast we shuttled back to the ferry terminal where we were delayed 45 minutes or so and then went on to Lopez Island.  Once on the ferry we got some amazing view of Mt Baker and the Cascades",
+			"mappic": "https://www.havingadventures.com/img/sanjuan/20160909LopezIsl013.jpg",
+			"mappicport": "",
+			"mapspan": "Sharks Reef Sancuary",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "../img/sanjuan/20160909LopezIsl009.jpg",
+					"piccap": "Mt Baker and the Cascade Mtns",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "2",
+					"pic": "../img/sanjuan/20160909LopezIsl012.jpg",
+					"piccap": "Just past the Lopez Coffee Shop",
+					"pictop": "We went north to south on Lopez Island through beautiful farms and passed fog shrouded harbors. We rode through rolling pastures, past century old farmhouses eventually stopping for a break at the Sharks Reef Sancuary.",
+					"picbotm": ""
+				},
+				{
+					"picID": "3",
+					"pic": "../img/sanjuan/20160909LopezIslGroup.jpg",
+					"piccap": "Strait of Juan de Fuca",
+					"pictop": "After a near catastrophe for Paul and Mike we completed our riding at a beautiful pebbled beach with a picturesque view of the Strait of Juan de Fuca.",
+					"picbotm": "Afterwards, we had a great smoked salmon salad before being shuttled back to the ferry to say our good byes to Miguel and Arnold by mid-afternoon. The ferry gave a clear views of Mount Baker and the Cascades.  At the ferry terminal we said good-bye to Zav, Jackie, Leo and Michelle who were heading home as we headed down to Portland."
+				},
+				{
+					"picID": "4",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=32zJDq",
+			"smugAlbum": "https://havingadventures.smugmug.com/201609-Wash-Oregon/2016-09-09-Lopez-Island",
+			"smugAlbumName": "Lopez Island "
+		},
+		{
+			"dayId": "2060909",
+			"h1title": "Biking around Portland",
+			"h3": "Saturday in the Brew Pubs, Kayaking on Lost Lake and Hiking along the Falls",
+			"pdate": "Saturday, September 10th, 2016",
+			"pdesc": "The second leg of our trip was spending the weekend in Portland with Mike and Karen's daughter Kerry and my old friend Aaron.  They met us for an evening of talk and beers on Friday night.",
+			"mappic": "https://photos.smugmug.com/201609-Wash-Oregon/2016-09-10-Portland-pubs/i-rrfc7j4/0/27acfef9/M/2016-09-10-15-57%20Lost%20Lk-Mt%20Hood%20004-M.jpg",
+			"mappicport": "",
+			"mapspan": "",
+			"dayLink": "../sanjuanpost/sanjuan04.html",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201609-Wash-Oregon/2016-09-10-Portland-pubs/i-JnkD8mH/0/0f30de59/M/2016-09-10-15-39%20Portland%20%20002-M.jpg",
+					"picbotm": "We met him again early Saturday afternoon for a quick visit to Powell Books and then two longer stops at two of Portlands many brew pubs. First stop was the Deschutes Brewery Portland Public House for a tray of samplers. Next up was the rooftop at 10 Barrel Brewing.",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201609-Wash-Oregon/2016-09-10-Portland-pubs/i-B6Lrhz8/0/b333bd9b/M/2016-09-10-15-49%20Portland%20%20003-M.jpg",
+					"piccap": "We didn't take the Brew Cycle but it looked like fun",
+					"picbotm": ""
+				},
+				{
+					"picID": "3",
+					"pic": "https://photos.smugmug.com/201609-Wash-Oregon/2016-09-10-Portland-pubs/i-GkZ63L3/0/fb2d90c8/L/2016-09-10-18-59%20Portland%20%20006-L.jpg",
+					"piccap": "Portland City Grill",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "4",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "2060911",
+			"h1title": "SE Wildcat Mountain Dr, Lost Lake and Hood River",
+			"h3": "",
+			"pdate": "Sunday, Sept 11th, 2016",
+			"pdesc": "Up early once again to begin a long trek (by car) into the mountains below Mt. Hood. Stopped at Aaron's house to pick up kyacks and other gear and then headed out for a afternoon picnic on Lost Lake complete with Growlers and sub sandwiches.",
+			"mappic": "https://photos.smugmug.com/201609-Wash-Oregon/2016-09-10-Lost-Lk-Mt-Hood/i-65rnKbv/0/6b881dee/M/2016-09-11-10-25%20Lost%20Lk-Mt%20Hood%20008-M.jpg",
+			"mappicport": "",
+			"mapspan": "Aaron's dog Jake",
+			"dayLink": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pictop": "The trip in and out of Lost Lake was long and dusty but worth it. Once again the weather was perfect and we all enjoyed the views of Mt Hood from the middle of the lake.",
+					"pic": "https://photos.smugmug.com/201609-Wash-Oregon/2016-09-10-Lost-Lk-Mt-Hood/i-CtM9qWd/0/ce26ace2/L/2016-09-11-10-58-53%20Lost%20Lk-Mt%20Hood-L.jpg",
+					"piccap": "Lost Lake and Mt Hood",
+					"picbotm": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201609-Wash-Oregon/2016-09-10-Lost-Lk-Mt-Hood/i-9jB3DDC/0/44eb9994/M/2016-09-11-10-43-26%20Lost%20Lk-Mt%20Hood-M.jpg",
+					"piccap": "Mike and Karen",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "3",
+					"pic": "https://photos.smugmug.com/201609-Wash-Oregon/2016-09-10-Lost-Lk-Mt-Hood/i-4JZgSD5/0/c144be44/L/2016-09-11-15-48%20Lost%20Lk-Mt%20Hood%20031-L.jpg",
+					"piccap": "Hood River kite surfers",
+					"pictop": "From there we said goodbye to Aaron and headed down to Hood River. We sat by the river and watched the kite surfers for quite a while before checking in to the Hampton Inn and then walking into town for a nice dinner and drinks at the Full Sail Brewing Company.",
+					"picbotm": ""
+				},
+				{
+					"picID": "4",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=vqsN8M",
+			"smugAlbum": "https://havingadventures.smugmug.com/201609-Wash-Oregon/2016-09-10-Lost-Lk-Mt-Hood",
+			"smugAlbumName": "Lost Lake - Mt Hood"
+		},
+		{
+			"dayId": "2060912",
+			"h1title": "Columbia River, Bridge of the Gods and Multnomah & Wahkenna Falls",
+			"h3": "",
+			"pdate": "Monday, Sept 12th, 2016",
+			"pdesc": "In the morning we drove down along the Columbia River stopping along the way at Cascade Locks and learned about the Bridge of the Gods (land bridge) and paid the $4 to drive across the Bridge of the Gods (actual bridge. We also stopped at the Bonneville Dam and watching the salmon go up there ladder to get above the falls.",
+			"mappic": "https://www.havingadventures.com/img/sanjuan/20160912ColRiv001.jpg",
+			"mappicport": "",
+			"mapspan": "Cascade Locks Park",
+			"dayLink": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://www.havingadventures.com/img/sanjuan/20160912ColRiv012.jpg",
+					"piccap": "Multnomah Falls",
+					"pictop": "After this we headed down to the section of the river where there are many waterfalls right along the highway. We did a 5 mile loop hike up to the top of Wahkenna Falls and then traversed over and came back down next to Multhomah Falls.",
+					"picbotm": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201609-Wash-Oregon/2016-09-12-Columbia-River/i-h5fG5qF/0/924ffcbd/M/2016-09-12-10-53%20Columbia%20River%20015-M.jpg",
+					"piccap": "Wiesendanger Falls",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "3",
+					"pic": "https://www.havingadventures.com/img/sanjuan/20160912ColRiv043.jpg",
+					"piccap": "Wiesendanger Falls",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "4",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=DDpck2",
+			"smugAlbum": "https://havingadventures.smugmug.com/201609-Wash-Oregon/2016-09-12-Columbia-River",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "2060913.2",
+			"h3": "Down to the coast in Oceanside",
+			"pdesc": "After a couple hour drive, we ended the day in Oceanside in our Vacasa home for two nights. We arrived in time to go to the beach and catch one of the best sunsets I've seen.",
+			"mappic": "https://www.havingadventures.com/img/sanjuan/20160912ColRiv061.jpg",
+			"mapspan": "Oceanside sunset",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://www.havingadventures.com/img/sanjuan/20160912ColRiv064.jpg",
+					"piccap": "Oceanside, OR",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://www.havingadventures.com/img/sanjuan/20160912ColRiv060.jpg",
+					"piccap": "",
+					"pictop": ""
+				}
+			]
+		},
+		{
+			"dayId": "2060913",
+			"h1title": "Oceanside and Pacific City",
+			"h3": "",
+			"pdate": "Tuesday, Sept 13th, 2016",
+			"pdesc": "After a morning walk along the beach by Three Arch Rocks we drove south to see the coast. We ended up in Pacific City which is part of the Cape Kiwanda State Natural Area. This was our most relaxed day of the trip and after a nap on the beach admiring Chief Kiawanda Rock we had a leisurely lunch at The Pelican Pub and Brewery and headed back to Oceanside.",
+			"mappic": "",
+			"mappicport": "../img/sanjuan/20160913OregonCoast047.jpg",
+			"mapspan": "",
+			"dayLink": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201609-Wash-Oregon/2016-09-13-Oregon-Coast/i-GjZWT8t/0/d6450b38/L/2016-09-13-09-01%20Oregon%20Coast%20001-L.jpg",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201609-Wash-Oregon/2016-09-13-Oregon-Coast/i-XNNgTBs/1/146c3e99/M/2016-09-13-13-16%20Oregon%20Coast%20023-M.jpg",
+					"piccap": "A well earned rest",
+					"pictop": "This was our most relaxed day of the trip and after a nap on the beach admiring Chief Kiawanda Rock we had a leisurely lunch at The Pelican Pub and Brewery and headed back to Oceanside.",
+					"picbotm": ""
+				},
+				{
+					"picID": "3",
+					"pic": "https://photos.smugmug.com/201609-Wash-Oregon/2016-09-13-Oregon-Coast/i-JPpPf6z/1/M/2016-09-13-17-20%20Oregon%20Coast%20044-M.jpg",
+					"piccap": "In the mud at Netarts Bay ",
+					"pictop": "Along the way we stopped along the mud flats just south of Oceanside to look for crabs and clams. Almost lost some shoes to the mud but eventually found a path for a nice dinner and sunset at Roseanna's Cafe.",
+					"picbotm": ""
+				},
+				{
+					"picID": "4",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=xWTWLJ",
+			"smugAlbum": "https://havingadventures.smugmug.com/201609-Wash-Oregon/2016-09-13-Oregon-Coast",
+			"smugAlbumName": "Oceanside"
+		},
+		{
+			"dayId": "2060914",
+			"h1title": "Oregon Coast, Astoria and the mouth of the Columbia",
+			"h3": "",
+			"pdate": "Wednesday, Sept 14th, 2016",
+			"pdesc": "Starting from Oceanside we drove through Tillamook but didnt stop for cheese. Stopped a number of times along the way in state parks before going to Fort Clatsop near Astoria. ",
+			"mappic": "",
+			"mappicport": "https://photos.smugmug.com/201609-Wash-Oregon/2016-09-14-Oregon-Coast-and/i-t2xpJQq/1/25d01eb3/L/2016-09-14-14-08%20Oregon%20Coast%20012-L.jpg",
+			"mapspan": "Mouth of the Columbia River",
+			"dayLink": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201609-Wash-Oregon/2016-09-14-Oregon-Coast-and/i-ZGNTzxp/0/d14d19e0/M/2016-09-14-14-04%20Oregon%20Coast%20006-M.jpg",
+					"piccap": "Astoria column",
+					"pictop": "Next stop was Astoria Column where we climbed the 190 or so steps to look out on the entire Columbia River mouth.",
+					"picbotm": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201609-Wash-Oregon/2016-09-14-Oregon-Coast-and/i-wZFpJHR/1/27ac81e0/L/2016-09-14-17-18%20Oregon%20Coast%20027-L.jpg",
+					"piccap": "Along Cape Disappointment trail",
+					"pictop": "We also stopped at the two lighthouse on the Washington side of the mouth of the Columbia River.",
+					"picbotm": ""
+				},
+				{
+					"picID": "3",
+					"pic": "https://photos.smugmug.com/201609-Wash-Oregon/2016-09-14-Oregon-Coast-and/i-P7JrcN5/0/9165a5d2/L/2016-09-14-17-16%20Oregon%20Coast%20025-L.jpg",
+					"piccap": "Cape Disappointment Lighthouse",
+					"picbotm": "These were the final stops and all that remained was a long drive back to Seatac and a long redeye flight to Newark.",
+					"pictop": ""
+				},
+				{
+					"picID": "4",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=K79mD8",
+			"smugAlbum": "https://havingadventures.smugmug.com/201609-Wash-Oregon/2016-09-14-Oregon-Coast-and",
+			"smugAlbumName": "Oregon Coast and Astoria"
+		}
+	]
+}
+
+

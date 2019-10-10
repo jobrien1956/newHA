@@ -1,0 +1,116 @@
+{
+	"trip": {
+		"nav": "1",
+		"id": "199705rmnp",
+		"backgroundImg": "../img/index/199705RckyMtnNP.jpg",
+		"pageLink": " adventures/ha_future.html",
+		"pageTitle": " May 1997 - Kremling and Rocky Mtn NP",
+		"pageSubtitle": " I wouldn't know what to say",
+		"summ": " We visited Blue Valley Ranch and Rocky Mtn NP in the spring",
+		"intro": "--",
+		"introDescr": "Our family took an early spring trip to Colorado and visited the still under construction Blue Valley Ranch and then spent two days in Rocky Mountain NP",
+		"introPic1": "https://photos.smugmug.com/199705RockyMtnNP/199705BlueValleyRanch/i-rs548VL/0/6c19725c/M/199705RockyMtnNP%20-%2048%20of%2053-M.jpg",
+		"introPic1span": "Kelly with his trout from the Blue River",
+		"endMap": "1kxlHbu-9W1iQ0R91ewQUYwOqZQAvuIbD",
+		"endmapName": "1997-05 Blue Valley Ranch and RMNP",
+		"foot": "1",
+		"footerPic1": "https://photos.smugmug.com/199705RockyMtnNP/199705BlueValleyRanch/i-Zjt8XN5/0/fcf8b06d/S/199705RockyMtnNP%20-%2029%20of%2053-S.jpg",
+		"footerPic2": "https://photos.smugmug.com/199705RockyMtnNP/RMNPMay1997/i-rf4t23m/1/abd3066c/M/199705RockyMtnNP%20-%2017%20of%2053-S.jpg",
+		"footPic1Span": "Blue River",
+		"days": [
+		]
+	},
+	"adventureDay": [
+		{
+			"dayId": "19970505",
+			"h1title": "Blue Valley Ranch, Kremling, CO",
+			"h3": "Conservation for Wildlife & Agriculture",
+			"pdate": "May, 1997",
+			"pdesc": "We spent two nights at the 'guest house' at ",
+			"pdesc2": "  We got a great tour of the property and went trout fishing on the Blue River and horseback riding up in the higher country along the Beaver Creek",
+			"pdesc3": "",
+			"pdescLink1": "http://bluevalleyranch.com/",
+			"pdescLink2": "",
+			"pdescLinktag1": "Blue Valley Ranch.",
+			"pdescLinktag2": "",
+			"mappic": "https://photos.smugmug.com/199705RockyMtnNP/199705BlueValleyRanch/i-Q5vHQD9/2/360c632b/S/199705RockyMtnNP%20-%2051%20of%2053-M.jpg",
+			"mappicport": "",
+			"mapspan": "A fawn hidden in the grass",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic1": "https://photos.smugmug.com/199705RockyMtnNP/199705BlueValleyRanch/i-vDK4FFH/1/f9adc901/M/199705RockyMtnNP%20-%2033%20of%2053-L.jpg",
+					"pic1cap": "Kathy getting ready for our ride",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "2",
+					"pic2": "https://photos.smugmug.com/199705RockyMtnNP/199705BlueValleyRanch/i-bRSDPNb/1/135abd79/M/199705RockyMtnNP%20-%2042%20of%2053-L.jpg",
+					"pic2cap": "Kelly on our ride",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "3",
+					"pic3": "https://photos.smugmug.com/199705RockyMtnNP/199705BlueValleyRanch/i-X7Rcb5H/1/8757fae1/M/199705RockyMtnNP%20-%2038%20of%2053-M.jpg",
+					"pic3cap": "Allie on Blue at Blue Valley Ranch",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "4",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=cgL2tQ",
+			"smugAlbum": "https://havingadventures.smugmug.com/199705RockyMtnNP/199705BlueValleyRanch",
+			"smugAlbumName": "Blue Valley Ranch"
+		},
+		{
+			"dayId": "19970506",
+			"h1title": "Rocky Mtn NP",
+			"h3": "I wouldn't know what to say",
+			"pdate": "May, 1997",
+			"pdesc": "We had a travel day to get from Kremling to Rocky Mountain NP.  We went to the Alpine Visitor Center and hiked across snow to get to the overlook.  The next day we hiked around a lake but needed to turn back because of snow.  During our hike Kelly lost his compass and in the insuing 30 minutes we learned that 'he wouldn't know what to say'",
+			"mappic": "https://photos.smugmug.com/199705RockyMtnNP/RMNPMay1997/i-zZ79grJ/1/ea2e2f9c/M/199705RockyMtnNP%20-%2030%20of%2053-M.jpg",
+			"mapspan": "Kelly on top of the Alpine Ridge",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic1": "https://photos.smugmug.com/199705RockyMtnNP/RMNPMay1997/i-ZVWwCsj/0/30013992/L/199705RockyMtnNP%20-%2047%20of%2053-L.jpg",
+					"pic1cap": "Overlook by the Alpine Visitor Center",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "2",
+					"pic2": "https://photos.smugmug.com/199705RockyMtnNP/RMNPMay1997/i-vXXw7qv/0/d983763e/L/199705RockyMtnNP%20-%2020%20of%2053-L.jpg",
+					"pic2cap": "From our hike around lake",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "3",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "4",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=VFRpbR",
+			"smugAlbum": "https://havingadventures.smugmug.com/199705RockyMtnNP/RMNPMay1997",
+			"smugAlbumName": "Rocky Mtn NP"
+		}
+	]
+}

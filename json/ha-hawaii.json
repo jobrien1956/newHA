@@ -1,0 +1,332 @@
+{
+	"trip": {
+		"nav": "1",
+		"TripId": "200608hawaii",
+		"id": "ha-hawaii",
+		"backgroundImg": "../img/index/2006Hawaii.jpg",
+		"tripThumb": "../img/index/thumb/2006Hawaii.jpg",
+		"pageLink": "adventures/ha_future.html",
+		"pageTitle": "Aug, 2008 - Hawaii ",
+		"pageSubtitle": "3 islands - 2 weeks - Awesome",
+		"summ": "",
+		"intro": "--",
+		"introDescr": "",
+		"introPic1": "",
+		"introPic1span": "",
+		"introPic2": "",
+		"introPic2span": "",
+		"videoLink": "",
+		"videoIframe": "",
+		"foot": "1",
+		"footerPic1": "",
+		"footerPic2": "",
+		"footPic1Span": "",
+		"endMap": "1UwTu2fNzieZ13e1KOy7M-9XZFXdaiTZw",
+		"endmapName": "2006 Hawaii",
+		"days": [
+		]
+	},
+	"adventureDay": [
+		{
+			"dayId": "20060820",
+			"h1title": "Up early to get to Pearl Harbor",
+			"h3": "",
+			"pdate": "Sunday, August 20, 2006",
+			"pdesc": "We left on a Saturday afternoon and went direct from Newark to Honolulu and arrived late in the day. We stayed overnight in Waikiki and woke before dawn with the help of our body clocks still on NJ time to take an early morning bus (to beat the crowds) tour to the USS Arizona memorial. ",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "../img/hawaii/hawaii01.jpg",
+			"mappicport": "",
+			"mapspan": "We paid extra for our greeting",
+			"pictures": [
+				{
+					"picID": "1",
+					"pictop": "When we arrived at about 7am there was already about a hundred people on line and we were able to get in the second group to take see a movie and then take a ferry out to see the memorial. By the time they started giving out tickets at 7:30 there were hundreds of people in line so the early arrival saved us a couple hours of waiting to get into the movie. ",
+					"pic": "https://photos.smugmug.com/200608-Hawaii/20060820-Honalulu/i-MzgtJVV/1/29578ff9/L/200608Hawaii%20-%2044%20of%20257-L.jpg",
+					"picbotm": "The lead in to the movie was given by a surviving serviceman which was a very good way of bringing you back to the day 65 years ago. The memorial is a small area built above the sunken USS Arizona and you can see down into the water the outline of the ship and the gun turrets at about the water line.  The oil and gas from the boat is still leaking out into the water after 65 years. In addition we had the USS Missouri docked a short distance away so you could really get an appreciation for the size of the boat underwater.",
+					"piccap": "USS Missouri"
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/200608-Hawaii/20060820-Honalulu/i-7rD9FZc/0/2018468b/L/200608Hawaii%20-%2010%20of%20257-L.jpg",
+					"piccap": "The museum is built over the top of the sunken ship",
+					"pictop": ""
+				},
+				{
+					"picID": "3",
+					"pic": "https://photos.smugmug.com/200608-Hawaii/20060820-Honalulu/i-fhJTNSc/0/1223f00a/L/200608Hawaii%20-%2021%20of%20257-L.jpg",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=8pTnhZ",
+			"smugAlbum": "https://havingadventures.smugmug.com/200608-Hawaii/20060820-Honalulu",
+			"smugAlbumName": "Pearl Harbour-Wailea"
+		},
+		{
+			"dayId": "20060821",
+			"h1title": "Maui, Grand Wailea & Big Beach",
+			"h3": "",
+			"pdate": "Monday, August 21, 2006",
+			"pdesc": "We flew over to Maui later in the afternoon and were checked into the hotel by 6pm. We stayed in the Wailea section on the south side of Maui and had eight days to explore Maui. ",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/200608-Hawaii/20060820-Honalulu/i-HFNf7sQ/0/b9543d99/L/200608Hawaii%20-%2033%20of%20257-L.jpg",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/200608-Hawaii/20060820-Honalulu/i-cjm9sxq/1/58857dc5/L/200608Hawaii%20-%209%20of%20257-L.jpg",
+					"piccap": "",
+					"pictop": "We took Monday to get settled and adjusted to the time change by hanging at the hotel pools which had lots of slides which we all enjoyed. Later in the day we went to the local Pearl Vision Center and replaced Kathy’s glasses."
+				},
+				{
+					"picID": "3",
+					"pic": "https://photos.smugmug.com/200608-Hawaii/20060820-Honalulu/i-Qx4XFT4/0/ac941f21/L/200608Hawaii%20-%2022%20of%20257-L.jpg",
+					"piccap": "Beach along the hotel",
+					"picbotm": "Our tour book recommended “Big Beach” which is a state park about 5 miles from our hotel and we were able to explore some of the lava outcropping between Big Beach and Little Beach. What we didn’t realize was that Little Beach is a former hippie commune and is still clothing optional.  After all of us got a look at a little too much skin we retreated back to Big Beach."
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "https://havingadventures.smugmug.com/200608-Hawaii/20060820-Honalulu",
+			"smugAlbumName": "Honalulu and Wailea"
+		},
+		{
+			"dayId": "20060823",
+			"h1title": "Maui Downhill",
+			"h3": "",
+			"pdate": "Wednesday, August 23, 2006",
+			"pdesc": "On Tuesday morning Kelly and I left the hotel at 2:30 am to take a trip called Maui Downhill. We took a large passenger van filled to the brim with people up to the overlook of crater at the top of Haleakala National Park Volcano.   This is the larger of the two volcanos which formed the island of Maui. The peak is at about 10,000 feet and the road is about 15 miles of switchbacks so it takes a good hour to reach the summit. We arrived long before sunrise with the temperature about 30 degrees cooler than at the hotel. ",
+			"mappic": "",
+			"mappicport": "https://photos.smugmug.com/200608-Hawaii/20060823/i-HcQP9LF/1/1a58f9ea/L/200608Hawaii%20-%2073%20of%20257-L.jpg",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pictop": "There is a large platform overlooking the crater which was slowly filling with people so Kelly and I followed a group walking off up a trail into the darkness. This was a lucky move since we ended up a few hundred feet above the crowded platform which eventually filled with hundreds of people. We were with about 20 people and our vantage point also was protected from the wind so we could sit comfortably and wait for the sun. ",
+					"pic": "https://photos.smugmug.com/200608-Hawaii/20060823/i-SNq6H2f/1/e81a9817/L/200608Hawaii%20-%20106%20of%20257-L.jpg",
+					"piccap": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/200608-Hawaii/20060823/i-MtZMCgR/0/d7ec960b/L/200608Hawaii%20-%2045%20of%20257-L.jpg",
+					"piccap": "",
+					"pictop": "It was worth the wait. There are about 5 different companies that do the downhill trip and they each bring between 10 and 15 people up. There were actual 18 vans who were going down the mountain ahead of us and all these people plus many in there own cars were up there for the sun rise. The crater is about 7 miles across and we could look down into it as the lights came on.  We had enough cloud cover to create really nice orange/pink colors. After the sunrise at our location we hiked back down and caught the remainder of the sunrise show from the viewing platform. "
+				},
+				{
+					"picID": "3",
+					"pic": "https://photos.smugmug.com/200608-Hawaii/20060823/i-4HdKpN4/0/2213141f/L/200608Hawaii%20-%2028%20of%20257-L.jpg",
+					"pictop": "The park service does a Hawaiian chant to the sun god at sunrise. The ceremony was delayed by an unruly tourist who had climbed/ scrambled up into an area of lava rocks that was off limits to tourists.",
+					"piccap": "",
+					"picbotm": " “Will the man in the blue jeans and tan coat please return to the trail” I think Kelly is used to this type of behavior and therefore wasn’t too embarrassed.."
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=QmsFWT",
+			"smugAlbum": "https://havingadventures.smugmug.com/200608-Hawaii/20060823",
+			"smugAlbumName": "Maui Downhill"
+		},
+		{
+			"dayId": "20060824",
+			"h1title": "Maui - Road to Hana",
+			"h3": "a never ending road",
+			"pdate": "Thursday, August 24, 2006",
+			"pdesc": "By Wednesday the family was wondering when we would get a chance for a break but we still needed to take the “Road to Hana” which is a 48 mile serpentine road that winds along the northern face of the island from the main town of Maui to Hana.  I can’t tell you anything about Hana since we took the road only about 46 miles and decided we had seen enough.",
+			"mappic": "https://photos.smugmug.com/200608-Hawaii/20060824/i-G3fZq3t/0/45d70a8d/M/200608Hawaii%20-%20210%20of%20257-M.jpg",
+			"mapspan": "At the begining of the road",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/200608-Hawaii/20060824/i-QzJVkFC/0/e0710a19/L/200608Hawaii%20-%20117%20of%20257-L.jpg",
+					"piccap": "It took some work to get over to the falls.",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/200608-Hawaii/20060824/i-RLXnJw6/0/94ae373a/L/200608Hawaii%20-%2083%20of%20257-L.jpg",
+					"piccap": "A beach along the way",
+					"pictop": ""
+				},
+				{
+					"picID": "3",
+					"pic": "https://photos.smugmug.com/200608-Hawaii/20060824/i-kfPF8zG/0/1268303c/L/200608Hawaii%20-%2043%20of%20257-L.jpg",
+					"piccap": "At the end of the road ...",
+					"picbotm": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "20060825",
+			"h1title": "Maui- Paragon Snorkel Trip",
+			"h3": "",
+			"pdate": "Friday, August 25, 2006",
+			"pdesc": "On Thursday we took a catamaran group sail to go snorkeling off Moliki   which is a sunken volcano with a portion of the crater rim still above water and loads of fish and coral on the edges.  This is the main snorkeling place for the large tour boats so it was a bit crowded but still fun.  The wind wasn’t really blowing so we didn’t sail for very long.   This was another morning activity which required leaving the house at about 6:30am",
+			"mappic": "https://photos.smugmug.com/200608-Hawaii/20060825/i-nzVQ2cD/1/a4dded0f/M/200608Hawaii%20-%2050%20of%20257-M.jpg",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/200608-Hawaii/20060825/i-j9CBWtd/0/4e9b077c/M/200608Hawaii%20-%20158%20of%20257-M.jpg",
+					"piccap": "This was a relaxing day",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/200608-Hawaii/20060825/i-h2mBTP5/0/9a13ec9d/L/200608Hawaii%20-%20118%20of%20257-L.jpg",
+					"piccap": "",
+					"pictop": "By Friday we took a rest and hung out at the hotel.  We did see a real nice sunset while coming from dinner."
+				},
+				{
+					"picID": "3",
+					"pic": "https://photos.smugmug.com/200608-Hawaii/20060825/i-FQ5fs2b/0/0e9da011/M/200608Hawaii%20-%2070%20of%20257-M.jpg",
+					"piccap": "",
+					"picbotm": "On Saturday we took a snorkeling kayak trip.  On the outbound trip thru the waves Allie was with the guide since we though he would be the safest person for her to be with.  We didn’t realize until after he flipped the kayak on his way back into the shore that Kelly knew more about kayaking them him.  We did manage to get some snorkeling in but the water was pretty rough and not as clear as our previous trip on the catamaran.  "
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "20060827",
+			"h1title": "Maui - Iao Valley",
+			"h3": "",
+			"pdate": "Sunday, August 27, 2006",
+			"pdesc": "We tried to drive back up to the Haleakala Volcano but ran into rain and turned back about half way up without seeing if the top was above the clouds.  We ended up going to the other side of the island into the Iao Valley which was the location of one of the last tribal slaughters during the 1800s but was also a very beautiful valley in the middle of the volcano mountain/crater.",
+			"mappic": "https://photos.smugmug.com/200608-Hawaii/20060827/i-t6mHZPx/0/d8fcbef4/M/200608Hawaii%20-%20120%20of%20257-M.jpg",
+			"mapspan": "The Iao Needle (Kūkaemoku) in the background",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/200608-Hawaii/20060827/i-PL5jvmS/0/81fd35f8/M/200608Hawaii%20-%20147%20of%20257-M.jpg",
+					"piccap": "The Iao Needle (Kūkaemoku)",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/200608-Hawaii/20060827/i-zScvz3c/0/09ac9968/L/200608Hawaii%20-%20134%20of%20257-L.jpg",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "3",
+					"pic": "https://photos.smugmug.com/200608-Hawaii/20060827/i-9R7V8g9/0/ea05ce7a/L/200608Hawaii%20-%20127%20of%20257-L.jpg",
+					"piccap": "",
+					"picbotm": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=8wZMjx",
+			"smugAlbum": "https://havingadventures.smugmug.com/200608-Hawaii/20060827",
+			"smugAlbumName": "Iao Valley"
+		},
+		{
+			"dayId": "20060829",
+			"h1title": "Big Island - Pololu Valley",
+			"h3": "",
+			"pdate": "Tuesday, August 29, 2006",
+			"pdesc": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "3",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "20060830",
+			"h1title": "Volcano NP",
+			"h3": "",
+			"pdate": "Wednesday, August 30, 2006",
+			"pdesc": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "3",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "20060831",
+			"h1title": "Fairmont Orchid Last Day",
+			"h3": "",
+			"pdate": "Thursday, August 31, 2006",
+			"pdesc": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "3",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		}
+	]
+}
+
+

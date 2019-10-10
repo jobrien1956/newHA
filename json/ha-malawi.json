@@ -1,0 +1,73 @@
+{
+	"trip": {
+		"nav": "1",
+		"id": "201706malawi",
+		"backgroundImg": "https://photos.smugmug.com/201706-Malawi/201706-Malawi/i-wJLkm6P/0/9101725f/S/IMG_1635-L.jpg",
+		"pageLink": "201706malawi.html",
+		"pageTitle": "Hara, Malawi, Africa",
+		"pageSubtitle": "Determined to Develop",
+		"summ": "4 days in Malawi with UD",
+		"intro": "--",
+		"introDescr": "My trip to Malawi was a number of years in the making. I've been supporting a program where UD sends students to this area for the past few years.Our local host, Matt Maroon, is in the process of building a high school to go along with the already significant development he has done. <a href='https://determinedtodevelop.org/'>Determined to Develop</a> is a remarkable story that I was privileged to see the progress they're making.",
+		"introPic1": "https://photos.smugmug.com/201706-Malawi/201706-Malawi-First-2-days/i-hd2sJxF/1/a7357360/L/IMG_2975-L.jpg",
+		"introPic1span": "Lunch at the preschool",
+		"foot": "1",
+		"endMap": "1j_nlFqZoqiRU8uXp4tNSUze7WGI",
+		"endmapName": "Map of Malawi trip",
+		"days": [
+		]
+	},
+	"adventureDay": [
+		{
+			"dayId": "20170627",
+			"h1title": "Arriving in Chiluba, Karonga District",
+			"h3": "Meeting the people of Maji Zuwa, Water and Sun Resort",
+			"pdate": "Tuesday and Wednesday, June 27/28, 2017",
+			"pdesc": "Our first two days were spent visiting various groups in the area.  We saw woman empowerment groups raising goats and chickens, sewing clothes and baking bread and learning to read and speak english.",
+			"mappic": "https://photos.smugmug.com/201706-Malawi/201706-Malawi-First-2-days/i-446vhxB/1/54462071/L/IMG_2983-L.jpg",
+			"mappicport": "",
+			"mapspan": "Jim at the pre-school lunch break",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201706-Malawi/201706-Malawi-First-2-days/i-pnhc5j6/0/dd876975/S/IMG_1599-L.jpg",
+					"piccap": "Our first morning we visited the school site before also seeing a number of different schools in the area.",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201706-Malawi/201706-Malawi-First-2-days/i-5FdgJqN/1/243ae096/S/IMG_2989-L.jpg",
+					"piccap": "This was lunch time at the kindergarten",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=fnNwsd",
+			"smugAlbum": "https://havingadventures.smugmug.com/201706-Malawi/201706-Malawi-First-2-days",
+			"smugAlbumName": "Malawi 1st 2 days"
+		},
+		{
+			"dayId": "20170629",
+			"h1title": "Community Day in Sangilo Village, Chiluba, Karonga District",
+			"h3": "Meeting with the chief",
+			"pdate": "Thursday, Friday & Saturday, June 29 - July 1, 2017",
+			"pdesc": "Our meetings continued on Thursday and each of the Dayton students gave a presentation on their projects.  We visited other high schools and had a chanc to spend time with the students in the evening watching Harry Potter and relaxing",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201706-Malawi/201706-Malawi/i-jk5Bxb7/0/541ef8f3/L/IMG_1633-L.jpg",
+					"piccap": "This is the residence building at Maji Zuma. It will house visiting volunteers and workers.",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201706-Malawi/201706-Malawi/i-KjQpKLF/0/75cf0e1b/L/IMG_1671-L.jpg",
+					"piccap": "This is small sample of the people from around Chilumba who came to celebrate Community Day",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=vZ8T9K",
+			"smugAlbum": "https://photos.smugmug.com/201706-Malawi/201706-Malawi/i-RjZRFDL/1/615d71e3/M/IMG_1673-L.jpg",
+			"smugAlbumName": "Malawi last 2 days"
+		}
+	]
+}

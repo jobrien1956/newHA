@@ -1,0 +1,338 @@
+{
+	"trip": {
+		"nav": "1",
+		"TripId": "",
+		"id": "ha-",
+		"backgroundImg": "../img/index/.jpg",
+		"tripThumb": "../img/index/thumb/.jpg",
+		"pageLink": "adventures/ha_.html",
+		"pageTitle": "A",
+		"pageSubtitle": "===",
+		"tripSumm": "",
+		"summ": "",
+		"intro": "--",
+		"introDescr": "",
+		"introPic1": "",
+		"introPic1span": "",
+		"introPic2": "",
+		"introPic2span": "",
+		"videoLink": "",
+		"videoIframe": "",
+		"foot": "1",
+		"footerPic1": "",
+		"footerPic2": "",
+		"footPic1Span": "",
+		"endMap": "",
+		"endmapName": "",
+		"days": [
+		]
+	},
+	"adventureDay": [
+		{
+			"dayId": "2019xxxx",
+			"h1title": "",
+			"h3": "",
+			"pdate": "",
+			"pdesc": "",
+			"pdescLink1": "",
+			"pdescLinktag1": "",
+			"pdesc2": "",
+			"pdescLink2": "",
+			"pdescLinktag2": "",
+			"pdesc3": "",
+			"pdescLink3": "",
+			"pdescLinktag3": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "3",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "4",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "2019xxxx",
+			"h1title": "",
+			"h3": "",
+			"pdate": "",
+			"pdesc": "",
+			"pdescLink1": "",
+			"pdescLinktag1": "",
+			"pdesc2": "",
+			"pdescLink2": "",
+			"pdescLinktag2": "",
+			"pdesc3": "",
+			"pdescLink3": "",
+			"pdescLinktag3": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "3",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "4",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "2019xxxx",
+			"h1title": "",
+			"h3": "",
+			"pdate": "",
+			"pdesc": "",
+			"pdescLink1": "",
+			"pdescLinktag1": "",
+			"pdesc2": "",
+			"pdescLink2": "",
+			"pdescLinktag2": "",
+			"pdesc3": "",
+			"pdescLink3": "",
+			"pdescLinktag3": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "3",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "4",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "2019xxxx",
+			"h1title": "",
+			"h3": "",
+			"pdate": "",
+			"pdesc": "",
+			"pdescLink1": "",
+			"pdescLinktag1": "",
+			"pdesc2": "",
+			"pdescLink2": "",
+			"pdescLinktag2": "",
+			"pdesc3": "",
+			"pdescLink3": "",
+			"pdescLinktag3": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "3",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "4",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "2019xxxx",
+			"h1title": "",
+			"h3": "",
+			"pdate": "",
+			"pdesc": "",
+			"pdescLink1": "",
+			"pdescLinktag1": "",
+			"pdesc2": "",
+			"pdescLink2": "",
+			"pdescLinktag2": "",
+			"pdesc3": "",
+			"pdescLink3": "",
+			"pdescLinktag3": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "3",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "4",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "2019xxxx",
+			"h1title": "",
+			"h3": "",
+			"pdate": "",
+			"pdesc": "",
+			"pdescLink1": "",
+			"pdescLinktag1": "",
+			"pdesc2": "",
+			"pdescLink2": "",
+			"pdescLinktag2": "",
+			"pdesc3": "",
+			"pdescLink3": "",
+			"pdescLinktag3": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "3",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "4",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		}
+	]
+}

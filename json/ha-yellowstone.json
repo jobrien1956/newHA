@@ -1,0 +1,238 @@
+{
+	"trip": {
+		"nav": "1",
+		"TripId": "199308yellowstone",
+		"id": "ha-yellowstone",
+		"backgroundImg": "https://photos.smugmug.com/199309Yellowston/19930902Yellowstone/i-xtLrnD4/0/2c5e2bde/M/199309Yellowstone%20-%2013%20of%2071-L.jpg",
+		"tripThumb": "../img/index/thumb/199308yellowstone2.jpg",
+		"pageLink": "adventures/ha_future.html",
+		"pageTitle": "Sept, 1993 - Yellowstone",
+		"pageSubtitle": "Elk, Moose, Buffalo and hiking Mt Washburn w mtn. goats",
+		"tripSumm": "A family vacation to an amazing place of wonder",
+		"summ": "",
+		"intro": "--",
+		"introDescr": "Our trip to NW Wyoming was the first time we took Kelly on  trip like this.  We arrived on Labor Day weekend and spent a week in the area.  We stayed in a cabin at Flagg Ranch in the area between Yellowstone and the Grand Tetons.",
+		"introPic1": "https://photos.smugmug.com/199309Yellowston/19930902Yellowstone/i-HPTKbGF/1/5d79e7c5/L/199309Yellowstone%20-%2058%20of%2071-L.jpg",
+		"introPic1span": "",
+		"introPic2": "",
+		"introPic2span": "../img/index/199308yellowstone2.jpg",
+		"videoLink": "",
+		"videoIframe": "",
+		"foot": "1",
+		"footerPic1": "https://photos.smugmug.com/199309Yellowston/19930902Yellowstone/i-rBfpqmN/0/e6b89f26/M/199309Yellowstone%20-%2045%20of%2071-M.jpg",
+		"footerPic2": "https://photos.smugmug.com/199309Yellowston/19930902Yellowstone/i-nwdRTX4/0/670ea211/M/199309Yellowstone%20-%203%20of%2071-M.jpg",
+		"footPic1Span": "",
+		"endMap": "14y7TLNSOwDjQo5NgcGActVA0u5-cu6kG",
+		"endmapName": "Yellowstone Grand Tetons",
+		"days": [
+		]
+	},
+	"adventureDay": [
+		{
+			"dayId": "19930906",
+			"h1title": "Grand Tetons",
+			"h3": "",
+			"pdate": "Monday, Sept 6, 1993",
+			"pdesc": "From our cabin in Flagg Ranch we rented bikes and drove down into Grand Teton NP. I was able to get up really early in the morning to see the sun rise on the Tetons and came across a moose who i followed around for a while",
+			"pdescLink1": "",
+			"pdescLinktag1": "",
+			"pdesc2": "",
+			"pdescLink2": "",
+			"pdescLinktag2": "",
+			"pdesc3": "",
+			"pdescLink3": "",
+			"pdescLinktag3": "",
+			"mappic": "https://photos.smugmug.com/199309Yellowston/19930901GrandTetons/i-KdXvGM8/0/651fc545/L/199309Yellowstone%20-%2019%20of%2071-L.jpg",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/199309Yellowston/19930901GrandTetons/i-zjLzW9z/0/2adab338/M/199309Yellowstone%20-%2024%20of%2071-L.jpg",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/199309Yellowston/19930901GrandTetons/i-CqFGhn7/0/c5e5c207/M/199309Yellowstone%20-%2033%20of%2071-L.jpg",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": "This moose was along the side of the road when we were driving.  It was twice the size of the one I saw when out on my bike."
+				},
+				{
+					"picID": "3",
+					"pic": "https://photos.smugmug.com/199309Yellowston/19930901GrandTetons/i-p2mdnJC/0/16dae486/L/199309Yellowstone%20-%209%20of%2071-L.jpg",
+					"picbotm": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "4",
+					"pic": "https://photos.smugmug.com/199309Yellowston/19930901GrandTetons/i-4ctT5Qp/0/3a1961b1/L/199309Yellowstone%20-%2017%20of%2071-L.jpg",
+					"picbotm": "Grand Tetons in the morning",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=CJJ7dN",
+			"smugAlbum": "https://havingadventures.smugmug.com/199309Yellowston/19930901GrandTetons",
+			"smugAlbumName": "Grand Tetons"
+		},
+		{
+			"dayId": "19930904",
+			"h1title": "Yellowstone",
+			"h3": "",
+			"pdate": "Saturday, Sept 4, 1993",
+			"pdesc": "We hit all the hot spots in Yellowstone incuding the Falls, Old Faithfull and various wildlife viewing spots.  The Elks were in the middle of the rut and we could hear them bugling in the area around the Madison River. ",
+			"pdescLink1": "",
+			"pdescLinktag1": "",
+			"pdesc2": "",
+			"pdescLink2": "",
+			"pdescLinktag2": "",
+			"pdesc3": "",
+			"pdescLink3": "",
+			"pdescLinktag3": "",
+			"mappic": "https://photos.smugmug.com/199309Yellowston/19930902Yellowstone/i-wkSBMXB/0/163a08fb/L/199309Yellowstone%20-%2046%20of%2071-L.jpg",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/199309Yellowston/19930902Yellowstone/i-sJKWpMH/0/de840a92/L/199309Yellowstone%20-%2059%20of%2071-L.jpg",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/199309Yellowston/19930902Yellowstone/i-Rp2Mqqv/0/316a60b1/L/199309Yellowstone%20-%2044%20of%2071-L.jpg",
+					"piccap": "Along the Madison River",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "3",
+					"pic": "https://photos.smugmug.com/199309Yellowston/19930902Yellowstone/i-CdB5B4S/0/949b338f/L/199309Yellowstone%20-%2035%20of%2071-L.jpg",
+					"picbotm": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "4",
+					"pic": "https://photos.smugmug.com/199309Yellowston/19930902Yellowstone/i-c4G6DFX/0/1d68abd2/M/199309Yellowstone%20-%2041%20of%2071-M.jpg",
+					"picbotm": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "19930907",
+			"h1title": "Mt Washburn",
+			"h3": "No food, No water ? No problem!!!",
+			"pdate": "Wednesday, Sept 8, 1993",
+			"pdesc": "",
+			"pdescLink1": "",
+			"pdescLinktag1": "",
+			"pdesc2": "",
+			"pdescLink2": "",
+			"pdescLinktag2": "",
+			"pdesc3": "",
+			"pdescLink3": "",
+			"pdescLinktag3": "",
+			"mappic": "https://photos.smugmug.com/199309Yellowston/Mt-Washburn/i-ZVCVXnz/0/5ca0ad32/M/199309Yellowstone%20-%2028%20of%2071-M.jpg",
+			"mappic2": "https://photos.smugmug.com/199309Yellowston/Mt-Washburn/i-qJCMhK9/0/95edb023/M/199309Yellowstone%20-%2054%20of%2071-M.jpg",
+			"mappicport": "",
+			"mapspan": "Kelly on the way up",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/199309Yellowston/Mt-Washburn/i-VRGM7LK/0/b9c72037/M/199309Yellowstone%20-%2030%20of%2071-M.jpg",
+					"piccap": "On the way up",
+					"pictop": "Looking for something to do I had identified Mt Washburn as a place we could do a short hike.  About 20 minutes into our hike up the Dunraven Pass trail we saw another family with a young girl slightly older than Kelly coming down the trail.  Up until this point Kelly had been a slightly less than enthusiastic participant.  The woman told us 'He'll never make it'.  From this point on Kelly was convinced he'd make it to the top of Mt Washburn and repeatedly announced 'I bet that girl didnt make it this far'",
+					"picbotm": "The Mt. Washburn Trail Is a moderately difficult hike. From the Chittenden parking area it rises 1,491' over 2 8 miles, and from Dunraven Pass it gains 1,393' in a 3.5 mile climb to the summit.  Allow at least fours to make the round trip to the summit and back.   This area is good grlz1ly bear habitat.  Be aware and stay alert!"
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/199309Yellowston/19930902Yellowstone/i-jnV77cz/0/26892ddf/M/199309Yellowstone%20-%2050%20of%2071-M.jpg",
+					"piccap": "On top of Mt Washburn fire station (elev 10,230ft)",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "3",
+					"pic": "https://photos.smugmug.com/199309Yellowston/Mt-Washburn/i-wSDF5MG/0/47ae2b4a/L/199309Yellowstone%20-%2051%20of%2071-L.jpg",
+					"picbotm": "On the way down, Kathy carried Kelly most of the way and had to get off the trail to circle around this group of mountain goats",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "4",
+					"pic": "https://photos.smugmug.com/199309Yellowston/Mt-Washburn/i-xLmmrvc/0/ded06a38/L/199309Yellowstone%20-%2053%20of%2071-L.jpg",
+					"picbotm": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=FqxhH9",
+			"smugAlbum": "https://havingadventures.smugmug.com/199309Yellowston/Mt-Washburn",
+			"smugAlbumName": "Mt-Washburn"
+		},
+		{
+			"dayId": "19930911",
+			"h1title": "Jackson Hole",
+			"h3": "",
+			"pdate": "Friday, Sept 10, 1993",
+			"pdesc": "",
+			"pdescLink1": "",
+			"pdescLinktag1": "",
+			"pdesc2": "",
+			"pdescLink2": "",
+			"pdescLinktag2": "",
+			"pdesc3": "",
+			"pdescLink3": "",
+			"pdescLinktag3": "",
+			"mappic": "",
+			"mappicport": "https://photos.smugmug.com/199309Yellowston/19930831Jackson/i-2GbKcr4/0/2bfce2c9/M/199309Yellowstone%20-%205%20of%2071-M.jpg",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/199309Yellowston/19930831Jackson/i-8S3kQ5T/0/cb5128b9/L/199309Yellowstone%20-%201%20of%2071-L.jpg",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/199309Yellowston/19930831Jackson/i-VrPpk8X/0/d3ae31ea/M/199309Yellowstone%20-%202%20of%2071-M.jpg",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"pic": "https://photos.smugmug.com/199309Yellowston/19930831Jackson/i-vQKM4CH/0/f204fb46/M/199309Yellowstone%20-%2064%20of%2071-M.jpg",
+					"picbotm": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "4",
+					"pic": "https://photos.smugmug.com/199309Yellowston/19930831Jackson/i-k33XFF2/0/883002c0/M/199309Yellowstone%20-%2067%20of%2071-M.jpg",
+					"picbotm": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=Dw74Zb",
+			"smugAlbum": "https://havingadventures.smugmug.com/199309Yellowston/19930831Jackson",
+			"smugAlbumName": "Jackson Hole"
+		}
+	]
+}
+
+

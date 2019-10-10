@@ -1,0 +1,151 @@
+{
+	"trip": {
+		"nav": "1",
+		"TripId": "199407BC",
+		"id": "ha-BC",
+		"backgroundImg": "../img/index/199407BC.jpg",
+		"tripThumb": "../img/index/thumb/199407BC.jpg",
+		"pageLink": "adventures/ha_future.html",
+		"pageTitle": "July, 1994 - British Colombia",
+		"pageSubtitle": "Rafting, Hiking and Grizzlies on the Red Deer (Wapiti)",
+		"tripSumm": "Leo and I went to scout out the hunting area leased by Tudor and camped up on the Continental Divide and rafted down the Red Deer River",
+		"summ": "",
+		"intro": "--",
+		"introDescr": "In 1994 my boss at the time, PTJ, purchased the hunting licenses for moose, elk and grizzly in northeastern British Columbia.  He wanted to have someone go out and meet the person who was going run the outfitter who was going to lead the project and also meet the man who a=was selling the property.  I volunteered for this tough duty and invited Leo to come along.  We ended up with a party of six for most of our trip.  The outfitter, Gary Koopman, Nancy, his wife,  a photographer from Memphis, Phil Hollis and Dave who sold the business to Paul.",
+		"introPic1": "",
+		"introPic1span": "",
+		"introPic2": "",
+		"introPic2span": "",
+		"videoLink": "",
+		"videoIframe": "",
+		"foot": "1",
+		"footerPic1": "",
+		"footerPic2": "",
+		"footPic1Span": "",
+		"endMap": "",
+		"endmapName": "",
+		"days": [
+		]
+	},
+	"adventureDay": [
+		{
+			"dayId": "19940701",
+			"h1title": "Getting to the Red Deer River",
+			"h3": "Overnight in Calgary then to Edmonton and Grande Prairie, Alberta  ",
+			"pdate": "Wed, Jul 04, 1994",
+			"pdesc": "",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "3",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=Rmd77V",
+			"smugAlbum": "https://havingadventures.smugmug.com/1994-07-BC/1994-07-BC-Part-1-Cont-Divide",
+			"smugAlbumName": "1994-07 BC Part 1 -Cont Divide"
+		},
+		{
+			"dayId": "19940703",
+			"h1title": "",
+			"h3": "",
+			"pdate": "Sun and Mon, Jul 3&4, 1994",
+			"pdesc": "",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "3",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=dMbgB6",
+			"smugAlbum": "https://havingadventures.smugmug.com/1994-07-BC/199407BCPart2WapitiRiver",
+			"smugAlbumName": "1994-07 BC Part 2 Wapiti River"
+		},
+		{
+			"dayId": "19940703",
+			"h1title": "",
+			"h3": "",
+			"pdate": "Sun, Jul 08, 1994",
+			"pdesc": "",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "3",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=qvkzqX",
+			"smugAlbum": "https://havingadventures.smugmug.com/1994-07-BC/199407BCPart3Other",
+			"smugAlbumName": "1994-07 BC Part 3 Other"
+		}
+	]
+}
+
+
