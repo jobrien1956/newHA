@@ -1,0 +1,117 @@
+{
+	"trip": {
+		"id": "ha-costarica",
+		"backgroundImg": "../img/index/201002CostaRica.jpg",
+		"tripThumb": "../img/index/thumb/201002CostaRica.jpg",
+		"pageLink": "",
+		"pageTitle": "Feb, 2010 Costa Rica",
+		"nav": "1",
+		"summ": "A family vacation during Kelly's winter break",
+		"intro": "--",
+		"introDescr": "Allie had a February break and Kelly was interning in NYC so we had a chance to take a full week and see a part of Costa Rica or at least lounge by the pool at a nice hotel.  We did a little of both with a trip to the rain forest, mud and swimming holes, zip lining and canopy swinging.",
+		"introPic1": "",
+		"introPic1span": "",
+		"introPic2": "",
+		"introPic2span": "",
+		"videoLink": "",
+		"videoIframe": "",
+		"foot": "1",
+		"footerPic2": "https://photos.smugmug.com/201002CostaRica/20100217/i-QDgZghR/1/f7ba48e4/M/201002CostaRica%20-%20109%20of%20117-M.jpg",
+		"footerPic1": "https://photos.smugmug.com/201002CostaRica/20100214/i-XntWcgG/1/8f8e582d/S/201002CostaRica%20-%203%20of%20117-S.jpg",
+		"footerPic1Span": "The vulture above was by the hotel.  The white bird was about 4 feet tall!! Yikes!",
+		"endmapName": "",
+		"days": [
+		]
+	},
+	"adventureDay": [
+		{
+			"nav": "1",
+			"dayId": "20100214",
+			"h1title": "4 Seasons COSTA RICA AT PENINSULA PAPAGAYO",
+			"h3": "",
+			"pdate": "Sunday, February 14, 2010",
+			"pdesc": "We spent the first day and a half getting acclimated and went to a zip line tour near the hotel.  The hotel and golf course takes up the peninsula.",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "../img/costarica/CRday1map.jpg",
+			"mappicport": "",
+			"mapspan": "PENINSULA PAPAGAYO",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201002CostaRica/20100214/i-dZC3XRh/0/56a7d597/L/201002CostaRica%20-%2011%20of%20117-L.jpg",
+					"piccap": "Kelly on ",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201002CostaRica/20100214/i-dk4ZCPt/0/cb022b93/M/201002CostaRica%20-%206%20of%20117-M.jpg",
+					"piccap": "Our hotel from a walking trail",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=TvrRns",
+			"smugAlbum": "https://havingadventures.smugmug.com/201002CostaRica/20100214",
+			"smugAlbumName": "Costa Rica Day 1"
+		},
+		{
+			"dayId": "20100216",
+			"h1title": "Canopy Tour at Hacienda Guachipelin",
+			"h3": "Zipping lining and Rappeling",
+			"pdate": "Tuesday, February 16, 2010",
+			"pdesc": "We hired a guide who drove us to the zippline and a swimming hole.  We all learned to rapel and even drop down upside down",
+			"mappicport": "https://photos.smugmug.com/201002CostaRica/20100216/i-cMtcsWq/1/3adc4550/L/201002CostaRica%20-%2050%20of%20117-L.jpg",
+			"mapspan": "Getting our instructions",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201002CostaRica/20100216/i-4WSnnmG/1/73ab7bba/M/201002CostaRica%20-%2059%20of%20117-M.jpg",
+					"piccap": "Getting ready to drop down",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201002CostaRica/20100216/i-WXDMNQJ/1/44958fed/M/201002CostaRica%20-%2073%20of%20117-M.jpg",
+					"piccap": "Kathy zipping",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=cqVpCL",
+			"smugAlbum": "https://havingadventures.smugmug.com/201002CostaRica/20100216",
+			"smugAlbumName": "Zipline"
+		},
+		{
+			"dayId": "20100217",
+			"h1title": "Boating with Crocs and up in the Canopy",
+			"h3": "",
+			"pdate": "Wednesday, February 17, 2010",
+			"pdesc": "",
+			"mappic": "https://photos.smugmug.com/201002CostaRica/20100217/i-PtDcWp7/0/16f3d0bf/M/201002CostaRica%20-%2099%20of%20117-M.jpg",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201002CostaRica/20100217/i-vTnp8LS/1/122c30cf/M/201002CostaRica%20-%20103%20of%20117-M.jpg",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201002CostaRica/20100217/i-dZJdnxh/1/596ea9cd/M/201002CostaRica%20-%20117%20of%20117-M.jpg",
+					"piccap": "Allie and Kathy on the canopy tour.",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=wNfR7F",
+			"smugAlbum": "https://havingadventures.smugmug.com/201002CostaRica/20100217",
+			"smugAlbumName": "Costa Rica River Tour"
+		}
+	]
+}
+
+

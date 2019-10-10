@@ -1,0 +1,174 @@
+{
+	"trip": {
+		"nav": "1",
+		"TripId": "200008smokey",
+		"id": "ha-smokey",
+		"backgroundImg": "../img/index/200008NCSmokey.jpg",
+		"tripThumb": "../img/index/thumb/200008NCSmokey.jpg",
+		"pageLink": "adventures/ha_future.html",
+		"pageTitle": "Smokey Mountains and Tennessee",
+		"pageSubtitle": "",
+		"tripSumm": "",
+		"summ": "",
+		"intro": "A family vacation after Kelly's camp",
+		"introDescr": "This was our late summer vacation.  Kelly was in camp near Hendersonville, NC.  Kathy, Allie and I drove to Hershey Park in PA for the day and then drove down to AShville.  After picking up Kelly the next day we spent a week in Gatlinburg, Dollyworld and Smokey Mtn NP",
+		"introPic1": "",
+		"introPic1span": "",
+		"introPic2": "",
+		"introPic2span": "",
+		"videoLink": "",
+		"videoIframe": "",
+		"foot": "1",
+		"footerPic1": "",
+		"footerPic2": "",
+		"footPic1Span": "",
+		"endMap": "",
+		"endmapName": "",
+		"days": [
+		]
+	},
+	"adventureDay": [
+		{
+			"dayId": "20000817",
+			"h1title": "Allie get's some time",
+			"h3": "Statue of Liberty, Land of Make Believe & Hershey Park",
+			"pdate": "Monday to Thur, Aug 14-17, 2000",
+			"pdesc": "During the summer of 2000 we sent alot of time with Kelly's baseball team.  When the season ended and Kelly went to camp we finally had some time to take Allie on some day trips.  The following weekend was our first without baseball in quite a while and the first to concentrate on Allie.  ",
+			"pdesc2": ".  The next Thursday I started my official vacation and Kathy, Allie and I started on our drive to get Kelly.  ",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "https://photos.smugmug.com/200008Smokey/Hersheypark-Hershey-PA-August-17-2000/i-bPNxZ9R/0/c841461a/M/200008Smokey%20-%203%20of%2058-M.jpg",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/200008Smokey/Hersheypark-Hershey-PA-August-17-2000/i-HFM89Jf/0/633060ba/M/200008Smokey%20-%2013%20of%2058-M.jpg",
+					"piccap": "",
+					"pictop": "We went to the Land of Make Believe in western NJ off of route 80 and had a nice day in the pool and on the kiddy rides.  On Sunday we drove to Liberty State Park and took the ferry to the Statue of Liberty.  It was pretty crowded and we didn’t go up in the statue but had a nice day.  During the baseball playoffs, Allie did get a three day trip with her cousin, Brian, to her grandma’s house in Wall and wore out her grandparents with trips to the beach, boardwalk and arcade",
+					"picbotm": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/200008Smokey/Hersheypark-Hershey-PA-August-17-2000/i-MzDCVc7/1/01585715/M/200008Smokey%20-%2017%20of%2058-M.jpg",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "3",
+					"pic": "https://photos.smugmug.com/200008Smokey/Hersheypark-Hershey-PA-August-17-2000/i-TrgZXBh/0/79fb73ce/M/200008Smokey%20-%207%20of%2058-M.jpg",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "4",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=rNb6Jr",
+			"smugAlbum": "https://havingadventures.smugmug.com/200008Smokey/Hersheypark-Hershey-PA-August-17-2000",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "20000819",
+			"h1title": "Picking up Kelly at Falling Creek camp",
+			"h3": "On to Gatlinburg",
+			"pdate": "Sat, Aug 19, 2000",
+			"pdesc": "On Thursday, we stopped at Hershey Park and had a nice afternoon.  After going on most of the rides Allie would enjoy went got back in the car and drove down Interstate 81 for 5 more hours to put us within striking distance of Ashville, NC.  We stayed overnight in Roanoke, Va. and hit the road in the morning.  On the way to Ashville we stopped in at one of the furniture malls they have in various places in NC.  We didn’t make any purchases but got some ideas. We spent the afternoon getting to Ashville which was not as close to the camp as I thought and then went down to Hendersonville (where we should have stayed) for dinner and then back to Ashville.  We picked up Kelly on Saturday by 10am and got out of the camp just in time.  The dirt road into the camp was pretty narrow and a Suburban (like ours) had slid off the road while letting another car by.  They had to get a tow-truck and it looked like it could cause some serious delays.  Kelly had a nice time at the camp with the highlight being an afternoon of knee boarding on a nearby lake.  His parents spent quite a bit of time trying to find his picture on the camp website (password protected to restrict access to only those connected to the camp).  His first letter home didn’t arrive until we returned from vacation.  We sent a number of letters and you could also send an email that was printed off for the boys.  At the camp they did all the usual things including an overnight camping trip and jumping off a platform onto a blob and getting bounced into the air by the people jumping on after you.",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "https://photos.smugmug.com/200008Smokey/Zirconia-NC-Falling-Creek-Camp-Rd-August-24-2000/i-qSV8FX9/0/9de6d26d/M/200008Smokey%20-%2034%20of%2058-M.jpg",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/200008Smokey/Zirconia-NC-Falling-Creek-Camp-Rd-August-24-2000/i-GzFwHN3/0/7651a76c/M/200008Smokey%20-%2033%20of%2058-M.jpg",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/200008Smokey/Zirconia-NC-Falling-Creek-Camp-Rd-August-24-2000/i-GNXzLg4/0/b490574e/M/200008Smokey%20-%2039%20of%2058-M.jpg",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "3",
+					"pic": "https://photos.smugmug.com/200008Smokey/Zirconia-NC-Falling-Creek-Camp-Rd-August-24-2000/i-ttbJSNV/0/35921096/M/200008Smokey%20-%2032%20of%2058-M.jpg",
+					"piccap": "",
+					"picbotm": "",
+					"picbotm": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=2zJBvG",
+			"smugAlbum": "https://havingadventures.smugmug.com/200008Smokey/Zirconia-NC-Falling-Creek-Camp-Rd-August-24-2000",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "20000822",
+			"h1title": "Smokey Mountain National Park",
+			"h3": "",
+			"pdate": "Tues - Thur, Aug 22-24, 2000",
+			"pdesc": "Our trip to Smoky Mountain NP was good.  The town of Gatlinburg, TN where we rented a time share was VERY touristy.  It wasn’t too crowded during the week but on the weekends it appeared a NASCAR race was about to start at any minute.  People were very friendly.  We did a tour through a large cave and spent a day in Dollywood which is an amusement park created by Dolly Parton.  It was quite a nice park though nowhere near as elaborate as Great Adventure.",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "https://photos.smugmug.com/200008Smokey/Great-Smoky-Mountains-National-Park-Cherokee-August-24-2000/i-2vFMNRn/0/a41fbe0f/M/200008Smokey%20-%2045%20of%2058-M.jpg",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/200008Smokey/Great-Smoky-Mountains-National-Park-Cherokee-August-24-2000/i-NgSwr5L/0/02d2fe11/M/200008Smokey%20-%2025%20of%2058-M.jpg",
+					"piccap": "",
+					"pictop": "We also did some day hikes in the park.  On one of the first days there we hiked up to a waterfall that was a round trip hike of 5.4 miles.  Allie made the entire trip without assistance and was actually full of energy at the end.   The park is quite beautiful but does not compare in grandeur to the National Parks in the west.",
+					"picbotm": ""
+				},
+				{
+					"picID": "3",
+					"pic": "https://photos.smugmug.com/200008Smokey/Great-Smoky-Mountains-National-Park-Cherokee-August-24-2000/i-rbv8fwv/0/5aca9195/M/200008Smokey%20-%2031%20of%2058-M.jpg",
+					"piccap": "",
+					"pictop": "The Appalachian Trail goes through the park along the border of Tennessee and North Carolina.  On our last night there we tried to watch the sun set from the highest point in Tennessee but arrived late and the Smoke had already set in so we ended up with a view of clouds and a hike back to the car in the dark.  We got an early start the next day and despite a wrong turn on I40 in Tennessee we drove straight through stopping only for a late breakfast and mid-afternoon dinner at McDonalds.  We got back to Ridgewood on Friday night and had a weekend with perfect late spring like weather.  It has been nice the past few weekends to have no sports to take up a lot of time.  Hockey is just getting started and we will begin to have games again next weekend.",
+					"picbotm": ""
+				},
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "4",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=bvF2qg",
+			"smugAlbum": "https://havingadventures.smugmug.com/200008Smokey/Great-Smoky-Mountains-National-Park-Cherokee-August-24-2000",
+			"smugAlbumName": "Great Smoky Mountains"
+		}
+	]
+}
+
+

@@ -1,0 +1,231 @@
+{
+	"trip": {
+		"nav": "1",
+		"TripId": "197907xctry",
+		"id": "ha-xctry79",
+		"backgroundImg": "../img/index/197907xctry.jpg",
+		"tripThumb": "../img/index/thumb/197907xctry.jpg",
+		"pageLink": "adventures/ha_future.html",
+		"pageTitle": "Jun 1979 - My first big adventure",
+		"pageSubtitle": "Six weeks - 10,000mi",
+		"summ": "NJ,PA,OH,IN,IL,IA,NB,CO,UT,AZ,NV,CA,UT,ID,WY,MT,SD,MN, WI,IL,IN,OH,PA,NJ",
+		"intro": "44 days on the road in a 72 Chevy Van",
+		"introDescr": "Tony and I crossed thru 19 states on our way across the heartland, thru Denver and Aspen to the Grand Canyon and on to  San Diego.  We then went up the coast of CA and across Nevada and Utah to come back thru Yellowstone and the northern interstate route.",
+		"introPic1": "https://photos.smugmug.com/197906Xctry/Island-in-the-Sky-Monticello-UT-June-28-1979/i-fhNvnwm/0/83a7e744/L/1979Xctry%20-%2017%20of%2098-L.jpg",
+		"introPic1span": "Tony in Canyonlands NP, Utah",
+		"introPic2": "",
+		"introPic2span": "",
+		"videoLink": "",
+		"videoIframe": "",
+		"foot": "1",
+		"footerPic1": "",
+		"footerPic2": "",
+		"footPic1Span": "",
+		"endMap": "1UWUxRHzgD3uE-q-bKCAF_59u3wI",
+		"endmapName": "1979 X Cntry",
+		"days": [
+		]
+	},
+	"adventureDay": [
+		{
+			"dayId": "19790615",
+			"h1title": "",
+			"h3": "Under construction",
+			"pdate": "June 1979",
+			"pdesc": "",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "19790622",
+			"h1title": "",
+			"h3": "",
+			"pdate": "Fri, Apr 06, 2007",
+			"pdesc": "",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "19790629",
+			"h1title": "",
+			"h3": "",
+			"pdate": "June 29, 1979",
+			"pdesc": "",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "19790706",
+			"h1title": "",
+			"h3": "",
+			"pdate": "July 6, 1979",
+			"pdesc": "",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "19790713",
+			"h1title": "",
+			"h3": "",
+			"pdate": "July 13, 1979",
+			"pdesc": "",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "19790722",
+			"h1title": "",
+			"h3": "",
+			"pdate": "July 22, 1979",
+			"pdesc": "",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		}
+	]
+}
+
+

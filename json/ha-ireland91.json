@@ -1,0 +1,191 @@
+{
+	"trip": {
+		"nav": "1",
+		"TripId": "199108ireland",
+		"id": "ha-ireland91",
+		"backgroundImg": "../img/index/199109ireland.jpg",
+		"tripThumb": "../img/index/thumb/199109ireland.jpg",
+		"pageLink": "adventures/ha_future.html",
+		"pageTitle": "Sep 1991 - Visiting Ireland",
+		"pageSubtitle": "Dublin, LizCarroll and Cork",
+		"tripSumm": "",
+		"summ": "",
+		"intro": "--",
+		"introDescr": "In 1991 I was begining a twice yearly trip to Dublin for Tudor fund admin review. We decided to try and visit some additional locations in Ireland including where my father's grandfather, Timothy OBrien, was born and a second cousin of mine was still living.  We ended up driving out to the ring of Kerry after a brief visit with my father's 2nd cousin Lawerence O'Brien.  As best as we could tell he had no idea who we were but the pictures on the wall told me that these nice people had the same great, great grandfather as me",
+		"introPic1": "https://photos.smugmug.com/199108Ireland/Liscarroll-Co-Cork-September-2-1991/i-3WCXwsX/0/ee446e98/L/199108Ireland%20-%207%20of%2040-L.jpg",
+		"introPic1span": "The OBrien farm from behind the house",
+		"introPic2": "",
+		"introPic2span": "",
+		"videoLink": "",
+		"videoIframe": "",
+		"foot": "1",
+		"footerPic1": "https://photos.smugmug.com/199108Ireland/Dublin-Co-Dublin-September-2-1991/i-RMDCgPT/0/e0fd2257/M/199108Ireland%20-%2026%20of%2040-M.jpg",
+		"footerPic2": "https://photos.smugmug.com/199108Ireland/Dublin-Co-Dublin-September-2-1991/i-sdk5sqx/0/ee2dc249/M/199108Ireland%20-%2036%20of%2040-M.jpg",
+		"footPic1Span": "",
+		"endMap": "",
+		"endmapName": "",
+		"days": [
+		]
+	},
+	"adventureDay": [
+		{
+			"dayId": "19910830",
+			"h1title": "Dublin - a walking tour",
+			"h3": "Jim had some work for 2 days",
+			"pdate": "Friday-Saturday Aug 30-31, 1991",
+			"pdesc": "Kelly was two and a half at the time of this trip so this was our first trip with him.  The first couple days in Dublin were simply sight seeing and staying in a nice hotel (The Conrad Dublin).   ",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/199108Ireland/Dublin-Co-Dublin-September-2-1991/i-L5WKpwS/0/ff738fd4/M/199108Ireland%20-%2040%20of%2040-M.jpg",
+					"piccap": "",
+					"pictop": "Kelly made a friend in St. Steven's Green"
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/199108Ireland/Dublin-Co-Dublin-September-2-1991/i-JTkS9RB/0/36951d5b/M/199108Ireland%20-%2039%20of%2040-M.jpg",
+					"piccap": "Ha'penny Bridge over the River Liffey",
+					"pictop": "On the way to the Zoo"
+				},
+				{
+					"picID": "3",
+					"pic": "https://photos.smugmug.com/199108Ireland/Dublin-Co-Dublin-September-2-1991/i-K8hqnX6/0/3d53bff3/L/199108Ireland%20-%2037%20of%2040-L.jpg",
+					"piccap": "Kelly and Kathy walked over to the Zoo",
+					"picbotm": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=qmMHwd",
+			"smugAlbum": "https://havingadventures.smugmug.com/199108Ireland/Dublin-Co-Dublin-September-2-1991",
+			"smugAlbumName": "Dublin and other shots"
+		},
+		{
+			"dayId": "19910901",
+			"h1title": "Driving to Cork",
+			"h3": "",
+			"pdate": "Mon-Tuesday Sept 1-2, 1991",
+			"pdesc": "We rented a car and headed south out of Dublin with a vague idea of where we were going.  Our info was based on a letter I had from my father's aunt Helen who had visited.  We basically only knew the name of the town nearby, LizCarroll which was itself near Mallow.  Getting there took most of the day with some stops along the way.",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "https://photos.smugmug.com/199108Ireland/Dublin-Co-Dublin-September-2-1991/i-z5xPgPs/0/7f4cbed6/M/199108Ireland%20-%2030%20of%2040-M.jpg",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/199108Ireland/Dublin-Co-Dublin-September-2-1991/i-D5d7fGF/1/fde3be77/M/199108Ireland%20-%2011%20of%2040-M.jpg",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/199108Ireland/Dublin-Co-Dublin-September-2-1991/i-sVgFHQL/0/37c48d6c/M/199108Ireland%20-%2035%20of%2040-M.jpg",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "3",
+					"pic": "https://photos.smugmug.com/199108Ireland/Dublin-Co-Dublin-September-2-1991/i-QC96z5d/0/5b98cf3e/M/199108Ireland%20-%2025%20of%2040-M.jpg",
+					"piccap": "",
+					"picbotm": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "19910903",
+			"h1title": "OBrien Homestead",
+			"h3": "",
+			"pdate": "Wed Sept 3, 1991",
+			"pdesc": "Arriving in LizCarrol we stopped at the local pub and asked a couple guys outside the bar if they knew of any O'Briens in the area.  They werent very helpful but did point us in the general direction.  I dont remember how we actually found the farm.   We arrived pretty late in the day and knocked and an old woman answered the door after checking us out for a while.  They invited us in and immediately asked us if we'd like a 'sip.  They were extremely nice and gave us a tour of the property.",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "https://photos.smugmug.com/199108Ireland/Liscarroll-Co-Cork-September-2-1991/i-Xq46jVc/0/3b18cfaf/M/199108Ireland%20-%203%20of%2040-M.jpg",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/199108Ireland/Liscarroll-Co-Cork-September-2-1991/i-Jp5Kj6W/0/76bce92b/M/199108Ireland%20-%2010%20of%2040-M.jpg",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/199108Ireland/Liscarroll-Co-Cork-September-2-1991/i-2qtZ77t/0/e9c00c82/M/199108Ireland%20-%204%20of%2040-M.jpg",
+					"piccap": "Looking back at house and barn",
+					"pictop": ""
+				},
+				{
+					"picID": "3",
+					"pic": "../img/ireland/Curraughsmap.jpg",
+					"piccap": "Google Maps Aeriel from 2018",
+					"picbotm": "52.2352, -8.84953"
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "19910904",
+			"h1title": "Ring of Kerry",
+			"h3": "",
+			"pdate": "Thur Sept 4, 1991",
+			"pdesc": "We spent the night at a bed and breakfast somewhere near Mallow.  This was our first time traveling in Ireland and we had been told the B&Bs were 'charming'.  Our particular B&B consisted of displacing the children from a bedroom.  Our final day in Ireland was a rushed loop around the ring of Kerry and then back home to the US",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "https://photos.smugmug.com/199108Ireland/Dublin-Co-Dublin-September-2-1991/i-Gt6BCzm/0/41fbbe19/M/199108Ireland%20-%2017%20of%2040-M.jpg",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/199108Ireland/Dublin-Co-Dublin-September-2-1991/i-G9H636v/0/d5a4e505/M/199108Ireland%20-%2019%20of%2040-M.jpg",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/199108Ireland/Dublin-Co-Dublin-September-2-1991/i-7FKmb6Z/1/09316208/M/199108Ireland%20-%2029%20of%2040-M.jpg",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "3",
+					"pic": "https://photos.smugmug.com/199108Ireland/Dublin-Co-Dublin-September-2-1991/i-4747dG3/0/bbe65a7e/M/199108Ireland%20-%2028%20of%2040-M.jpg",
+					"piccap": "",
+					"picbotm": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		}
+	]
+}
+
+

@@ -1,0 +1,286 @@
+{
+	"trip": {
+		"nav": "1",
+		"id": "201301kili",
+		"summ": "Full board 7 day climb to the summit of Mt Kilimanjaro",
+		"intro": "--",
+		"introDescr": "My friend, Rupert Tyer, invited me to join him in celebrating his 50th birthday by climbing Mt. Kililmanjaro.  I  invited my son, Kelly, and my college roommate, Zav to join me.  The three of us and 6 other friends of Rupert took at 8 day trip to the highest point in Africa",
+		"introPic1": "../img/kili/LemoshoRouteSumm.jpg",
+		"introPic1span": "The route - from west to east and slowly gaining altitude",
+		"introPic2": "../img/kili/LemoshoItinerary.jpg",
+		"introPic2span": "Our 8 day Itinerary",
+		"videoLink": "https://www.youtube.com/watch?v=xspMve0L3Fs&feature=youtu.be",
+		"videoIframe": "https://www.youtube.com/embed/xspMve0L3Fs",
+		"backgroundImg": "https://www.havingadventures.com/img/kili/20130120Kili01.jpg",
+		"pageLink": "ha_kili.html",
+		"pageTitle": "Two weeks in Africa - Climbing Mt. Kilimanjaro",
+		"pageSubtitle": "An adventure with Kelly and Zav",
+		"foot": "1",
+		"endMap": "145xQcsvOP_CWQdaJpw7BsYzVpDw",
+		"endmapName": "Kili Google",
+		"days": [
+		]
+	},
+	"adventureDay": [
+		{
+			"dayId": "20130113",
+			"h1title": "Arriving in Tanzania and the Rivertree Country Inn",
+			"h3": "JFK to Amsterdam and then on to Kilimanjaro airport",
+			"pdate": "Sun, Jan 13, 2013",
+			"pdesc": "We arrived at Kilimanjaro airport after about 16 hours of flying time and 24 hours of travel.  The Rivertrees Country Inn, our home for the next few nights, was close by and we checked in and went to bed.  In the morning we explored our base camp and were joined by the rest of the team who flew in from London.",
+			"mappic": "../img/kili/Lemoshomap.jpg",
+			"mapspan": "Arriving",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201301-Kili/20130113Arrival/i-J6HLVJK/0/19913c21/L/2013-01-13%2010-03%202013-01-13%20Kili%20-%20Zav%20001-L.jpg",
+					"piccap": "The Lodge at Rivertree",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201301Kili/20130113Arrival/i-8HwvHSL/0/f1ee87ef/L/2013-01-13%2010-46%202013-01-13%20Rivertree%20%20%2816%29-L.jpg",
+					"piccap": "Our transport to the mountain",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=GCm7fV",
+			"smugAlbum": "https://havingadventures.smugmug.com/201301Kili/20130113Arrival",
+			"smugAlbumName": "Arriving-Rivertree"
+		},
+		{
+			"dayId": "20130114",
+			"h1title": "Arusha National Park",
+			"h3": "We head into the park for a three hour hike with giraffes, zebra and many other animals",
+			"pdate": "Mon, Jan 14, 2013",
+			"pdesc": "The rest of our team arrived and we spent the day in Arusha NP with an easy hike and a bit of seeing the sites.",
+			"mappic": "https://photos.smugmug.com/201301Kili/20130114/i-LxzgnRG/0/fdf56039/L/2013-01-14%2009-16%202013-01-14%20Mt%20Maura%20and%20Arusha%20NP%20%20%2812%29-L.jpg",
+			"mapspan": "The mountain from Aarusha NP",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201301Kili/20130114/i-rcZv5Z9/0/25c41022/L/2013-01-14%2009-29%202013-01-14%20Mt%20Maura%20and%20Arusha%20NP%20%20%2815%29-L.jpg",
+					"piccap": "Wildlife all around during our acclimation hike in Arusha NP",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201301Kili/20130114/i-T6PNCzc/0/9a6ceb21/L/2013-01-14%2011-06%202013-01-14%20Mt%20Maura%20and%20Arusha%20NP%20%20%2871%29-L.jpg",
+					"piccap": "The giraffes didn’t know what to make of Zav",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=tFS4FQ",
+			"smugAlbum": "https://havingadventures.smugmug.com/201301Kili/20130114",
+			"smugAlbumName": "Arusha National Park"
+		},
+		{
+			"dayId": "20130115",
+			"h1title": "Londorossi Gate, the Lemosho Trailhead up to Mti Mkubwa (Forest Camp)",
+			"h3": "Day 1 - We learn the full meaning of 'Full Board'",
+			"pdate": "Tues, Jan 15, 2013",
+			"pdesc": "We depart Moshi for Londorossi Gate then drive to the Lemosho trailhead (another hour to reach the trailhead). Upon arrival at trailhead, we eat lunch, then commence through undisturbed forest which winds to the first camp site. on arrival the crew had everything set up and sang us into camp.",
+			"mappic": "https://photos.smugmug.com/201301Kili/20130115/i-pnwhJ4v/0/3165941c/L/2013-01-15%2011-55%20Kili%20-%20Zav%20012-L.jpg",
+			"mapspan": "The last leg before the hike",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201301Kili/20130115/i-dzF2VvL/0/b9b6880a/L/2013-01-15%2009-57%20Kili%20%20%2817%29-L.jpg",
+					"piccap": "Following the Happy bus to the Lemosho trailhead",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201301Kili/20130115/i-FNJQXGZ/0/395a0b99/L/2013-01-15%2010-47%20Kili-jan2013_085-L.jpg",
+					"piccap": "The crew - No Really - a 50 man support crew for 10 hikers",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=mwhFs9",
+			"smugAlbum": "https://havingadventures.smugmug.com/201301Kili/20130115",
+			"smugAlbumName": "Lemosho Trailhead"
+		},
+		{
+			"dayId": "20130116",
+			"h1title": "Forest Camp to Shira 1 (11,500 ft)",
+			"h3": "Up out of the forest and our first look at the objective",
+			"pdate": "Wed, Jan 16, 2013",
+			"pdesc": "We continue on the trail leading out of the forest and into a savannah of tall grasses, heather, and volcanic rock draped with lichen beards. As we ascend through the lush rolling hills and cross several streams, we reach the Shira Ridge before dropping gently down to Shira 1 camp. The view of Kili from across the plateau is amazing.",
+			"mappic": "https://photos.smugmug.com/201301Kili/20130116/i-P9FKPBc/1/1b9621b7/L/2013-01-16%2010-48%20Kili%20001%20%2815%29-L.jpg",
+			"mapspan": "Zav and Kelly as we stop for lunch",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201301Kili/20130116/i-qtqS2gx/0/8eeb7345/L/2013-01-16%2020-02%20Kili-jan2013_214-L.jpg",
+					"piccap": "Amazing clear night",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201301Kili/20130116/i-Bv2cz9s/0/2e2aae16/L/2013-01-16%2010-45%20Kili%20001%20%2812%29-L.jpg",
+					"piccap": "Letting the guys doing the work go by",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=9Tvwb5",
+			"smugAlbum": "https://havingadventures.smugmug.com/201301Kili/20130116",
+			"smugAlbumName": "Shira Camp"
+		},
+		{
+			"dayId": "20130117",
+			"h1title": "Shira 1 to Moir (13,700ft) with afternoon side hike (14,300)",
+			"h3": "In camp by 3:30 and then an evening acclimatization hike",
+			"pdate": "Thurs, Jan 17, 2013",
+			"pdesc": "We cross the Shira plateau which leads to Shira 2 camp on moorland meadows by a stream. Then we continue to Moir Hut, a little used site on the base of Lent Hills.",
+			"mappic": "https://photos.smugmug.com/201301Kili/20130117/i-gK54gpX/0/0bd63233/L/2013-01-17%2007-06%20Kili%20%20%289%29-L.jpg",
+			"mapspan": "The morning of Day 3 from Shira camp",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201301Kili/20130117/i-f52wtHW/0/ee113f59/L/2013-01-17%2007-22%20Kili%20-%20Kelly%20%20%287%29-L.jpg",
+					"piccap": "Packing up in the morning",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201301Kili/20130117/i-3tvGdGn/0/f60c658b/L/2013-01-17-07-44%20Kili-jan2013_244-L.jpg",
+					"piccap": "A long trudge out of camp",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=2v5gQv",
+			"smugAlbum": "https://havingadventures.smugmug.com/201301Kili/20130117",
+			"smugAlbumName": "Shira to Moir Camp"
+		},
+		{
+			"dayId": "20130118",
+			"h1title": "Moir past Lava Tower to Barranco (15,200 ft) to Barranco (13,000)",
+			"h3": "Walking on rocks through fog",
+			"pdate": "Fri, Jan 18, 2013",
+			"pdesc": "By our third and fourth day on the mountain, the lush forests of lower Lemosho are a pretty memory. We are now doing what can best be described as walking on rocks through fog. Respicious plods along as slow as ever but there are fewer complaints. We are above 4,000m and the altitude makes a noticeable difference.",
+			"mappic": "https://photos.smugmug.com/201301Kili/20130118/i-MQpTFtC/0/8920be75/L/2013-01-18%2009-38%20Kili-jan2013_330-L.jpg",
+			"mapspan": "The porters have nothing to worry about",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201301Kili/20130118/i-p5Wgnh5/0/86e93608/L/2013-01-18%2009-16%20Kili%20%20%2836%29-L.jpg",
+					"piccap": "Jambo!  Pole pole!",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201301Kili/20130118/i-9V4hhSw/0/38e222d0/L/2013-01-18%2010-49%20Kili-jan2013_342-L.jpg",
+					"piccap": "working our way thru Barranco",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=nJHdkc",
+			"smugAlbum": "https://havingadventures.smugmug.com/201301Kili/20130118",
+			"smugAlbumName": "Lava Tower to Barranco"
+		},
+		{
+			"dayId": "20130119",
+			"h1title": "Barranco to Karanga (13,200 ft)",
+			"h3": "A walk around the mountain before heading up.",
+			"pdate": "Sat, Jan 19, 2013",
+			"pdesc": "After breakfast, we leave Barranco and continue on a steep ridge passing the Barranco Wall, to the Karanga Valley campsite",
+			"mappic": "https://photos.smugmug.com/201301Kili/20130119/i-MXmvWPj/0/a8577620/L/2013-01-19%20%2007-32%20Kili%20%20%2840%29-L.jpg",
+			"mapspan": "Up the Barranco wall",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201301Kili/20130119/i-H2BcFfL/0/4c2e0e23/L/2013-01-19%2009-04%20Kili%20-%20Zav%20017-L.jpg",
+					"piccap": "It was a beautiful morning",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201301Kili/20130119/i-4GmDW22/0/735ac2b0/L/2013-01-19%2020-01%20Kili-jan2013_465%20%283%29-L.jpg",
+					"piccap": "Amazing stars after the weather clears.",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=HM9cgv",
+			"smugAlbum": "https://havingadventures.smugmug.com/201301Kili/20130119",
+			"smugAlbumName": "Barranco to Karanga"
+		},
+		{
+			"dayId": "20130120",
+			"h1title": "Karanga to Upper Barafu (16,100 ft)",
+			"h3": "Our luck brings us to Upper Barafu and about 2 hours closer before our midnight climb",
+			"pdate": "Sun, Jan 20, 2013",
+			"pdesc": "After breakfast, we leave Karanga and hit the junction which connects with the Mweka Trail. We continue thru the Barafu Hut (15,200) to the Upper Barafu campsite (16,133 ft).  At this point, you have completed the South Circuit, which offers views of the summit from many different angles. Here we make camp, rest, enjoy dinner, and prepare for the summit day. The two peaks of Mawenzi and Kibo are to be seen from this position.",
+			"mappic": "https://photos.smugmug.com/201301Kili/20130120/i-bJCp5ng/0/76c21246/L/2013-01-20%2006-48%20Kili-jan2013_485-L.jpg",
+			"mapspan": "Dinner on our last night",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201301Kili/20130120/i-Rmqs4PR/0/b6bf4628/L/2013-01-20%2011-38%20Kili-jan2013_540-L.jpg",
+					"piccap": "It is a very slow walk",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201301Kili/20130120/i-cB2dBzg/0/be7d0458/L/2013-01-20%2017-17%20Kili-jan2013_568-L.jpg",
+					"piccap": "We had Upper Barafu all to ourselves",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=24M4p5",
+			"smugAlbum": "https://havingadventures.smugmug.com/201301Kili/20130120",
+			"smugAlbumName": "Karanga to Upper Barafu"
+		},
+		{
+			"dayId": "20130121",
+			"h1title": "Upper Barafu to Kili Summit (19,340 ft 5,895M)",
+			"h3": "We reach Stella Point at dusk and continue for two more hours as the sun rises to the top.",
+			"pdate": "Mon, Jan 21, 2013",
+			"pdesc": "The tumultuous weather at the top of Kilimanjaro is most likely to be clear and quiet at dawn, which means the push from our final campsite begins at midnight. These six hours of nighttime hiking are a muddy mixture of awe and misery even while they are happening.",
+			"mappic": "https://photos.smugmug.com/201301Kili/20130121/i-bgjxR95/0/6b57d7fe/L/2013-01-21%2000-21%20Kili-jan2013_573-L.jpg",
+			"mapspan": "For 5 hours we walked the final 3,000 feet thru the darkness.",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201301Kili/20130121/i-mDHFZGj/0/e9b30fc5/L/2013-01-21%2006-27%20Kili%20%20%2811%29-L.jpg",
+					"piccap": "When the sun rises for our last half mile we are trudging up a wide gravel path laid out between a huge glacier and a deep crater that proves Kilimanjaro was once an active volcano.",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201301Kili/20130121/i-v5xqM65/0/4eeea1e6/L/2013-01-21%2007-00%20Kili%20%20%2825%29-L.jpg",
+					"piccap": "Finally our group is under that big green sign – perhaps not a brilliant shining example to the world of mountain climbers, but at least not the absolute opposite",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=3nstbp",
+			"smugAlbum": "https://havingadventures.smugmug.com/201301Kili/20130121",
+			"smugAlbumName": "Summit morning"
+		},
+		{
+			"dayId": "20130122",
+			"h1title": "Millennium Camp to Mweka gate",
+			"h3": "Final thank yous and on back to the Rivertree",
+			"pdate": "Tues, Jan 22, 2013",
+			"pdesc": "After hiking/sliding down thru the scree on the way back to Upper Barafu we took a nap and then walked sraight down the mountain to overnight at Millenium Camp and a final hike thru the forest to the Mweka Gate",
+			"mappic": "https://photos.smugmug.com/201301Kili/20130122-Back-to-Arusha/i-Lg837Zs/0/94f94a0f/L/2013-01-22%2007-11%20Kili-jan2013_708-L.jpg",
+			"mapspan": "It took a village",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201301Kili/20130122-Back-to-Arusha/i-xJfRLFW/0/8c4b785e/L/2013-01-22%2007-18%20Kili-jan2013_711-L.jpg",
+					"piccap": "One of many  unforgetable views",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201301Kili/20130122-Back-to-Arusha/i-9dMwtFb/0/8a0facec/L/2013-01-22%2011-54%20Kili-jan2013_744-L.jpg",
+					"piccap": "Coming thru the Mweka gate and the end of our journey",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=7pcs7S",
+			"smugAlbum": "https://havingadventures.smugmug.com/201301Kili/20130122-Back-to-Arusha",
+			"smugAlbumName": "Coming down"
+		}
+	]
+}

@@ -1,0 +1,171 @@
+{
+	"trip": {
+		"nav": "1",
+		"id": "200808la2norf",
+		"backgroundImg": "../img/la2norf/2008LANorfolkmap.jpg",
+		"pageLink": "200808la2norf.html",
+		"pageTitle": "LA to Norfolk - Eight days on the road",
+		"pageSubtitle": "== Aug 2008 ==",
+		"summ": "Driving back from LA with stops in the Grand Canyon, OKC, Graceland and Smokey Mtn NP",
+		"intro": "===",
+		"introDescr": "Kelly and I were returning in his Volvo from his summer internship in LA.  Kelly planned our drive so most days we had an hike or activity in the morning and then drove for 5-7 hours.  On our days in the Grand Canyon and Smokey Mtn NP we spent the whole day.  I don't remember us having a bad day and we hit all our marks to stay in the hotels he had arranged.",
+		"introPic1": "https://photos.smugmug.com/200808-LA-to-Norfolk/LAtoGCNP/i-6VtKmGw/1/86e77f44/M/200808La2Norf%20-%20100%20of%20221-M.jpg",
+		"introPic1span": "After the hike",
+		"introPic2": "",
+		"introPic2span": "",
+		"videoLink": "",
+		"videoIframe": "",
+		"foot": "1",
+		"endMap": "19F-ZmxVa46-4w-61SAMMWFgWnes",
+		"endmapName": "2008 LA to Norfolk",
+		"days": [
+		]
+	},
+	"adventureDay": [
+		{
+			"dayId": "20080809",
+			"h1title": "LA to GC NP and the South Kabab Trail",
+			"h3": "We start our mad dash across the southern US",
+			"pdate": "Saturday & Sunday, Aug  9 & 10, 2008",
+			"pdesc": "We drove from LA to Tuscyan, AZ which is the gateway to the Grand Canyon.  This was the only day we didn't really have an activity.  The following morning we were up early and took the S Kaibab Trail down to Phantom ranch.  In August it gets pretty hot so we were hustling by people all the way down.  We relaxed in Phatom Ranch for a short rest and then headed back out at exactly the worst time (12:30).  We got as much shade as we could and also had plenty of water.  At about half way we saw a thermometer which read 120F in the sun.  We were out by 4:30 and on our way to Winslow via the east exit of the Canyon which is also extremely beautiful. ",
+			"mappic": "https://photos.smugmug.com/200808-LA-to-Norfolk/LAtoGCNP/i-V5bvS6k/0/623056b3/S/200808La2Norf%20-%2095%20of%20221-S.jpg",
+			"mapspan": "August is not the best time for a down and back.",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/200808-LA-to-Norfolk/LAtoGCNP/i-xpqcdr3/1/5cf224fb/M/200808La2Norf%20-%2063%20of%20221-M.jpg",
+					"piccap": "It always looks different",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/200808-LA-to-Norfolk/LAtoGCNP/i-rJTTxGb/1/96d40c69/S/200808La2Norf%20-%2080%20of%20221-S.jpg",
+					"piccap": "Kelly at the half way point",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=tKGzP4",
+			"smugAlbum": "https://havingadventures.smugmug.com/200808-LA-to-Norfolk/LAtoGCNP",
+			"smugAlbumName": "Canyon Hike"
+		},
+		{
+			"dayId": 20080811,
+			"h1title": "Winslow to Amarilow thru the Petrified Forest",
+			"h3": "After our big hike we mostly drive (7h47m 551mi)",
+			"pdate": "Monday Aug 11, 2008",
+			"pdesc": "Another long driving day from Winslow to Amarillo.  We stopped early in the day at the Petrified Forest NP (AZ) and did a short hike to see what remains of a heavily looted area.  Our drive across New Mexico had afternooon rain and clouds (this would come up again in 2015) but was mostly peacful with rolling hills in the distance.",
+			"mappicport": "../img/la2norf/win2amarmap.jpg",
+			"mapspan": "Across New Mexico",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/200808-LA-to-Norfolk/WInslowtoAmarilloTexas/i-FstN7Ts/0/aa4bcd22/M/200808La2Norf%20-%20133%20of%20221-S.jpg",
+					"piccap": "Petrified Forest in eastern Arizona",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/200808-LA-to-Norfolk/WInslowtoAmarilloTexas/i-rk7hbPZ/0/16f57eba/M/200808La2Norf%20-%20137%20of%20221-S.jpg",
+					"piccap": "New Mexico afternoon showers were rising up to meet us",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=2ZJG6W",
+			"smugAlbum": "https://havingadventures.smugmug.com/200808-LA-to-Norfolk/WInslowtoAmarilloTexas",
+			"smugAlbumName": "Winslow to Amarillo"
+		},
+		{
+			"dayId": "20080812",
+			"h1title": "Amarillon,  Palo Duro Canyon and on to OKC",
+			"h3": "OKC Bomb Museum and Mickey Mantle",
+			"pdate": "Tues, Aug 12, 2008",
+			"pdesc": "In the morning we went down to Palo Duro Canyon for a hike in the state park about 30 miles south of Amarillo.  Really hot and dry with an overabundance of green headed flies.  We hiked almost to Lighthouse Rock and got our pictures.  We had a relatively short ride to Oklahoma City after stopping at the Route 66 museum and chatting with an 80yr old women who had never left the sate of Oklahoma. I found this fascinating.  In OKC we visted the Bombing Memorial and also toured the Museum before a nice dinner at Mickey Mantle's Reasturaunt next door to the minor league park in downtown.",
+			"mappicport": "../img/la2norf/Amar2OKCmap.jpg",
+			"mapspan": "The Texas panhandle and Oklahoma",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/200808-LA-to-Norfolk/AmarillotoOKC/i-xnhsV9D/0/9a0badc2/M/200808La2Norf%20-%20156%20of%20221-S.jpg",
+					"piccap": "Lighthouse Rock in Palo Dura state park",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/200808-LA-to-Norfolk/AmarillotoOKC/i-G4fkcDn/0/8162d2f1/M/200808La2Norf%20-%20162%20of%20221-S.jpg",
+					"piccap": "OKC Bombing Memorial",
+					"pictop": ""
+				},
+				{
+					"picID": "3",
+					"pic": "https://photos.smugmug.com/200808-LA-to-Norfolk/AmarillotoOKC/i-NHX6sKk/0/b0e60ce3/L/200808La2Norf%20-%20160%20of%20221-S.jpg",
+					"piccap": "OKC Bombing Memorial",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=Xz3wvv",
+			"smugAlbum": "https://havingadventures.smugmug.com/200808-LA-to-Norfolk/AmarillotoOKC",
+			"smugAlbumName": "OKC"
+		},
+		{
+			"dayId": "20080813",
+			"h1title": "OKC to Memphis and on to Gatlinburg",
+			"h3": "Graceland, Opry - a day of culture!",
+			"pdate": "Wed & Thur, Aug 13 & 14, 2008",
+			"pdesc": "Our drive from OKC to Memphis was uneventful and after four days we needed a break so went straight to Memphis where we had a nice BBQ meal and hung out on Beale Street for a while.  In the morning we went straight over to Graceland center to catch the tour bus for Graceland.  It was an amazing infrastructure built around Elvis.  It is not to be missed.   From there we drove 200 miles to Nashville where we got a tour of the Grand Old Opry and were on our way to to Gatlenburg, TN.",
+			"mappicport": "../img/la2norf/OKC2MEM.jpg",
+			"mapspan": "On to Memphis",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/200808-LA-to-Norfolk/MemphistoGatlinburg/i-qZQPPbL/0/7acba47a/M/200808La2Norf%20-%20176%20of%20221-M.jpg",
+					"piccap": "Who knew he was buried on site??",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/200808-LA-to-Norfolk/MemphistoGatlinburg/i-4FHptvm/1/bb2ba319/M/200808La2Norf%20-%20179%20of%20221-M.jpg",
+					"piccap": "A quick tour and back on the road",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=Zn3PMW",
+			"smugAlbum": "https://havingadventures.smugmug.com/200808-LA-to-Norfolk/MemphistoGatlinburg",
+			"smugAlbumName": "Elvis and Ospry"
+		},
+		{
+			"dayId": "20080815",
+			"h1title": "Gatlinburg to Cherokee",
+			"h3": "Rainbow falls, Clingmans Dome",
+			"pdate": "Fri, Aug 15, 2008",
+			"pdesc": "Our visit in Smokey Mtn NP was a hike up to Rainbow Falls which was great.  The trail thinned out and we started seeing signs of big brown creatures so we turned around. We then drove up to Clingmans Dome and up to the overlook.  Got thru the park at the end and spent the night in Cherokee, NC.",
+			"mappicport": "../img/la2norf/Mem2Gatlin.jpg",
+			"mapspan": "A full day in Tennessee",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/200808-LA-to-Norfolk/GatlinburgtoSmokeyMtn/i-4JjgCzz/1/51833978/M/200808La2Norf%20-%20209%20of%20221-M.jpg",
+					"piccap": "Rainbow Falls",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/200808-LA-to-Norfolk/GatlinburgtoSmokeyMtn/i-NNQPbsX/0/3a1eef95/M/200808La2Norf%20-%20221%20of%20221-M.jpg",
+					"piccap": "They were smokey",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=h6q2kv",
+			"smugAlbum": "https://havingadventures.smugmug.com/200808-LA-to-Norfolk/GatlinburgtoSmokeyMtn",
+			"smugAlbumName": "Smokey Mtns"
+		},
+		{
+			"dayId": "20080816",
+			"h1title": "Cherokee to Norfolk",
+			"h3": "Final day all driving",
+			"pdate": "Saturdy, Aug 6, 2008",
+			"pdesc": "The end of our trip was a long drive across North Carolina to get to Norfolk by the end of the day.  We were happy to get to Norfolk and I drove to Sea Girt the next day while Kelly stayed behind with Kathy to get his bars out.  I had really enjoyed the trip and the time with Kelly.  If life didn't get in the way traveling the interstates in the age of cell phones and 70 mph speed limits is very relaxing and a great way to better understand our wonderful country.",
+			"mappicport": "../img/la2norf/Gat2Norfmap.jpg",
+			"mapspan": "Eighth Day on the Road & we're going to make it home tomorrow"
+		}
+	]
+}

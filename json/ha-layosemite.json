@@ -1,0 +1,278 @@
+{
+	"trip": {
+		"nav": "1",
+		"TripId": "200807layosemite",
+		"id": "ha-layosemite",
+		"backgroundImg": "../img/index/200807layosemite.jpg",
+		"tripThumb": "../img/index/thumb/200807layosemite.jpg",
+		"pageLink": "adventures/200807layosemite.html",
+		"pageTitle": "LA, Pismo and Yosemite",
+		"pageSubtitle": "==July 2008==",
+		"tripSumm": "Visiting Kelly in LA and a quick trip up the coast to Yosemite",
+		"summ": "",
+		"intro": "--",
+		"introDescr": "",
+		"introPic1": "",
+		"introPic1span": "",
+		"introPic2": "",
+		"introPic2span": "",
+		"videoLink": "",
+		"videoIframe": "",
+		"foot": "1",
+		"footerPic1": "",
+		"footerPic2": "",
+		"footPic1Span": "",
+		"endMap": "",
+		"endmapName": "",
+		"days": [
+		]
+	},
+	"adventureDay": [
+		{
+			"dayId": "200807xx",
+			"h1title": "",
+			"h3": "",
+			"pdate": "",
+			"pdesc": "",
+			"pdescLink1": "",
+			"pdescLinktag1": "",
+			"pdesc2": "",
+			"pdescLink2": "",
+			"pdescLinktag2": "",
+			"pdesc3": "",
+			"pdescLink3": "",
+			"pdescLinktag3": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "3",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "200807xx",
+			"h1title": "",
+			"h3": "",
+			"pdate": "",
+			"pdesc": "",
+			"pdescLink1": "",
+			"pdescLinktag1": "",
+			"pdesc2": "",
+			"pdescLink2": "",
+			"pdescLinktag2": "",
+			"pdesc3": "",
+			"pdescLink3": "",
+			"pdescLinktag3": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "3",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "200807xx",
+			"h1title": "",
+			"h3": "",
+			"pdate": "",
+			"pdesc": "",
+			"pdescLink1": "",
+			"pdescLinktag1": "",
+			"pdesc2": "",
+			"pdescLink2": "",
+			"pdescLinktag2": "",
+			"pdesc3": "",
+			"pdescLink3": "",
+			"pdescLinktag3": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "3",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "200807xx",
+			"h1title": "",
+			"h3": "",
+			"pdate": "",
+			"pdesc": "",
+			"pdescLink1": "",
+			"pdescLinktag1": "",
+			"pdesc2": "",
+			"pdescLink2": "",
+			"pdescLinktag2": "",
+			"pdesc3": "",
+			"pdescLink3": "",
+			"pdescLinktag3": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "3",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "200807xx",
+			"h1title": "",
+			"h3": "",
+			"pdate": "",
+			"pdesc": "",
+			"pdescLink1": "",
+			"pdescLinktag1": "",
+			"pdesc2": "",
+			"pdescLink2": "",
+			"pdescLinktag2": "",
+			"pdesc3": "",
+			"pdescLink3": "",
+			"pdescLinktag3": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "3",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "200807xx",
+			"h1title": "",
+			"h3": "",
+			"pdate": "",
+			"pdesc": "",
+			"pdescLink1": "",
+			"pdescLinktag1": "",
+			"pdesc2": "",
+			"pdescLink2": "",
+			"pdescLinktag2": "",
+			"pdesc3": "",
+			"pdescLink3": "",
+			"pdescLinktag3": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "3",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		}
+	]
+}

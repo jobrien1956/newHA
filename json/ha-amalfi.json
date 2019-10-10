@@ -1,0 +1,390 @@
+{
+	"trip": {
+		"nav": "1",
+		"TripId": "201906amalfi",
+		"id": "ha-amalfi",
+		"backgroundImg": "../img/index/201906amalfi.jpg",
+		"tripThumb": "../img/index/thumb/201906amalfi.jpg",
+		"pageLink": "adventures/201906amalfi.html",
+		"pageTitle": "AMALFI COAST, PATH OF THE GODS & CAPRI",
+		"pageSubtitle": "June 2019",
+		"tripSumm": "",
+		"summ": "",
+		"intro": "A Backroads Trip",
+		"introDescr": "On our third Backroads trip we spent a week in the Tyrrhenian Sea and the Gulf of Naples",
+		"introPic1": "https://photos.smugmug.com/201906AmalfiCoast/20190624PathofGods/i-83DpJpc/0/859bf289/M/IMG_0907-M.jpg",
+		"introPic1span": "Along the Path of the Gods",
+		"introPic2": "https://photos.smugmug.com/201906AmalfiCoast/20190625Capri/i-sMBbDkz/0/1d3807d9/M/IMG_6759-M.jpg",
+		"introPic2span": "Tiberius Cave in Capri",
+		"videoLink": "",
+		"videoIframe": "",
+		"foot": "1",
+		"footerPic1": "https://photos.smugmug.com/201906AmalfiCoast/20190625Capri/i-BS5VTds/0/07cc50b2/S/IMG_6767-S.jpg",
+		"footerPic2": "https://photos.smugmug.com/201906AmalfiCoast/20190627Ischia/i-57KsKb2/0/7bc2144a/S/IMG_6885-S.jpg",
+		"footPic1Span": "",
+		"endMap": "1KiQ_UNn5d25XZd0fhrqogCFcjoQ",
+		"endmapName": "2019-05 Naples Amalfi Coast Capri",
+		"days": [
+		]
+	},
+	"adventureDay": [
+		{
+			"dayId": "20190622",
+			"h1title": "Naples, Pompeii  & Vesuvius",
+			"h3": "",
+			"pdate": "Saturday , June 22",
+			"pdesc": "We arrived in Naples at 9am and went straight to the hotel.  Our cab driver convinced usthat he was just the man to show us the sights even though he spoke almost no English.  We communicated via a translate app.  After dumping our bags at the Grand Vesuvius Hotel we were off to Pompeii.",
+			"pdescLink1": "",
+			"pdescLinktag1": "",
+			"pdesc2": "",
+			"pdescLink2": "",
+			"pdescLinktag2": "",
+			"pdesc3": "",
+			"pdescLink3": "",
+			"pdescLinktag3": "",
+			"mappicport": "https://photos.smugmug.com/201906AmalfiCoast/20190622Pompeii/i-fmzGTbj/1/68fe1269/M/20190622%20Pompei%20%283%29-M.jpg",
+			"mappic": "",
+			"mapspan": "The main square in Pompai",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201906AmalfiCoast/20190622Pompeii/i-QjLM2KN/0/aa09c252/M/20190622%20Pompei%20%2815%29-M.jpg",
+					"piccap": "Amazing to think this was buried in ash for 2,000 yrs",
+					"pictop": "The park was pretty crowded but worth the trip. You could really get a sense of what the town looked like in 70AD. "
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201906AmalfiCoast/20190622Pompeii/i-krZ6GkN/0/e95d8bf4/M/20190622%20Pompei%20%2816%29-M.jpg",
+					"piccap": "Jim and Kathy working on our selfied taking"
+				},
+				{
+					"picID": "3",
+					"pic": "https://photos.smugmug.com/201906AmalfiCoast/20190622Pompeii/i-k6pGz8X/0/0a7d0f1e/M/20190622%20Naples%20%284%29-M.jpg",
+					"picbotm": "",
+					"piccap": "On the hike up to Vesuvius",
+					"pictop": "From there we went back toward Naples and stopped at the Vesuvius National Park and parked a few hundred meters from the top"
+				},
+				{
+					"picID": "4",
+					"pic": "https://photos.smugmug.com/201906AmalfiCoast/20190622Pompeii/i-NfKWm4W/0/a0debd9b/M/20190622%20Vesuvius%20%287%29-M.jpg",
+					"picbotm": "We did a quick walk up the switchbacks peaked into the caldera and headed back.",
+					"piccap": "The view out onto Naples from the trail to Vesuvius"
+				},
+				{
+					"picID": "5",
+					"pic": "https://photos.smugmug.com/201906AmalfiCoast/20190622Pompeii/i-jP2GMC5/0/5fd93002/M/20190622%20Vesuvius%20%281%29-M.jpg",
+					"piccap": "The Vesuvius caldera",
+					"picbotm": "By the time we got to the hotel we had a quick nap and a pizza at a restaurant along the water and that was the end of our day"
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=9QFjPK",
+			"smugAlbum": "https://havingadventures.smugmug.com/201906AmalfiCoast/20190622Pompeii",
+			"smugAlbumName": "Pompaii and Vesuvius"
+		},
+		{
+			"dayId": "20190623",
+			"h1title": "Pontone to Amalfi",
+			"h3": "Valley of the Mills",
+			"pdate": "Sunday, June 23",
+			"pdesc": "Benvenuti! From Naples we began our Backroads trip.  We shuttled to the medieval hamlet of Pontone in the heart of the Amalfi Coast. We set out from the town's main piazza, walking down steps and cobblestone pathways until we reached the lush green Valle dei Mulini (Valley of Mills), where we passed centuries-old paper mills and bubbling streams lined with ferns and wildflowers.  ",
+			"pdescLink1": "",
+			"pdescLinktag1": "",
+			"pdesc2": "",
+			"pdescLink2": "",
+			"pdescLinktag2": "",
+			"pdesc3": "",
+			"pdescLink3": "",
+			"pdescLinktag3": "",
+			"mappic": "",
+			"mappicport": "https://photos.smugmug.com/201906AmalfiCoast/20190623Amalfi/i-d3dzmWB/0/75a6bdba/M/IMG_0818-M.jpg",
+			"mapspan": "Part of the ancient aquaduct",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201906AmalfiCoast/20190623Amalfi/i-q2BxBCH/0/8690fc2e/M/IMG_2566-M.jpg",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201906AmalfiCoast/20190623Amalfi/i-fXNDsR6/0/d9e45186/M/IMG_2570-M.jpg",
+					"piccap": "",
+					"pictop": " Above the town of Amalfi we stopped for lunch at a local farm—there's no better way to understand the region's history than through its culinary roots. ",
+					"picbotm": ""
+				},
+				{
+					"picID": "3",
+					"pic": "https://photos.smugmug.com/201906AmalfiCoast/20190623Amalfi/i-PS649Gw/0/1f3cfab1/M/20190623%20Amalfi-M.jpg",
+					"picbotm": "Water wheel driving the paper hammers",
+					"piccap": "",
+					"pictop": "Following lunch we stopped for a tour of a paper mill at the Museo della Carta, which showcases the town's colorful maritime history and paper-making traditions.  They explained the paper making process through the ages.  The water wheel was fascinating."
+				},
+				{
+					"picID": "4",
+					"pic": "https://photos.smugmug.com/201906AmalfiCoast/20190623Amalfi/i-cQDKHj2/0/7676cf2d/M/20190623%20Amalfi%20%282%29-M.jpg",
+					"picbotm": " We met a local Amalfi guide for an informative visit to the medieval Cathedral of St. Andrew, a mesmerizing blend of Gothic, Romanesque, Baroque and Byzantine architectural styles. Finally we headed toward the village of Atrani and Palazzo Ferraioli, our home for the next two nights.",
+					"piccap": "Cathedral of St. Andrew",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=GJjqwg",
+			"smugAlbum": "https://havingadventures.smugmug.com/201906AmalfiCoast/20190623Amalfi",
+			"smugAlbumName": "Amalfi"
+		},
+		{
+			"dayId": "20190624",
+			"h1title": "Praiano",
+			"h3": "Path of the Gods",
+			"pdate": "Monday, June 24",
+			"pdesc": "We shuttled to Praiano for a spectacular and demanding hike. Probably the best-known trail in the area, Sentiero degli Dei translates to Path of the Gods. We meet up with our local guide and begin the route, which includes several short steep ascents.",
+			"pdescLink1": "",
+			"pdescLinktag1": "",
+			"pdesc2": "",
+			"pdescLink2": "",
+			"pdescLinktag2": "",
+			"pdesc3": "",
+			"pdescLink3": "",
+			"pdescLinktag3": "",
+			"mappic": "https://photos.smugmug.com/201906AmalfiCoast/20190624PathofGods/i-WPQpx6L/0/0d4e6d9f/M/20190624%20PathofGods%20%284%29-M.jpg",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201906AmalfiCoast/20190624PathofGods/i-HN87tp5/1/c058c077/M/IMG_0879-M.jpg",
+					"piccap": "Lemons on our guides 'villa'",
+					"pictop": "We stopped near a monastery before arriving at our guides vacation home/farm where he grows peaches, lemons, grapes and all kinds of vegetables.  He also had a cave were he made wine.  ",
+					"picbotm": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201906AmalfiCoast/20190624PathofGods/i-dHT2k4s/0/d7bbbc08/M/IMG_6712-M.jpg",
+					"piccap": "From the man cave",
+					"pictop": "",
+					"picbotm": "Continuing up from his house we joined the Path a few kilometers from it’s official start.  The path provided a vantage point hundreds of feet above the sea. You can't help but delight in the colorful towns scattered along this magnificent stretch of coastline. Our guide brought the region's rich past to life as he lead us to Nocelle, a medieval hamlet perched above the valley of Positano.  "
+				},
+				{
+					"picID": "3",
+					"pic": "https://photos.smugmug.com/201906AmalfiCoast/20190624PathofGods/i-p57bVJ3/0/bea211d7/M/IMG_2599-M.jpg",
+					"picbotm": "",
+					"piccap": "Lunch at Ristorante Santa Croce",
+					"pictop": "After a relaxing lunch break together, we continue on foot, passing through Montepertuso on your way down to the town of Positano. At the end of the hike we dipped our feet in the Mediterranean Sea and had a beer along the shore.  We took a boat ride back to Atrani and had dinner by the sea with a number of others in our group."
+				},
+				{
+					"picID": "4",
+					"pic": "https://photos.smugmug.com/201906AmalfiCoast/20190624PathofGods/i-B3CGfsn/0/b508bd5f/M/IMG_2606%20Stitch-M.jpg",
+					"picbotm": "",
+					"piccap": "Positano",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=v8kRmH",
+			"smugAlbum": "https://havingadventures.smugmug.com/201906AmalfiCoast/20190624PathofGods",
+			"smugAlbumName": "Path of the Gods"
+		},
+		{
+			"dayId": "20190625",
+			"h1title": "Capri",
+			"h3": "",
+			"pdate": "Tuesday, June 25",
+			"pdesc": "This morning we took a morning ferry across the deep blue waters of the Bay of Salerno to Capri, whose high limestone peaks, narrow twisting streets, postcard- perfect houses and delightful gardens have charmed visitors for centuries. In 29 BC Emperor Augustus visited the island and was so struck by its loveliness that he nicknamed it Apragopolis, meaning 'land of sweet idleness,' and acquired it from Naples in exchange for larger wealthier island of Ischia.",
+			"pdescLink1": "",
+			"pdescLinktag1": "",
+			"pdesc2": "",
+			"pdescLink2": "",
+			"pdescLinktag2": "",
+			"pdesc3": "",
+			"pdescLink3": "",
+			"pdescLinktag3": "",
+			"mappic": "",
+			"mappicport": "https://photos.smugmug.com/201906AmalfiCoast/20190625Capri/i-6TMqqtc/0/60793416/M/IMG_6742-M.jpg",
+			"mapspan": "Approaching Capri on the ferry",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201906AmalfiCoast/20190625Capri/i-tVGd2z4/1/ab55d534/M/IMG_0964-M.jpg",
+					"piccap": "",
+					"pictop": "We arrived in bustling Marina Grande, enjoy the thrill of Capri's world-famous serpentine roads on a shuttle ride up to Capri town. We start our exploration with a heart- pumping coastal loop leading to Capri's rocky edges. ",
+					"picbotm": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201906AmalfiCoast/20190625Capri/i-cgfGM5h/0/10cab2ec/M/IMG_6750-M.jpg",
+					"piccap": "Taking in the vistas in front of Belvedere Tragara",
+					"pictop": "As we make our way back to Capri, you won't want to miss l'Arco Naturale, a natural rock arch rising several hundred feet above the sea. ",
+					"picbotm": "We visit Grotta Matermania, believed to have been a shrine for ancient pagan rituals of sacrifice and hypnotism. "
+				},
+				{
+					"picID": "3",
+					"pic": "https://photos.smugmug.com/201906AmalfiCoast/20190625Capri/i-GWHbBP4/0/318c8990/M/IMG_6757-M.jpg",
+					"picbotm": "Our afternoon hike took us to explore the cliffside ruins of Villa Jovis, the largest of 12 villas built by Emperor Tiberius on the island.",
+					"piccap": " Grotta Matermania",
+					"pictop": ""
+				},
+				{
+					"picID": "4",
+					"pic": "https://photos.smugmug.com/201906AmalfiCoast/20190625Capri/i-bQVrwpT/0/e8e75503/M/IMG_6770-M.jpg",
+					"picbotm": " Our home for the night is Hotel La Floridiana and dinner with our group was almost next door at the Villa Margarita ",
+					"piccap": "Villa Margarita",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=NBwRHc",
+			"smugAlbum": "https://havingadventures.smugmug.com/201906AmalfiCoast/20190625Capri",
+			"smugAlbumName": "Capri"
+		},
+		{
+			"dayId": "20190626",
+			"h1title": "Monte Solaro and Anacapri",
+			"h3": "",
+			"pdate": "Wednesday, June 26",
+			"pdesc": "Leaving the hotel this morning, we set out for Anacapri, located on the higher and more rugged side of the island. ",
+			"pdescLink1": "",
+			"pdescLinktag1": "",
+			"pdesc2": "",
+			"pdescLink2": "",
+			"pdescLinktag2": "",
+			"pdesc3": "",
+			"pdescLink3": "",
+			"pdescLinktag3": "",
+			"mappic": "https://photos.smugmug.com/201906AmalfiCoast/20190626AnaCapri/i-ZS4tSGB/0/05eba821/M/IMG_6776-M.jpg",
+			"mapspan": "One of the gardens in Villa San Michele",
+			"mappicport": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201906AmalfiCoast/20190626AnaCapri/i-TGK2Mv4/0/d775c3b4/M/IMG_6801-M.jpg",
+					"piccap": "On the trail up to Monte Solaro",
+					"pictop": "We visited an 19th century home and gardens, Villa San Michele, ",
+					"picbotm": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201906AmalfiCoast/20190626AnaCapri/i-j92g5bN/0/df88c7b5/M/IMG_1025-M.jpg",
+					"piccap": "",
+					"pictop": "We hit the trail for a hike to the very top of Monte Solaro.  ",
+					"picbotm": "After a snack at the top of the mountain we took the chair lift back to the village.  We had lunch with Jim at Le Arcate Ristorante Pizzerie, in Anacapri."
+				},
+				{
+					"picID": "3",
+					"pic": "https://photos.smugmug.com/201906AmalfiCoast/20190626AnaCapri/i-6SG9QhN/0/191ee96d/M/IMG_1035-M.jpg",
+					"picbotm": "I took the walking option to get down to the ferry terminal.  It was mstly in the shade and ended up down at the beach which led over to the docks",
+					"piccap": "On top of Monte Solaro",
+					"pictop": "We also got our gift shopping done in the local shops. "
+				},
+				{
+					"picID": "4",
+					"pic": "https://photos.smugmug.com/201906AmalfiCoast/20190626AnaCapri/i-ZTwRjLh/0/5f10f3e6/M/IMG_6823-M.jpg",
+					"picbotm": "We reconvened to taste delicious gelato at a family-run shop by the marina where we boarded a ferry bound for Ischia, a quiet gem in the Gulf of Naples.",
+					"piccap": "Steps down to harbour",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=nWP7HX",
+			"smugAlbum": "https://havingadventures.smugmug.com/201906AmalfiCoast/20190626AnaCapri",
+			"smugAlbumName": "Anacapri"
+		},
+		{
+			"dayId": "20190627",
+			"h1title": "Monte Epomeo, Ischia",
+			"h3": "",
+			"pdate": "Thursday, June 27",
+			"pdesc": " Ischia is a volcanic island renowned for its abundance of thermal springs. The previous evening we had ferried to the town of Ishia and then shuttle to the village of Casamicciola Terme and our polished Relais & Châteaux abode, Terme Manzi Hotel & Spa. In the morning we shuttled to the western side of the island to begin our hike up and over the top of Ishia's Mount Epomeo",
+			"pdescLink1": "",
+			"pdescLinktag1": "",
+			"pdesc2": "",
+			"pdescLink2": "",
+			"pdescLinktag2": "",
+			"pdesc3": "",
+			"pdescLink3": "",
+			"pdescLinktag3": "",
+			"mappic": "https://photos.smugmug.com/201906AmalfiCoast/20190627Ischia/i-5MQbMsf/0/c8e857d9/M/IMG_6833-M.jpg",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201906AmalfiCoast/20190627Ischia/i-HXpLX27/0/a74764ab/M/IMG_6841-M.jpg",
+					"piccap": "",
+					"pictop": "We followed ancient Roman paths that lead up the flanks of this extinct volcano, which is covered in lush vegetation and terraced vineyards. Near the top, a stunning panorama over the Bay of Naples opened up.  ",
+					"picbotm": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201906AmalfiCoast/20190627Ischia/i-xL6SJLQ/0/669d5ce4/M/IMG_6847-M.jpg",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": "After savoring the views from the summit, we descend through the forest to a family-run agriturismo where we learn the secrets of pizza-making from a local expert! "
+				},
+				{
+					"picID": "3",
+					"pic": "https://photos.smugmug.com/201906AmalfiCoast/20190627Ischia/i-hKC9hS4/0/d87abbb2/M/IMG_6870-M.jpg",
+					"picbotm": "",
+					"piccap": "Making pizza",
+					"pictop": ""
+				},
+				{
+					"picID": "4",
+					"pic": "https://photos.smugmug.com/201906AmalfiCoast/20190627Ischia/i-t3t8HgV/0/abf3b1fe/M/IMG_6892-M.jpg",
+					"picbotm": "  For our final evening together we toasted our week with an aperitivo at the Aragonese Castle, before a farewell dinner in Ischia Ponte.",
+					"piccap": "Aragonese Castle",
+					"pictop": "After our lesson (and delicious lunch!), we continued hiking for another mile through a tight path of ferns and bramble where we caught a shuttle to the hotel."
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=8rN8Jq",
+			"smugAlbum": "https://havingadventures.smugmug.com/201906AmalfiCoast/20190627Ischia",
+			"smugAlbumName": "Ischia"
+		},
+		{
+			"dayId": "20190628",
+			"h1title": " Procida and back to Naples",
+			"h3": "",
+			"pdate": "Friday, June 28",
+			"pdesc": "We hopped on a ferry this morning to colorful Procida, the smallest Neapolitan island. Enjoy a leisurely stroll around the old-world fishing village, where crumbling houses in every imaginable pastel hue line the twisting cobblestone streets. Perched atop the limestone cliffs overhead is the 16th-century Castello d'Avalos, a former Bourbon hunting lodge and ex-prison. We made our way to the top of the bluff and headed down to the fishing village for a superb lunch.  We ferried one last time to reach Naples, where we say farewell and the our Backroads trip ended.   ",
+			"pdescLink1": "",
+			"pdescLinktag1": "",
+			"pdesc2": "",
+			"pdescLink2": "",
+			"pdescLinktag2": "",
+			"pdesc3": "",
+			"pdescLink3": "",
+			"pdescLinktag3": "",
+			"mappic": "https://photos.smugmug.com/201906AmalfiCoast/20190628Procida/i-RMZHkR2/0/ab8a6d1e/M/IMG_6906-M.jpg",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201906AmalfiCoast/20190628Procida/i-sbJ6zWS/0/9b67ee05/M/IMG_6907-M.jpg",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": "After stopping for a snack by this statue we headed to the other side of the island"
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201906AmalfiCoast/20190628Procida/i-hkrchWb/0/404794f4/M/IMG_6908-M.jpg",
+					"piccap": "View down into the marina and active fishing village where we had lunch.",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "3",
+					"pic": "https://photos.smugmug.com/201906AmalfiCoast/20190628Procida/i-PzbdP22/0/ea3a0d1c/M/IMG_6921-M.jpg",
+					"picbotm": "",
+					"piccap": "Looking back toward Naples"
+				},
+				{
+					"picID": "4",
+					"pic": "https://photos.smugmug.com/201906AmalfiCoast/20190628Procida/i-F7CrFmL/0/6e328f71/M/IMG_6917-M.jpg",
+					"picbotm": "Since this was our last day this sentiment rang true",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=mTMNKZ",
+			"smugAlbum": "https://havingadventures.smugmug.com/201906AmalfiCoast/20190628Procida",
+			"smugAlbumName": "Procida"
+		}
+	]
+}

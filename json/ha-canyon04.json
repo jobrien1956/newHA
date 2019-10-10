@@ -1,0 +1,106 @@
+{
+	"trip": {
+		"nav": "1",
+		"TripId": "200411canyon",
+		"id": "ha-canyon04",
+		"backgroundImg": "../img/canyon/200411CanyonHike.jpg",
+		"tripThumb": "../img/index/thumb/.jpg",
+		"pageLink": "adventures/200411canyon.html",
+		"pageTitle": "Nov 2004 - Grand Canyon - Quick down and back",
+		"pageSubtitle": "My 3rd trip to one of the world's most amazing places",
+		"tripSumm": "One day down and one day back with snow at the top",
+		"summ": "",
+		"intro": "--",
+		"introDescr": "In Nov, 2004, we had a short window during Kelly's sophomore year to do this hike which we reserved 18 months in advance. This was one of the first trips with Zav and Leo since the end of our family vacations in 1995. We flew into Vegas and with our full group of 9 including Allie, Esther and Don we drove to Tusayan and then in the morning we started our hike down Bright Angel trail",
+		"introPic1span": "We were just in time to catch the sunset",
+		"introPic1": "https://photos.smugmug.com/200411GCNP/200411GCNPNov5/i-FMJNjdf/0/cd484fe7/M/200411GCNP%20-%2033%20of%20138-M.jpg",
+		"foot": "1",
+		"footerPic1": "https://photos.smugmug.com/200411GCNP/200411GCNPNov7/i-Q7ZhPVQ/1/cdcacea5/S/200411GCNP%20-%20125%20of%20138-S.jpg",
+		"footerPic2": "https://photos.smugmug.com/200411GCNP/200411GCNPNov7/i-hm9ZMFd/1/80e1fba1/M/200411GCNP%20-%20134%20of%20138-M.jpg",
+		"footPic1Span": "",
+		"endmapName": "2004 Grand Canyon",
+		"endMap": "1JTHzHSH8yIHMmyrk6xrey8Ed_Ew7_YPV",
+		"days": [
+		]
+	},
+	"adventureDay": [
+		{
+			"dayId": "20041105",
+			"h1title": "Hoover Dam and then Tusayan",
+			"h3": "",
+			"pdate": "Friday, November 5, 2004",
+			"pdesc": "Our flights into Vegas all went smoothly and after stops at Hoover Dam and some roadside attractions we spent our first night in Tusayan outide the park",
+			"mappicport": "../img/canyon/200411CanyonHikeOB106.jpg",
+			"mapspan": "This is why we came",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/200411GCNP/200411GCNPNov5/i-qKmgcrq/0/8e80a5f7/M/200411GCNP%20-%201%20of%20138-M.jpg",
+					"piccap": "Roadkill café along Rt 66",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/200411GCNP/200411SouthRimGCNPNov5/i-r5GRdDX/1/c5e180ba/M/200411GCNP%20-%204%20of%20138-M.jpg",
+					"piccap": "At the trailhead",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=jpBnxC",
+			"smugAlbum": "https://havingadventures.smugmug.com/200411GCNP/200411SouthRimGCNPNov5",
+			"smugAlbumName": "Getting there"
+		},
+		{
+			"dayId": "20041106",
+			"h1title": "Down to Phantom Ranch",
+			"h3": "",
+			"pdate": "Saturday, November 6, 2004",
+			"pdesc": "We got an early start but it still took most of the day to reach the river",
+			"mappic": "https://photos.smugmug.com/200411GCNP/200411GCNPNov5/i-6RHdL5c/2/26bd1de4/M/200411GCNP%20-%2060%20of%20138-M.jpg",
+			"mapspan": "Kelly and Kathy at the  Bright Angel Trailhead",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/200411GCNP/200411GCNPNov5/i-9qWQJZv/0/4dda29a9/M/200411GCNP%20-%2072%20of%20138-M.jpg",
+					"piccap": "Midday  - Are we getting close???",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/200411GCNP/200411GCNPNov5/i-96MqJRP/1/7a14e270/M/200411GCNP%20-%2069%20of%20138-M.jpg",
+					"piccap": "The boys",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=SVWmGG",
+			"smugAlbum": "https://havingadventures.smugmug.com/200411GCNP/200411GCNPNov5",
+			"smugAlbumName": "Hiking In"
+		},
+		{
+			"dayId": "20041107",
+			"h1title": "Hiking out and back to Vegas",
+			"h3": "",
+			"pdate": "Sunday, November 7, 2004",
+			"pdesc": "We were up before dawn and were across the bridge as the sun came up.  We had some rain and snow the last couple hours.",
+			"mappic": "https://photos.smugmug.com/200411GCNP/200411GCNPNov7/i-mKsJZr4/1/e9d01279/L/200411GCNP%20-%20119%20of%20138-L.jpg",
+			"mapspan": "A lookout along the trail",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/200411GCNP/200411GCNPNov7/i-mj4fRCn/0/f957a0e1/L/200411GCNP%20-%20135%20of%20138-L.jpg",
+					"piccap": "After the hike out",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/200411GCNP/200411GCNPNov7/i-J9nz4mg/0/10d41a06/M/200411GCNP%20-%20109%20of%20138-M.jpg",
+					"piccap": "The camp at Phantom Ranch",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=pPz8j3",
+			"smugAlbum": "https://havingadventures.smugmug.com/200411GCNP/200411GCNPNov7",
+			"smugAlbumName": "Hiking out"
+		}
+	]
+}

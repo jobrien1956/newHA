@@ -1,0 +1,150 @@
+{
+	"trip": {
+		"nav": "1",
+		"TripId": "200704rome",
+		"id": "ha-rome",
+		"backgroundImg": "../img/index/200704Rome.jpg",
+		"tripThumb": "../img/index/thumb/200704Rome.jpg",
+		"pageLink": "adventures/200704rome.html",
+		"pageTitle": "Apr 2007 - Rome and the Vatican",
+		"pageSubtitle": "The Daniels go to the Vatican for Easter Mass",
+		"tripSumm": "",
+		"summ": "",
+		"intro": "--",
+		"introDescr": "The O'Briens with Don and Esther took our Easter break in Rome.  Don had arranged for tickets to see the Pope say mass on Easter Sunday.  We had two days to 'rome' around the city and also hired a van to take us on a day trip to Tivoli which is a couple hours to the east of Rome",
+		"introPic1": "",
+		"introPic1span": "",
+		"introPic2": "",
+		"introPic2span": "",
+		"videoLink": "",
+		"videoIframe": "",
+		"foot": "1",
+		"footerPic1": "",
+		"footerPic2": "",
+		"footPic1Span": "",
+		"endMap": "",
+		"endmapName": "",
+		"days": [
+		]
+	},
+	"adventureDay": [
+		{
+			"dayId": "20070404",
+			"h1title": "Wandering around Rome",
+			"h3": "Colosium, Sictine Chapel and Trevi Fountain",
+			"pdate": "Thur/Fri, Apr 5 & 6, 2007",
+			"pdesc": "",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "https://photos.smugmug.com/200704Rome/20070405Rome/i-BsZtDHg/0/6f6501b8/M/2007-04%20Rome-%20%2811%29-M.jpg",
+			"mapspan": "Looking down the street to the Spanish Steps",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/200704Rome/20070405Rome/i-bqxThxD/0/75c4a168/M/2007-04%20Rome-%20%2838%29-M.jpg",
+					"piccap": "Allie out in front of the Coliseum",
+					"pictop": "Our hotel was at the top of the Spanish Steps.  From there we walked all over Rome"
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/200704Rome/20070405Rome/i-rFRvspJ/0/fce2c69b/M/2007-04%20Rome-%20%2844%29-M.jpg",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "3",
+					"pic": "https://photos.smugmug.com/200704Rome/20070405Rome/i-TtNg7ZW/0/97516069/M/2007-04%20Rome-%20%2856%29-M.jpg",
+					"piccap": "Looking out over the ruins near the Coliseum",
+					"picbotm": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=cpPcxt",
+			"smugAlbum": "https://havingadventures.smugmug.com/200704Rome/20070405Rome",
+			"smugAlbumName": "Rome & Vatican"
+		},
+		{
+			"dayId": "20070407",
+			"h1title": "Tivoli and Villa d'Este",
+			"h3": "Our trip outside Rome",
+			"pdate": "Sat, Apr 07, 2007",
+			"pdesc": "We hired a van to take us out into the area east of Rome near Tivolli.  We had a nice day highlighted by lunch on an outdoor terrace which was shaded by a vine which along with the restaurant was 200 years old",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "https://photos.smugmug.com/200704Rome/TivoliApril72007/i-RKbQssS/0/7f6159e7/M/2007-04%20Rome-%20%2895%29-M.jpg",
+			"mappicport": "",
+			"mapspan": "Jim and Allie at Villa dEste",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/200704Rome/TivoliApril72007/i-Bx4RnCv/0/1d13ab9e/M/2007-04%20Rome-%20%2889%29-M.jpg",
+					"piccap": "Vine in the restaurant we stopped in for lunch",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/200704Rome/TivoliApril72007/i-vJ3QwPb/0/0379cdcb/M/2007-04%20Rome-%20%2875%29-M.jpg",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "3",
+					"pic": "https://photos.smugmug.com/200704Rome/TivoliApril72007/i-mVLNZgx/0/b44cdcca/M/2007-04%20Rome-%20%2883%29-M.jpg",
+					"pictop": "Allie, Kathy and Esther overlooking a waterfalls during lunch.",
+					"picbotm": "Don and Esther sitting while we climbed around the ruins."
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=wSrVRF",
+			"smugAlbum": "https://havingadventures.smugmug.com/200704Rome/TivoliApril72007",
+			"smugAlbumName": "Tivoli and Villa d'Este"
+		},
+		{
+			"dayId": "20070408",
+			"h1title": "Easter Sunday Mass",
+			"pdesc": "Kelly, Kathy, Don and Esther had to get up before dawn to get over to the Vatican and take their seats for the afternoon mass.  There was tight security and a massive crowd.",
+			"pdate": "Sun, Apr 08, 2007",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "https://photos.smugmug.com/200704Rome/St-Peters-Basilica-Vatican-City-Vatican-City-April-7-2007/i-SSVjX6G/0/ca45fc8d/M/2007-04%20Rome-%20%28128%29-M.jpg",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/200704Rome/St-Peters-Basilica-Vatican-City-Vatican-City-April-7-2007/i-jsmwWnN/0/2e1e8ca4/M/2007-04%20Rome-%20%28132%29-M.jpg",
+					"piccap": "The crowd was packed in tight",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/200704Rome/St-Peters-Basilica-Vatican-City-Vatican-City-April-7-2007/i-SVrJ4Ks/0/b12e9794/M/2007-04%20Rome-%20%28150%29-M.jpg",
+					"piccap": "",
+					"picbotm": "Various statues above the Pope's balcony"
+				},
+				{
+					"picID": "3",
+					"pic": "https://photos.smugmug.com/200704Rome/St-Peters-Basilica-Vatican-City-Vatican-City-April-7-2007/i-3ZQJd5n/0/ed87c31d/M/2007-04%20Rome-%20%28140%29-M.jpg",
+					"piccap": "",
+					"picbotm": "Hanging vines on the streets of Rome"
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=9gbP7W",
+			"smugAlbum": "https://havingadventures.smugmug.com/200704Rome/St-Peters-Basilica-Vatican-City-Vatican-City-April-7-2007",
+			"smugAlbumName": "Easter in Rome"
+		}
+	]
+}
+
+

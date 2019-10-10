@@ -1,0 +1,229 @@
+{
+	"trip": {
+		"nav": "1",
+		"id": "201808france",
+		"backgroundImg": "../img/index/201808France.jpg",
+		"pageLink": "adventures/201808france.html",
+		"pageTitle": "France",
+		"pageSubtitle": "Aug 2018",
+		"summ": "Paris, Normandy and Keremma",
+		"intro": "Museums, D-Day and Brittany beaches",
+		"introDescr": "Our UD group took our biannual trip a bit further a field then our previous two trips which took us to the US west coast.  The Smythes had invited us to Sara's father's family home in Brittany.  So after two days in Paris and an additional couple days of making our ways east across the northern part of France we got to spend three wonderful days in Brittany",
+		"introPic1": "",
+		"introPic1span": "",
+		"foot": "1",
+		"endMap": "1lYcKxJIrtE-Bhh4_t9e4S-Ku9zCP6HGg",
+		"endmapName": "2018-08 France",
+		"footerPic1": "",
+		"footPic1Span": "",
+		"footerPic2": "",
+		"days": [
+		]
+	},
+	"adventureDay": [
+		{
+			"dayId": "20180825",
+			"h1title": "Walking thru Paris",
+			"h3": "Notre Dame and the left bank",
+			"pdate": "Sat, August 25",
+			"pdesc": "We arrived early in the morning and got to our hotel by 8am.  We decuided we had time for a walk up to The Basilica of the Sacred Heart of Paris which looks out over Paris.  We all met at the MArriott by noon and after lunch along the way we spent the day touring through the area around Notre Dame",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "https://photos.smugmug.com/201808France/201808Paris/i-vX2sBmD/0/13f69e26/M/The%20Basilica%20of%20the%20Sacred%20Heart%20of%20Paris%20%287%29-M.jpg",
+			"mappicport": "",
+			"mapspan": "Basilica of the Sacred Heart ",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201808France/201808Paris/i-Xv4TZPh/1/25d0c6b8/M/Cathédrale%20Notre-Dame%20de%20Paris%20%287%29-M.jpg",
+					"piccap": "Notre Dame",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201808France/201808Paris/i-KJz2RVk/0/41b1d41c/L/Cathédrale%20Notre-Dame%20de%20Paris%20%284%29-L.jpg",
+					"piccap": "Notre Dame from back",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=QTSvWf",
+			"smugAlbum": "https://havingadventures.smugmug.com/201808France/201808Paris",
+			"smugAlbumName": "2018-08 Paris"
+		},
+		{
+			"dayId": "20180826",
+			"h1title": "Walking thru Paris, day 2",
+			"h3": "Lourve, Arc De Trimph and the Eifel Tower",
+			"pdate": "Sun, Aug 26, 2018",
+			"pdesc": "Our second day started early with a guided tour of the Louvre",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "https://photos.smugmug.com/201808France/20180826Paris/i-5dggWTq/0/165ed4f3/M/Louvre%20museum%20%2819%29-M.jpg",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201808France/20180826Paris/i-GDHtFNQ/0/16467bab/M/Arc%20DeTriomphe%20%281%29-M.jpg",
+					"piccap": "From on top of the Arc de Triomphe",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201808France/20180826Paris/i-Vcf8Hft/0/b9d80879/M/Eiffel%20Tower%20%2814%29-M.jpg",
+					"piccap": "",
+					"picbotm": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=pktj5K",
+			"smugAlbum": "https://havingadventures.smugmug.com/201808France/20180826Paris",
+			"smugAlbumName": "Aug 2018 - Paris Day 2"
+		},
+		{
+			"dayId": "20180827",
+			"h1title": "2018-08-28 Bayeux & Normandy",
+			"h3": "D Day Tour",
+			"pdate": "Monday and Tuesday Aug 27 & 28, 2018",
+			"pdesc": "Monday was our first travel day.  We took a train from Paris to Caan where we picked up our rental cars and drove into Bayeux.  With stops for lunch, the Cathedral and the Musée de la Tapisserie.  From there we headed to the Hotel Mercure Omaha Beach and dinner in the small town on the water, Port-en-Bessin-Huppain.  Up early again we meet our Normandy Beach tour guide back in Bayeux and we were off on a 4 hour tour on the battlefields, bunkers and cemetaries around Normandy.   ",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "https://photos.smugmug.com/201808France/20180828Normandy/i-pZJBsKL/0/fd7796d0/L/Bayeux%20Cathedral-L.jpg",
+			"mappicport": "Bayeux Cathedral",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201808France/20180828Normandy/i-Jv52TCT/0/7aac8625/M/D%20Day%20Memorials%2C%20Normandy%20%2814%29-M.jpg",
+					"piccap": "German Bunkers near The Pointe Du Hoc",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201808France/20180828Normandy/i-gxPzjTV/1/76db5ed0/M/D%20Day%20Memorials%2C%20Normandy%20%2829%29-M.jpg",
+					"piccap": "The Pointe Du Hoc",
+					"pictop": "During World War II it was the highest point between the American sector landings at Utah Beach to the west and Omaha Beach to the east. ... On D-Day, the United States Army Ranger Assault Group attacked and captured Pointe du Hoc after scaling the cliffs."
+				},
+				{
+					"picID": "3",
+					"pic": "https://photos.smugmug.com/201808France/20180828Normandy/i-hQrkV6f/1/cafaa62c/L/D%20Day%20Memorials%2C%20Normandy%20%2810%29-L.jpg",
+					"pictop": "'Ever Forward' is one of many memorials located at the opening of the Vierville Draw. This bronze sculpture commemorates “the determined efforts by the soldiers of the 29th Division’s 116th Infantry Regimental Combat Team who landed the morning of June 6, 1944 on this section of Omaha Beach.",
+					"picbotm": "The last stop on the tour was the US cemetery. By the early afternoon we were on the way to Cancale"
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=PhFmqg",
+			"smugAlbum": "https://havingadventures.smugmug.com/201808France/20180828Normandy",
+			"smugAlbumName": "Aug 2018 - Bayeux & Normandy"
+		},
+		{
+			"dayId": "20180829",
+			"h1title": "Mont St Michel, Cancale and St Milo",
+			"h3": "",
+			"pdate": "Wed, Aug 29, 2018",
+			"pdesc": "",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=HXsg4w",
+			"smugAlbum": "https://havingadventures.smugmug.com/201808France/20180829MSMStMilo",
+			"smugAlbumName": "Mont St Michel, Cancale and St Milo Smugmug Album"
+		},
+		{
+			"dayId": "20180830",
+			"h1title": "Brittany",
+			"h3": "",
+			"pdate": "Thur/Fri Aug 30 & 31, 2018",
+			"pdesc": "",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=Fdp6cB",
+			"smugAlbum": "https://havingadventures.smugmug.com/201808France/20180830Keremma",
+			"smugAlbumName": "Keremma"
+		},
+		{
+			"dayId": "20180830",
+			"h1title": "Keremma",
+			"h3": "A Final Day to relax in Brittany",
+			"pdate": "Saturday, Sep 1, 2018",
+			"pdesc": "",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=Fdp6cB",
+			"smugAlbum": "",
+			"smugAlbumName": "Keremma"
+		}
+	]
+}

@@ -1,0 +1,156 @@
+{
+	"trip": {
+		"nav": "",
+		"id": "201208greece",
+		"backgroundImg": "https://photos.smugmug.com/201208-Greece-Santorini/20120729MtOlympus/i-84pvtrz/0/c438e13d/M/2012-07-29%20Mt%20Olympus%20055-L.jpg",
+		"pageLink": "201208greece.html",
+		"pageTitle": "Aug 2012 - Greece",
+		"pageSubtitle": "Litochoro, Mt Olympus, Athens and Santorini",
+		"summ": "Jim, Kathy and Allie visiting w Pat and Vasos in Greece",
+		"intro": "--",
+		"introDescr": "Allie, Kathy and I took a two weeks trip to Greece and Turkey in early August 2012.  We spent time by the Aegean Sea at Vassos' family farm before a overnight climb up Mt Olympus.  We then had three days in Athens and three on the island of Santorini before a brief chaotic 24 hours in Istanbull.",
+		"introPic1": "",
+		"introPic1span": "",
+		"introPic2": "",
+		"introPic2span": "",
+		"videoLink": "",
+		"videoIframe": "",
+		"foot": "1",
+		"endmapShare": "https://drive.google.com/open?id=1TRsJ5A70XygbZqKO5MzvMpLvszM&amp;usp=sharing",
+		"endmapLink": "https://www.google.com/maps/d/u/0/embed?mid=1TRsJ5A70XygbZqKO5MzvMpLvszM",
+		"endmapName": "Greece 2012",
+		"days": [
+		]
+	},
+	"adventureDay": [
+		{
+			"dayId": "20120728",
+			"h1title": "Arriving in Litochoro, Greece",
+			"h3": "A long flight from JFK thru Athens to Thessaloniki",
+			"pdate": "Saturday and Sunday, July 28 & 29, 2012",
+			"pdesc": "We spent our first day in Greece recovering from the long flight.  We had some excitment and Vassos's brother's car didn't fair to well but by the end of the day we went 'down to the sea' to relax",
+			"mappic": "../img/greece/greecemap.jpg",
+			"mapspan": "Our flights in and out of Athens",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201208-Greece-Santorini/20120728VassosFarm/i-Gd4n3bv/1/752d56a0/S/2012-07-28%20%20Greece%20%287%29-S.jpg",
+					"piccap": "We found turtles out in the back of Vassos' farm",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201208-Greece-Santorini/20120728VassosFarm/i-PPtBDdb/1/593f44b4/M/2012-07-29%20Greece%20V%20farm%20003-M.jpg",
+					"piccap": "Mt Olympus out the back door",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=LMdwDM",
+			"smugAlbum": "https://havingadventures.smugmug.com/201208-Greece-Santorini/20120728VassosFarm",
+			"smugAlbumName": "Vassos Farm"
+		},
+		{
+			"dayId": "20120730",
+			"h1title": "Hiking up Mt Olympus",
+			"h3": "Staying overnight at the Yosos Apostolidis shelter",
+			"pdate": "Monday & Tuesday, July 30 & 31, 2012",
+			"pdesc": "Our group of six set out in the morning and made it to the first hostel about lunch time where we took a break and continued up to the Yosos Apostolidis shelter.  We had a great surise and a sunny day to get to the peak of Mytikas, meaning 'nose', rises to 2,918 metres (9,573 ft).  This was an interesting scramble and pretty spectacular",
+			"mappic": "../img/greece/20120731MtOlympus046M.jpg",
+			"mapspan": "Allie and Kathy at our shelter on top",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "../img/greece/olympicshelter.jpg",
+					"piccap": "Looking back at the shelter and small peak we climbed the night before",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201208-Greece-Santorini/20120729MtOlympus/i-46qCR3W/0/fb459091/L/2012-07-30%20Mt%20Olympus%20013-L.jpg",
+					"piccap": "Vassos and I up at the top",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=mGrxVx",
+			"smugAlbum": "https://havingadventures.smugmug.com/201208-Greece-Santorini/20120729MtOlympus",
+			"smugAlbumName": "Mt Olympus"
+		},
+		{
+			"dayId": "20120802",
+			"h1title": "Exploring Athens",
+			"h3": "Two days of history",
+			"pdate": "Aug 2nd & 3rd, 2012",
+			"pdesc": "We took the train from Katerini to Athens which took most of the day.  We then had a really nice couple days in Athens from our base at the Hotel Grande Bretagne.  We visited the Acropolis and the Parthanon amoung other places",
+			"mappic": "https://photos.smugmug.com/201208-Greece-Santorini/20120802ATHENS/i-wMF8wpG/0/bd30a394/M/2012-08-02%20Athens%20%281%29-M.jpg",
+			"mapspan": "Allie from the hotel's breakfast room",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://havingadventures.smugmug.com/201208-Greece-Santorini/20120117-/i-R8p9ZPL/A",
+					"piccap": "We took a tram up to overlook Athens",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201208-Greece-Santorini/20120802ATHENS/i-F6ztjtG/0/10bd6518/M/2012-08-03%20Athens%20%2816%29-M.jpg",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=WpnZZN",
+			"smugAlbum": "https://havingadventures.smugmug.com/201208-Greece-Santorini/20120802ATHENS",
+			"smugAlbumName": "Athens"
+		},
+		{
+			"dayId": "20120804",
+			"h1title": "Santorini",
+			"pdate": "Aug 4th & 5th, 2012",
+			"pdesc": "We had a short flight from Athens to Santorini and spent two nights there. It's a cresent shaped island which is the rements of a volcano.  We took a day trip on a sail boat arouund the southern tip into the caldera.  We had views of the homes lining the cliffs above the norhthern edge and realized we pciked the wrong side of the island.  The following day we hiked around the rim and then had dinner watching the sunset.",
+			"mappic": "../img/greece/SANTORINImap2.jpg",
+			"mapspan": "Our hotel was in the southern end",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201208-Greece-Santorini/201208Santorini/i-QV58Rcn/0/cdd9daca/M/2012-08-04Greece%20Santorini%20%2818%29-M.jpg",
+					"piccap": "This is the good side of the island - we stayed on the other",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201208-Greece-Santorini/201208Santorini/i-K7TpJ2h/1/ef99c09d/M/2012-08-05%20Santorini%20%20%2832%29-M.jpg",
+					"piccap": "Our sea cruise around Santorini",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=9jKVxb",
+			"smugAlbum": "https://havingadventures.smugmug.com/201208-Greece-Santorini/20120728VassosFarm",
+			"smugAlbumName": "Santorini"
+		},
+		{
+			"dayId": "20120807",
+			"h1title": "Istanbul, Turkey",
+			"h3": "24 hours in Eurasia",
+			"pdate": "Aug 7th, 2012",
+			"pdesc": "The last leg of our trip was supposed to be 3 days in Istanbul.  We arrived at the hotel in mid afternoon after fighting thru traffic.  Within an hour we were making arrangements to fly out the next day to attend to an issue at Cantillon.  We ended up with walk around the hotel, a 60 minute less than two mile cab ride to dinner and some sightseeing from the car on the way to the airport.",
+			"mappic": "https://photos.smugmug.com/201208-Greece-Santorini/20120808-Istanbull/i-bK3nkXr/1/e31d6ec4/S/2012-08-08%20Istanbull%20%20%2810%29-S.jpg",
+			"mapspan": "Part of ancient wall which surrounded the city",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/201208-Greece-Santorini/20120808-Istanbull/i-nMsWBnG/0/1fbc0d36/M/2012-08-08%20Istanbull%20%20%284%29-M.jpg",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/201208-Greece-Santorini/",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=4dKTws",
+			"smugAlbum": "https://havingadventures.smugmug.com/201208-Greece-Santorini/20120808-Istanbull",
+			"smugAlbumName": "Istanbul"
+		}
+	]
+}

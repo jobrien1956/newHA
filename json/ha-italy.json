@@ -1,0 +1,147 @@
+{
+	"trip": {
+		"TripId": "200904italy",
+		"id": "ha-italy",
+		"backgroundImg": "../img/index/200904Venice.jpg",
+		"tripThumb": "../img/index/thumb/200904Venice.jpg",
+		"pageLink": "adventures/200904italy.html",
+		"pageTitle": "Apr 2009 Venice and Florence",
+		"pageSubtitle": "===",
+		"tripSumm": "Allie, Kathy and I spend a week in the north of Italy",
+		"nav": "1",
+		"summ": "",
+		"intro": "--",
+		"introDescr": "In April, 2009, we were supposed to be meeting Kelly who was doing a semester in Rome.  He was on a different trip so we took the opportunity to visit this area in Northern Italy.  We visited Vencie, Florence and a old fortress in Sermione before I met Kelly during his trip to Sicily ",
+		"introPic1": "../img/italy/Overviewmap.JPG",
+		"introPic1span": "",
+		"introPic2": "",
+		"introPic2span": "",
+		"videoLink": "",
+		"videoIframe": "",
+		"foot": "1",
+		"endMap": "1CfiXnpOMDi6aQEF2R8XKZWO3IGD6EMPU",
+		"endmapName": "Venice-Florence",
+		"footerPic1": "",
+		"footerPic2": "",
+		"footPic1Span": "",
+		"days": [
+		]
+	},
+	"adventureDay": [
+		{
+			"nav": "1",
+			"dayId": "20090424",
+			"h1title": "Venice - Hotel Gritti ",
+			"h3": "Hotel Gritti Palace",
+			"pdate": "Saturday, April 25, 2009",
+			"pdesc": "We spent three nights in Venice and walked all over the city.  We took a ferry to the island of Marano and visited the Glass Meuseum.  We took a gondola ride in the afternoon of the second day and roamed around Piazza San Marco.  We went up into the Basilica di San Marco.",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "https://photos.smugmug.com/200904VeniceandNoItaly/200904Venice/i-B9tzSq4/1/3b8194a6/M/2009-04-24%20Venice%20%289%29-M.jpg",
+			"mappicport": "",
+			"mapspan": "Our visit to the Museum of Glass",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/200904VeniceandNoItaly/200904Venice/i-2X2SvZx/0/4d313c2f/L/2009-04-24%20Venice%20%2868%29-L.jpg",
+					"piccap": "Kathy and Allie on our gondola ride.",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/200904VeniceandNoItaly/200904Venice/i-8QScbZF/0/e794dd7e/L/2009-04-24%20Venice%20%2899%29-L.jpg",
+					"piccap": "View from the top of Saint Mark's Basilica",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=bv5C5D",
+			"smugAlbum": "https://havingadventures.smugmug.com/200904VeniceandNoItaly/200904Venice",
+			"smugAlbumName": "Venice"
+		},
+		{
+			"dayId": "20090427",
+			"h1title": "Florence",
+			"h3": "Villa Medici ",
+			"pdate": "Tuesday, April 28, 2009",
+			"pdesc": "We took a train from Venice to Florence and once again roamed the city and visited various museum.   We climbed up into Brunelleschi's Dome and had dinner on the other side of the river ",
+			"mappicport": "https://photos.smugmug.com/200904VeniceandNoItaly/200904Florence/i-g2P5VdF/2/f1670866/M/2009-04-27%20Florence%20%2842%29-M.jpg",
+			"mapspan": "David",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/200904VeniceandNoItaly/200904Florence/i-rbnvcM5/1/2fe10b97/L/2009-04-27%20Florence%20%281%29-L.jpg",
+					"piccap": "Allie and Jim on bridge over the Arno river",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/200904VeniceandNoItaly/200904Florence/i-6mVZCGJ/1/5ce44677/L/2009-04-27%20Florence%20%2855%29-L.jpg",
+					"piccap": "Allie and Kathy with our comediane taxi driver",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=2NtJRX",
+			"smugAlbum": "https://havingadventures.smugmug.com/200904VeniceandNoItaly/200904Florence",
+			"smugAlbumName": "Florence"
+		},
+		{
+			"dayId": "20090429",
+			"h1title": "Sirmione",
+			"h3": "Villa Cortine Palace Hotel",
+			"pdate": "Wednesday, April 29, 2009",
+			"pdesc": "During our final two days we drove up to the acient city of Sirmione which is small fortress city which is out in Lake Garde in Lombardy",
+			"mappic": "https://photos.smugmug.com/200904VeniceandNoItaly/200904Sirmione/i-LmKSm7S/1/2c469544/M/2009-04-29%20Sermione%20%284%29-M.jpg",
+			"mappicport": "",
+			"mapspan": "From the castle",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/200904VeniceandNoItaly/200904Sirmione/i-H5B9wHN/0/8c5fc5e5/L/2009-04-29%20Sermione%20%2815%29-L.jpg",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/200904VeniceandNoItaly/200904Sirmione/i-QKgC4Z9/0/786dad3d/M/2009%2004%2030_Sicily_0026-M.jpg",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=VHFQxR",
+			"smugAlbum": "https://havingadventures.smugmug.com/200904VeniceandNoItaly/200904Sirmione",
+			"smugAlbumName": "Sirmione"
+		},
+		{
+			"dayId": "20090502",
+			"h1title": "Sicily",
+			"h3": "Mt Edna",
+			"pdate": "Saturday, May 2, 2009",
+			"pdesc": "When Allie and Kathy flew home I flew to Sicily where I met up with Kelly and some friends from his semester abroad.  The airline lost my luggage so I had to buy a hoodie but was still freezing on our hike. We spent our day up on Mt Etna an active volcano where we shivered our way up onto the old lava.",
+			"mappicport": "",
+			"mapspan": "Kelly on Mt Edna",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/200904VeniceandNoItaly/200905Sicily/i-P4RMQsx/0/d0b46d05/M/2009%2005%2002_Sicily_0015-M.jpg",
+					"piccap": "Kelly and",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/200904VeniceandNoItaly/200905Sicily/i-WwgTbTX/0/c2584d42/M/2009%2005%2002_Sicily_0013-M.jpg",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=jkrS7H",
+			"smugAlbum": "https://havingadventures.smugmug.com/200904VeniceandNoItaly/200905Sicily",
+			"smugAlbumName": "Sicily"
+		}
+	]
+}
+
+

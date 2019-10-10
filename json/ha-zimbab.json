@@ -1,0 +1,183 @@
+{
+	"trip": {
+		"nav": "1",
+		"TripId": "199312zimbab",
+		"id": "ha-zimbab",
+		"backgroundImg": "../img/index/199312Zimbabwe.jpg",
+		"tripThumb": "../img/index/thumb/199312Zimbabwe.jpg",
+		"pageLink": "adventures/199312zimbabwe.html",
+		"pageTitle": "Dec, 1993 - 3 days in Buffalo Range, Zimbabwe",
+		"pageSubtitle": "More time flying than exploring",
+		"tripSumm": "",
+		"summ": "",
+		"intro": "--",
+		"introDescr": "I grabbed the final seat on a flight from JFK to Zimbabwe to see a prospective ecotourism site.  Rhinos, Elephants, Wildebeest and Kudu!!! ",
+		"introPic1": "../img/zimbabwe/FlightPath.JPG",
+		"introPic1span": "",
+		"introPic2": "",
+		"introPic2span": "",
+		"videoLink": "",
+		"videoIframe": "",
+		"foot": "1",
+		"footerPic1": "",
+		"footerPic2": "",
+		"footPic1Span": "",
+		"endMap": "1Jbsx5VmthgIPSNgn04s7K60bOdRVt9em",
+		"endmapName": "Zimbabwe",
+		"days": [
+		]
+	},
+	"adventureDay": [
+		{
+			"dayId": "19931219",
+			"h1title": "24 hours in a small jet",
+			"h3": "With stops in Dakar, Senegal; Harare, Zimbabwe and finally Buffalo Range.",
+			"pdate": "Sunday Dec 19 to Monday Dec 20, 1993",
+			"pdesc": " My official role was to make sure the satellite phone worked so that my boss would be able to communicate with our office if some big market event took place.  At this I failed.  The portable satellite dish never connected the satellite phone to the US.  I don't believe anyone noticed.",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "../img/zimbabwe/TheCamp1.JPG",
+			"mappic2": "../img/zimbabwe/TheCamp2.JPG",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "19931221",
+			"h1title": "",
+			"h3": "",
+			"pdate": "Tuesday, Dec 21, 1993",
+			"pdesc": "The trip to Zimbabwe was to conclude the negotiations on the purchase of the MALILANGWE RESERVE from it's original owner,  ",
+			"pdescLink1": "https://www.africahunting.com/threads/ray-sparrow-his-passing-represents-the-end-of-an-era.18182/",
+			"pdescLinktag1": "Ray Sparrow",
+			"pdesc2": ", who passed away in 2014. He had started as a cattle rancher in 1949 and transitioned to 'wildlife based land-use'(hunting) prior to the ",
+			"pdescLink2": "http://www.malilangwe.org/our-story/",
+			"pdescLinktag2": "MALILANGWE TRUST (Paul Jones)",
+			"pdesc3": " buying it with a vision of conservation and eco-tourism.  Over the past 25 years this has been realized with ",
+			"pdescLink3": "https://singita.com/lodge/singita-malilangwe-house/",
+			"pdescLinktag3": "Pamushana Lodge and Malilangwe House",
+			"mappic": "https://photos.smugmug.com/199312Zimbab/Buffalo-Range-Masvingo-Province-December-20-1993/i-F3KbwpJ/0/cb1311fc/M/199312Zimbabwe%20-%2016%20of%2042-M.jpg",
+			"mappic2": "https://photos.smugmug.com/199312Zimbab/Buffalo-Range-Masvingo-Province-December-20-1993/i-QDSc2Zg/0/4eb86cb7/M/199312Zimbabwe%20-%2022%20of%2042-M.jpg",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/199312Zimbab/Buffalo-Range-Masvingo-Province-December-20-1993/i-DSkXHfX/0/727112c2/L/199312Zimbabwe%20-%2014%20of%2042-L.jpg",
+					"piccap": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/199312Zimbab/Buffalo-Range-Masvingo-Province-December-20-1993/i-XtxXr9m/0/4e9c6f1f/L/199312Zimbabwe%20-%208%20of%2042-L.jpg",
+					"piccap": "The Rhino was very close and definitely the highlight of the trip for me.",
+					"pictop": "On our second day I was up well before dawn to track various anailmals.  We started with the Wildebeests and went of to get up close with a Rhino and a large group of elephants."
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "19931222",
+			"h1title": "",
+			"h3": "",
+			"pdate": "Wednesday, Dec 22, 1993",
+			"pdesc": "",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "https://photos.smugmug.com/199312Zimbab/Buffalo-Range-Masvingo-Province-December-20-1993/i-tTMRM6d/0/9b7361a7/M/199312Zimbabwe%20-%2015%20of%2042-M.jpg",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/199312Zimbab/Buffalo-Range-Masvingo-Province-December-20-1993/i-84bfCFk/0/895fe2ab/L/199312Zimbabwe%20-%2037%20of%2042-L.jpg",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "19931224",
+			"h1title": "Elephants from the air and on the gound",
+			"h3": "",
+			"pdate": "Thur, Dec 24, 1993",
+			"pdesc": "We took a helicopter flight around the property and spent some time over this lone Elephant.",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "https://photos.smugmug.com/199312Zimbab/Buffalo-Range-Masvingo-Province-December-20-1993/i-SzLNBhM/0/a816ecfb/M/199312Zimbabwe%20-%206%20of%2042-M.jpg",
+			"mappic2": "https://photos.smugmug.com/199312Zimbab/Buffalo-Range-Masvingo-Province-December-20-1993/i-NXprpCN/0/caadce5b/M/199312Zimbabwe%20-%2018%20of%2042-M.jpg",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/199312Zimbab/Buffalo-Range-Masvingo-Province-December-20-1993/i-rZZxdMr/0/3157938a/M/199312Zimbabwe%20-%2030%20of%2042-M.jpg",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/199312Zimbab/Buffalo-Range-Masvingo-Province-December-20-1993/i-7x5G9Vk/0/09403a8b/L/199312Zimbabwe%20-%207%20of%2042-L.jpg",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "3",
+					"pic": "https://photos.smugmug.com/199312Zimbab/Buffalo-Range-Masvingo-Province-December-20-1993/i-pTbjRxW/1/df4d17af/L/199312Zimbabwe%20-%203%20of%2042-L.jpg",
+					"picbotm": "MALILANGWE HOUSE - A elegant exclusive-use home perched alongside Singita Pamushana Lodge was built on this cliff.  The photo below is from it's website.",
+					"pictop": ""
+				},
+				{
+					"picID": "4",
+					"pic": "../img/zimbabwe/TheLodge.JPG",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=45qfhg",
+			"smugAlbum": "https://havingadventures.smugmug.com/199312Zimbab/Buffalo-Range-Masvingo-Province-December-20-1993",
+			"smugAlbumName": "Buffalo-Range-Masvingo-Province"
+		}
+	]
+}
+
+
