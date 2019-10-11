@@ -2,8 +2,8 @@
 	"trip": {
 		"nav": "1",
 		"id": "201903colombia",
-		"backgroundImg": "../img/index/201903colombia.jpg",
-		"tripThumb": "../img/index/thumb/201903colombia.jpg",
+		"backgroundImg": "img/index/201903colombia.jpg",
+		"tripThumb": "img/index/thumb/201903colombia.jpg",
 		"pageLink": "adventures/201903colombia.html",
 		"pageTitle": "Backroads - Colombia",
 		"pageSubtitle": "Mar 2019",

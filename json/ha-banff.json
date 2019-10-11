@@ -2,7 +2,7 @@
 	"trip": {
 		"nav": "1",
 		"id": "201807banff",
-		"backgroundImg": "../img/index/201807Banff.jpg",
+		"backgroundImg": "img/index/201807Banff.jpg",
 		"pageLink": "adventures/201807banff.html",
 		"pageTitle": "Canadian Rockies",
 		"pageSubtitle": "July 2018",

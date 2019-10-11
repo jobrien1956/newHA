@@ -1,8 +1,8 @@
 {
 	"trip": {
 		"id": "ha-costarica",
-		"backgroundImg": "../img/index/201002CostaRica.jpg",
-		"tripThumb": "../img/index/thumb/201002CostaRica.jpg",
+		"backgroundImg": "img/index/201002CostaRica.jpg",
+		"tripThumb": "img/index/thumb/201002CostaRica.jpg",
 		"pageLink": "",
 		"pageTitle": "Feb, 2010 Costa Rica",
 		"nav": "1",

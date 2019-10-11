@@ -2,7 +2,7 @@
 	"trip": {
 		"nav": "1",
 		"id": "201201canyon",
-		"backgroundImg": "../img/canyon/20120114GC001.jpg",
+		"backgroundImg": "img/canyon/20120114GC001.jpg",
 		"pageLink": "201201canyon.html",
 		"pageTitle": "Grand Canyon Backpacking",
 		"pageSubtitle": "Jan 2012",
