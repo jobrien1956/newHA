@@ -26,13 +26,14 @@
 		view: function (vnode) {
 			if (!HA.stores.hapages) return
 			return HA.stores.hapages.HomePageNavBarData.map((it) => {
-				return m('ul', it.grpMember.map((member) => {
+				return [m('h2', it.grpName),
+					m('ul', it.grpMember.map((member) => {
 					return m('li', {
 						onclick: (e) => {
 							console.log(member)
 								m.route.set('/trip/' + member.storeName)
-						}}, member.name)
-				}))
+						}}, member.name + " -- storeName = " + member.storeName + " -- Href = " + member.hrefx)
+				}))]
 			})
 		}
 	}

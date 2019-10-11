@@ -2,7 +2,7 @@
 	"trip": {
 		"nav": "1",
 		"id": "201511tucson",
-		"backgroundImg": "../img/tucson/201511Tucson02.jpg",
+		"backgroundImg": "img/index/thumb/201511Tucson02.jpg",
 		"pageLink": "201511tucson.html",
 		"pageTitle": "Tucson 2015",
 		"pageSubtitle": "Kathy and Jim in the Land of Beige",

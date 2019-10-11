@@ -7,7 +7,7 @@
 		"introDescr": "Adirondack wilderness, verdant Vermont farmland, and the upper Hudson River Valley gave us a lot to see in six days of cycling.  Covered Bridges, majestic views, quaint small towns and pristine lakes were just of few of the highlights.   The terrain is a mix of rolling hills (not) and a few challenging climbs, making it appropriate for intermediate and advanced riders.  Kathy was a true hero to take on this ride.",
 		"introPic1": "https://photos.smugmug.com/2016-06-Adrinodacks/2016-06-30Vermont/i-szSLcdP/0/02c2278c/S/2016-06-30%20Adirondacks%20%282%29-M.jpg",
 		"introPic1span": "Art along the way",
-		"backgroundImg": "../img/adiron/20160628Adirondacks.jpg",
+		"backgroundImg": "img/adiron/20160628Adirondacks.jpg",
 		"pageLink": "201606adiron.html",
 		"pageTitle": "Adirondacks & Vermont Bicycle Tour",
 		"pageSubtitle": "June 2016 - A birthday gift",
@@ -24,12 +24,12 @@
 			"h3": "",
 			"pdate": "Sun June 26, 2016",
 			"pdesc": "After a brief orientation, we took a ride through nearby rolling countryside. Along the way, we pedaled though the Saratoga Battlefield on the banks of the Hudson River. After 16 miles we stopped by the National Park Service visitor center before riding around the battlefield. We got a sense of the short steep hills we encountered the rest of the week.",
-			"mappic": "../img/adiron/mapday01.jpg",
+			"mappic": "img/adiron/mapday01.jpg",
 			"mapspan": "An interesting loop around the Saratoga battlefield",
 			"pictures": [
 				{
 					"picID": "1",
-					"pic": "../img/adiron/UnionGables.jpg",
+					"pic": "img/adiron/UnionGables.jpg",
 					"piccap": "Our home for the night was the Union Gables Inn"
 				},
 				{
@@ -49,7 +49,7 @@
 			"pdate": "Monday June 27, 2016",
 			"pdesc": "We pedaled away from Union Gables Inn and Saratoga Springs. After passing by Skidmore College we were quickly on country roads leading into the Adirondacks. Valley roads and a few short climbs will take us by babbling streams and forested land. The final 4 miles into the inn were a real challenge. We arrived at Friends Lake Inn by mid afternoon.  Later we reconvened for dinner at Friends Lake Inn's restaurant.",
 			"pdesc2": "Bicycling Distance-42 miles inn to inn, rolling hills with a few longer climbs.  The longer climb was at the very end and was a warning of hills to come. We'd had a pretty long day up to here which made the last few miles into the Inn much tougher.  Our home for the night was the Friends Lake Inn",
-			"mappic": "../img/adiron/mapday02.jpg",
+			"mappic": "img/adiron/mapday02.jpg",
 			"mapspan": "Heading north to Friends Lake",
 			"pictures": [
 				{
@@ -73,7 +73,7 @@
 			"h3": "A long, hard day gets hot on the afternoon 'rollers'",
 			"pdate": "Tuesday Jun 28, 2016",
 			"pdesc": "Our second day out from Saratoga Springs started with a nice ride around the west side of Brant Lake. It was reasonably flat and we covered the 16 miles to our morning stop pretty easily. The afternoon in Vermont would be a bigger challenge. Prior to Hague we climbed up and over Graphite Mt which was about 4 miles up and four miles down. The back side was much steeper and a fun ride down.",
-			"mappic": "../img/adiron/Adiron-graphitemap.jpg",
+			"mappic": "img/adiron/Adiron-graphitemap.jpg",
 			"mapspan": "To avoid a 1,000 ft climb, Kathy took the van from the break area near Bryant Lake up to Hague, NY",
 			"pictures": [
 				{
@@ -97,7 +97,7 @@
 			"h3": "Day 21,916 (60 years)",
 			"pdate": "Wednesday, Jun 29, 2016",
 			"pdesc": "This was a bonus or rest day. Kathy enjoyed her rest and I did the loop up and beyond Middlebury. It was a good day to get out and stretch my legs.  Stopped in Middlebury for lunch by the van and then headed back to town. A great way to spend my 60th birthday with some alone time to reflect on how lucky I am. Back in Brandon for the afternoon with the people on the ride gathering for some post ride PMCs and then a nice dinner with my wonderful wife and the rest of the folks at a local restaurant.",
-			"mappic": "../img/adiron/Adiron-middleburyloop.jpg",
+			"mappic": "img/adiron/Adiron-middleburyloop.jpg",
 			"mapspan": "My 60th birthday loop.  Took some shortcuts which put me on some hard pack gravel roads. I outran some thunderstorms which blew through Middlebury on the return trip. ",
 			"pictures": [
 				{
@@ -133,7 +133,7 @@
 			"h3": "",
 			"pdate": "Friday July 1, 2016",
 			"pdesc": "Our final day of the trip took us back to Saratoga Springs with a stop at the Saratoga Monument before we got back into town. We were able to shower and have lunch in the Saratoga Park Saratoga Spa State Park before heading back to NJ. Had some terrific thunderstorms on our way back to Ridgewood which probably led to my bike breaking down the following week but that's a story for another day.",
-			"mappic": "../img/adiron/20160630NYVTgmap.jpg",
+			"mappic": "img/adiron/20160630NYVTgmap.jpg",
 			"mapspan": "The weeks full loop",
 			"pictures": [
 				{

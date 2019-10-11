@@ -6,7 +6,7 @@ HA.views.Layout = {
 
 			m('div', ' ----  '),
 			m('div', {onclick: (e) => console.log('clicked', e)},
-				m('p', m('div',  vnode.children  ))),
+				m('div', m('div',  vnode.children  ))),
 
 			m('div', ' ----  '),
 			m('div', 'HavingAdventures footer'),
