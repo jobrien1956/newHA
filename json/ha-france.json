@@ -2,7 +2,7 @@
 	"trip": {
 		"nav": "1",
 		"id": "201808france",
-		"backgroundImg": "../img/index/201808France.jpg",
+		"backgroundImg": "img/index/201808France.jpg",
 		"pageLink": "adventures/201808france.html",
 		"pageTitle": "France",
 		"pageSubtitle": "Aug 2018",

@@ -2,7 +2,7 @@
 	"trip": {
 		"nav": "1",
 		"id": "201707sweden",
-		"backgroundImg": "../img/sweden/20170709Sweden.jpg",
+		"backgroundImg": "img/sweden/20170709Sweden.jpg",
 		"pageLink": "201707sweden.html",
 		"pageTitle": "Stockholm and Copenhagen",
 		"pageSubtitle": "July 7 to 14, 2017",

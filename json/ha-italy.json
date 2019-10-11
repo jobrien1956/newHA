@@ -2,8 +2,8 @@
 	"trip": {
 		"TripId": "200904italy",
 		"id": "ha-italy",
-		"backgroundImg": "../img/index/200904Venice.jpg",
-		"tripThumb": "../img/index/thumb/200904Venice.jpg",
+		"backgroundImg": "img/index/200904Venice.jpg",
+		"tripThumb": "img/index/thumb/200904Venice.jpg",
 		"pageLink": "adventures/200904italy.html",
 		"pageTitle": "Apr 2009 Venice and Florence",
 		"pageSubtitle": "===",

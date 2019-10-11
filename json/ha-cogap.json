@@ -2,7 +2,8 @@
 	"trip": {
 		"nav": "1",
 		"id": "201505cogap",
-		"backgroundImg": "../img/cogap/COtowpath.jpg",
+		"backgroundImg": "img/cogap/COtowpath.jpg",
+		"tripThumb": "img/index/thumb/COtowpath.jpg",
 		"pageLink": "201505cogap.html",
 		"pageTitle": "C&O to the GAP Trail and back to DC",
 		"pageSubtitle": "May 12 to 15, 2015",

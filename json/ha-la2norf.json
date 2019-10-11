@@ -2,7 +2,7 @@
 	"trip": {
 		"nav": "1",
 		"id": "200808la2norf",
-		"backgroundImg": "../img/la2norf/2008LANorfolkmap.jpg",
+		"backgroundImg": "img/la2norf/2008LANorfolkmap.jpg",
 		"pageLink": "200808la2norf.html",
 		"pageTitle": "LA to Norfolk - Eight days on the road",
 		"pageSubtitle": "== Aug 2008 ==",

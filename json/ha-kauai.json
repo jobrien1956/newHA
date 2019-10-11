@@ -2,7 +2,7 @@
 	"trip": {
 		"nav": "1",
 		"id": "201411kauai",
-		"backgroundImg": "../img/kauai/201411kauaipic1.jpg",
+		"backgroundImg": "img/kauai/201411kauaipic1.jpg",
 		"pageLink": "201411kauai.html",
 		"pageTitle": "30th Anniversary in Paradise",
 		"pageSubtitle": "Kauai, Hawaii",
