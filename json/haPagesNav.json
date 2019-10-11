@@ -33,12 +33,11 @@
 			"tripSumm": ""
 		}
 	]
-
 ,
 	"HomePageNavBarData" : [
 			{
 				"navgrp": "1",
-				"grpName": "17-19",
+				"grpName": "2017-2019",
 				"grpMember": [
 					{
 						"hrefx": "201908sierra.html",
@@ -79,7 +78,7 @@
 			},
 			{
 				"navgrp": "2",
-				"grpName": "14-16",
+				"grpName": "2014-2016",
 				"grpMember": [
 					{
 						"hrefx": "201609sanjuan.html",
@@ -122,7 +121,7 @@
 			},
 			{
 				"navgrp": "3",
-				"grpName": "10-13",
+				"grpName": "2010-2013",
 				"grpMember": [
 					{
 						"hrefx": "201311ireland.html",
@@ -162,7 +161,7 @@
 			},
 			{
 				"navgrp": "4",
-				"grpName": "09-00",
+				"grpName": "2000-2009",
 				"grpMember": [
 					{
 						"hrefx": "200904italy.html",
@@ -217,7 +216,7 @@
 			},
 			{
 				"navgrp": "5",
-				"grpName": ">99->",
+				"grpName": "prior to 2000",
 				"grpMember": [
 					{
 						"hrefx": "199908glacier.html",
