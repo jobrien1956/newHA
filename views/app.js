@@ -43,7 +43,7 @@
 							onclick: (e) => {
 								console.log(member)
 								m.route.set('/trip/' + member.storeName)
-							}}, member.name + " -- storeName = " + member.storeName + " -- Href = " + member.hrefx)
+							}}, member.name + " - " + member.storeName + "- Href = " + member.hrefx)
 					}))]
 			})
 		}
@@ -62,24 +62,22 @@
 						  ), m("span.icon-bar"), m("span.icon-bar"), m("span.icon-bar")
 						  ])]),
 					  m(".collapse.navbar-right.navbar-collapse[id='bs-example-navbar-collapse-1']",
-						  m("ul.nav.navbar-nav.navbar-collapse",
-							  m("li.dropdown",{"style":{"display":"inline"}}, HA.stores.hapages.HomePageNavBarData.map((it) => {
-								  return [m("a.dropdown-toggle[data-toggle='dropdown'][href='#']", it.grpName, m("b.caret")),
-									  m("ul.dropdown-menu", it.grpMember.map((member) => {
-												  return  m('ul',
-													  m('li',
-														  m('a[href=""]', {
-															  onclick: (e) => {
+						  m("ul.nav.navbar-right.navbar-nav.navbar-collapse",
+							  HA.stores.hapages.HomePageNavBarData.map((it) => {
+								  return m("li.dropdown", [m("a.dropdown-toggle[data-toggle='dropdown'][href='#']", {style: {"display": "inline-flex"}}, it.grpName, m("b.caret")),
+									  m("ul", it.grpMember.map((member) => {
+												  return m('ul.dropdown-menu', m('li', {
+															  onclick: function (e) {
+																  e.preventDefault();
 																  console.log(member);
 																  m.route.set('/trip/' + member.storeName)
 															  }
-															}, member.name + " -- storeName = " + member.storeName + " -- Href = " + member.hrefx)))}
-															))]}
-								  )
-		            ) // map((it)
-							)
+															}, member.name))}
+															))])}
+								  )// map((it)
+		            )
 						)
-					  ] // collapse.navbar-collapse
+				  ] // collapse.navbar-collapse
 			  ) // div.container
 			) // nav.navbar.navbar-inverse.
 	  } // view: function (vnode)
