@@ -1,5 +1,8 @@
 { "haPages": [
 		{
+			"hrefx": "201908sierra.html",
+			"name": "Aug19 Sierra",
+			"storeName": "sierra",
 			"TripId": "201908sierra",
 			"id": "ha-sierra",
 			"jsonFile": "ha-sierra.json",
@@ -11,6 +14,9 @@
 			"tripSumm": ""
 		},
 		{
+			"hrefx": "201906amalfi.html",
+			"name": "Jun19 Amalfi",
+			"storeName": "amalfi",
 			"TripId": "201906amalfi",
 			"id": "ha-amalfi",
 			"jsonFile": "ha-amalfi.json",
@@ -22,6 +28,9 @@
 			"tripSumm": ""
 		},
 		{
+			"hrefx": "201903colombia.html",
+			"name": "Mar19 Colombia",
+			"storeName": "colombia",
 			"TripId": "201903colombia",
 			"id": "ha-colombia",
 			"jsonFile": "ha-colombia.json",
@@ -32,28 +41,37 @@
 			"pageSubtitle": "",
 			"tripSumm": ""
 		},{
-		"TripId": "201808france",
-		"id": "ha-france",
-		"jsonFile": "ha-france.json",
-		"backgroundImg": "img/index/201808France.jpg",
-		"tripThumb": "img/index/thumb/201808France.jpg",
-		"pageLink": "adventures/201808france.html",
-		"pageTitle": "Aug 2018 - France",
-		"pageSubtitle": "Paris, Normandy and Keremma",
-		"tripSumm": "Museums, D-Day and Brittany beaches"
+			"hrefx": "201808france.html",
+			"name": "Aug18 France",
+			"storeName": "france",
+			"TripId": "201808france",
+			"id": "ha-france",
+			"jsonFile": "ha-france.json",
+			"backgroundImg": "img/index/201808France.jpg",
+			"tripThumb": "img/index/thumb/201808France.jpg",
+			"pageLink": "adventures/201808france.html",
+			"pageTitle": "Aug 2018 - France",
+			"pageSubtitle": "Paris, Normandy and Keremma",
+			"tripSumm": "Museums, D-Day and Brittany beaches"
 	},
+		{
+			"hrefx": "201807banff.html",
+			"name": "July18 Canadian Rockies",
+			"storeName": "banff",
+			"TripId": "201807banff",
+			"id": "ha-banff",
+			"jsonFile": "ha-banff.json",
+			"backgroundImg": "img/index/201807Banff.jpg",
+			"tripThumb": "img/index/thumb/201807Banff.jpg",
+			"pageLink": "adventures/201807banff.html",
+			"pageTitle": "July 2018 - Canadian Rockies",
+			"pageSubtitle": "A Week in Banff, Jasper and Yoho",
+			"tripSumm": "Waterfalls, Rafting and Hikes"
+		},
 	{
-		"TripId": "201807banff",
-		"id": "ha-banff",
-		"jsonFile": "ha-banff.json",
-		"backgroundImg": "img/index/201807Banff.jpg",
-		"tripThumb": "img/index/thumb/201807Banff.jpg",
-		"pageLink": "adventures/201807banff.html",
-		"pageTitle": "July 2018 - Canadian Rockies",
-		"pageSubtitle": "A Week in Banff, Jasper and Yoho",
-		"tripSumm": "Waterfalls, Rafting and Hikes"
-	},
-	{
+		"hrefx": "201707sweden",
+		"name" : "July17-Stockholm/Copenhagen",
+		"storeName": "sweden",
 		"TripId": "201707sweden",
 		"id": "ha-sweden",
 		"jsonFile": "ha-sweden.json",
@@ -65,6 +83,9 @@
 		"tripSumm": "Exploring a bit of southern Scandinavia"
 	},
 	{
+		"hrefx": "201706malawi.html",
+		"name": "Jun17-Malawi",
+		"storeName": "malawi",
 		"TripId": "201706malawi",
 		"id": "ha-malawi",
 		"jsonFile": "ha-malawi.json",
@@ -76,6 +97,8 @@
 		"tripSumm": "A short trip to Africa"
 	},
 	{
+		"hrefx": "201609sanjuan.html",
+		"name": "Sept16-San Juan Isl",
 		"TripId": "201609sanjuan",
 		"id": "ha-sanjuan",
 		"backgroundImg": "img/sanjuan/20160909LopezIsl.jpg",
@@ -86,6 +109,9 @@
 		"tripSumm": "10 days in the Cascades, San Juan Islands, Portland and NW Oregon with our UD friends"
 	},
 	{
+		"hrefx": "201606adiron.html",
+		"name": "June16-Adiron",
+		"storeName": "adiron",
 		"TripId": "201606adiron",
 		"id": "ha-adiron",
 		"jsonFile": "ha-adiron.json",
@@ -97,6 +123,9 @@
 		"tripSumm": "As a sixtieth birthday gift we took a bike tour thru the region around Lake George, NY"
 	},
 	{
+		"hrefx": "201511tucson.html",
+		"name": "Nov15-Tucson",
+		"storeName": "tucson",
 		"TripId": "201511tucson",
 		"id": "ha-tuscon",
 		"jsonFile": "ha-tuscon.json",
@@ -108,6 +137,8 @@
 		"tripSumm": "A trip to the Arizona desert"
 	},
 	{
+		"hrefx": "../tdpost/tdIndex.html",
+		"name": "Jun/Jul 15-Divide",
 		"TripId": "201506tourdiv",
 		"id": "ha-td",
 		"backgroundImg": "img/tourdivide/day01/day01pic01.jpg",
@@ -118,6 +149,9 @@
 		"tripSumm": "For 35 days in June/July 2015 I traveled 2,500 miles by mountain bike from Canada to Mexico"
 	},
 	{
+		"hrefx": "201505cogap.html#cogap_top",
+		"name": "May15-C&O-GAP",
+		"storeName": "cogap",
 		"TripId": "201505cogap",
 		"id": "ha-cogap",
 		"jsonFile": "ha-cogap.json",
@@ -129,6 +163,9 @@
 		"tripSumm": "Testing my gear and setup.  Starting on May 12 over 4 days I covered 436 miles along the C&O towpath and the Great Allegeny Passage"
 	},
 	{
+		"hrefx": "201411kauai.html#kauai_top",
+		"name": "Nov14-Kauai",
+		"storeName": "kauai",
 		"TripId": "201411kauai",
 		"id": "ha-kauai",
 		"jsonFile": "ha-kauai.json",
@@ -140,6 +177,9 @@
 		"tripSumm": "In November, 2014 Kathy and I celebrated our 30th Anniversary in Kauai, Hawaii"
 	},
 	{
+		"hrefx": "201409ansel.html#ansel_top",
+		"name": "Sep14-Ansel",
+		"storeName": "ansel",
 		"TripId": "201409ansel",
 		"id": "ha-ansel",
 		"jsonFile": "ha-ansel.json",
@@ -151,6 +191,8 @@
 		"tripSumm": "During early September, 2014 Kathy and I along with some friends from UD spent a week in Yosemite NP and the Ansel Adams Willderness"
 	},
 	{
+		"hrefx": "201408tetons.html#tetons_top",
+		"name": "Aug14-Tetons",
 		"TripId": "201408Tetons",
 		"id": "ha-tetons",
 		"backgroundImg": "img/tetons/20140824GTetons00.jpg",
@@ -161,6 +203,9 @@
 		"tripSumm": "I took a 5 day backpacking trip along the Teton Crest Trail with Nick and his friends."
 	},
 	{
+		"hrefx": "201311ireland.html",
+		"name": "2013 Ireland",
+		"storeName": "ireland",
 		"TripId": "201311ireland",
 		"id": "ha-ireland",
 		"jsonFile": "ha-ireland.json",
@@ -172,6 +217,9 @@
 		"tripSumm": "A week in the southwest of Ireland with Kathy, Kelly and Sara and a return seeing my father's ancestors land in Lizcarrol, Cork"
 	},
 	{
+		"hrefx": "201301kili.html",
+		"name": "2013 Kili",
+		"storeName": "kili",
 		"TripId": "201301kili",
 		"id": "ha-kili",
 		"jsonFile": "ha-kili.json",
@@ -183,6 +231,18 @@
 		"tripSumm": "In January 2013 Kelly, Zav and I joined Rupert Tyer and 6 others on a full board 7 day climb to the summit of Mt Kilimanjaro"
 	},
 	{
+		"hrefx": "201301kilivideos.html",
+		"name": "2013 Kili Videos",
+		"backgroundImg": "img/kili/20130120Kili01.jpg",
+		"tripThumb": "img/index/thumb/20130120Kili01.jpg",
+		"pageLink": "adventures/201301kilivideos.html",
+		"pageTitle": "Jan. 2013 - Kilimanjaro",
+		"pageSubtitle": "Tanzania and the highest peak in Africa",
+		"tripSumm": "In January 2013 Kelly, Zav and I joined Rupert Tyer and 6 others on a full board 7 day climb to the summit of Mt Kilimanjaro"
+	},{
+		"hrefx": "201208greece.html",
+		"name": "2012 Greece",
+		"storeName": "greece",
 		"TripId": "201208greece",
 		"id": "ha-greece",
 		"jsonFile": "ha-greece.json",
@@ -194,6 +254,9 @@
 		"tripSumm": "Jim, Kathy and Allie visiting w Pat and Vasos in Greece"
 	},
 	{
+		"hrefx": "201201canyon.html",
+		"name": "2012 Grand Canyon",
+		"storeName": "canyon",
 		"TripId": "201201canyon",
 		"id": "ha-canyon",
 		"jsonFile": "ha-canyon.json",
@@ -205,6 +268,9 @@
 		"tripSumm": "In January 2013 Kelly and I joined Nick and Jonas on 5 day hike down to and along the Colorado River"
 	},
 	{
+		"hrefx": "201008alaska.html",
+		"name": "2010 Alaska",
+		"storeName": "alaska",
 		"TripId": "201008alaska",
 		"id": "ha-alaska",
 		"jsonFile": "ha-alaska.json",
@@ -216,6 +282,9 @@
 		"tripSumm": "Just touching the surface - Kenai Penninsula, Price William Sound and a quick look north"
 	},
 	{
+		"hrefx": "201002costarica.html",
+		"name": "2010 Costa Rica",
+		"storeName": "costarica",
 		"TripId": "201002costarica",
 		"id": "ha-costarica",
 		"backgroundImg": "img/index/201002CostaRica.jpg",
@@ -226,6 +295,9 @@
 		"tripSumm": "A family vacation during Kelly's break"
 	},
 	{
+		"hrefx": "200904italy.html",
+		"name": "2009 Italy",
+		"storeName": "italy",
 		"TripId": "200904italy",
 		"id": "ha-italy",
 		"backgroundImg": "img/index/200904Venice.jpg",
@@ -236,6 +308,9 @@
 		"tripSumm": "Allie, Kathy and I spend a week in the north of Italy"
 	},
 	{
+		"hrefx": "200808la2norf.html",
+		"name": "2008 X Cntry",
+		"storeName": "la2norf",
 		"TripId": "200808la2norf",
 		"id": "ha-la2norf",
 		"jsonFile": "ha-la2norf.json",
@@ -247,6 +322,9 @@
 		"tripSumm": "Driving back from LA with stops in the Grand Canyon, OKC, Graceland and Smokey Mtn NP"
 	},
 	{
+		"hrefx": "200807layosemite.html",
+		"name": "2008 LA Yosemite",
+		"storeName": "layosemite",
 		"TripId": "200807layosemite",
 		"id": "ha-layosemite",
 		"backgroundImg": "img/index/200807layosemite.jpg",
@@ -257,6 +335,9 @@
 		"tripSumm": "Visiting Kelly in LA and a quick trip up the coast to Yosemite"
 	},
 	{
+		"hrefx": "200806nj2la.html",
+		"name": "2008 NJ 2 LA",
+		"storeName": "nj2la",
 		"TripId": "200806nj2la",
 		"id": "ha-nj2la",
 		"backgroundImg": "img/index/200806nj2la.jpg",
@@ -267,6 +348,9 @@
 		"tripSumm": "Kathy and Kelly cross country in 9 days"
 	},
 	{
+		"hrefx": "200704rome.html",
+		"name": "2007 Rome",
+		"storeName": "rome",
 		"TripId": "200704rome",
 		"id": "ha-rome",
 		"backgroundImg": "img/index/200704Rome.jpg",
@@ -277,6 +361,9 @@
 		"tripSumm": ""
 	},
 	{
+		"hrefx": "200608hawaii.html",
+		"name": "2006 Hawaii",
+		"storeName": "hawaii",
 		"TripId": "200608hawaii",
 		"id": "ha-hawaii",
 		"backgroundImg": "img/index/2006Hawaii.jpg",
@@ -287,6 +374,9 @@
 		"tripSumm": ""
 	},
 	{
+		"hrefx": "200604lakecomo.html",
+		"name": "2006 Lake Como",
+		"storeName": "lakecomo",
 		"TripId": "200606lakecomo",
 		"id": "ha-lakecomo",
 		"backgroundImg": "img/index/200604LakeComo.jpg",
@@ -297,6 +387,9 @@
 		"tripSumm": "Kathy, Allie and I took a trip to Italy for a Cantillon board meeeting.  We stayed at the Ville deste and visited Bellagio and Milan."
 	},
 	{
+		"hrefx": "200411canyon.html",
+		"name": "2004 Grand Canyon",
+		"storeName": "canyon04",
 		"TripId": "200411canyon",
 		"id": "ha-canyon04",
 		"backgroundImg": "img/canyon/200411CanyonHike.jpg",
@@ -307,6 +400,9 @@
 		"tripSumm": "One day down and one day back with snow at the top"
 	},
 	{
+		"hrefx": "200304sequoia.html",
+		"name": "2003 SF - Seqouia",
+		"storeName": "sequoia",
 		"TripId": "200304sequoia",
 		"id": "ha-sequoia",
 		"backgroundImg": "img/index/200304sequoia.jpg",
@@ -317,6 +413,9 @@
 		"tripSumm": "After leaving Frontpoint and before Cantillon we took a an Easter trip out to San Francisco and drove down to Monterey, Sequoia NP & Yosemite"
 	},
 	{
+		"hrefx": "200008smokey.html",
+		"name": "2000 Smokey Mtn NP",
+		"storeName": "smokey",
 		"TripId": "200008smokey",
 		"id": "ha-smokey",
 		"backgroundImg": "img/index/200008NCSmokey.jpg",
@@ -327,6 +426,9 @@
 		"tripSumm": "After picking up Kelly at his camp in NC, we took a week in Gatlinburg, Dollyworld and Smokey Mtn NP"
 	},
 	{
+		"hrefx": "199908glacier.html",
+		"name": "1999 Glacier",
+		"storeName": "glacier",
 		"TripId": "199908glacier",
 		"id": "ha-glacier",
 		"backgroundImg": "img/index/199908Glacier.jpg",
@@ -337,6 +439,9 @@
 		"tripSumm": "Our 1999 summer vacation took us from Spokane thru Upper Idaho and Glacier NP"
 	},
 	{
+		"hrefx": "199904sedona.html",
+		"name": "1999 Sedona",
+		"storeName": "sedona",
 		"TripId": "199904sedona",
 		"id": "ha-sedona",
 		"backgroundImg": "img/index/199904Arizona.jpg",
@@ -347,6 +452,9 @@
 		"tripSumm": "A condo and Pink Jeeps in Sedona with a three day side trip to GCNP"
 	},
 	{
+		"hrefx": "199705rmnp.html",
+		"name": "1997 Rocky Mtn NP",
+		"storeName": "rmnp",
 		"TripId": "199705rmnp",
 		"id": "ha-rmnp",
 		"backgroundImg": "img/index/199705RckyMtnNP.jpg",
@@ -357,6 +465,9 @@
 		"tripSumm": "We visited Blue Valley Ranch and Rocky Mtn NP in the spring"
 	},
 	{
+		"hrefx": "199510elkhuntNM.html",
+		"name": "1995 Elk Hunt",
+		"storeName": "elkhuntNM",
 		"TripId": "199510elkhuntNM",
 		"id": "ha-elkhuntNM",
 		"backgroundImg": "img/index/199510NMElk.jpg",
@@ -367,6 +478,9 @@
 		"tripSumm": "Along with Perry Handyside I went to western NM for a four day elk hunt."
 	},
 	{
+		"hrefx": "199407BC.html",
+		"name": "1994 BC",
+		"storeName": "BC",
 		"TripId": "199407BC",
 		"id": "ha-BC",
 		"backgroundImg": "img/index/199407BC.jpg",
@@ -377,6 +491,9 @@
 		"tripSumm": "Leo and I went to scout out the hunting area leased by Tudor and camped up on the CD and rafted down the Red Deer River"
 	},
 	{
+		"hrefx": "199312zimbab.html",
+		"name": "1993 Zimbabwe",
+		"storeName": "zimbab",
 		"TripId": "199312zimbab",
 		"id": "ha-zimbab",
 		"backgroundImg": "img/index/199312Zimbabwe.jpg",
@@ -387,6 +504,9 @@
 		"tripSumm": "I stowed away on a private plane from JFK to Zimbabwe to see a prospective ecotourism site.  Rhinos, Elephants and Kudu ohh my!!!"
 	},
 	{
+		"hrefx": "199308yellowstone.html",
+		"name": "1993 Yellowstone",
+		"storeName": "yellowstone",
 		"TripId": "199308yellowstone",
 		"id": "ha-yellowstone",
 		"backgroundImg": "img/index/199308yellowstone2.jpg",
@@ -397,6 +517,9 @@
 		"tripSumm": "A family vacation to an amazing place of wonder"
 	},
 	{
+		"hrefx": "199108ireland.html",
+		"name": "1991 Ireland",
+		"storeName": "ireland91",
 		"TripId": "199108ireland",
 		"id": "ha-ireland91",
 		"backgroundImg": "img/index/199109ireland.jpg",
@@ -407,6 +530,9 @@
 		"tripSumm": ""
 	},
 	{
+		"hrefx": "198807olympiaBC.html",
+		"name": "1988 Olympia",
+		"storeName": "olympiaBC",
 		"TripId": "198807olympiaBC",
 		"id": "ha-olympiaBC",
 		"backgroundImg": "img/index/198807BCOlympia.jpg",
@@ -417,6 +543,9 @@
 		"tripSumm": "After a wedding in SF, we flew to Seattle, took a ferry to Victoria and returned thru Olympia NP and a visit with Aaron."
 	},
 	{
+		"hrefx": "198108chiPortDen.html",
+		"name": "1981 Chi-Port",
+		"storeName": "chiPortDen",
 		"TripId": "198108chiPortDen",
 		"id": "ha-chiPortDen",
 		"backgroundImg": "img/index/1981chidenprtl.jpg",
@@ -427,6 +556,9 @@
 		"tripSumm": "Kathy and I took a very quick trip from Chicago to Portland in a little old ladies Olds Cutlass and then I hitch back to Denver"
 	},
 	{
+		"hrefx": "197907xctry.html",
+		"name": "1979 X Cntry",
+		"storeName": "xctry79",
 		"TripId": "197906xctry",
 		"id": "ha-xctry79",
 		"backgroundImg": "img/index/197907xctry.jpg",
@@ -437,6 +569,19 @@
 		"tripSumm": "Tony and I crossed thru 19 states on our way to San Diego and back thru Yellowstone and the northern interstate route "
 	},
 	{
+		"hrefx": "46er.html",
+		"name": "46er",
+		"TripId": "",
+		"id": "ha-",
+		"backgroundImg": "img/index/trainload.jpg",
+		"tripThumb": "img/index/thumb/trainload.jpg",
+		"pageLink": "adventures/TrainloadOfBosses.html",
+		"pageTitle": "I had a Trainload of Bosses",
+		"pageSubtitle": "Memories of Life on the 20th Century Limited",
+		"tripSumm": ""
+	},{
+		"hrefx": "TrainloadOfBosses.html",
+		"name": "JBK-TrainLoad",
 		"TripId": "TrainloadOfBosses",
 		"id": "ha-TrainloadOfBosses",
 		"backgroundImg": "img/index/trainload.jpg",
@@ -447,6 +592,8 @@
 		"tripSumm": ""
 	},
 	{
+		"hrefx": "Turnback.html",
+		"name": "JBK-Turnback the Clock",
 		"TripId": "TurnBack",
 		"id": "ha-TurnBack",
 		"backgroundImg": "img/index/TurnBack.jpg",
@@ -489,8 +636,8 @@
 						"storeName": "banff"
 					},
 					{
-
-						"name": "July17-Stockholm/Copenhagen",
+						"hrefx": "201707sweden",
+						"name" : "July17-Stockholm/Copenhagen",
 						"storeName": "sweden"
 					},
 					{

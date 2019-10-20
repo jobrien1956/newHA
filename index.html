@@ -25,5 +25,21 @@
 <script src="views/Layout.js"></script>
 <script src="views/Trip.js"></script>
 <script src="views/Home.js"></script>
+<!-- jQuery <script src="js/jquery.min.js"></script>-->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+<!-- Bootstrap Core JavaScript -->
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+<script>
+	var myImage = document.querySelector('img');
+	myImage.onclick = function () {
+		var mySrc = myImage.getAttribute('src');
+		if (mySrc === 'img/index/having_adventures2.jpg') {
+			myImage.setAttribute('src', 'img/index/jim_nardi.jpg');
+		} else {
+			myImage.setAttribute('src', 'img/index/having_adventures2.jpg');
+		}
+	};
+</script>
 </body>
 </html>
