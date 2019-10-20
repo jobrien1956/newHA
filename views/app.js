@@ -10,11 +10,15 @@
 // dev this is       dataUrl: ""
 		}
 	};
+  // This view is being used to load various parts of the homepage so I can get the formating.  I still need to get the functionality to present various views (navbar / intro / main header / tripcards / footer on the main page and then (navbar / trip (HA.views.Trip) and the footer with a trip page.
+	// I've combined the data in the HomePageNavBarData with the haPages data so I can eliminate that data store once I adjust the data pull.
 
 	const mainHeader = {
 		view: function (vnode) {
 			if (!HA.stores.hapages) return
-	  return m("div.container", m("header.intro-header[id='topContainer']",
+	  return m("div.container",
+		  // this is the original mainHeader - picture and writing - need to remove the backround img from css sytles topContainer.
+		  m("header.intro-header[id='topContainer']",
 			  m("div.row",
 				  m("div.col-lg-8.col-lg-offset-2.col-md-10.col-md-offset-1",
 					  m("div.site-heading",
@@ -25,11 +29,28 @@
 					  )
 				  )
 			  )),
+		  m("div.container-fluid",
+			  m("div.row",
+				  m("div.col-sm-12",
+					  [
+						  m("h2.text-center", {"style":{"margin-left":"15px","font-size":"20px","color":"#1216DD"}},
+							  "Life's an adventure - You never know what's coming (or who) "
+						  ),
+						  m("img.img-responsive[src='img/index/having_adventures2.jpg'][width='75%'][max-height='200px'][alt='My test image ']")
+					  ]
+				  )
+			  )
+		  ),
+			  // this maps each trip page to a card box on the index page
 			  m("div.row", HA.stores.hapages.haPages.map((it) => {
 			  	return m(".col-xs-6.col-sm-4.col-md-3[id=" + it.id + "-th]",
 				  [
 					  m(".margin-top"),
-					  m("a.square-text[href=" + it.pageLink + "]", it.pageTitle),
+//					  m("a.square-text[href=" + it.pageLink + "]", it.pageTitle),
+						 m('a.square-text', { onclick: (e) => {
+					  console.log(it)
+					  m.route.set('/trip/' + it.storeName)
+				  }}, it.pageTitle),
 					  m(".square-img", {style: {"background-image": "url(" + it.tripThumb + ")"}})
 				  ]
 			    )
