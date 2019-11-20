@@ -3,15 +3,15 @@
 		"nav": "1",
 		"TripId": "200807layosemite",
 		"id": "ha-layosemite",
-		"backgroundImg": "img/index/200807layosemite.jpg",
-		"tripThumb": "img/index/thumb/200807layosemite.jpg",
+		"backgroundImg": "../img/index/200807layosemite.jpg",
+		"tripThumb": "../img/index/thumb/200807layosemite.jpg",
 		"pageLink": "adventures/200807layosemite.html",
 		"pageTitle": "LA, Pismo and Yosemite",
 		"pageSubtitle": "==July 2008==",
 		"tripSumm": "Visiting Kelly in LA and a quick trip up the coast to Yosemite",
 		"summ": "",
 		"intro": "--",
-		"introDescr": "",
+		"introDescr": "In 2008, Kelly had an internship in LA.  I have two other posts which cover the drive out by Kelly and Mom and drive back home by Kelly and I.  Towards the end of July we flew out to visit and drive up the coast to  Yosemite.  We spent 4 nights at the Beverly Wilshire with Esther and Don ",
 		"introPic1": "",
 		"introPic1span": "",
 		"introPic2": "",
@@ -29,11 +29,11 @@
 	},
 	"adventureDay": [
 		{
-			"dayId": "200807xx",
-			"h1title": "",
+			"dayId": "20080720",
+			"h1title": "Beverly Hills and Rodeo Drive",
 			"h3": "",
-			"pdate": "",
-			"pdesc": "",
+			"pdate": "Sunday, Monday July 20 & 21, 2008",
+			"pdesc": "With Esther and Don along for the ride we stayed at Beverly Wilshire on Rodeo Drive.  We had time to explore LA a little bit.  We went up to the hotel pool for lunch and then had dinner out by the beach.  The following day we took a drive up into the canyons north of the city and stopped by the TCL Chinese Theatre to see the hand and footprints in the sidewalk",
 			"pdescLink1": "",
 			"pdescLinktag1": "",
 			"pdesc2": "",
@@ -42,39 +42,45 @@
 			"pdesc3": "",
 			"pdescLink3": "",
 			"pdescLinktag3": "",
-			"mappic": "",
+			"mappic": "https://photos.smugmug.com/20080720-LA-Pismo-and-Yosemite/Beverly-Hills-Rodeo-Drive-Wilshire-Blvd-July-21-2008/i-gZfsz24/0/d9b29694/L/200807LaYose%20-%203%20of%20129-L.jpg",
 			"mappicport": "",
-			"mapspan": "",
+			"mapspan": "Below the Hollywood sign - As close as we could get",
 			"pictures": [
 				{
 					"picID": "1",
-					"pic": "",
-					"piccap": "",
+					"pic": "https://photos.smugmug.com/20080720-LA-Pismo-and-Yosemite/Beverly-Hills-Rodeo-Drive-Wilshire-Blvd-July-21-2008/i-77dQBbH/0/14019b4c/L/200807LaYose%20-%2019%20of%20129-L.jpg",
+					"piccap": "Dinner on the Beach",
 					"pictop": ""
 				},
 				{
 					"picID": "2",
-					"pic": "",
+					"pic": "https://photos.smugmug.com/20080720-LA-Pismo-and-Yosemite/Beverly-Hills-Rodeo-Drive-Wilshire-Blvd-July-21-2008/i-9BWfgBz/0/3e3a6224/M/200807LaYose%20-%2022%20of%20129-M.jpg",
 					"piccap": "",
 					"pictop": ""
 				},
 				{
 					"picID": "3",
-					"pic": "",
-					"piccap": "",
+					"pic": "https://photos.smugmug.com/20080720-LA-Pismo-and-Yosemite/Beverly-Hills-Rodeo-Drive-Wilshire-Blvd-July-21-2008/i-LhNbCjn/0/6f84ba4f/M/200807LaYose%20-%2010%20of%20129-M.jpg",
+					"piccap": "Allie at the pool",
+					"pictop": ""
+				},
+				{
+					"picID": "4",
+					"pic": "https://photos.smugmug.com/20080720-LA-Pismo-and-Yosemite/Beverly-Hills-Rodeo-Drive-Wilshire-Blvd-July-21-2008/i-b9wLtRg/0/03700440/M/200807LaYose%20-%208%20of%20129-M.jpg",
+					"piccap": "Allie and Kelly",
 					"pictop": ""
 				}
 			],
-			"iframe": "",
-			"smugAlbum": "",
-			"smugAlbumName": ""
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=cLpbhm",
+			"smugAlbum": "https://havingadventures.smugmug.com/20080720-LA-Pismo-and-Yosemite/Beverly-Hills-Rodeo-Drive-Wilshire-Blvd-July-21-2008",
+			"smugAlbumName": "Hollywood"
 		},
 		{
-			"dayId": "200807xx",
-			"h1title": "",
+			"dayId": "20080722",
+			"h1title": "Disneyland and Pismo Beach",
 			"h3": "",
-			"pdate": "",
-			"pdesc": "",
+			"pdate": "Tuesday Wednesday, July 22 & 23, 2008",
+			"pdesc": "We had a day to wait for Kelly to finish work, so Allie, Kathy and I visited Disneyland.  We had a nice day and then picked up Kelly and drove about half way to Yosemite - stopping in Pismo Beach in a condo on the beach",
 			"pdescLink1": "",
 			"pdescLinktag1": "",
 			"pdesc2": "",
@@ -84,38 +90,38 @@
 			"pdescLink3": "",
 			"pdescLinktag3": "",
 			"mappic": "",
-			"mappicport": "",
-			"mapspan": "",
+			"mappicport": "https://photos.smugmug.com/20080720-LA-Pismo-and-Yosemite/Disneyland-PismoJul242008/i-WQBCq5c/0/37748adf/L/200807LaYose%20-%2034%20of%20129-L.jpg",
+			"mapspan": "Jim and Allie at the enterance to Disneyland",
 			"pictures": [
 				{
 					"picID": "1",
-					"pic": "",
+					"pic": "https://photos.smugmug.com/20080720-LA-Pismo-and-Yosemite/Disneyland-PismoJul242008/i-R2rDTZH/0/002df293/M/200807LaYose%20-%2027%20of%20129-M.jpg",
 					"piccap": "",
 					"pictop": ""
 				},
 				{
 					"picID": "2",
-					"pic": "",
-					"piccap": "",
+					"pic": "https://photos.smugmug.com/20080720-LA-Pismo-and-Yosemite/Disneyland-PismoJul242008/i-skr3MSM/0/ad8e8299/M/200807LaYose%20-%2043%20of%20129-M.jpg",
+					"piccap": "Kathy and Allie on the Pier at Pismo Beach",
 					"pictop": ""
 				},
 				{
 					"picID": "3",
-					"pic": "",
+					"pic": "https://photos.smugmug.com/20080720-LA-Pismo-and-Yosemite/Disneyland-PismoJul242008/i-qT2TFfq/0/0e370156/XL/200807LaYose%20-%2039%20of%20129-XL.jpg",
 					"piccap": "",
 					"pictop": ""
 				}
 			],
-			"iframe": "",
-			"smugAlbum": "",
-			"smugAlbumName": ""
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=z8rRw3",
+			"smugAlbum": "https://havingadventures.smugmug.com/20080720-LA-Pismo-and-Yosemite/Disneyland-PismoJul242008",
+			"smugAlbumName": "Disney and Pismo"
 		},
 		{
-			"dayId": "200807xx",
-			"h1title": "",
+			"dayId": "20080725",
+			"h1title": "Yosemite - Climbing to the top of Vernal Falls",
 			"h3": "",
-			"pdate": "",
-			"pdesc": "",
+			"pdate": "Friday, July 25, 2008",
+			"pdesc": "We had two days in the park so we started with a hike up to the top of Vernal Falls.",
 			"pdescLink1": "",
 			"pdescLinktag1": "",
 			"pdesc2": "",
@@ -124,39 +130,39 @@
 			"pdesc3": "",
 			"pdescLink3": "",
 			"pdescLinktag3": "",
-			"mappic": "",
+			"mappic": "https://photos.smugmug.com/20080720-LA-Pismo-and-Yosemite/YosemiteJuly252008/i-Sm6HXSs/0/287cb155/L/200807LaYose%20-%2080%20of%20129-L.jpg",
 			"mappicport": "",
-			"mapspan": "",
+			"mapspan": "The goal of our hike was the top of the falls above",
 			"pictures": [
 				{
 					"picID": "1",
-					"pic": "",
+					"pic": "https://photos.smugmug.com/20080720-LA-Pismo-and-Yosemite/YosemiteJuly252008/i-XpgPQCt/0/cb93b29a/L/200807LaYose%20-%2081%20of%20129-L.jpg",
 					"piccap": "",
 					"pictop": ""
 				},
 				{
 					"picID": "2",
-					"pic": "",
+					"pic": "https://photos.smugmug.com/20080720-LA-Pismo-and-Yosemite/YosemiteJuly252008/i-X7K8N4z/0/43062c13/L/200807LaYose%20-%2079%20of%20129-L.jpg",
 					"piccap": "",
 					"pictop": ""
 				},
 				{
 					"picID": "3",
-					"pic": "",
+					"pic": "https://photos.smugmug.com/20080720-LA-Pismo-and-Yosemite/YosemiteJuly252008/i-qJdQtjK/0/4ccf5f74/L/200807LaYose%20-%2076%20of%20129-L.jpg",
 					"piccap": "",
 					"pictop": ""
 				}
 			],
-			"iframe": "",
-			"smugAlbum": "",
-			"smugAlbumName": ""
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=WX6XJG",
+			"smugAlbum": "https://havingadventures.smugmug.com/20080720-LA-Pismo-and-Yosemite/YosemiteJuly252008",
+			"smugAlbumName": "Yosemite July25"
 		},
 		{
-			"dayId": "200807xx",
-			"h1title": "",
-			"h3": "",
-			"pdate": "",
-			"pdesc": "",
+			"dayId": "20080726",
+			"h1title": "Glacier Point",
+			"h3": "Spectacular Views of Yosemite Valley",
+			"pdate": "Saturday, July 26, 2008",
+			"pdesc": "Today we drove into Glacier Point where I had never been.  The view felt like we were seeing a framed photo instead of being outside.  After spending some time getting up on the rocks to take pictures we drove down into the valley and explored around the base of Yosemite Falls.  On our way out of the park you could really notice the forest fire smell and smoke from a fire which had started about a week before just outside the park boundries.",
 			"pdescLink1": "",
 			"pdescLinktag1": "",
 			"pdesc2": "",
@@ -165,114 +171,38 @@
 			"pdesc3": "",
 			"pdescLink3": "",
 			"pdescLinktag3": "",
-			"mappic": "",
+
+			"mappic" : "https://photos.smugmug.com/20080720-LA-Pismo-and-Yosemite/YosemiteNationalParkCAJuly26/i-5J7MSKR/0/ce125ca3/L/200807LaYose%20-%20100%20of%20129-L.jpg",
 			"mappicport": "",
-			"mapspan": "",
+			"mapspan": "Yosemite Valley from Glacier Point",
 			"pictures": [
 				{
 					"picID": "1",
-					"pic": "",
-					"piccap": "",
+					"pic": "https://photos.smugmug.com/20080720-LA-Pismo-and-Yosemite/YosemiteNationalParkCAJuly26/i-S7BWGfx/0/39178df9/L/200807LaYose%20-%20103%20of%20129-L.jpg",
+					"piccap": "Kelly, Kathy and Allie",
 					"pictop": ""
 				},
 				{
 					"picID": "2",
-					"pic": "",
-					"piccap": "",
-					"pictop": ""
+					"pic": "https://photos.smugmug.com/20080720-LA-Pismo-and-Yosemite/YosemiteNationalParkCAJuly26/i-7H86gGK/0/cdc8d9ec/L/200807LaYose%20-%20105%20of%20129-L.jpg",
+					"piccap": "Jim, Kathy and Allie"
 				},
 				{
 					"picID": "3",
-					"pic": "",
-					"piccap": "",
+					"pic": "https://photos.smugmug.com/20080720-LA-Pismo-and-Yosemite/YosemiteNationalParkCAJuly26/i-bDtgLWz/0/6540e766/L/200807LaYose%20-%20121%20of%20129-L.jpg",
+					"piccap": "Jim on the rocks near Yosemite Falls",
 					"pictop": ""
+				},
+				{
+					"picID": "4",
+					"pic": "https://photos.smugmug.com/20080720-LA-Pismo-and-Yosemite/YosemiteNationalParkCAJuly26/i-Sk7CWjV/0/92d41636/L/200807LaYose%20-%20126%20of%20129-L.jpg",
+					"piccap": "A fire nearby caused the  Valley to fill with smoke",
+					"picbotm": "On Sunday we had a long drive back to LA and took the red-eye back to NJ arriving at 6am Monday"
 				}
 			],
-			"iframe": "",
-			"smugAlbum": "",
-			"smugAlbumName": ""
-		},
-		{
-			"dayId": "200807xx",
-			"h1title": "",
-			"h3": "",
-			"pdate": "",
-			"pdesc": "",
-			"pdescLink1": "",
-			"pdescLinktag1": "",
-			"pdesc2": "",
-			"pdescLink2": "",
-			"pdescLinktag2": "",
-			"pdesc3": "",
-			"pdescLink3": "",
-			"pdescLinktag3": "",
-			"mappic": "",
-			"mappicport": "",
-			"mapspan": "",
-			"pictures": [
-				{
-					"picID": "1",
-					"pic": "",
-					"piccap": "",
-					"pictop": ""
-				},
-				{
-					"picID": "2",
-					"pic": "",
-					"piccap": "",
-					"pictop": ""
-				},
-				{
-					"picID": "3",
-					"pic": "",
-					"piccap": "",
-					"pictop": ""
-				}
-			],
-			"iframe": "",
-			"smugAlbum": "",
-			"smugAlbumName": ""
-		},
-		{
-			"dayId": "200807xx",
-			"h1title": "",
-			"h3": "",
-			"pdate": "",
-			"pdesc": "",
-			"pdescLink1": "",
-			"pdescLinktag1": "",
-			"pdesc2": "",
-			"pdescLink2": "",
-			"pdescLinktag2": "",
-			"pdesc3": "",
-			"pdescLink3": "",
-			"pdescLinktag3": "",
-			"mappic": "",
-			"mappicport": "",
-			"mapspan": "",
-			"pictures": [
-				{
-					"picID": "1",
-					"pic": "",
-					"piccap": "",
-					"pictop": ""
-				},
-				{
-					"picID": "2",
-					"pic": "",
-					"piccap": "",
-					"pictop": ""
-				},
-				{
-					"picID": "3",
-					"pic": "",
-					"piccap": "",
-					"pictop": ""
-				}
-			],
-			"iframe": "",
-			"smugAlbum": "",
-			"smugAlbumName": ""
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=BMVNQv",
+			"smugAlbum": "https://havingadventures.smugmug.com/20080720-LA-Pismo-and-Yosemite/YosemiteNationalParkCAJuly26",
+			"smugAlbumName": "Yosemite July26"
 		}
 	]
 }

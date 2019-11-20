@@ -39,29 +39,22 @@
 			"pictures": [
 				{
 					"picID": "1",
-					"pic1": "https://photos.smugmug.com/199705RockyMtnNP/199705BlueValleyRanch/i-vDK4FFH/1/f9adc901/M/199705RockyMtnNP%20-%2033%20of%2053-L.jpg",
-					"pic1cap": "Kathy getting ready for our ride",
+					"pic": "https://photos.smugmug.com/199705RockyMtnNP/199705BlueValleyRanch/i-vDK4FFH/1/f9adc901/M/199705RockyMtnNP%20-%2033%20of%2053-L.jpg",
+					"piccap": "Kathy getting ready for our ride",
 					"pictop": "",
 					"picbotm": ""
 				},
 				{
 					"picID": "2",
 					"pic2": "https://photos.smugmug.com/199705RockyMtnNP/199705BlueValleyRanch/i-bRSDPNb/1/135abd79/M/199705RockyMtnNP%20-%2042%20of%2053-L.jpg",
-					"pic2cap": "Kelly on our ride",
+					"piccap": "Kelly on our ride",
 					"pictop": "",
 					"picbotm": ""
 				},
 				{
 					"picID": "3",
-					"pic3": "https://photos.smugmug.com/199705RockyMtnNP/199705BlueValleyRanch/i-X7Rcb5H/1/8757fae1/M/199705RockyMtnNP%20-%2038%20of%2053-M.jpg",
+					"pic": "https://photos.smugmug.com/199705RockyMtnNP/199705BlueValleyRanch/i-X7Rcb5H/1/8757fae1/M/199705RockyMtnNP%20-%2038%20of%2053-M.jpg",
 					"pic3cap": "Allie on Blue at Blue Valley Ranch",
-					"pictop": "",
-					"picbotm": ""
-				},
-				{
-					"picID": "4",
-					"pic": "",
-					"piccap": "",
 					"pictop": "",
 					"picbotm": ""
 				}
@@ -81,15 +74,15 @@
 			"pictures": [
 				{
 					"picID": "1",
-					"pic1": "https://photos.smugmug.com/199705RockyMtnNP/RMNPMay1997/i-ZVWwCsj/0/30013992/L/199705RockyMtnNP%20-%2047%20of%2053-L.jpg",
-					"pic1cap": "Overlook by the Alpine Visitor Center",
+					"pic": "https://photos.smugmug.com/199705RockyMtnNP/RMNPMay1997/i-ZVWwCsj/0/30013992/L/199705RockyMtnNP%20-%2047%20of%2053-L.jpg",
+					"piccap": "Overlook by the Alpine Visitor Center",
 					"pictop": "",
 					"picbotm": ""
 				},
 				{
 					"picID": "2",
-					"pic2": "https://photos.smugmug.com/199705RockyMtnNP/RMNPMay1997/i-vXXw7qv/0/d983763e/L/199705RockyMtnNP%20-%2020%20of%2053-L.jpg",
-					"pic2cap": "From our hike around lake",
+					"pic": "https://photos.smugmug.com/199705RockyMtnNP/RMNPMay1997/i-vXXw7qv/0/d983763e/L/199705RockyMtnNP%20-%2020%20of%2053-L.jpg",
+					"piccap": "From our hike around lake",
 					"pictop": "",
 					"picbotm": ""
 				},

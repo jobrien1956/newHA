@@ -3,8 +3,8 @@
 		"nav": "1",
 		"TripId": "199312zimbab",
 		"id": "ha-zimbab",
-		"backgroundImg": "img/index/199312Zimbabwe.jpg",
-		"tripThumb": "img/index/thumb/199312Zimbabwe.jpg",
+		"backgroundImg": "../img/index/199312Zimbabwe.jpg",
+		"tripThumb": "../img/index/thumb/199312Zimbabwe.jpg",
 		"pageLink": "adventures/199312zimbabwe.html",
 		"pageTitle": "Dec, 1993 - 3 days in Buffalo Range, Zimbabwe",
 		"pageSubtitle": "More time flying than exploring",
@@ -89,7 +89,13 @@
 					"picID": "2",
 					"pic": "https://photos.smugmug.com/199312Zimbab/Buffalo-Range-Masvingo-Province-December-20-1993/i-XtxXr9m/0/4e9c6f1f/L/199312Zimbabwe%20-%208%20of%2042-L.jpg",
 					"piccap": "The Rhino was very close and definitely the highlight of the trip for me.",
-					"pictop": "On our second day I was up well before dawn to track various anailmals.  We started with the Wildebeests and went of to get up close with a Rhino and a large group of elephants."
+					"pictop": "On our second day I was up well before dawn to track various animals.  We started with the Wildebeests and went on to get up close with a Rhino and a large group of elephants."
+				},
+				{
+					"picID": "3",
+					"pic": "https://photos.smugmug.com/199312Zimbab/Buffalo-Range-Masvingo-Province-December-20-1993/i-4SbQ629/0/c840ce8a/L/199312Zimbabwe%20-%209%20of%2042-L.jpg",
+					"piccap": "The elephants were about a 100 feet.  We were on foot..",
+					"pictop": ""
 				}
 			],
 			"iframe": "",

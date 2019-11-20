@@ -32,7 +32,6 @@ HA.views.Trip = (vnode) => {
 			)
 		)));
 	}
-
 	//used in intro(trip) to display the descr and up to two pictures
 	function tripIntro(trip) {
 		return !tripData.trip.introPic1 && !tripData.trip.introPic2 ?
@@ -40,7 +39,6 @@ HA.views.Trip = (vnode) => {
 				m("p.blog-post", trip.introDescr)) : //no pictures
 			tripIntroImg(trip)
 	}
-
 	// used tripIntro(trip) if 2 pics put descr on top and two pics below (7 and 5)
 	// overwise put text next to pic
 	function tripIntroImg(trip) {
@@ -69,7 +67,6 @@ HA.views.Trip = (vnode) => {
 					)]
 			);
 	}
-
 // dayDescr used in dayIntro to allow for up to 2 links in the paragraph
 	function dayDescr(iii) {
 		return m("p.blog-post",
@@ -87,7 +84,6 @@ HA.views.Trip = (vnode) => {
 				)
 			]);
 	}
-
 	//Intro combines a paragraph and a picture which can be landscape (mappicport)or port (mappic)
 	function dayIntro(iii) {
 		return iii.mappic && !iii.mappic2 ?
@@ -133,7 +129,7 @@ HA.views.Trip = (vnode) => {
 			]);
 	}
 
-		function footer() {
+	function footer() {
 		return m("footer",
 			m(".container", m(".row", [m(".col-sm-12.center-block",
 				m("a[href='https://www.havingiiis.com/index.html#ha_top']",
@@ -211,6 +207,7 @@ HA.views.Trip = (vnode) => {
 			]
 		);
 	}
+
 	return {
 		view: function (vnode) {
 			console.log(tripData)

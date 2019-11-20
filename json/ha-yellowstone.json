@@ -4,7 +4,7 @@
 		"TripId": "199308yellowstone",
 		"id": "ha-yellowstone",
 		"backgroundImg": "https://photos.smugmug.com/199309Yellowston/19930902Yellowstone/i-xtLrnD4/0/2c5e2bde/M/199309Yellowstone%20-%2013%20of%2071-L.jpg",
-		"tripThumb": "img/index/thumb/199308yellowstone2.jpg",
+		"tripThumb": "../img/index/thumb/199308yellowstone2.jpg",
 		"pageLink": "adventures/ha_future.html",
 		"pageTitle": "Sept, 1993 - Yellowstone",
 		"pageSubtitle": "Elk, Moose, Buffalo and hiking Mt Washburn w mtn. goats",
@@ -153,8 +153,8 @@
 					"picID": "1",
 					"pic": "https://photos.smugmug.com/199309Yellowston/Mt-Washburn/i-VRGM7LK/0/b9c72037/M/199309Yellowstone%20-%2030%20of%2071-M.jpg",
 					"piccap": "On the way up",
-					"pictop": "Looking for something to do I had identified Mt Washburn as a place we could do a short hike.  About 20 minutes into our hike up the Dunraven Pass trail we saw another family with a young girl slightly older than Kelly coming down the trail.  Up until this point Kelly had been a slightly less than enthusiastic participant.  The woman told us 'He'll never make it'.  From this point on Kelly was convinced he'd make it to the top of Mt Washburn and repeatedly announced 'I bet that girl didnt make it this far'",
-					"picbotm": "The Mt. Washburn Trail Is a moderately difficult hike. From the Chittenden parking area it rises 1,491' over 2 8 miles, and from Dunraven Pass it gains 1,393' in a 3.5 mile climb to the summit.  Allow at least fours to make the round trip to the summit and back.   This area is good grlz1ly bear habitat.  Be aware and stay alert!"
+					"pictop": "Looking for something to do, I identified Mt Washburn as a place we could do a short hike.  About 20 minutes into our hike up the Dunraven Pass trail we saw another family with a young girl slightly older than Kelly coming down the trail.  Up until this point Kelly had been a slightly less than enthusiastic participant.  The woman told us 'He'll never make it'.  From this point on Kelly was convinced he'd make it to the top of Mt Washburn and repeatedly announced 'I bet that girl didnt make it this far'",
+					"picbotm": "The Mt. Washburn Trail Is a moderately difficult hike. From the Chittenden parking area it rises 1,491' over 2.8 miles, and from Dunraven Pass it gains 1,393' in a 3.5 mile climb to the summit.  Allow at least fours to make the round trip to the summit and back.   This area is good grlz1ly bear habitat.  Be aware and stay alert!"
 				},
 				{
 					"picID": "2",

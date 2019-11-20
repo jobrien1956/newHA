@@ -2,7 +2,8 @@ HA.views.Layout = {
 
 	view: function (vnode) {
 		return m(".layout", [
-			m('nav', {onclick: (e) => console.log('clicked', e)}, 'HavingAdventures NavBar'),
+			m(NavBar),
+			//m('nav', {onclick: (e) => console.log('clicked', e)}, 'HavingAdventures NavBar'),
 
 			m('div', ' ----  '),
 			m('div', {onclick: (e) => console.log('clicked', e)},

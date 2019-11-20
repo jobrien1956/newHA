@@ -45,22 +45,33 @@
 			"mappic": "https://photos.smugmug.com/199904Sedona/Sedona-Coconino-National-Forest-AZ-April-9-1999/i-GrHDSDC/0/426427ff/L/199904Sedona%20-%206%20of%2020-L.jpg",
 			"mappicport": "",
 			"mapspan": "",
-			"pic1": "https://photos.smugmug.com/199904Sedona/Sedona-Coconino-National-Forest-AZ-April-9-1999/i-cNxkLrp/0/ff6604b9/M/199904Sedona%20-%208%20of%2020-M.jpg",
-			"pic1cap": "",
-			"pic1top": "",
-			"pic1botm": "We were surrounded by red-rock buttes, steep canyon walls and pine forests",
-			"pic2": "https://photos.smugmug.com/199904Sedona/Sedona-Coconino-National-Forest-AZ-April-9-1999/i-rFHwbZM/0/3beb9bed/L/199904Sedona%20-%2015%20of%2020-L.jpg",
-			"pic2cap": "",
-			"pic2top": "One highlight was taking the Pink Jeep Tour which took us up onto the top of some red rocks",
-			"pic2botm": "",
-			"pic3": "https://photos.smugmug.com/199904Sedona/Sedona-Coconino-National-Forest-AZ-April-9-1999/i-Jv7q9xW/0/1a56c0a7/L/199904Sedona%20-%2020%20of%2020-L.jpg",
-			"pic3botm": "",
-			"pic3cap": "",
-			"pic3top": "",
-			"pic4": "https://photos.smugmug.com/199904Sedona/Sedona-Coconino-National-Forest-AZ-April-9-1999/i-j963SsT/0/ddd396c3/L/199904Sedona%20-%2017%20of%2020-L.jpg",
-			"pic4botm": "Climbing down into a crevice",
-			"pic4cap": "",
-			"pic4top": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/199904Sedona/Sedona-Coconino-National-Forest-AZ-April-9-1999/i-cNxkLrp/0/ff6604b9/M/199904Sedona%20-%208%20of%2020-M.jpg",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": "We were surrounded by red-rock buttes, steep canyon walls and pine forests"
+				}, {
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/199904Sedona/Sedona-Coconino-National-Forest-AZ-April-9-1999/i-rFHwbZM/0/3beb9bed/L/199904Sedona%20-%2015%20of%2020-L.jpg",
+					"piccap": "",
+					"pictop": "One highlight was taking the Pink Jeep Tour which took us up onto the top of some red rocks",
+					"picbotm": ""
+				},{
+					"picID": "3",
+					"pic": "https://photos.smugmug.com/199904Sedona/Sedona-Coconino-National-Forest-AZ-April-9-1999/i-Jv7q9xW/0/1a56c0a7/L/199904Sedona%20-%2020%20of%2020-L.jpg",
+					"picbotm": "",
+					"piccap": "",
+					"pictop": ""
+				},{
+					"picID": "4",
+					"pic": "https://photos.smugmug.com/199904Sedona/Sedona-Coconino-National-Forest-AZ-April-9-1999/i-j963SsT/0/ddd396c3/L/199904Sedona%20-%2017%20of%2020-L.jpg",
+					"picbotm": "Climbing down into a crevice",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
 			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=ffkHwD",
 			"smugAlbum": "https://havingadventures.smugmug.com/199904Sedona/Sedona-Coconino-National-Forest-AZ-April-9-1999",
 			"smugAlbumName": "Sedona"
@@ -83,89 +94,39 @@
 			"mappic2": "../img/canyon/ElTovar.JPG",
 			"mappicport": "",
 			"mapspan": "",
-			"pic1": "https://photos.smugmug.com/199904Sedona/199904GrandCanyon/i-7Q8dRp9/0/80f583d8/L/199904Sedona%20-%2013%20of%2020-L.jpg",
-			"pic1cap": "",
-			"pic1top": "",
-			"pic1botm": "",
-			"pic2": "https://photos.smugmug.com/199904Sedona/199904GrandCanyon/i-xtVqtbQ/0/43bb0370/L/199904Sedona%20-%2012%20of%2020-L.jpg",
-			"pic2cap": "",
-			"pic2top": "",
-			"pic2botm": "",
-			"pic3": "https://photos.smugmug.com/199904Sedona/199904GrandCanyon/i-K5mGxgs/0/6da94dab/L/199904Sedona%20-%201%20of%2020-L.jpg",
-			"pic3botm": "",
-			"pic3cap": "",
-			"pic3top": "",
-			"pic4": "../img/canyon/ViewFrmElTovar.JPG",
-			"pic4botm": "View from the El Tovar Hotel",
-			"pic4cap": "",
-			"pic4top": "",
-			"iframe": "",
-			"smugAlbum": "",
-			"smugAlbumName": ""
-		},
-		{
-			"dayId": "19990409",
-			"h1title": "Grand Canyon",
-			"h3": "A quick side trip-repeat with test pictures",
-			"pdate": "Tues, Apr 06, 1999",
-			"pdesc": "This was our first trip to the Grand Canyon.  We returned in ",
-			"pdescLink1": "200411canyon.html",
-			"pdescLinktag1": "2004, 2008 and 2012",
-			"pdesc2": ".  We had planned a day trip but once there decided to stay over.  We got a room at the ",
-			"pdescLink2": "https://www.grandcanyonlodges.com/lodging/el-tovar-hotel",
-			"pdescLinktag2": "El Tovar Hotel ",
-			"pdesc3": "on the edge of the canyon",
-			"pdescLink3": "",
-			"pdescLinktag3": "",
-			"mappic": "https://photos.smugmug.com/199904Sedona/199904GrandCanyon/i-jBZv7Fh/0/55a9d1d9/L/199904Sedona%20-%204%20of%2020-L.jpg",
-			"mappic2": "../img/canyon/ElTovar.JPG",
-			"mappicport": "",
-			"mapspan": "",
-			"pic1": "https://photos.smugmug.com/199904Sedona/199904GrandCanyon/i-7Q8dRp9/0/80f583d8/L/199904Sedona%20-%2013%20of%2020-L.jpg",
-			"pic1cap": "",
-			"pic1top": "",
-			"pic1botm": "",
-			"pic2": "https://photos.smugmug.com/199904Sedona/199904GrandCanyon/i-xtVqtbQ/0/43bb0370/L/199904Sedona%20-%2012%20of%2020-L.jpg",
-			"pic2cap": "",
-			"pic2top": "",
-			"pic2botm": "",
-			"pic3": "https://photos.smugmug.com/199904Sedona/199904GrandCanyon/i-K5mGxgs/0/6da94dab/L/199904Sedona%20-%201%20of%2020-L.jpg",
-			"pic3botm": "",
-			"pic3cap": "",
-			"pic3top": "",
-			"pic4": "../img/canyon/ViewFrmElTovar.JPG",
-			"pic4botm": "View from the El Tovar Hotel",
-			"pic4cap": "",
-			"pic4top": "",
-			"iframe": "",
-			"smugAlbum": "",
-			"smugAlbumName": "",
 			"pictures": [
 				{
-					"pic": "https://photos.smugmug.com/199904Sedona/199904GrandCanyon/i-jBZv7Fh/0/55a9d1d9/L/199904Sedona%20-%204%20of%2020-L.jpg",
-					"piccap": "Test caption",
-					"pictop": "Test top of picture",
-					"picbotm": "Test bottom of pic"
-				},
-				{
+					"picID": "1",
 					"pic": "https://photos.smugmug.com/199904Sedona/199904GrandCanyon/i-7Q8dRp9/0/80f583d8/L/199904Sedona%20-%2013%20of%2020-L.jpg",
-					"piccap": "Test caption",
-					"pictop": "Test top of picture",
-					"picbotm": "Test bottom of pic"
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
 				},
 				{
-					"pic": "https://photos.smugmug.com/199904Sedona/199904GrandCanyon/i-7Q8dRp9/0/80f583d8/L/199904Sedona%20-%2013%20of%2020-L.jpg",
-					"piccap": "Test caption",
-					"pictop": "Test top of picture",
-					"picbotm": "Test bottom of pic"
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/199904Sedona/199904GrandCanyon/i-xtVqtbQ/0/43bb0370/L/199904Sedona%20-%2012%20of%2020-L.jpg",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
 				},
 				{
+					"picID": "3",
+					"pic": "https://photos.smugmug.com/199904Sedona/199904GrandCanyon/i-K5mGxgs/0/6da94dab/L/199904Sedona%20-%201%20of%2020-L.jpg",
+					"picbotm": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "4",
 					"pic": "../img/canyon/ViewFrmElTovar.JPG",
-					"piccap": "Test caption",
-					"pictop": "Test top of picture",
-					"picbotm": "Test bottom of pic"
+					"picbotm": "View from the El Tovar Hotel",
+					"piccap": "",
+					"pictop": ""
 				}
-			]
+				],
+			 "iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=Ldn347",
+			 "smugAlbum": "https://havingadventures.smugmug.com/199904Sedona/199904GrandCanyon",
+			 "smugAlbumName": "1999 Grand Canyon"
 		}
 	]
 }

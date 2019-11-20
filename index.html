@@ -23,6 +23,7 @@
 <!--<script src="//unpkg.com/mithril/mithril.js"></script>-->
 <script src="views/app.js"></script>
 <script src="views/Layout.js"></script>
+<script src="views/NavBar.js"></script>
 <script src="views/Trip.js"></script>
 <script src="views/Home.js"></script>
 <!-- jQuery <script src="js/jquery.min.js"></script>-->
@@ -30,9 +31,13 @@
 
 <!-- Bootstrap Core JavaScript -->
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+<!-- jQuery -->
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script type="text/javascript" src="//code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
 <script>
-	var myImage = document.querySelector('img');
-	myImage.onclick = function () {
+	var myImage = document.querySelector('#hapic');
+	document.querySelector('#hapic').onclick = function () {
 		var mySrc = myImage.getAttribute('src');
 		if (mySrc === 'img/index/having_adventures2.jpg') {
 			myImage.setAttribute('src', 'img/index/jim_nardi.jpg');

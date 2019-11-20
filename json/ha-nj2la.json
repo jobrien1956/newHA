@@ -11,7 +11,7 @@
 		"tripSumm": "Kathy and Kelly cross country in 9 days",
 		"summ": "",
 		"intro": "--",
-		"introDescr": "",
+		"introDescr": "Kathy and Kelly drove from Ridgewood to LA to get Kelly to his internship for the summer of 2008.  The first two days were just driving to get to South Dakota and then more driving and some site seeing thru Yellowstone, the Grand Tetons, Zion and Bryce Canyon before passing thru Las Vegas",
 		"introPic1": "",
 		"introPic1span": "",
 		"introPic2": "",
@@ -29,11 +29,11 @@
 	},
 	"adventureDay": [
 		{
-			"dayId": "20080607",
-			"h1title": "",
-			"h3": "",
+			"dayId": "20080604",
+			"h1title": "Ridgewood to Chicago and then onto to South Dakota",
+			"h3": "Wind, rain and Bad Badlands",
 			"pdate": "Thursday, June 5, 2008",
-			"pdesc": "Wind, rain and Bad Badlands",
+			"pdesc": "817 miles from Ridgewood to Hoffman Estates, IL and then another 680 to get to Chamberlain, SD.  They had another 250 to get to Mt Rushmore and the Badlands",
 			"pdescLink1": "",
 			"pdescLinktag1": "",
 			"pdesc2": "",
@@ -80,10 +80,163 @@
 			"smugAlbumName": ""
 		},
 		{
-			"dayId": "2019xxxx",
-			"h1title": "",
+			"dayId": "20080606",
+			"h1title": "Holiday Inn at Cody",
 			"h3": "",
-			"pdate": "",
+			"pdate": "Friday, June 6, 2008",
+			"pdesc": "They had another 250 to get to Mt Rushmore and the Badlands and then another 385 miles to get to COdy on the eastern edge of Yellowstone.  At least it stopped raining for a little while.",
+			"pdescLink1": "",
+			"pdescLinktag1": "",
+			"pdesc2": "",
+			"pdescLink2": "",
+			"pdescLinktag2": "",
+			"pdesc3": "",
+			"pdescLink3": "",
+			"pdescLinktag3": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "3",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "4",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "20080607",
+			"h1title": "Grant Village",
+			"h3": "",
+			"pdate": "Saturday Jun 7, 2008",
+			"pdesc": "A short drive thru a snowstorm in Yellowstone brought them to Grant Village",
+			"pdescLink1": "",
+			"pdescLinktag1": "",
+			"pdesc2": "",
+			"pdescLink2": "",
+			"pdescLinktag2": "",
+			"pdesc3": "",
+			"pdescLink3": "",
+			"pdescLinktag3": "",
+			"mappic": "",
+			"mappicport": "https://photos.smugmug.com/20080603-NJ-to-CA/Yellowstone-National-Park-Yellowstone-National-Park-WY-June/i-fq494wj/0/0ddfebf5/M/200806Rid2LA%20-%2048%20of%20149-L.jpg",
+			"mapspan": "Grand Canyon of the Yellowstone",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/20080603-NJ-to-CA/Yellowstone-National-Park-Yellowstone-National-Park-WY-June/i-wcxnFNZ/0/93b0ae9e/M/200806Rid2LA%20-%2046%20of%20149-L.jpg",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/20080603-NJ-to-CA/Yellowstone-National-Park-Yellowstone-National-Park-WY-June/i-GFTd4d4/0/454032e1/L/200806Rid2LA%20-%2043%20of%20149-L.jpg",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "3",
+					"pic": "https://photos.smugmug.com/20080603-NJ-to-CA/Yellowstone-National-Park-Yellowstone-National-Park-WY-June/i-3jVHJQH/0/ee06a716/L/200806Rid2LA%20-%2045%20of%20149-L.jpg",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "4",
+					"pic": "https://photos.smugmug.com/20080603-NJ-to-CA/Yellowstone-National-Park-Yellowstone-National-Park-WY-1/i-37g7vnK/0/cefee558/L/200806Rid2LA%20-%2092%20of%20149-L.jpg",
+					"piccap": "Woke up to snow",
+					"pictop": "",
+					"picbotm": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "20080608",
+			"h1title": "Jackson Lake Lodge",
+			"h3": "",
+			"pdate": "Sunday, June 8, 2008",
+			"pdesc": "",
+			"pdescLink1": "",
+			"pdescLinktag1": "",
+			"pdesc2": "",
+			"pdescLink2": "",
+			"pdescLinktag2": "",
+			"pdesc3": "",
+			"pdescLink3": "",
+			"pdescLinktag3": "",
+			"mappic": "https://photos.smugmug.com/20080603-NJ-to-CA/Grand-Teton-National-Park-Moose-June-7-2008/i-v2VvQvn/0/d5962062/L/200806Rid2LA%20-%2076%20of%20149-L.jpg",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/20080603-NJ-to-CA/Grand-Teton-National-Park-Moose-June-7-2008/i-Gv3QDp5/0/0f1bf3fc/L/200806Rid2LA%20-%2062%20of%20149-L.jpg",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/20080603-NJ-to-CA/Grand-Teton-National-Park-Moose-June-7-2008/i-q5Z8nmX/0/966c98aa/L/200806Rid2LA%20-%2050%20of%20149-L.jpg",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "3",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "4",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "20080609",
+			"h1title": "Provo Utah",
+			"h3": "",
+			"pdate": "Monday, Jun 9, 2008",
 			"pdesc": "",
 			"pdescLink1": "",
 			"pdescLinktag1": "",
@@ -131,10 +284,10 @@
 			"smugAlbumName": ""
 		},
 		{
-			"dayId": "2019xxxx",
-			"h1title": "",
+			"dayId": "20080610",
+			"h1title": "Zion and Bryce Canyon",
 			"h3": "",
-			"pdate": "",
+			"pdate": "Tuesday, Jun 10, 2008",
 			"pdesc": "",
 			"pdescLink1": "",
 			"pdescLinktag1": "",
@@ -144,34 +297,34 @@
 			"pdesc3": "",
 			"pdescLink3": "",
 			"pdescLinktag3": "",
-			"mappic": "",
+			"mappic": "https://photos.smugmug.com/20080603-NJ-to-CA/Bryce-Canyon-National-Park-Hurricane-June-9-2008/i-pp9nTSj/0/ab61d2ae/L/200806Rid2LA%20-%20122%20of%20149-L.jpg",
 			"mappicport": "",
 			"mapspan": "",
 			"pictures": [
 				{
 					"picID": "1",
-					"pic": "",
+					"pic": "https://photos.smugmug.com/20080603-NJ-to-CA/Bryce-Canyon-National-Park-Hurricane-June-9-2008/i-ZkTqmzM/0/40400f1a/L/200806Rid2LA%20-%20128%20of%20149-L.jpg",
 					"piccap": "",
 					"pictop": "",
 					"picbotm": ""
 				},
 				{
 					"picID": "2",
-					"pic": "",
+					"pic": "https://photos.smugmug.com/20080603-NJ-to-CA/Bryce-Canyon-National-Park-Hurricane-June-9-2008/i-4NsrB36/0/a98b13a5/L/200806Rid2LA%20-%20131%20of%20149-L.jpg",
 					"piccap": "",
 					"pictop": "",
 					"picbotm": ""
 				},
 				{
 					"picID": "3",
-					"pic": "",
+					"pic": "https://photos.smugmug.com/20080603-NJ-to-CA/Bryce-Canyon-National-Park-Hurricane-June-9-2008/i-45KqM62/0/3b4e643e/L/200806Rid2LA%20-%20143%20of%20149-L.jpg",
 					"piccap": "",
 					"pictop": "",
 					"picbotm": ""
 				},
 				{
 					"picID": "4",
-					"pic": "",
+					"pic": "https://photos.smugmug.com/20080603-NJ-to-CA/Bryce-Canyon-National-Park-Hurricane-June-9-2008/i-gBxM6Gt/0/8ee83e48/L/200806Rid2LA%20-%20146%20of%20149-L.jpg",
 					"piccap": "",
 					"pictop": "",
 					"picbotm": ""
@@ -182,112 +335,10 @@
 			"smugAlbumName": ""
 		},
 		{
-			"dayId": "2019xxxx",
-			"h1title": "",
+			"dayId": "20080611",
+			"h1title": "Ritz Carlton Marina Del Rey and back to Newark on the Red Eye",
 			"h3": "",
-			"pdate": "",
-			"pdesc": "",
-			"pdescLink1": "",
-			"pdescLinktag1": "",
-			"pdesc2": "",
-			"pdescLink2": "",
-			"pdescLinktag2": "",
-			"pdesc3": "",
-			"pdescLink3": "",
-			"pdescLinktag3": "",
-			"mappic": "",
-			"mappicport": "",
-			"mapspan": "",
-			"pictures": [
-				{
-					"picID": "1",
-					"pic": "",
-					"piccap": "",
-					"pictop": "",
-					"picbotm": ""
-				},
-				{
-					"picID": "2",
-					"pic": "",
-					"piccap": "",
-					"pictop": "",
-					"picbotm": ""
-				},
-				{
-					"picID": "3",
-					"pic": "",
-					"piccap": "",
-					"pictop": "",
-					"picbotm": ""
-				},
-				{
-					"picID": "4",
-					"pic": "",
-					"piccap": "",
-					"pictop": "",
-					"picbotm": ""
-				}
-			],
-			"iframe": "",
-			"smugAlbum": "",
-			"smugAlbumName": ""
-		},
-		{
-			"dayId": "2019xxxx",
-			"h1title": "",
-			"h3": "",
-			"pdate": "",
-			"pdesc": "",
-			"pdescLink1": "",
-			"pdescLinktag1": "",
-			"pdesc2": "",
-			"pdescLink2": "",
-			"pdescLinktag2": "",
-			"pdesc3": "",
-			"pdescLink3": "",
-			"pdescLinktag3": "",
-			"mappic": "",
-			"mappicport": "",
-			"mapspan": "",
-			"pictures": [
-				{
-					"picID": "1",
-					"pic": "",
-					"piccap": "",
-					"pictop": "",
-					"picbotm": ""
-				},
-				{
-					"picID": "2",
-					"pic": "",
-					"piccap": "",
-					"pictop": "",
-					"picbotm": ""
-				},
-				{
-					"picID": "3",
-					"pic": "",
-					"piccap": "",
-					"pictop": "",
-					"picbotm": ""
-				},
-				{
-					"picID": "4",
-					"pic": "",
-					"piccap": "",
-					"pictop": "",
-					"picbotm": ""
-				}
-			],
-			"iframe": "",
-			"smugAlbum": "",
-			"smugAlbumName": ""
-		},
-		{
-			"dayId": "2019xxxx",
-			"h1title": "",
-			"h3": "",
-			"pdate": "",
+			"pdate": "Wed., Jun. 11, 2008",
 			"pdesc": "",
 			"pdescLink1": "",
 			"pdescLinktag1": "",
