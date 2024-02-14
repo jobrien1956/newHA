@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="46er info">
+    <meta name="author" content="Jim OBrien">
+    <!-- Bootstrap Core CSS     -->
+    <link href="../css/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom CSS -->
+
+    <link href="../css/clean-blog.min.css" rel="stylesheet">
+    <link href="../css/styles.css" rel="stylesheet">
+    <!-- Custom Fonts -->
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css"
+          rel="stylesheet"
+          type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic'
+          rel='stylesheet'
+          type='text/css'>
+    <link
+            href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800'
+            rel='stylesheet' type='text/css'>
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <title>HA 46er</title>
+    <script src="https://unpkg.com/mithril/mithril.js"></script>
+    <style>
+        p.blog-post {
+            text-indent: 5em each-line;
+            font-size: medium;
+        }
+    </style>
+</head>
+<body>
+<div id="nav"></div>
+
+
+<a name="46ertop"></a>
+<header class="intro-header"
+        style="background-image: url('../img/index/201907-46er.jpg'); height: 400px">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <div class="site-heading">
+                    <h2>46ers</h2>
+                    <hr class="small">
+                    <span></span>
+                    <h3>46 Adirondack peaks over 4,000ft </h3>
+
+                </div>
+            </div>
+        </div>
+    </div><!-- /.container -->
+</header>
+
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12">
+
+            <h2> Climbing the 46s with hopefully 15 or so hikes</h2>
+            <p class="blog-post">My objective in creating this page was to accumlate as much as I
+                could about the 46ers in an
+                easy to follow guide for actually doing the hikes. Where I could I have also linked
+                each of the hikes to the
+                <a href="
+          https://www.alltrails.com/?ref=header
+          " style="color: #0000FF">
+                    AllTrails.com
+                </a> page for each hike.
+            </p>
+            <p class="blog-post">The 'Intro' and 'Plan of Attack' generally are from an excellent
+                article
+                <a href="https://www.backpacker.com/trips/how-to-become-an-adirondack-46er"
+                   style="color: #0000FF">
+                    'How to Become an Adirondack 46er' in Backpacker magazine by Erik Johnson from
+                    July 2, 2015
+                </a>
+            </p>
+            <p class="blog-post">As I make my way thru the 46ers I will be updating the list below
+                with the results of my
+                trips and pictures on the peaks and at various spots along the way.</p>
+            <h1>The hikes</h1>
+
+        </div>
+    </div>
+</div>
+
+<article>
+    <!-- script below to pull page links -->
+    <div id="output1"></div>
+</article>
+<div style="page-break-before: always;">
+    <h4><a href="https://drive.google.com/open?id=1eyUEuyanabupTYgnrz7gGbDxXeY&usp=sharing">Link to
+        full size map</a></h4>
+
+    <div class="col-sm-12 blog-post center-block text-center">
+        <div class="embed-responsive embed-responsive-16by9">
+            <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1taj9zu1X978OBfzY7rmH-3Pm_twfs5ga"
+                    width="640"
+                    height="480"></iframe>
+        </div>
+    </div>
+</div>
+<!-- Footer -->
+<div id="footer"></div>
+<hr>
+<!-- jQuery -->
+
+
+<script src="../js/jquery.min.js"></script>
+<!-- Bootstrap Core JavaScript -->
+<script src="../js/bootstrap.min.js"></script>
+<!-- Custom Theme JavaScript -->
+<script src="../js/clean-blog.min.js"></script>
+
+<script src="../js/HA46er.js"></script>
+
+<script>
+    m.mount(document.getElementById("output1"), {
+        view: function (vnode) {
+            "use strict";
+            return m(HA46er.views.Main, {
+                adventures: [
+                    m(HA46er.views.Adventure, {
+                        storeName: "46er",
+                        dataUrl: "json/ha46er.json"
+                    })
+                ]
+            });
+        }
+    });
+</script>
+<script>
+    $("#nav").load("nav.html");
+    // $("#header").load("header.html");
+    $("#footer").load("footer.html");
+
+</script>
+</body>
+</html>
