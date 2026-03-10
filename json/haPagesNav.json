@@ -1,874 +1,813 @@
-{ "haPages": [
-		{
-			"hrefx": "201908sierra.html",
-			"name": "Aug19 Sierra",
-			"storeName": "sierra",
-			"TripId": "201908sierra",
-			"id": "ha-sierra",
-			"jsonFile": "ha-sierra.json",
-			"backgroundImg": "img/index/201908sierra.jpg",
-			"tripThumb": "img/index/thumb/201908sierra.jpg",
-			"pageLink": "adventures/201908sierra.html",
-			"pageTitle": "June 2019 - Sierra Nevada",
-			"pageSubtitle": "",
-			"tripSumm": ""
-		},
-		{
-			"hrefx": "201906amalfi.html",
-			"name": "Jun19 Amalfi",
-			"storeName": "amalfi",
-			"TripId": "201906amalfi",
-			"id": "ha-amalfi",
-			"jsonFile": "ha-amalfi.json",
-			"backgroundImg": "img/index/201906amalfi.jpg",
-			"tripThumb": "img/index/thumb/201906amalfi.jpg",
-			"pageLink": "adventures/201906amalfi.html",
-			"pageTitle": "June 2019 - Amalfi Coast",
-			"pageSubtitle": "June 2019",
-			"tripSumm": ""
-		},
-		{
-			"hrefx": "201903colombia.html",
-			"name": "Mar19 Colombia",
-			"storeName": "colombia",
-			"TripId": "201903colombia",
-			"id": "ha-colombia",
-			"jsonFile": "ha-colombia.json",
-			"backgroundImg": "img/index/201903colombia.jpg",
-			"tripThumb": "img/index/thumb/201903colombia.jpg",
-			"pageLink": "adventures/201903colombia.html",
-			"pageTitle": "Mar 2019 - Colombia",
-			"pageSubtitle": "",
-			"tripSumm": ""
-		},
-		{
-			"hrefx": "201808france.html",
-			"name": "Aug18 France",
-			"storeName": "france",
-			"TripId": "201808france",
-			"id": "ha-france",
-			"jsonFile": "ha-france.json",
-			"backgroundImg": "img/index/201808France.jpg",
-			"tripThumb": "img/index/thumb/201808France.jpg",
-			"pageLink": "adventures/201808france.html",
-			"pageTitle": "Aug 2018 - France",
-			"pageSubtitle": "Paris, Normandy and Keremma",
-			"tripSumm": "Museums, D-Day and Brittany beaches"
-		},
-		{
-			"hrefx": "201807banff.html",
-			"name": "July18 Canadian Rockies",
-			"storeName": "banff",
-			"TripId": "201807banff",
-			"id": "ha-banff",
-			"jsonFile": "ha-banff.json",
-			"backgroundImg": "img/index/201807banff.jpg",
-			"tripThumb": "img/index/thumb/201807banff.jpg",
-			"pageLink": "adventures/201807banff.html",
-			"pageTitle": "July 2018 - Canadian Rockies",
-			"pageSubtitle": "A Week in Banff, Jasper and Yoho",
-			"tripSumm": "Waterfalls, Rafting and Hikes"
-		},
-		{
-			"hrefx": "201707sweden",
-			"name" : "July17-Stockholm/Copenhagen",
-			"storeName": "sweden",
-			"TripId": "201707sweden",
-			"id": "ha-sweden",
-			"jsonFile": "ha-sweden.json",
-			"backgroundImg": "img/sweden/20170709Sweden.jpg",
-			"tripThumb": "img/index/thumb/20170709Sweden.jpg",
-			"pageLink": "adventures/201707sweden.html",
-			"pageTitle": "July 2017 - Stockholm & Copenhagen",
-			"pageSubtitle": "Backroads around two old cities",
-			"tripSumm": "Exploring a bit of southern Scandinavia"
-		},
-		{
-			"hrefx": "201706malawi.html",
-			"name": "Jun17-Malawi",
-			"storeName": "malawi",
-			"TripId": "201706malawi",
-			"id": "ha-malawi",
-			"jsonFile": "ha-malawi.json",
-			"backgroundImg": "img/malawi/20170701Malawi.jpg",
-			"tripThumb": "img/index/thumb/20170701Malawi.jpg",
-			"pageLink": "adventures/201706malawi.html",
-			"pageTitle": "June 2017 - Malawi",
-			"pageSubtitle": "A different world",
-			"tripSumm": "A short trip to Africa"
-		},
-		{
-			"hrefx": "201609sanjuan.html",
-			"name": "Sept16-San Juan Isl",
-			"TripId": "201609sanjuan",
-			"id": "ha-sanjuan",
-			"backgroundImg": "img/sanjuan/20160909LopezIsl.jpg",
-			"tripThumb": "img/index/thumb/20160909LopezIsl.jpg",
-			"pageLink": "adventures/201609sanjuan.html",
-			"pageTitle": "Sept 2016 - Washington and Oregon",
-			"pageSubtitle": "Biking,Hiking and Kyacking",
-			"tripSumm": "10 days in the Cascades, San Juan Islands, Portland and NW Oregon with our UD friends"
-		},
-		{
-			"hrefx": "201606adiron.html",
-			"name": "June16-Adiron",
-			"storeName": "adiron",
-			"TripId": "201606adiron",
-			"id": "ha-adiron",
-			"jsonFile": "ha-adiron.json",
-			"backgroundImg": "img/adiron/20160628Adirondacks.jpg",
-			"tripThumb": "img/index/thumb/20160628Adirondacks.jpg",
-			"pageLink": "adventures/201606adiron.html",
-			"pageTitle": "June 2016 - Adirondacks and Vermont Bike Trip",
-			"pageSubtitle": "Kathy's first bike trip",
-			"tripSumm": "As a sixtieth birthday gift we took a bike tour thru the region around Lake George, NY"
-		},
-		{
-			"hrefx": "201511tucson.html",
-			"name": "Nov15-Tucson",
-			"storeName": "tucson",
-			"TripId": "201511tucson",
-			"id": "ha-tuscon",
-			"jsonFile": "ha-tuscon.json",
-			"backgroundImg": "img/tucson/201511Tucson02.jpg",
-			"tripThumb": "img/index/thumb/201511Tucson02.jpg",
-			"pageLink": "adventures/201511tucson.html",
-			"pageTitle": "Tucson 2015",
-			"pageSubtitle": "Kathy and Jim in the Land of Beige",
-			"tripSumm": "A trip to the Arizona desert"
-		},
-		{
-			"hrefx": "../tdpost/tdIndex.html",
-			"name": "Jun/Jul 15-Divide",
-			"TripId": "201506tourdiv",
-			"id": "ha-td",
-			"backgroundImg": "img/tourdivide/day01/day01pic01.jpg",
-			"tripThumb": "img/index/thumb/201506TDday01pic01.jpg",
-			"pageLink": "tdpost/tdIndex.html",
-			"pageTitle": "June/ July 2015 - Continental Divide Mountain Bike Route",
-			"pageSubtitle": "An Adventure in the West",
-			"tripSumm": "For 35 days in June/July 2015 I traveled 2,500 miles by mountain bike from Canada to Mexico"
-		},
-		{
-			"hrefx": "201505cogap.html#cogap_top",
-			"name": "May15-C&O-GAP",
-			"storeName": "cogap",
-			"TripId": "201505cogap",
-			"id": "ha-cogap",
-			"jsonFile": "ha-cogap.json",
-			"backgroundImg": "img/cogap/COtowpath.jpg",
-			"tripThumb": "img/index/thumb/201505COtowpath.jpg",
-			"pageLink": "adventures/201505cogap.html",
-			"pageTitle": "May 2015 - C&O to GAP",
-			"pageSubtitle": "Warm up 400 miles",
-			"tripSumm": "Testing my gear and setup.  Starting on May 12 over 4 days I covered 436 miles along the C&O towpath and the Great Allegeny Passage"
-		},
-		{
-			"hrefx": "201411kauai.html#kauai_top",
-			"name": "Nov14-Kauai",
-			"storeName": "kauai",
-			"TripId": "201411kauai",
-			"id": "ha-kauai",
-			"jsonFile": "ha-kauai.json",
-			"backgroundImg": "img/kauai/201411kauaipic1.jpg",
-			"tripThumb": "img/index/thumb/201411kauaipic1.jpg",
-			"pageLink": "adventures/201411kauai.html",
-			"pageTitle": "Nov 2014 - Kauai",
-			"pageSubtitle": "30th Anniversary in Paradise",
-			"tripSumm": "In November, 2014 Kathy and I celebrated our 30th Anniversary in Kauai, Hawaii"
-		},
-		{
-			"hrefx": "201409ansel.html#ansel_top",
-			"name": "Sep14-Ansel",
-			"storeName": "ansel",
-			"TripId": "201409ansel",
-			"id": "ha-ansel",
-			"jsonFile": "ha-ansel.json",
-			"backgroundImg": "img/ansel/20140902AnselAdams00.jpg",
-			"tripThumb": "img/index/thumb/20140902AnselAdams00.jpg",
-			"pageLink": "adventures/201409ansel.html",
-			"pageTitle": "Sept 2014 - Yosemite and Ansel Adams Wilderness",
-			"pageSubtitle": "Good friends go hiking",
-			"tripSumm": "During early September, 2014 Kathy and I along with some friends from UD spent a week in Yosemite NP and the Ansel Adams Willderness"
-		},
-		{
-			"hrefx": "201408tetons.html#tetons_top",
-			"name": "Aug14-Tetons",
-			"TripId": "201408Tetons",
-			"id": "ha-tetons",
-			"backgroundImg": "img/tetons/20140824GTetons00.jpg",
-			"tripThumb": "img/index/thumb/20140824GTetons00.jpg",
-			"pageLink": "adventures/201408tetons.html",
-			"pageTitle": "Aug 2014 - Teton Crest Trail",
-			"pageSubtitle": "Rain, Snow, Sleet, Hail and Bliss",
-			"tripSumm": "I took a 5 day backpacking trip along the Teton Crest Trail with Nick and his friends."
-		},
-		{
-			"hrefx": "201311ireland.html",
-			"name": "2013 Ireland",
-			"storeName": "ireland",
-			"TripId": "201311ireland",
-			"id": "ha-ireland",
-			"jsonFile": "ha-ireland.json",
-			"backgroundImg": "https://photos.smugmug.com/201311Ireland/20131112Mohar/i-HvBf4gQ/0/a4f25825/M/2013-11-11%20Cliffs%20of%20Mohar%20%2811%29-L.jpg",
-			"tripThumb": "img/index/thumb/20131110RabachsGlen.jpg",
-			"pageLink": "adventures/201311ireland.html",
-			"pageTitle": "Nov 2013 - Ireland",
-			"pageSubtitle": "Liscarol, Kenmare and the Cliffs of Mahre",
-			"tripSumm": "A week in the southwest of Ireland with Kathy, Kelly and Sara and a return seeing my father's ancestors land in Lizcarrol, Cork"
-		},
-		{
-			"hrefx": "201301kili.html",
-			"name": "2013 Kili",
-			"storeName": "kili",
-			"TripId": "201301kili",
-			"id": "ha-kili",
-			"jsonFile": "ha-kili.json",
-			"backgroundImg": "img/kili/20130120Kili01.jpg",
-			"tripThumb": "img/index/thumb/20130120Kili01.jpg",
-			"pageLink": "adventures/201301kili.html",
-			"pageTitle": "Jan. 2013 - Kilimanjaro",
-			"pageSubtitle": "Tanzania and the highest peak in Africa",
-			"tripSumm": "In January 2013 Kelly, Zav and I joined Rupert Tyer and 6 others on a full board 7 day climb to the summit of Mt Kilimanjaro"
-		},
-		{
-			"hrefx": "201301kilivideos.html",
-			"name": "2013 Kili Videos",
-			"backgroundImg": "img/kili/20130120Kili01.jpg",
-			"tripThumb": "img/index/thumb/20130120Kili01.jpg",
-			"pageLink": "adventures/201301kilivideos.html",
-			"pageTitle": "Jan. 2013 - Kilimanjaro",
-			"pageSubtitle": "Tanzania and the highest peak in Africa",
-			"tripSumm": "In January 2013 Kelly, Zav and I joined Rupert Tyer and 6 others on a full board 7 day climb to the summit of Mt Kilimanjaro"
-		},{
-			"hrefx": "201208greece.html",
-			"name": "2012 Greece",
-			"storeName": "greece",
-			"TripId": "201208greece",
-			"id": "ha-greece",
-			"jsonFile": "ha-greece.json",
-			"backgroundImg": "https://photos.smugmug.com/201208-Greece-Santorini/20120729MtOlympus/i-84pvtrz/0/c438e13d/M/2012-07-29%20Mt%20Olympus%20055-L.jpg",
-			"tripThumb": "img/index/thumb/20120731MtOlympus.jpg",
-			"pageLink": "adventures/201208greece.html",
-			"pageTitle": "Aug 2012 - Greece",
-			"pageSubtitle": "Litochoro, Mt Olympus, Athens and Santorini",
-			"tripSumm": "Jim, Kathy and Allie visiting w Pat and Vasos in Greece"
-		},
-		{
-			"hrefx": "201201canyon.html",
-			"name": "2012 Grand Canyon",
-			"storeName": "canyon",
-			"TripId": "201201canyon",
-			"id": "ha-canyon",
-			"jsonFile": "ha-canyon.json",
-			"backgroundImg": "img/canyon/20120114GC001.jpg",
-			"tripThumb": "img/index/thumb/20120114GC001.jpg",
-			"pageLink": "adventures/201201canyon.html",
-			"pageTitle": "Jan 2012 - Grand Canyon Backpacking",
-			"pageSubtitle": "5 days along the Tanner, Tonto and Hanes Creek",
-			"tripSumm": "In January 2013 Kelly and I joined Nick and Jonas on 5 day hike down to and along the Colorado River"
-		},
-		{
-			"hrefx": "201008alaska.html",
-			"name": "2010 Alaska",
-			"storeName": "alaska",
-			"TripId": "201008alaska",
-			"id": "ha-alaska",
-			"jsonFile": "ha-alaska.json",
-			"backgroundImg": "img/alaska/20100818RussianRiver2.jpg",
-			"tripThumb": "img/index/thumb/20100818RussianRiver2.jpg",
-			"pageLink": "adventures/201008alaska.html",
-			"pageTitle": "Aug 2010 - Alaska",
-			"pageSubtitle": "An Alaskan Tour",
-			"tripSumm": "Just touching the surface - Kenai Penninsula, Price William Sound and a quick look north"
-		},
-		{
-			"hrefx": "201002costarica.html",
-			"name": "2010 Costa Rica",
-			"storeName": "costarica",
-			"TripId": "201002costarica",
-			"id": "ha-costarica",
-			"backgroundImg": "img/index/201002CostaRica.jpg",
-			"tripThumb": "img/index/thumb/201002CostaRica.jpg",
-			"pageLink": "adventures/201002costarica.html",
-			"pageTitle": "Feb, 2010 Costa Rica",
-			"pageSubtitle": "===",
-			"tripSumm": "A family vacation during Kelly's break"
-		},
-		{
-			"hrefx": "200904italy.html",
-			"name": "2009 Italy",
-			"storeName": "italy",
-			"TripId": "200904italy",
-			"id": "ha-italy",
-			"backgroundImg": "img/index/200904Venice.jpg",
-			"tripThumb": "img/index/thumb/200904Venice.jpg",
-			"pageLink": "adventures/200904italy.html",
-			"pageTitle": "Apr 2009 Venice and Florence",
-			"pageSubtitle": "====",
-			"tripSumm": "Allie, Kathy and I spend a week in the north of Italy"
-		},
-		{
-			"hrefx": "200808la2norf.html",
-			"name": "2008 X Cntry",
-			"storeName": "la2norf",
-			"TripId": "200808la2norf",
-			"id": "ha-la2norf",
-			"jsonFile": "ha-la2norf.json",
-			"backgroundImg": "img/la2norf/2008LANorfolkmap.jpg",
-			"tripThumb": "img/index/thumb/200808xcntry.jpg",
-			"pageLink": "adventures/200808la2norf.html",
-			"pageTitle": "LA to Norfolk - Eight days on the road",
-			"pageSubtitle": "== Aug 2008 ==",
-			"tripSumm": "Driving back from LA with stops in the Grand Canyon, OKC, Graceland and Smokey Mtn NP"
-		},
-		{
-			"hrefx": "200807layosemite.html",
-			"name": "2008 LA Yosemite",
-			"storeName": "layosemite",
-			"TripId": "200807layosemite",
-			"id": "ha-layosemite",
-			"backgroundImg": "img/index/200807layosemite.jpg",
-			"tripThumb": "img/index/thumb/200807layosemite.jpg",
-			"pageLink": "adventures/200807layosemite.html",
-			"pageTitle": "LA, Pismo and Yosemite",
-			"pageSubtitle": "==July 2008==",
-			"tripSumm": "Visiting Kelly in LA and a quick trip up the coast to Yosemite"
-		},
-		{
-			"hrefx": "200806nj2la.html",
-			"name": "2008 NJ 2 LA",
-			"storeName": "nj2la",
-			"TripId": "200806nj2la",
-			"id": "ha-nj2la",
-			"backgroundImg": "img/index/200806nj2la.jpg",
-			"tripThumb": "img/index/thumb/200806nj2la.jpg",
-			"pageLink": "adventures/200806nj2la.html",
-			"pageTitle": "Jun 2008 NJ to LA",
-			"pageSubtitle": "====",
-			"tripSumm": "Kathy and Kelly cross country in 9 days"
-		},
-		{
-			"hrefx": "200704rome.html",
-			"name": "2007 Rome",
-			"storeName": "rome",
-			"TripId": "200704rome",
-			"id": "ha-rome",
-			"backgroundImg": "img/index/200704Rome.jpg",
-			"tripThumb": "img/index/thumb/200704Rome.jpg",
-			"pageLink": "adventures/200704rome.html",
-			"pageTitle": "Apr 2007 - Rome and the Vatican",
-			"pageSubtitle": "The Daniels go to the Vatican for Easter Mass",
-			"tripSumm": ""
-		},
-		{
-			"hrefx": "200608hawaii.html",
-			"name": "2006 Hawaii",
-			"storeName": "hawaii",
-			"TripId": "200608hawaii",
-			"id": "ha-hawaii",
-			"backgroundImg": "img/index/2006Hawaii.jpg",
-			"tripThumb": "img/index/thumb/2006Hawaii.jpg",
-			"pageLink": "adventures/200608hawaii.html",
-			"pageTitle": "Aug, 2006 - Hawaii",
-			"pageSubtitle": "3 islands - 2 weeks - awesome",
-			"tripSumm": ""
-		},
-		{
-			"hrefx": "200604lakecomo.html",
-			"name": "2006 Lake Como",
-			"storeName": "lakecomo",
-			"TripId": "200606lakecomo",
-			"id": "ha-lakecomo",
-			"backgroundImg": "img/index/200604LakeComo.jpg",
-			"tripThumb": "img/index/thumb/200604LakeComo.jpg",
-			"pageLink": "adventures/200604lakecomo.html",
-			"pageTitle": "Apr 2006 - Lake Como & Milan",
-			"pageSubtitle": "",
-			"tripSumm": "Kathy, Allie and I took a trip to Italy for a Cantillon board meeeting.  We stayed at the Ville deste and visited Bellagio and Milan."
-		},
-		{
-			"hrefx": "200411canyon.html",
-			"name": "2004 Grand Canyon",
-			"storeName": "canyon04",
-			"TripId": "200411canyon",
-			"id": "ha-canyon04",
-			"backgroundImg": "img/canyon/200411CanyonHike.jpg",
-			"tripThumb": "img/index/thumb/20120114GC001.jpg",
-			"pageLink": "adventures/200411canyon.html",
-			"pageTitle": "Nov 2004 - Grand Canyon - Quick down and back",
-			"pageSubtitle": "My 3rd trip to one of the world's most amazing places",
-			"tripSumm": "One day down and one day back with snow at the top"
-		},
-		{
-			"hrefx": "200304sequoia.html",
-			"name": "2003 SF - Seqouia",
-			"storeName": "sequoia",
-			"TripId": "200304sequoia",
-			"id": "ha-sequoia",
-			"backgroundImg": "img/index/200304sequoia.jpg",
-			"tripThumb": "img/index/thumb/200304sequoia.jpg",
-			"pageLink": "adventures/200304sequoia.html",
-			"pageTitle": "Apr,2003 - Our Calif Easter trip.",
-			"pageSubtitle": "SF, Monterey, Sequoia and Yosemite",
-			"tripSumm": "After leaving Frontpoint and before Cantillon we took a an Easter trip out to San Francisco and drove down to Monterey, Sequoia NP & Yosemite"
-		},
-		{
-			"hrefx": "200008smokey.html",
-			"name": "2000 Smokey Mtn NP",
-			"storeName": "smokey",
-			"TripId": "200008smokey",
-			"id": "ha-smokey",
-			"backgroundImg": "img/index/200008NCSmokey.jpg",
-			"tripThumb": "img/index/thumb/200008NCSmokey.jpg",
-			"pageLink": "adventures/200008smokey.html",
-			"pageTitle": "2000 - Smokey Mountains and Tennessee",
-			"pageSubtitle": "A family vacation after Kelly's camp",
-			"tripSumm": "After picking up Kelly at his camp in NC, we took a week in Gatlinburg, Dollyworld and Smokey Mtn NP"
-		},
-		{
-			"hrefx": "199908glacier.html",
-			"name": "1999 Glacier",
-			"storeName": "glacier",
-			"TripId": "199908glacier",
-			"id": "ha-glacier",
-			"backgroundImg": "img/index/199908Glacier.jpg",
-			"tripThumb": "img/index/thumb/199908Glacier.jpg",
-			"pageLink": "adventures/199908glacier.html",
-			"pageTitle": "Aug, 1999 - Montana",
-			"pageSubtitle": "A week in Montana & Glacier NP",
-			"tripSumm": "Our 1999 summer vacation took us from Spokane thru Upper Idaho and Glacier NP"
-		},
-		{
-			"hrefx": "199904sedona.html",
-			"name": "1999 Sedona",
-			"storeName": "sedona",
-			"TripId": "199904sedona",
-			"id": "ha-sedona",
-			"backgroundImg": "img/index/199904Arizona.jpg",
-			"tripThumb": "img/index/thumb/199904Arizona.jpg",
-			"pageLink": "adventures/199904sedona.html",
-			"pageTitle": "Apr, 1999 - Arizona",
-			"pageSubtitle": "Sedona and the Grand Canyon",
-			"tripSumm": "A condo and Pink Jeeps in Sedona with a three day side trip to GCNP"
-		},
-		{
-			"hrefx": "199705rmnp.html",
-			"name": "1997 Rocky Mtn NP",
-			"storeName": "rmnp",
-			"TripId": "199705rmnp",
-			"id": "ha-rmnp",
-			"backgroundImg": "img/index/199705RckyMtnNP.jpg",
-			"tripThumb": "img/index/thumb/199705RckyMtnNP.jpg",
-			"pageLink": "adventures/199705rmnp.html",
-			"pageTitle": "May, 1997 - Kremling and Rocky Mtn NP",
-			"pageSubtitle": "I wouldn't know what to say",
-			"tripSumm": "We visited Blue Valley Ranch and Rocky Mtn NP in the spring"
-		},
-		{
-			"hrefx": "199510elkhuntNM.html",
-			"name": "1995 Elk Hunt",
-			"storeName": "elkhuntNM",
-			"TripId": "199510elkhuntNM",
-			"id": "ha-elkhuntNM",
-			"backgroundImg": "img/index/199510NMElk.jpg",
-			"pageLink": "adventures/199510elkhuntNM.html",
-			"tripThumb": "img/index/thumb/199510NMElk.jpg",
-			"pageTitle": "Oct, 1995 - Hunting Elk in New Mexico",
-			"pageSubtitle": "What are you having a war??",
-			"tripSumm": "Along with Perry Handyside I went to western NM for a four day elk hunt."
-		},
-		{
-			"hrefx": "199407BC.html",
-			"name": "1994 BC",
-			"storeName": "BC",
-			"TripId": "199407BC",
-			"id": "ha-BC",
-			"backgroundImg": "img/index/199407BC.jpg",
-			"tripThumb": "img/index/thumb/199407BC.jpg",
-			"pageLink": "adventures/199407BC.html",
-			"pageTitle": "July, 1994 - British Colombia",
-			"pageSubtitle": "Rafting, Hiking and Grizzlies on the Red Deer (Wapiti)",
-			"tripSumm": "Leo and I went to scout out the hunting area leased by Tudor and camped up on the CD and rafted down the Red Deer River"
-		},
-		{
-			"hrefx": "199312zimbab.html",
-			"name": "1993 Zimbabwe",
-			"storeName": "zimbab",
-			"TripId": "199312zimbab",
-			"id": "ha-zimbab",
-			"backgroundImg": "img/index/199312Zimbabwe.jpg",
-			"tripThumb": "img/index/thumb/199312Zimbabwe.jpg",
-			"pageLink": "adventures/199312zimbab.html",
-			"pageTitle": "Dec, 1994 - 3 days in Buffalo Range, Zimbabwe",
-			"pageSubtitle": "More time flying than exploring",
-			"tripSumm": "I stowed away on a private plane from JFK to Zimbabwe to see a prospective ecotourism site.  Rhinos, Elephants and Kudu ohh my!!!"
-		},
-		{
-			"hrefx": "199308yellowstone.html",
-			"name": "1993 Yellowstone",
-			"storeName": "yellowstone",
-			"TripId": "199308yellowstone",
-			"id": "ha-yellowstone",
-			"backgroundImg": "img/index/199308yellowstone2.jpg",
-			"tripThumb": "img/index/thumb/199308yellowstone2.jpg",
-			"pageLink": "adventures/199308yellowstone.html",
-			"pageTitle": "Sept, 1993 - Yellowstone",
-			"pageSubtitle": "Elk, Moose and hiking Mt Washburn w mtn. goats",
-			"tripSumm": "A family vacation to an amazing place of wonder"
-		},
-		{
-			"hrefx": "199108ireland.html",
-			"name": "1991 Ireland",
-			"storeName": "ireland91",
-			"TripId": "199108ireland",
-			"id": "ha-ireland91",
-			"backgroundImg": "img/index/199109ireland.jpg",
-			"tripThumb": "img/index/thumb/199109ireland.jpg",
-			"pageLink": "adventures/199108ireland.html",
-			"pageTitle": "Sep 1991 - Visiting Ireland",
-			"pageSubtitle": "Dublin, LizCarroll and Cork",
-			"tripSumm": ""
-		},
-		{
-			"hrefx": "198807olympiaBC.html",
-			"name": "1988 Olympia",
-			"storeName": "olympiaBC",
-			"TripId": "198807olympiaBC",
-			"id": "ha-olympiaBC",
-			"backgroundImg": "img/index/198807BCOlympia.jpg",
-			"tripThumb": "img/index/thumb/198807BCOlympia.jpg",
-			"pageLink": "adventures/198807olympiaBC.html",
-			"pageTitle": "Summer 1988 - SF, Olympia NP and Victoria Island",
-			"pageSubtitle": "",
-			"tripSumm": "After a wedding in SF, we flew to Seattle, took a ferry to Victoria and returned thru Olympia NP and a visit with Aaron."
-		},
-		{
-			"hrefx": "198108chiPortDen.html",
-			"name": "1981 Chi-Port",
-			"storeName": "chiPortDen",
-			"TripId": "198108chiPortDen",
-			"id": "ha-chiPortDen",
-			"backgroundImg": "img/index/1981chidenprtl.jpg",
-			"tripThumb": "img/index/thumb/1981chidenprtl.jpg",
-			"pageLink": "adventures/198108chiPortDen.html",
-			"pageTitle": "Sep 1981 - Kath and Jim - on the road",
-			"pageSubtitle": "A Drive-away car - 7 days to Portland and hitch back (almost) ",
-			"tripSumm": "Kathy and I took a very quick trip from Chicago to Portland in a little old ladies Olds Cutlass and then I hitch back to Denver"
-		},
-		{
-			"hrefx": "197907xctry.html",
-			"name": "1979 X Cntry",
-			"storeName": "xctry79",
-			"TripId": "197906xctry",
-			"id": "ha-xctry79",
-			"backgroundImg": "img/index/197907xctry.jpg",
-			"tripThumb": "img/index/thumb/197907xctry.jpg",
-			"pageLink": "adventures/197907xctry.html",
-			"pageTitle": "Jun 1979 - My first big adventure",
-			"pageSubtitle": "Six weeks - 10,000mi",
-			"tripSumm": "Tony and I crossed thru 19 states on our way to San Diego and back thru Yellowstone and the northern interstate route "
-		},
-		{
-			"hrefx": "46er.html",
-			"name": "46er",
-			"TripId": "",
-			"id": "ha-",
-			"backgroundImg": "img/index/trainload.jpg",
-			"tripThumb": "img/index/thumb/trainload.jpg",
-			"pageLink": "adventures/TrainloadOfBosses.html",
-			"pageTitle": "I had a Trainload of Bosses",
-			"pageSubtitle": "Memories of Life on the 20th Century Limited",
-			"tripSumm": ""
-		},
-		{
-			"hrefx": "TrainloadOfBosses.html",
-			"name": "JBK-TrainLoad",
-			"TripId": "TrainloadOfBosses",
-			"id": "ha-TrainloadOfBosses",
-			"backgroundImg": "img/index/trainload.jpg",
-			"tripThumb": "img/index/thumb/trainload.jpg",
-			"pageLink": "adventures/TrainloadOfBosses.html",
-			"pageTitle": "I had a Trainload of Bosses",
-			"pageSubtitle": "Memories of Life on the 20th Century Limited",
-			"tripSumm": ""
-		},
-		{
-			"hrefx": "Turnback.html",
-			"name": "JBK-Turnback the Clock",
-			"TripId": "TurnBack",
-			"id": "ha-TurnBack",
-			"backgroundImg": "img/index/TurnBack.jpg",
-			"tripThumb": "img/index/thumb/TurnBack.jpg",
-			"pageLink": "adventures/TurnBack.html",
-			"pageTitle": "I Turned Back the Clock To Yesterday",
-			"pageSubtitle": "Joseph B Komonchak",
-			"tripSumm": ""
-		}
-	]
-,
-	"HomePageNavBarData" : [
-			{
-				"navgrp": "1",
-				"grpName": "2017-2019",
-				"grpMember": [
-					{
-						"hrefx": "201908sierra.html",
-						"name": "Aug19 Sierra",
-						"storeName": "sierra"
-					},
-					{
-						"hrefx": "201906amalfi.html",
-						"name": "Jun19 Amalfi",
-						"storeName": "amalfi"
-					},
-					{
-						"hrefx": "201903colombia.html",
-						"name": "Mar19 Colombia",
-						"storeName": "colombia"
-					},
-					{
-						"hrefx": "201808france.html",
-						"name": "Aug18 France",
-						"storeName": "france"
-					},
-					{
-						"hrefx": "201807banff.html",
-						"name": "July18 Canadian Rockies",
-						"storeName": "banff"
-					},
-					{
-						"hrefx": "201707sweden",
-						"name" : "July17-Stockholm/Copenhagen",
-						"storeName": "sweden"
-					},
-					{
-
-						"name": "Jun17-Malawi",
-						"storeName": "malawi"
-					}
-				]
-			},
-			{
-				"navgrp": "2",
-				"grpName": "2014-2016",
-				"grpMember": [
-					{
-						"hrefx": "201609sanjuan.html",
-						"name": "Sept16-San Juan Isl"
-					},
-					{
-						"hrefx": "201606adiron.html",
-						"name": "June16-Adiron",
-						"storeName": "adiron"
-					},
-					{
-						"hrefx": "201511tucson.html",
-						"name": "Nov15-Tucson",
-						"storeName": "tucson"
-					},
-					{
-						"hrefx": "../tdpost/tdIndex.html",
-						"name": "Jun/Jul 15-Divide"
-					},
-					{
-						"hrefx": "201505cogap.html#cogap_top",
-						"name": "May15-C&O-GAP",
-						"storeName": "cogap"
-					},
-					{
-						"hrefx": "201411kauai.html#kauai_top",
-						"name": "Nov14-Kauai",
-						"storeName": "kauai"
-					},
-					{
-						"hrefx": "201409ansel.html#ansel_top",
-						"name": "Sep14-Ansel",
-						"storeName": "ansel"
-					},
-					{
-						"hrefx": "201408tetons.html#tetons_top",
-						"name": "Aug14-Tetons"
-					}
-				]
-			},
-			{
-				"navgrp": "3",
-				"grpName": "2010-2013",
-				"grpMember": [
-					{
-						"hrefx": "201311ireland.html",
-						"name": "2013 Ireland",
-						"storeName": "ireland"
-					},
-					{
-						"hrefx": "201301kili.html",
-						"name": "2013 Kili",
-						"storeName": "kili"
-					},
-					{
-						"hrefx": "201301kilivideos.html",
-						"name": "2013 Kili Videos"
-					},
-					{
-						"hrefx": "201208greece.html",
-						"name": "2012 Greece",
-						"storeName": "greece"
-					},
-					{
-						"hrefx": "201201canyon.html",
-						"name": "2012 Grand Canyon",
-						"storeName": "canyon"
-					},
-					{
-						"hrefx": "201008alaska.html",
-						"name": "2010 Alaska",
-						"storeName": "alaska"
-					},
-					{
-						"hrefx": "201002costarica.html",
-						"name": "2010 Costa Rica",
-						"storeName": "costarica"
-					}
-				]
-			},
-			{
-				"navgrp": "4",
-				"grpName": "2000-2009",
-				"grpMember": [
-					{
-						"hrefx": "200904italy.html",
-						"name": "2009 Italy",
-						"storeName": "italy"
-					},
-					{
-						"hrefx": "200808la2norf.html",
-						"name": "2008 X Cntry",
-						"storeName": "la2norf"
-					},{
-						"hrefx": "200807layosemite.html",
-						"name": "2008 LA Yosemite",
-						"storeName": "layosemite"
-					},
-					{
-						"hrefx": "200806nj2la.html",
-						"name": "2008 NJ 2 LA",
-						"storeName": "nj2la"
-					},
-					{
-						"hrefx": "200704rome.html",
-						"name": "2007 Rome",
-						"storeName": "rome"
-					},
-					{
-						"hrefx": "200608hawaii.html",
-						"name": "2006 Hawaii",
-						"storeName": "hawaii"
-					},
-					{
-						"hrefx": "200604lakecomo.html",
-						"name": "2006 Lake Como",
-						"storeName": "lakecomo"
-					},
-					{
-						"hrefx": "200411canyon.html",
-						"name": "2004 Grand Canyon",
-						"storeName": "canyon04"
-					},
-					{
-						"hrefx": "200304sequoia.html",
-						"name": "2003 SF - Seqouia",
-						"storeName": "sequoia"
-					},
-					{
-						"hrefx": "200008smokey.html",
-						"name": "2000 Smokey Mtn NP",
-						"storeName": "smokey"
-					}
-				]
-			},
-			{
-				"navgrp": "5",
-				"grpName": "prior to 2000",
-				"grpMember": [
-					{
-						"hrefx": "199908glacier.html",
-						"name": "1999 Glacier",
-						"storeName": "glacier"
-					},
-					{
-						"hrefx": "199904sedona.html",
-						"name": "1999 Sedona",
-						"storeName": "sedona"
-					},
-					{
-						"hrefx": "199705rmnp.html",
-						"name": "1997 Rocky Mtn NP",
-						"storeName": "rmnp"
-					},
-					{
-						"hrefx": "199510elkhuntNM.html",
-						"name": "1995 Elk Hunt",
-						"storeName": "elkhuntNM"
-					},
-					{
-						"hrefx": "199407BC.html",
-						"name": "1994 BC",
-						"storeName": "BC"
-					},
-					{
-						"hrefx": "199312zimbab.html",
-						"name": "1993 Zimbabwe",
-						"storeName": "zimbab"
-					},
-					{
-						"hrefx": "199308yellowstone.html",
-						"name": "1993 Yellowstone",
-						"storeName": "yellowstone"
-					},
-					{
-						"hrefx": "199108ireland.html",
-						"name": "1991 Ireland",
-						"storeName": "ireland91"
-					},
-					{
-						"hrefx": "198807olympiaBC.html",
-						"name": "1988 Olympia",
-						"storeName": "olympiaBC"
-					},
-					{
-						"hrefx": "198108chiPortDen.html",
-						"name": "1981 Chi-Port",
-						"storeName": "chiPortDen"
-					},
-					{
-						"hrefx": "197907xctry.html",
-						"name": "1979 X Cntry",
-						"storeName": "xctry79"
-					},
-					{
-						"hrefx": "ha_future.html",
-						"name": "Future"
-					}
-				]
-			},
-			{
-				"navgrp": "6",
-				"grpName": "Other",
-				"grpMember": [
-					{
-						"hrefx": "46er.html",
-						"name": "46er"
-					},
-					{
-						"hrefx": "TrainloadOfBosses.html",
-						"name": "JBK-TrainLoad"
-					},
-					{
-						"hrefx": "Turnback.html",
-						"name": "JBK-Turnback the Clock"
-					}
-				]
-			}
-		]
+{
+  "haPages": [
+    {
+      "TripId": "SS2SG2022",
+      "id": "SS2SG2022",
+      "storeName": "ss2sg2022",
+      "pageTitle": "May-Jul22 SS2SG2022",
+      "pageLink": "adventures/2022ss2sg.html",
+      "tripThumb": "img/index/thumb/202205ss2sg.jpg",
+      "pageSubtitle": "",
+      "tripSumm": ""
+    },
+    {
+      "TripId": "califcoast",
+      "id": "califcoast",
+      "storeName": "califcoast",
+      "pageTitle": "Aug21-Calif Coast",
+      "pageLink": "adventures/2021calcoast.html",
+      "tripThumb": "img/index/thumb/20210821_califcoast_0001.jpg",
+      "pageSubtitle": "",
+      "tripSumm": ""
+    },
+    {
+      "TripId": "lbi",
+      "id": "lbi",
+      "storeName": "lbi",
+      "pageTitle": "Sep20 LBI",
+      "pageLink": "adventures/2020LBI.html",
+      "tripThumb": "img/index/thumb/20200920_LBI_0001.jpg",
+      "pageSubtitle": "",
+      "tripSumm": ""
+    },
+    {
+      "TripId": "cobo",
+      "id": "cobo",
+      "storeName": "cobo",
+      "pageTitle": "Feb20 Cobo",
+      "pageLink": "adventures/202002cobo.html",
+      "tripThumb": "img/index/thumb/20200220_cobo_0001.jpg",
+      "pageSubtitle": "",
+      "tripSumm": ""
+    },
+    {
+      "TripId": "sierra",
+      "id": "sierra",
+      "storeName": "sierra",
+      "pageTitle": "Aug19 Sierra",
+      "pageLink": "adventures/201908sierra.html",
+      "tripThumb": "img/index/thumb/20190819_sierra.jpg",
+      "pageSubtitle": "",
+      "tripSumm": ""
+    },
+    {
+      "TripId": "amalfi",
+      "id": "amalfi",
+      "storeName": "amalfi",
+      "pageTitle": "Jun19 Amalfi",
+      "pageLink": "adventures/201906amalfi.html",
+      "tripThumb": "img/index/thumb/20190619_amalfi.jpg",
+      "pageSubtitle": "",
+      "tripSumm": ""
+    },
+    {
+      "TripId": "colombia",
+      "id": "colombia",
+      "storeName": "colombia",
+      "pageTitle": "Mar19 Colombia",
+      "pageLink": "adventures/201903colombia.html",
+      "tripThumb": "img/index/thumb/201903colombia.jpg",
+      "pageSubtitle": "",
+      "tripSumm": ""
+    },
+    {
+      "TripId": "france",
+      "id": "france",
+      "storeName": "france",
+      "pageTitle": "Aug18 France",
+      "pageLink": "adventures/201808france.html",
+      "tripThumb": "img/index/thumb/201808france.jpg",
+      "pageSubtitle": "",
+      "tripSumm": ""
+    },
+    {
+      "TripId": "banff",
+      "id": "banff",
+      "storeName": "banff",
+      "pageTitle": "July18 Canadian Rockies",
+      "pageLink": "adventures/201807banff.html",
+      "tripThumb": "img/index/thumb/201807banff.jpg",
+      "pageSubtitle": "",
+      "tripSumm": ""
+    },
+    {
+      "TripId": "sweden",
+      "id": "sweden",
+      "storeName": "sweden",
+      "pageTitle": "July17-Stockholm/Copenhagen",
+      "pageLink": "adventures/201707sweden.html",
+      "tripThumb": "img/index/thumb/201707sweden.jpg",
+      "pageSubtitle": "",
+      "tripSumm": ""
+    },
+    {
+      "TripId": "malawi",
+      "id": "malawi",
+      "storeName": "malawi",
+      "pageTitle": "Jun17-Malawi",
+      "pageLink": "adventures/201706malawi.html",
+      "tripThumb": "img/index/thumb/201706malawi.jpg",
+      "pageSubtitle": "",
+      "tripSumm": ""
+    },
+    {
+      "TripId": "201609sanjuan",
+      "id": "201609sanjuan",
+      "storeName": "201609sanjuan",
+      "pageTitle": "Sept16-San Juan Isl",
+      "pageLink": "adventures/201609sanjuan.html",
+      "tripThumb": "img/index/thumb/201609sanjuan.jpg",
+      "pageSubtitle": "",
+      "tripSumm": ""
+    },
+    {
+      "TripId": "adiron",
+      "id": "adiron",
+      "storeName": "adiron",
+      "pageTitle": "June16-Adiron",
+      "pageLink": "adventures/201606adiron.html",
+      "tripThumb": "img/index/thumb/201606adiron.jpg",
+      "pageSubtitle": "",
+      "tripSumm": ""
+    },
+    {
+      "TripId": "tucson",
+      "id": "tucson",
+      "storeName": "tucson",
+      "pageTitle": "Nov15-Tucson",
+      "pageLink": "adventures/201511tucson.html",
+      "tripThumb": "img/index/thumb/201511tucson.jpg",
+      "pageSubtitle": "",
+      "tripSumm": ""
+    },
+    {
+      "TripId": "tourdivide",
+      "id": "tourdivide",
+      "storeName": "tourdivide",
+      "pageTitle": "Jun/Jul 15-Divide",
+      "pageLink": "tdpost/tdIndex.html",
+      "tripThumb": "img/index/thumb/201506TDday01pic01.jpg",
+      "pageSubtitle": "",
+      "tripSumm": ""
+    },
+    {
+      "TripId": "cogap",
+      "id": "cogap",
+      "storeName": "cogap",
+      "pageTitle": "May15-C&O-GAP",
+      "pageLink": "adventures/201505cogap.html#cogap_top",
+      "tripThumb": "img/index/thumb/201505COtowpath.jpg",
+      "pageSubtitle": "",
+      "tripSumm": ""
+    },
+    {
+      "TripId": "kauai",
+      "id": "kauai",
+      "storeName": "kauai",
+      "pageTitle": "Nov14-Kauai",
+      "pageLink": "adventures/201411kauai.html#kauai_top",
+      "tripThumb": "img/index/thumb/201411kauaipic1.jpg",
+      "pageSubtitle": "",
+      "tripSumm": ""
+    },
+    {
+      "TripId": "ansel",
+      "id": "ansel",
+      "storeName": "ansel",
+      "pageTitle": "Sep14-Ansel",
+      "pageLink": "adventures/201409ansel.html#ansel_top",
+      "tripThumb": "",
+      "pageSubtitle": "",
+      "tripSumm": ""
+    },
+    {
+      "TripId": "201408tetons",
+      "id": "201408tetons",
+      "storeName": "201408tetons",
+      "pageTitle": "Aug14-Tetons",
+      "pageLink": "adventures/201408tetons.html#tetons_top",
+      "tripThumb": "",
+      "pageSubtitle": "",
+      "tripSumm": ""
+    },
+    {
+      "TripId": "ireland",
+      "id": "ireland",
+      "storeName": "ireland",
+      "pageTitle": "2013 Ireland",
+      "pageLink": "adventures/201311ireland.html",
+      "tripThumb": "",
+      "pageSubtitle": "",
+      "tripSumm": ""
+    },
+    {
+      "TripId": "kili",
+      "id": "kili",
+      "storeName": "kili",
+      "pageTitle": "2013 Kili",
+      "pageLink": "adventures/201301kili.html",
+      "tripThumb": "",
+      "pageSubtitle": "",
+      "tripSumm": ""
+    },
+    {
+      "TripId": "201301kilivideos",
+      "id": "201301kilivideos",
+      "storeName": "201301kilivideos",
+      "pageTitle": "2013 Kili Videos",
+      "pageLink": "adventures/201301kilivideos.html",
+      "tripThumb": "",
+      "pageSubtitle": "",
+      "tripSumm": ""
+    },
+    {
+      "TripId": "greece",
+      "id": "greece",
+      "storeName": "greece",
+      "pageTitle": "2012 Greece",
+      "pageLink": "adventures/201208greece.html",
+      "tripThumb": "",
+      "pageSubtitle": "",
+      "tripSumm": ""
+    },
+    {
+      "TripId": "canyon2012",
+      "id": "canyon2012",
+      "storeName": "canyon2012",
+      "pageTitle": "2012 Grand Canyon",
+      "pageLink": "adventures/201201canyon.html",
+      "tripThumb": "",
+      "pageSubtitle": "",
+      "tripSumm": ""
+    },
+    {
+      "TripId": "alaska",
+      "id": "alaska",
+      "storeName": "alaska",
+      "pageTitle": "2010 Alaska",
+      "pageLink": "adventures/201008alaska.html",
+      "tripThumb": "",
+      "pageSubtitle": "",
+      "tripSumm": ""
+    },
+    {
+      "TripId": "costarica",
+      "id": "costarica",
+      "storeName": "costarica",
+      "pageTitle": "2010 Costa Rica",
+      "pageLink": "adventures/201002costarica.html",
+      "tripThumb": "",
+      "pageSubtitle": "",
+      "tripSumm": ""
+    },
+    {
+      "TripId": "italy",
+      "id": "italy",
+      "storeName": "italy",
+      "pageTitle": "2009 Italy",
+      "pageLink": "adventures/200904italy.html",
+      "tripThumb": "",
+      "pageSubtitle": "",
+      "tripSumm": ""
+    },
+    {
+      "TripId": "la2norf",
+      "id": "la2norf",
+      "storeName": "la2norf",
+      "pageTitle": "2008 X Cntry",
+      "pageLink": "adventures/200808la2norf.html",
+      "tripThumb": "",
+      "pageSubtitle": "",
+      "tripSumm": ""
+    },
+    {
+      "TripId": "layosemite",
+      "id": "layosemite",
+      "storeName": "layosemite",
+      "pageTitle": "2008 LA Yosemite",
+      "pageLink": "adventures/200807layosemite.html",
+      "tripThumb": "",
+      "pageSubtitle": "",
+      "tripSumm": ""
+    },
+    {
+      "TripId": "nj2la",
+      "id": "nj2la",
+      "storeName": "nj2la",
+      "pageTitle": "2008 NJ 2 LA",
+      "pageLink": "adventures/200806nj2la.html",
+      "tripThumb": "",
+      "pageSubtitle": "",
+      "tripSumm": ""
+    },
+    {
+      "TripId": "rome",
+      "id": "rome",
+      "storeName": "rome",
+      "pageTitle": "2007 Rome",
+      "pageLink": "adventures/200704rome.html",
+      "tripThumb": "",
+      "pageSubtitle": "",
+      "tripSumm": ""
+    },
+    {
+      "TripId": "hawaii",
+      "id": "hawaii",
+      "storeName": "hawaii",
+      "pageTitle": "2006 Hawaii",
+      "pageLink": "adventures/200608hawaii.html",
+      "tripThumb": "",
+      "pageSubtitle": "",
+      "tripSumm": ""
+    },
+    {
+      "TripId": "lakecomo",
+      "id": "lakecomo",
+      "storeName": "lakecomo",
+      "pageTitle": "2006 Lake Como",
+      "pageLink": "adventures/200604lakecomo.html",
+      "tripThumb": "",
+      "pageSubtitle": "",
+      "tripSumm": ""
+    },
+    {
+      "TripId": "canyon2004",
+      "id": "canyon2004",
+      "storeName": "canyon2004",
+      "pageTitle": "2004 Grand Canyon",
+      "pageLink": "adventures/200411canyon.html",
+      "tripThumb": "",
+      "pageSubtitle": "",
+      "tripSumm": ""
+    },
+    {
+      "TripId": "sequoia",
+      "id": "sequoia",
+      "storeName": "sequoia",
+      "pageTitle": "2003 SF - Seqouia",
+      "pageLink": "adventures/200304sequoia.html",
+      "tripThumb": "",
+      "pageSubtitle": "",
+      "tripSumm": ""
+    },
+    {
+      "TripId": "smokey",
+      "id": "smokey",
+      "storeName": "smokey",
+      "pageTitle": "2000 Smokey Mtn NP",
+      "pageLink": "adventures/200008smokey.html",
+      "tripThumb": "",
+      "pageSubtitle": "",
+      "tripSumm": ""
+    },
+    {
+      "TripId": "glacier",
+      "id": "glacier",
+      "storeName": "glacier",
+      "pageTitle": "1999 Glacier",
+      "pageLink": "adventures/199908glacier.html",
+      "tripThumb": "",
+      "pageSubtitle": "",
+      "tripSumm": ""
+    },
+    {
+      "TripId": "sedona",
+      "id": "sedona",
+      "storeName": "sedona",
+      "pageTitle": "1999 Sedona",
+      "pageLink": "adventures/199904sedona.html",
+      "tripThumb": "",
+      "pageSubtitle": "",
+      "tripSumm": ""
+    },
+    {
+      "TripId": "rmnp",
+      "id": "rmnp",
+      "storeName": "rmnp",
+      "pageTitle": "1997 Rocky Mtn NP",
+      "pageLink": "adventures/199705rmnp.html",
+      "tripThumb": "",
+      "pageSubtitle": "",
+      "tripSumm": ""
+    },
+    {
+      "TripId": "elkhuntNM",
+      "id": "elkhuntNM",
+      "storeName": "elkhuntnm",
+      "pageTitle": "1995 Elk Hunt",
+      "pageLink": "adventures/199510elkhuntNM.html",
+      "tripThumb": "",
+      "pageSubtitle": "",
+      "tripSumm": ""
+    },
+    {
+      "TripId": "BC",
+      "id": "BC",
+      "storeName": "bc",
+      "pageTitle": "1994 BC",
+      "pageLink": "adventures/199407BC.html",
+      "tripThumb": "",
+      "pageSubtitle": "",
+      "tripSumm": ""
+    },
+    {
+      "TripId": "zimbab",
+      "id": "zimbab",
+      "storeName": "zimbab",
+      "pageTitle": "1993 Zimbabwe",
+      "pageLink": "adventures/199312zimbab.html",
+      "tripThumb": "",
+      "pageSubtitle": "",
+      "tripSumm": ""
+    },
+    {
+      "TripId": "yellowstone",
+      "id": "yellowstone",
+      "storeName": "yellowstone",
+      "pageTitle": "1993 Yellowstone",
+      "pageLink": "adventures/199308yellowstone.html",
+      "tripThumb": "",
+      "pageSubtitle": "",
+      "tripSumm": ""
+    },
+    {
+      "TripId": "ireland91",
+      "id": "ireland91",
+      "storeName": "ireland91",
+      "pageTitle": "1991 Ireland",
+      "pageLink": "adventures/199108ireland.html",
+      "tripThumb": "",
+      "pageSubtitle": "",
+      "tripSumm": ""
+    },
+    {
+      "TripId": "olympiaBC",
+      "id": "olympiaBC",
+      "storeName": "olympiabc",
+      "pageTitle": "1988 Olympia",
+      "pageLink": "adventures/198807olympiaBC.html",
+      "tripThumb": "",
+      "pageSubtitle": "",
+      "tripSumm": ""
+    },
+    {
+      "TripId": "chiPortDen",
+      "id": "chiPortDen",
+      "storeName": "chiportden",
+      "pageTitle": "1981 Chi-Port",
+      "pageLink": "adventures/198108chiPortDen.html",
+      "tripThumb": "",
+      "pageSubtitle": "",
+      "tripSumm": ""
+    },
+    {
+      "TripId": "xctry79",
+      "id": "xctry79",
+      "storeName": "xctry79",
+      "pageTitle": "1979 X Cntry",
+      "pageLink": "adventures/197907xctry.html",
+      "tripThumb": "",
+      "pageSubtitle": "",
+      "tripSumm": ""
+    },
+    {
+      "TripId": "ha_future",
+      "id": "ha_future",
+      "storeName": "ha_future",
+      "pageTitle": "Future",
+      "pageLink": "adventures/ha_future.html",
+      "tripThumb": "",
+      "pageSubtitle": "",
+      "tripSumm": ""
+    },
+    {
+      "TripId": "46er",
+      "id": "46er",
+      "storeName": "46er",
+      "pageTitle": "46er",
+      "pageLink": "adventures/46er.html",
+      "tripThumb": "",
+      "pageSubtitle": "",
+      "tripSumm": ""
+    },
+    {
+      "TripId": "TrainloadOfBosses",
+      "id": "TrainloadOfBosses",
+      "storeName": "trainloadofbosses",
+      "pageTitle": "JBK-TrainLoad",
+      "pageLink": "adventures/TrainloadOfBosses.html",
+      "tripThumb": "",
+      "pageSubtitle": "",
+      "tripSumm": ""
+    },
+    {
+      "TripId": "Turnback",
+      "id": "Turnback",
+      "storeName": "turnback",
+      "pageTitle": "JBK-Turnback the Clock",
+      "pageLink": "adventures/Turnback.html",
+      "tripThumb": "",
+      "pageSubtitle": "",
+      "tripSumm": ""
+    }
+  ],
+  "haNavIndex": [
+    {
+      "navgrp": "0",
+      "grpName": "20-22",
+      "grpMember": [
+        {
+          "hrefx": "adventures/2022ss2sg.html",
+          "name": "May-Jul22 SS2SG2022",
+          "storeName": "ss2sg2022"
+        },
+        {
+          "hrefx": "adventures/2021calcoast.html",
+          "name": "Aug21-Calif Coast",
+          "storeName": "califcoast"
+        },
+        {
+          "hrefx": "adventures/2020LBI.html",
+          "name": "Sep20 LBI",
+          "storeName": "lbi"
+        },
+        {
+          "hrefx": "adventures/202002cobo.html",
+          "name": "Feb20 Cobo",
+          "storeName": "cobo"
+        }
+      ]
+    },
+    {
+      "navgrp": "1",
+      "grpName": "17-19",
+      "grpMember": [
+        {
+          "hrefx": "adventures/201908sierra.html",
+          "name": "Aug19 Sierra",
+          "storeName": "sierra"
+        },
+        {
+          "hrefx": "adventures/201906amalfi.html",
+          "name": "Jun19 Amalfi",
+          "storeName": "amalfi"
+        },
+        {
+          "hrefx": "adventures/201903colombia.html",
+          "name": "Mar19 Colombia",
+          "storeName": "colombia"
+        },
+        {
+          "hrefx": "adventures/201808france.html",
+          "name": "Aug18 France",
+          "storeName": "france"
+        },
+        {
+          "hrefx": "adventures/201807banff.html",
+          "name": "July18 Canadian Rockies",
+          "storeName": "banff"
+        },
+        {
+          "hrefx": "adventures/201707sweden.html",
+          "name": "July17-Stockholm/Copenhagen",
+          "storeName": "sweden"
+        },
+        {
+          "hrefx": "adventures/201706malawi.html",
+          "name": "Jun17-Malawi",
+          "storeName": "malawi"
+        }
+      ]
+    },
+    {
+      "navgrp": "2",
+      "grpName": "14-16",
+      "grpMember": [
+        {
+          "hrefx": "adventures/201609sanjuan.html",
+          "name": "Sept16-San Juan Isl",
+          "storeName": "201609sanjuan"
+        },
+        {
+          "hrefx": "adventures/201606adiron.html",
+          "name": "June16-Adiron",
+          "storeName": "adiron"
+        },
+        {
+          "hrefx": "adventures/201511tucson.html",
+          "name": "Nov15-Tucson",
+          "storeName": "tucson"
+        },
+        {
+          "hrefx": "tdpost/tdIndex.html",
+          "name": "Jun/Jul 15-Divide",
+          "storeName": "tourdivide"
+        },
+        {
+          "hrefx": "adventures/201505cogap.html#cogap_top",
+          "name": "May15-C&O-GAP",
+          "storeName": "cogap"
+        },
+        {
+          "hrefx": "adventures/201411kauai.html#kauai_top",
+          "name": "Nov14-Kauai",
+          "storeName": "kauai"
+        },
+        {
+          "hrefx": "adventures/201409ansel.html#ansel_top",
+          "name": "Sep14-Ansel",
+          "storeName": "ansel"
+        },
+        {
+          "hrefx": "adventures/201408tetons.html#tetons_top",
+          "name": "Aug14-Tetons",
+          "storeName": "201408tetons"
+        }
+      ]
+    },
+    {
+      "navgrp": "3",
+      "grpName": "10-13",
+      "grpMember": [
+        {
+          "hrefx": "adventures/201311ireland.html",
+          "name": "2013 Ireland",
+          "storeName": "ireland"
+        },
+        {
+          "hrefx": "adventures/201301kili.html",
+          "name": "2013 Kili",
+          "storeName": "kili"
+        },
+        {
+          "hrefx": "adventures/201301kilivideos.html",
+          "name": "2013 Kili Videos",
+          "storeName": "201301kilivideos"
+        },
+        {
+          "hrefx": "adventures/201208greece.html",
+          "name": "2012 Greece",
+          "storeName": "greece"
+        },
+        {
+          "hrefx": "adventures/201201canyon.html",
+          "name": "2012 Grand Canyon",
+          "storeName": "canyon2012"
+        },
+        {
+          "hrefx": "adventures/201008alaska.html",
+          "name": "2010 Alaska",
+          "storeName": "alaska"
+        },
+        {
+          "hrefx": "adventures/201002costarica.html",
+          "name": "2010 Costa Rica",
+          "storeName": "costarica"
+        }
+      ]
+    },
+    {
+      "navgrp": "4",
+      "grpName": "09-00",
+      "grpMember": [
+        {
+          "hrefx": "adventures/200904italy.html",
+          "name": "2009 Italy",
+          "storeName": "italy"
+        },
+        {
+          "hrefx": "adventures/200808la2norf.html",
+          "name": "2008 X Cntry",
+          "storeName": "la2norf"
+        },
+        {
+          "hrefx": "adventures/200807layosemite.html",
+          "name": "2008 LA Yosemite",
+          "storeName": "layosemite"
+        },
+        {
+          "hrefx": "adventures/200806nj2la.html",
+          "name": "2008 NJ 2 LA",
+          "storeName": "nj2la"
+        },
+        {
+          "hrefx": "adventures/200704rome.html",
+          "name": "2007 Rome",
+          "storeName": "rome"
+        },
+        {
+          "hrefx": "adventures/200608hawaii.html",
+          "name": "2006 Hawaii",
+          "storeName": "hawaii"
+        },
+        {
+          "hrefx": "adventures/200604lakecomo.html",
+          "name": "2006 Lake Como",
+          "storeName": "lakecomo"
+        },
+        {
+          "hrefx": "adventures/200411canyon.html",
+          "name": "2004 Grand Canyon",
+          "storeName": "canyon2004"
+        },
+        {
+          "hrefx": "adventures/200304sequoia.html",
+          "name": "2003 SF - Seqouia",
+          "storeName": "sequoia"
+        },
+        {
+          "hrefx": "adventures/200008smokey.html",
+          "name": "2000 Smokey Mtn NP",
+          "storeName": "smokey"
+        }
+      ]
+    },
+    {
+      "navgrp": "5",
+      "grpName": ">99->",
+      "grpMember": [
+        {
+          "hrefx": "adventures/199908glacier.html",
+          "name": "1999 Glacier",
+          "storeName": "glacier"
+        },
+        {
+          "hrefx": "adventures/199904sedona.html",
+          "name": "1999 Sedona",
+          "storeName": "sedona"
+        },
+        {
+          "hrefx": "adventures/199705rmnp.html",
+          "name": "1997 Rocky Mtn NP",
+          "storeName": "rmnp"
+        },
+        {
+          "hrefx": "adventures/199510elkhuntNM.html",
+          "name": "1995 Elk Hunt",
+          "storeName": "elkhuntnm"
+        },
+        {
+          "hrefx": "adventures/199407BC.html",
+          "name": "1994 BC",
+          "storeName": "bc"
+        },
+        {
+          "hrefx": "adventures/199312zimbab.html",
+          "name": "1993 Zimbabwe",
+          "storeName": "zimbab"
+        },
+        {
+          "hrefx": "adventures/199308yellowstone.html",
+          "name": "1993 Yellowstone",
+          "storeName": "yellowstone"
+        },
+        {
+          "hrefx": "adventures/199108ireland.html",
+          "name": "1991 Ireland",
+          "storeName": "ireland91"
+        },
+        {
+          "hrefx": "adventures/198807olympiaBC.html",
+          "name": "1988 Olympia",
+          "storeName": "olympiabc"
+        },
+        {
+          "hrefx": "adventures/198108chiPortDen.html",
+          "name": "1981 Chi-Port",
+          "storeName": "chiportden"
+        },
+        {
+          "hrefx": "adventures/197907xctry.html",
+          "name": "1979 X Cntry",
+          "storeName": "xctry79"
+        },
+        {
+          "hrefx": "adventures/ha_future.html",
+          "name": "Future",
+          "storeName": "ha_future"
+        }
+      ]
+    },
+    {
+      "navgrp": "6",
+      "grpName": "Other",
+      "grpMember": [
+        {
+          "hrefx": "adventures/46er.html",
+          "name": "46er",
+          "storeName": "46er"
+        },
+        {
+          "hrefx": "adventures/TrainloadOfBosses.html",
+          "name": "JBK-TrainLoad",
+          "storeName": "trainloadofbosses"
+        },
+        {
+          "hrefx": "adventures/Turnback.html",
+          "name": "JBK-Turnback the Clock",
+          "storeName": "turnback"
+        }
+      ]
+    }
+  ]
 }
