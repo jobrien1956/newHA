@@ -1,50 +1,33 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<meta charset="UTF-8">
-	<title>newHA</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1" />
-	<meta name="description" content="Future home page to Having Adventures">
-	<meta name="author" content="Jim OBrien">
-	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<link href="css/bootstrap.css" rel="stylesheet">
-	<!-- Custom Fonts -->
-	<!--	<link href="styles.css" rel="stylesheet" />-->
-<!--	<link href="https://stackpath.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">-->
-	<!-- Custom CSS -->
-	<link href="css/clean-blog.css" rel="stylesheet">
-	<link href="css/styles.css" rel="stylesheet">
-	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-<!--	// <link href="css/layout_styles.css" rel="stylesheet">-->
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Having Adventures</title>
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="css/clean-blog.css">
 </head>
 <body>
-<script src="https://unpkg.com/mithril@2.0.4/mithril.min.js"></script>
 
-<!--<script src="//unpkg.com/mithril/mithril.js"></script>-->
-<script src="views/app.js"></script>
-<script src="views/Layout.js"></script>
-<script src="views/NavBar.js"></script>
-<script src="views/Trip.js"></script>
-<script src="views/Home.js"></script>
-<!-- jQuery <script src="js/jquery.min.js"></script>-->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <!-- Mithril SPA framework -->
+  <script src="https://unpkg.com/mithril@2.2.2/mithril.min.js"></script>
 
-<!-- Bootstrap Core JavaScript -->
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+  <!-- LOAD ORDER: app.js first (creates HA namespace), then views -->
+  <script src="views/app.js"></script>
 
-<!-- jQuery -->
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-<script type="text/javascript" src="//code.jquery.com/ui/1.10.4/jquery-ui.min.js"></script>
-<script>
-	var myImage = document.querySelector('#hapic');
-	document.querySelector('#hapic').onclick = function () {
-		var mySrc = myImage.getAttribute('src');
-		if (mySrc === 'img/index/having_adventures2.jpg') {
-			myImage.setAttribute('src', 'img/index/jim_nardi.jpg');
-		} else {
-			myImage.setAttribute('src', 'img/index/having_adventures2.jpg');
-		}
-	};
-</script>
+  <!-- Views - NavBar and Footer before Layout (Layout uses both) -->
+  <script src="views/NavBar.js"></script>
+  <script src="views/Footer.js"></script>
+  <script src="views/Layout.js"></script>
+  <script src="views/Home.js"></script>
+  <script src="views/TripIndex.js"></script>
+  <script src="views/Trip.js"></script>
+
+  <!-- jQuery + Bootstrap JS (navbar collapse) -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
 </body>
 </html>
