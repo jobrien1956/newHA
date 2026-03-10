@@ -83,6 +83,7 @@
 // example 1
 	document.addEventListener("DOMContentLoaded", () => {
 		console.log('Running app...');
+		// loads haPages[] and HomePageNavBarData[] into HA.stores.hapages
 		HA.utils.JsonLoader.load({name: 'hapages', url: 'json/haPagesNav.json'});
 		m.route(document.body, "/", {
 			"/": {
@@ -96,26 +97,12 @@
 					return m(HA.views.Layout, m(HA.views.Trip))
 				},
 			},
-			"/navbar/": {
+			"/tripindex/:tripName": {
 				view: function ({attrs}) {
 					console.log('route attrs', attrs);
-					return m(HA.views.Layout, m(NavBar))
-				}
+					return m(HA.views.Layout, m(HA.views.TripIndex))
+				},
 			}
-			,
-			"/navbar2/": {
-				view: function ({attrs}) {
-					console.log('route attrs', attrs);
-					return m(HA.views.Layout, m(NavBar2))
-				}
-			},
-			"/mainheader/": {
-				view: function ({attrs}) {
-					console.log('route attrs', attrs);
-					return m(HA.views.Layout, m(mainHeader))
-				}
-			}
-
 		})
 	})
 

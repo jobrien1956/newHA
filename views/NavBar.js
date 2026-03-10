@@ -1,35 +1,52 @@
 NavBar = {
 	view: function (vnode) {
 		if (!HA.stores.hapages) return;
+
+		// FIX: data key is 'haNavIndex' (not 'HomePageNavBarData')
+		const navGroups = HA.stores.hapages.haNavIndex;
+
 		return m("nav.navbar.navbar-inverse.navbar-fixed-top[role='navigation']",
-			m("div.container", {"style":{"background-color":"black"}},
-				[m("div.navbar-header", [
-					m("a.navbar-brand[href='index.html']", {"style":{"color":"gold"}},
-						"Having Adventures.com"),
-					m("button.navbar-toggle[type='button'][data-toggle='collapse'][data-target='#bs-example-navbar-collapse-1']",
-						[m("span.sr-only", "Toggle navigation"
-						), m("span.icon-bar"), m("span.icon-bar"), m("span.icon-bar")
-						])]),
-					m(".collapse.navbar-right.navbar-collapse[id='bs-example-navbar-collapse-1']",
+			m("div.container", {style: {"background-color": "black"}},
+				[
+					m("div.navbar-header", [
+						m("a.navbar-brand", {
+							href: HA.config.dataUrl + '/index.html',
+							style: {color: "gold"}
+						}, "Having Adventures.com"),
+						m("button.navbar-toggle[type='button'][data-toggle='collapse'][data-target='#ha-navbar-collapse']",
+							[m("span.sr-only", "Toggle navigation"),
+							 m("span.icon-bar"), m("span.icon-bar"), m("span.icon-bar")]
+						)
+					]),
+
+					m(".collapse.navbar-right.navbar-collapse[id='ha-navbar-collapse']",
 						m("ul.nav.navbar-nav.navbar-collapse",
-							m("li.dropdown",{"style":{"display":"inline-flex"}}, HA.stores.hapages.HomePageNavBarData.map((it) => {
-									return [m("a.dropdown-toggle[data-toggle='dropdown'][href='#']", it.grpName, m("b.caret")),
-										m("ul.dropdown-menu", it.grpMember.map((member) => {
-											return  m('ul',
-												m('li',
-													m('a[href=""]', {
-														onclick: (e) => {
-															console.log(member);
-															m.route.set('/trip/' + member.storeName)
-														}
-													}, member.name + " -- storeName = " + member.storeName + " -- Href = " + member.hrefx)))}
-										))]}
-								)
-							) // map((it)
+							navGroups.map((grp) => {
+								return m("li.dropdown", {style: {"display": "inline-flex"}},
+									m("a.dropdown-toggle[data-toggle='dropdown'][href='#']",
+										grp.grpName, m("b.caret")
+									),
+									m("ul.dropdown-menu",
+										grp.grpMember.map((member) => {
+											// Skip entries still lacking a storeName
+											if (!member.storeName) return null;
+											return m("li",
+												m("a[href='']", {
+													onclick: (e) => {
+														e.preventDefault();
+														console.log('nav -> trip:', member.storeName);
+														m.route.set('/trip/' + member.storeName);
+													}
+												}, member.name)
+											);
+										})
+									)
+								);
+							})
 						)
 					)
-				] // collapse.navbar-collapse
-			) // div.container
-		) // nav.navbar.navbar-inverse.
-	} // view: function (vnode)
-}  // NavBar =
+				]
+			)
+		);
+	}
+};
