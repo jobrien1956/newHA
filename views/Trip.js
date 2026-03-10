@@ -1,11 +1,16 @@
 HA.views.Trip = (vnode) => {
 	let tripName = m.route.param('tripName')
 	let tripData = undefined
-	console.log('in trip', m.route.param('tripName'))
+	let loadError = undefined
+	console.log('in trip', tripName)
+	// FIX: use HA.config.dataUrl instead of hardcoded /newHA/ prefix
 	m.request({
-		url: '/newHA/json/ha-' + tripName + '.json'
+		url: HA.config.dataUrl + 'json/ha-' + tripName + '.json'
 	}).then(function (response) {
 		tripData = response;
+	}).catch(function (err) {
+		loadError = 'Could not load trip data for "' + tripName + '". (' + err.message + ')';
+		console.error(loadError);
 	});
 
 	function header(trip) {
@@ -210,17 +215,28 @@ HA.views.Trip = (vnode) => {
 
 	return {
 		view: function (vnode) {
-			console.log(tripData)
-			if(!tripData) return m('', 'Loading... or no json / autoloading page available ')
+			// Show load error if fetch failed
+			if (loadError) return m('.container', m('p', {style: {color:'red', padding:'2rem'}}, loadError))
+			// Loading state while fetch is in flight
+			if (!tripData) return m('.container', m('p', {style: {padding:'2rem'}}, 'Loading…'))
+
+			// Detect Type 2 trips: JSON has haPages[] but no adventureDay[]
+			// Hand off to TripIndex instead of crashing on .adventureDay.map()
+			if (!tripData.adventureDay && tripData.haPages) {
+				return m(HA.views.TripIndex, {tripData: tripData, tripName: tripName})
+			}
+
 			var trip = tripData.trip || {};
 			return m("div", m(".row", [
-					m('div', tripData.trip.id),
 					header(trip),
-				  trip.introDescr && intro(trip), //intro to trip
+					trip.introDescr && intro(trip),
+					// FIX: removed stray comma operator which was discarding the first
+					// return value — m('div',"new dayID"...) was evaluated but thrown away
 					tripData.adventureDay.map(function (iii) {
-					return m('div', "new dayID" + iii.dayId ), iii.dayId && dayview(iii)}),
-				  endmap(trip),
-				  footer(trip),
+						return iii.dayId && dayview(iii)
+					}),
+					endmap(trip),
+					footer(trip),
 				]
 			))
 		}

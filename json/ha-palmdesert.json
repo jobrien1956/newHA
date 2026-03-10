@@ -1,0 +1,292 @@
+{
+	"trip": {
+		"nav": "1",
+		"TripId": "202203palmdesert",
+		"id": "ha-palmdesert",
+		"backgroundImg": "../img/index/202203palmdesert.jpg",
+		"tripThumb": "../img/index/thumb/202203palmdesert.jpg",
+		"pageLink": "adventures/202203palmdesert.html",
+		"pageTitle": "Palm Desert",
+		"pageSubtitle": "March 2022",
+		"tripSumm": "",
+		"summ": "Backroads trip to Palm Desert and Joshua",
+		"intro": "Four days in windy city",
+		"introDescr": "Kathy, Allie, Kristen and her two daughters, Grace & Megan took a short trip to California.",
+		"introPic1": "",
+		"introPic1span": "",
+		"introPic2": "",
+		"introPic2span": "",
+		"videoLink": "",
+		"videoIframe": "",
+		"foot": "1",
+		"footerPic1": "",
+		"footerPic2": "",
+		"footPic1Span": "",
+		"endMap": "",
+		"endmapName": "",
+		"days": [
+		]
+	},
+	"adventureDay": [
+		{
+			"dayId": "20220307",
+			"h1title": "Morongo Valley",
+			"h3": "A Cold Windy Day & Night in Pioneer Town",
+			"pdate": "Monday, March 7, 2022",
+			"pdesc": "After arriving on Sunday Allie, Kathy and I did a brief walk around Palm Desert.  We met K G & M for dinner at the ElPatron mexican resturaunt.  In the morning we met the rest of our group at their hotel and headed out for the day's adventure in Pioneertown's geologically rich\nwildlands preserve.  The desert part of the name was pretty evident. ",
+			"pdescLink1": "",
+			"pdescLinktag1": "",
+			"pdesc2": "",
+			"pdescLink2": "",
+			"pdescLinktag2": "",
+			"pdesc3": "",
+			"pdescLink3": "",
+			"pdescLinktag3": "",
+			"mappic": "",
+			"mappicport": "https://photos.smugmug.com/2022-03-Palm-Desert/2022-03-07/i-K6FVbwP/1/61d2b22c/M/F163B01F-859F-435C-A59D-A38FC9A8D180_1_105_c-M.jpg",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/2022-03-Palm-Desert/2022-03-07/i-3sBKNr6/1/8c2b6747/M/71DAD318-60BB-4225-A3D4-F1ABB5210111_1_105_c-M.jpg",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/2022-03-Palm-Desert/2022-03-07/i-xLc97Xh/1/458d95e3/M/57337152-B1E5-4E2E-9C7B-4D1E703BF75F_1_105_c-M.jpg",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "3",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "4",
+					"pic": "https://photos.smugmug.com/2022-03-Palm-Desert/2022-03-07/i-G2F737x/1/6b0f3deb/M/D177787A-6F4B-4A02-BB16-4CD45F2F4C67_1_105_c-M.jpg",
+					"piccap": "",
+					"pictop": "Pioneer Mountain",
+					"picbotm": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": "",
+			"dayMap": "",
+			"daymapName": ""
+		},
+		{
+			"dayId": "20220308",
+			"h1title": "Joshua Tree National Park",
+			"h3": "Rock Climbing ",
+			"pdate": "Tuesday, March 8, 2022",
+			"pdesc": "Tuesday we went to Joshua Tree NP and saw - you guessed it - many many Joshua Trees.  They are pretty interesting ... ",
+			"pdescLink1": "",
+			"pdescLinktag1": "",
+			"pdesc2": "During our journey we saw fascinating rock formations and iconic yucca trees | Our full-day adventure amid the park's surreal labyrinths of sculpted granite, massive boulders and secret craggy passageways | We hiked past pockets of native flora in the park's aptly named Hidden Valley.  We all tried Rock climbing, scrambling and rappel",
+
+			"pdescLink2": "",
+			"pdescLinktag2": "",
+			"pdesc3": "",
+			"pdescLink3": "",
+			"pdescLinktag3": "",
+			"mappic": "",
+			"mappicport": "https://photos.smugmug.com/2022-03-Palm-Desert/2022-03-08-PalmDesert/i-3SbCbNf/1/36df5a98/S/FC977C3F-5A48-4589-90A6-1656E7F99BB0_1_105_c-S.jpg",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/2022-03-Palm-Desert/2022-03-08-PalmDesert/i-DqThtNq/1/7a7fc497/M/78BF7053-7767-4C06-8743-F639C09A47EC_1_105_c-M.jpg",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/2022-03-Palm-Desert/2022-03-08-PalmDesert/i-Fnw7QDr/1/e0771a18/M/9D27BE85-271D-4683-8795-DC44A8D0870B_1_105_c-M.jpg",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "3",
+					"pic": "https://photos.smugmug.com/2022-03-Palm-Desert/2022-03-08-PalmDesert/i-HszqFHm/1/c7e20bde/M/DCD54E4B-D7B6-46CE-8D0C-E58AFC0AFDFD_1_105_c-M.jpg",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "4",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": "",
+			"dayMap": "",
+			"daymapName": ""
+		},
+		{
+			"dayId": "20220309",
+			"h1title": "Whitewater Preserve",
+			"h3": "Hiking from Whitewater RIver to Mission Creek",
+			"pdate": "Sunday, September 6, 2020",
+			"pdesc": "We hiked along a section of the Pacific Crest Trail ... and ended the day being serenaded at the El Patio mexican restaurant",
+			"pdescLink1": "",
+			"pdescLinktag1": "",
+			"pdesc2": "",
+			"pdescLink2": "",
+			"pdescLinktag2": "",
+			"pdesc3": "",
+			"pdescLink3": "",
+			"pdescLinktag3": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "3",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "4",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "20220310",
+			"h3": "Biking up the Palm Springs Canyon",
+			"h1title": "",
+			"pdate": "Thursday, September 10, 2022",
+			"pdesc": "",
+			"pdescLink1": "",
+			"pdescLinktag1": "",
+			"pdesc2": "",
+			"pdescLink2": "",
+			"pdescLinktag2": "",
+			"pdesc3": "",
+			"pdescLink3": "",
+			"pdescLinktag3": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "3",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "4",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "20220311",
+			"h1title": "Mount San Jacinto Wilderness",
+			"h3": "Up the tram into the snow",
+			"pdate": "Friday, September 11, 2022",
+			"pdesc": "Once again we went from the desert to freezing weather",
+			"pdescLink1": "",
+			"pdescLinktag1": "",
+			"pdesc2": "",
+			"pdescLink2": "",
+			"pdescLinktag2": "",
+			"pdesc3": "",
+			"pdescLink3": "",
+			"pdescLinktag3": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "3",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "4",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		}
+	]
+}

@@ -1,0 +1,1120 @@
+{
+	"haCarousel": [
+		{
+			"id": "carousel15",
+			"component": ",Carousel15",
+			"slides": [
+				{
+					"active": "true",
+					"header": "Lima Dam.  Reservoir went on for 20 miles",
+					"img": "../img/tourdivide/day15/day15pic04.JPG",
+					"caption": ""
+				},
+				{
+					"active": "false",
+					"header": "After a mostly flat morning could see the Tetons on the horizon",
+					"img": "../img/tourdivide/day15/day15pic11.JPG",
+					"caption": ""
+				},
+				{
+					"active": "false",
+					"header": "Up ahead - Red Rock pass and leaving Montana.",
+					"img": "../img/tourdivide/day15/day15pic13.JPG",
+					"caption": ""
+				},
+				{
+					"active": "false",
+					"header": "The climb up to Red Rock pass was not so bad. I was getting use to the hills.",
+					"img": "../img/tourdivide/day15/day15pic12.JPG",
+					"caption": ""
+				},
+				{
+					"active": "false",
+					"header": "One of my sleeping options.  Things got better",
+					"img": "../img/tourdivide/day15/rusticcabin1.jpg",
+					"caption": ""
+				}
+			]
+		},
+		{
+			"id": "carousel16",
+			"component": "Carousel16",
+			"slides": [
+				{
+					"active": "true",
+					"header": "Taking a Scenic Byway instead of the sand",
+					"img": "../img/tourdivide/day16/day16pic02.JPG",
+					"caption": "Tetons from 40 miles"
+				},
+				{
+					"active": "false",
+					"header": "Took a side trip to visit this spectacular falls",
+					"img": "../img/tourdivide/day16/day16pic05.JPG",
+					"caption": "Upper Mesa Falls"
+				},
+				{
+					"active": "false",
+					"header": "",
+					"img": "../img/tourdivide/day16/day16pic08.JPG",
+					"caption": "Lower Mesa Falls"
+				},
+				{
+					"active": "false",
+					"header": "",
+					"img": "../img/tourdivide/day16/day16pic13.JPG",
+					"caption": "The flat gradual part of Ashton Flagg Ranch Road "
+				},
+				{
+					"active": "false",
+					"header": "Ashton Flagg Ranch Road",
+					"img": "../img/tourdivide/day16/day16pic20a.jpg",
+					"caption": "It is 36 miles of gravel road - sometimes washboarded, sometimes rutted, often windy, always narrow."
+				}
+			]
+		},
+		{
+			"id": "carousel17",
+			"component": "Carousel17",
+			"slides": [
+				{
+					"active": "true",
+					"header": "Grand Teton NP",
+					"img": "../img/tourdivide/day17/day17pic00.jpg",
+					"caption": ""
+				},
+				{
+					"active": "false",
+					"header": "",
+					"img": "../img/tourdivide/day17/day17pic02.JPG",
+					"caption": ""
+				},
+				{
+					"active": "false",
+					"header": "The Oxbow in 1993",
+					"img": "../img/tourdivide/day17/1993GrdTetoxbow.jpg",
+					"caption": "From an earlier trip - still beautiful"
+				},
+				{
+					"active": "false",
+					"header": "",
+					"img": "../img/tourdivide/day17/day17pic06.JPG",
+					"caption": ""
+				},
+				{
+					"active": "false",
+					"header": "Togwotee Pass",
+					"img": "../img/tourdivide/day17/day17pic17.JPG",
+					"caption": "20 miles and 2,800 feet up from Moran, WY."
+				},
+				{
+					"active": "false",
+					"header": "Wind River Lake",
+					"img": "../img/tourdivide/day17/day17pic14.JPG",
+					"caption": "Surrounded by some amazing rock formations."
+				},
+				{
+					"active": "false",
+					"header": "Wind River Lake",
+					"img": "../img/tourdivide/day17/day17pic15.JPG",
+					"caption": "Nice spot to have a break after a long climb"
+				}
+			]
+		},
+		{
+			"id": "carousel18",
+			"component": "Carousel18",
+			"slides": [
+				{
+					"active": "true",
+					"header": "Heading to Union Pass",
+					"img": "../img/tourdivide/day18/day18pic02.JPG",
+					"caption": " Starting the day the same way I started most days - me and my shadow. "
+				},
+				{
+					"active": "false",
+					"header": "Some nice 8-10% grades along the way",
+					"img": "../img/tourdivide/day18/day18pic04.JPG",
+					"caption": ""
+				},
+				{
+					"active": "false",
+					"header": "The views opened up all the back to the Tetons",
+					"img": "../img/tourdivide/day18/day18pic05b.JPG",
+					"caption": "View west"
+				},
+				{
+					"active": "false",
+					"header": "At the top of Devils Hole Trail",
+					"img": "../img/tourdivide/day18/day18pic05d.JPG",
+					"caption": "View east"
+				},
+				{
+					"active": "false",
+					"header": "After the two climbs I rode along the divide for miles",
+					"img": "../img/tourdivide/day18/day18pic08.JPG",
+					"caption": "Union Pass area - view west"
+				},
+				{
+					"active": false,
+					"header": "near Union Pass",
+					"img": "../img/tourdivide/day18/day18pic08a.JPG",
+					"caption": "Union Pass area - view north"
+				},
+				{
+					"active": "false",
+					"header": "... for miles and miles",
+					"img": "../img/tourdivide/day18/day18pic16.JPG",
+					"caption": "I was amazed again and again during the five plus hours it took me to go through this section."
+				},
+				{
+					"active": "false",
+					"header": "Rolling toward Pinedale - back in the desert",
+					"img": "../img/tourdivide/day18/day18pic20.JPG",
+					"caption": "The last 40 miles was rolling downhill and south through wide open spaces. The Wind River Range was to the east"
+				}
+			]
+		},
+		{
+			"id": "carousel19",
+			"component": "Carousel19",
+			"slides": [
+				{
+					"active": "true",
+					"header": "The first 35 miles of the day were hot but reasonably flat.",
+					"img": "../img/tourdivide/day19/day19pic05c.JPG",
+					"caption": ""
+				},
+				{
+					"active": "false",
+					"header": "Once agin riding along the divide for miles",
+					"img": "../img/tourdivide/day19/day19pic05d.JPG",
+					"caption": ""
+				},
+				{
+					"active": "false",
+					"header": "The Big Sandy River",
+					"img": "../img/tourdivide/day19/day19pic04.JPG",
+					"caption": ""
+				},
+				{
+					"active": "false",
+					"header": "Along the road to South Pass City, a restored mining town.",
+					"img": "../img/tourdivide/day19/day19pic12.JPG",
+					"caption": ""
+				},
+				{
+					"active": "false",
+					"header": "Atlantic City - stopped for the day",
+					"img": "../img/tourdivide/day19/day19pic14.jpg",
+					"caption": "Miners Grub Stake - the tepee was taken so I ended up at a home nearby."
+				}
+			]
+		},
+		{
+			"id": "carousel20",
+			"component": "Carousel20",
+			"slides": [
+				{
+					"active": "true",
+					"header": "100 miles thru the desert",
+					"img": "../img/tourdivide/day20/day20pic00.JPG",
+					"caption": ""
+				},
+				{
+					"active": "false",
+					"header": "Andrew on the way to the Stillwater River",
+					"img": "../img/tourdivide/day20/day20pic01b.JPG",
+					"caption": "It was the last reliable water"
+				},
+				{
+					"active": "false",
+					"header": "By 9:30 I was alone for the day",
+					"img": "../img/tourdivide/day20/day20pic02.JPG",
+					"caption": ""
+				},
+				{
+					"active": "false",
+					"header": "Flat - but the roads not",
+					"img": "../img/tourdivide/day20/day20pic07.JPG",
+					"caption": "The double track was rutted and difficult to get a good line through."
+				},
+				{
+					"active": "false",
+					"header": "There were no cattle guards, fences or signs.  ",
+					"img": "../img/tourdivide/day20/day20pic09.JPG",
+					"caption": "Wild horses along the way"
+				},
+				{
+					"active": "false",
+					"header": "",
+					"img": "../img/tourdivide/day20/day20pic12b.JPG",
+					"caption": "He really looked angry."
+				},
+				{
+					"active": "false",
+					"header": "about 10 miles that felt more remote than almost any other spot on the ride.",
+					"img": "../img/tourdivide/day20/DSC08803.jpg",
+					"caption": "Picture from Jill Horner\"s story also gives a sense of what I was riding through."
+				},
+				{
+					"active": "false",
+					"header": "Wamsutter, WY",
+					"img": "../img/tourdivide/day20/day20pic13.JPG",
+					"caption": "Back to civilization or at least a Truck stop along Interstate 80"
+				}
+			]
+		},
+		{
+			"id": "carousel21",
+			"component": "Carousel21",
+			"slides": [
+				{
+					"active": "true",
+					"header": "More desert south of Wamsutter, WY",
+					"img": "../img/tourdivide/day21/day21pic0201.JPG",
+					"caption": "Going south there were many trucks building, widening or maintaining the gravel road."
+				},
+				{
+					"active": "false",
+					"header": "Afternoon in the desert",
+					"img": "../img/tourdivide/day21/day21pic032.JPG",
+					"caption": "Heading toward these mountains in Colorado"
+				},
+				{
+					"active": "false",
+					"header": "",
+					"img": "../img/tourdivide/day21/day21pic0204.JPG",
+					"caption": "another fence"
+				},
+				{
+					"active": "false",
+					"header": "Savery, WY - 5 miles to the Colorado border",
+					"img": "../img/tourdivide/day21/day21pic04.JPG",
+					"caption": "The museum basement had various items in the fridge.  I had a couple yogurts and at least 4 cheese sticks to go with 2 cans of Coke.Their break room was air conditioned so I stayed for a while."
+				},
+				{
+					"active": "false",
+					"header": "Lots of ups and down on the way to Brush Mountain Lodge.",
+					"img": "../img/tourdivide/day21/day21pic06.JPG",
+					"caption": "Entering Colorado - destination is 12 miles up Slater Creek"
+				},
+				{
+					"active": "false",
+					"header": "Along Slater Creek ",
+					"img": "../img/tourdivide/day21/day21pic07.JPG",
+					"caption": "It was hard to get a sense of how bad this was going to be."
+				},
+				{
+					"active": "false",
+					"header": "",
+					"img": "../img/tourdivide/day21/day21pic10.JPG",
+					"caption": "The ride up to Brush Mountain Lodge was slow and painful but it was a ride and not a walk"
+				},
+				{
+					"active": "false",
+					"header": "Brush Mountain Lodge",
+					"img": "../img/tourdivide/day21/day21pic12.JPG",
+					"caption": "Before I could sit down I had been offered Lemonade and Cheeseburgers for my belly and ice for my knees."
+				},
+				{
+					"active": "false",
+					"header": "Happy Birthday Jim",
+					"img": "../img/tourdivide/day22/day22pic0202.JPG",
+					"caption": ""
+				}
+			]
+		},
+		{
+			"id": "carousel22",
+			"component": "Carousel22",
+			"slides": [
+				{
+					"active": "true",
+					"header": "Leaving Brush Moutain and continuing up Slater Creek",
+					"img": "../img/tourdivide/day22/day22-09-1602.JPG",
+					"caption": ""
+				},
+				{
+					"active": "false",
+					"header": "It was a beautiful morning and only 50+ miles to Steamboat Springs",
+					"img": "../img/tourdivide/day22/day22-09-1601.JPG",
+					"caption": ""
+				},
+				{
+					"active": "false",
+					"header": "Aspen Alley",
+					"img": "../img/tourdivide/day22/day22pic05.JPG",
+					"caption": ""
+				},
+				{
+					"active": "false",
+					"header": "Still climbing",
+					"img": "../img/tourdivide/day22/day22pic06.JPG",
+					"caption": ""
+				},
+				{
+					"active": "false",
+					"header": "Late in the morning",
+					"img": "../img/tourdivide/day22/day2209-2904.JPG",
+					"caption": ""
+				},
+				{
+					"active": "false",
+					"header": "Lunch stop",
+					"img": "../img/tourdivide/day22/day22ClarkStore.jpg",
+					"caption": "Downhill from here to Steamboat"
+				}
+			]
+		},
+		{
+			"id": "carousel23",
+			"component": "Carousel23",
+			"slides": [
+				{
+					"active": "true",
+					"header": "",
+					"img": "../img/tourdivide/day23/day23pic0102.JPG",
+					"caption": "The first 20 miles out of Steamboat was developed with homes and ranches all around."
+				},
+				{
+					"active": "false",
+					"header": "",
+					"img": "../img/tourdivide/day23/day23pic02.JPG",
+					"caption": "Road leading to Yampo River Dam. I was supposed to ride across the top of it."
+				},
+				{
+					"active": "false",
+					"header": "toward Lynx Pass",
+					"img": "../img/tourdivide/day23/day23pic12-45iphone.JPG",
+					"caption": "This was a long climb which put my goal of reaching Dillon in doubt"
+				},
+				{
+					"active": "false",
+					"header": "Finally on top of Lynx Pass",
+					"img": "../img/tourdivide/day23/day23pic11-10.JPG",
+					"caption": "Top surprised me - I thought I had a few more miles to go"
+				},
+				{
+					"active": "false",
+					"header": "Gore Pass",
+					"img": "../img/tourdivide/day23/day23pic0303.JPG",
+					"caption": "After struggling on Lynx I chose Gore Pass instead of through Radium, an old uranium mine."
+				},
+				{
+					"active": "false",
+					"header": "After Gore Pass the 14,000 ft mountains came into view",
+					"img": "../img/tourdivide/day23/day23pic15-2401.JPG",
+					"caption": "It was about three miles to the pass and then a wonderful 16 mile coast down to US Hwy 40."
+				},
+				{
+					"active": "false",
+					"header": "36 miles to Silverthorn - starting at 3pm",
+					"img": "../img/tourdivide/day23/day23pic16-2303.jpg",
+					"caption": "This was torture - gradually up along the Green Mountain Reservoir"
+				},
+				{
+					"active": "false",
+					"header": "End of a 100 mile day",
+					"img": "../img/tourdivide/day23/day23pic00.JPG",
+					"caption": "With less than 15 miles to go I was able to convince myself I could probably walk the last few miles."
+				}
+			]
+		},
+		{
+			"id": "carousel24",
+			"component": "Carousel24",
+			"slides": [
+				{
+					"active": "true",
+					"header": "Lake Dillon",
+					"img": "../img/tourdivide/day24/day24pic0101.jpg",
+					"caption": "Starting the day at the Dillon Lake by my hotel"
+				},
+				{
+					"active": "false",
+					"header": "Looking down on Breckenridge",
+					"img": "../img/tourdivide/day24/day24pic0103.JPG",
+					"caption": "The lakes were full"
+				},
+				{
+					"active": "false",
+					"header": "Boreas Pass Road",
+					"img": "../img/tourdivide/day24/day24pic0202.JPG",
+					"caption": "9 mile climb.    Looking like rain."
+				},
+				{
+					"active": "false",
+					"header": "Boreas Pass - 11,482ft",
+					"img": "../img/tourdivide/day24/day24pic0301.JPG",
+					"caption": "Highest pass I traveled through"
+				},
+				{
+					"active": "false",
+					"header": "Boreas Pass - 11,482ft",
+					"img": "../img/tourdivide/day24/day24pic0302.JPG",
+					"caption": "Railroad car to show that there used to be a railroad thru here."
+				},
+				{
+					"active": "false",
+					"header": "The south side of Boreas Pass",
+					"img": "../img/tourdivide/day24/day24pic0502.JPG",
+					"caption": "From here on it would rain almost every afternoon"
+				},
+				{
+					"active": "false",
+					"header": "from Como to Hartsel a 10 mile stretch of washboard",
+					"img": "../img/tourdivide/day24/day24pic08.JPG",
+					"caption": "There were rain clouds all around but the rain held off until I reach the Highline Cafe & Saloon in Hartsel."
+				},
+				{
+					"active": "false",
+					"header": "",
+					"img": "../img/tourdivide/day24/day24pic10.JPG",
+					"caption": "Rainbow over bustling downtown of Hartsel, CO."
+				}
+			]
+		},
+		{
+			"id": "carousel25",
+			"component": "Carousel25",
+			"slides": [
+				{
+					"active": "true",
+					"header": "Sunset on my home for the previous night",
+					"img": "../img/tourdivide/day24/day24pic11.JPG",
+					"caption": "The town gazebo - safe and sound"
+				},
+				{
+					"active": "false",
+					"header": "Sunrise in Hartsel",
+					"img": "../img/tourdivide/day25/day25pic01.JPG",
+					"caption": ""
+				},
+				{
+					"active": "false",
+					"header": "Just about a traffic jam of bikes",
+					"img": "../img/tourdivide/day25/day25pic03.JPG",
+					"caption": "People coming and going all different ways from Florida to Alaska"
+				},
+				{
+					"active": "false",
+					"header": "",
+					"img": "../img/tourdivide/day25/day25pic0502.JPG",
+					"caption": "I think Ive been down this road before."
+				},
+				{
+					"active": "false",
+					"header": "Trucks where they shouldn\"t be - Boots, jacket but no driver",
+					"img": "../img/tourdivide/day25/day25pic0603.JPG",
+					"caption": "Somehow this truck was gone a few hours later.  The mud was not"
+				},
+				{
+					"active": "false",
+					"header": "From outside Salina ",
+					"img": "../img/tourdivide/day25/day25pic00.JPG",
+					"caption": "Dropping almost 3,000 ft over 12 miles."
+				}
+			]
+		},
+		{
+			"id": "carousel26",
+			"component": "Carousel26",
+			"slides": [
+				{
+					"active": "true",
+					"header": "Repairs were needed before our big climb",
+					"img": "../img/tourdivide/day26/day26pic01.jpg",
+					"caption": "Poncha Springs Post Office was our repair stop"
+				},
+				{
+					"active": "false",
+					"header": "",
+					"img": "../img/tourdivide/day26/day26pic02.jpg",
+					"caption": "Stopping for repairs after just getting started"
+				},
+				{
+					"active": "false",
+					"header": "Once off the main road it looked like it would be a beautiful day",
+					"img": "../img/tourdivide/day26/day26pic03.jpg",
+					"caption": ""
+				},
+				{
+					"active": "false",
+					"header": "27 miles - 4,000 ft",
+					"img": "../img/tourdivide/day26/day26pic04.JPG",
+					"caption": "We got this"
+				},
+				{
+					"active": "false",
+					"header": "On top of Marshall Pass",
+					"img": "../img/tourdivide/day26/day26pic09.jpg",
+					"caption": ""
+				},
+				{
+					"active": "false",
+					"header": "On top of Marshall Pass  - Rob, Andrew and Jim",
+					"img": "../img/tourdivide/day26/day26pic08.jpg",
+					"caption": ""
+				},
+				{
+					"active": "false",
+					"header": "Home for an afternoon nap",
+					"img": "../img/tourdivide/day26/day26pic11.JPG",
+					"caption": "Colorado Trail - Is this a shortcut?"
+				},
+				{
+					"active": "false",
+					"header": "Home for the night - A leaky tepee",
+					"img": "../img/tourdivide/day26/day26pic12.JPG",
+					"caption": "Room for three people and bikes."
+				}
+			]
+		},
+		{
+			"id": "carousel27",
+			"component": "Carousel27",
+			"slides": [
+				{
+					"active": "true",
+					"header": "Leaving the Teepee on an overcast day",
+					"img": "../img/tourdivide/day27/day27pic02.JPG",
+					"caption": "The initial 13 miles on US50 to Doyleville where I turned south onto gravel roads."
+				},
+				{
+					"active": "false",
+					"header": "20 miles of gravel",
+					"img": "../img/tourdivide/day27/day27pic03.JPG",
+					"caption": "Some long slow climbs in this section of gravel prior to getting back onto CO 114."
+				},
+				{
+					"active": "false",
+					"header": "From Doyleville (8,100 ft) to North Cochetopa (10,135)",
+					"img": "../img/tourdivide/day27/day27pic06.JPG",
+					"caption": "I reached the pass about noon and rejoined the TD route at the low point before heading up to Carnero Pass."
+				},
+				{
+					"active": "false",
+					"header": "Lighting and Thunder on way to Carero Pass",
+					"img": "../img/tourdivide/day27/day27pic08.JPG",
+					"caption": "The pass was 12 miles out and there was rain all around."
+				},
+				{
+					"active": "false",
+					"header": "A little rain 3 miles from the top",
+					"img": "../img/tourdivide/day27/day27pic10.JPG",
+					"caption": ""
+				},
+				{
+					"active": "false",
+					"header": "Second 10,000 foot pass of the day.",
+					"img": "../img/tourdivide/day27/day27pic13.JPG",
+					"caption": "Trail magic just before the top gave me some water and returned my headlamp"
+				},
+				{
+					"active": "false",
+					"header": "Some great canyons and hodos on the way down.",
+					"img": "../img/tourdivide/day27/day27pic17.JPG",
+					"caption": "Each time I stopped the rain would come in behind me and I would ride as fast as I could to get out in front of it."
+				},
+				{
+					"active": "false",
+					"header": "Literally blown into town",
+					"img": "../img/tourdivide/day27/day27pic19.JPG",
+					"caption": "As I approached Del Norte the sun broke through the clouds in a couple spots."
+				}
+			]
+		},
+		{
+			"id": "carousel28",
+			"component": "Carousel28",
+			"slides": [
+				{
+					"active": "true",
+					"header": "Woke up to rain",
+					"img": "../img/tourdivide/day28/day28pic00.JPG",
+					"caption": "I went to the Amish bakery and bought a cinnamon bun and headed out to do my laundry."
+				},
+				{
+					"active": "false",
+					"header": "Two nights at the Windsor Hotel",
+					"img": "../img/tourdivide/day28/day28pic01.jpg",
+					"caption": "I had a delicious meal (Wild Boar) and fantastic desert to celebrate my day off."
+				},
+				{
+					"active": "false",
+					"header": "",
+					"img": "../img/tourdivide/day28/day28pic02.JPG",
+					"caption": "I spent the afternoon plotting my course in and around the remainder of the tour divide.  I was trying to avoid the afternoon rain and wind."
+				},
+				{
+					"active": "false",
+					"header": "",
+					"img": "../img/tourdivide/day28/day28pic04.JPG",
+					"caption": "An afternoon snack of Strawberry Rubarb pie from The Columbine."
+				}
+			]
+		}
+	],
+	"HeaderData": [
+		{
+			"ahref": "tourdivide15.html",
+			"h2posttitle": "Day 15 - Wide open spaces",
+			"h3postsubtitle": "Leaving Montana (finally)",
+			"ppostmetadate": "Tuesday, June 23, 2015 Lima to Macks Inn",
+			"h4summ": "7:23am, 14h 15mm, 89 miles, 2,566 ft of climbing"
+		},
+		{
+			"ahref": "tourdivide16.html",
+			"h2posttitle": "Day 16 - Scenic Byway and some assistance",
+			"h3postsubtitle": "Past Mesa Falls towards the Tetons",
+			"ppostmetadate": "Wednesday, June 24, 2015 Island Park to Flagg Ranch, WY",
+			"h4summ": "8:14 AM 81.1mi 3,374ft"
+		},
+		{
+			"ahref": "tourdivide17.html",
+			"h2posttitle": "Day 17 - Grand Teton NP in AM, Togwotee in PM",
+			"h3postsubtitle": "Lost tourists and finding hidden lakes",
+			"ppostmetadate": "Thursday, June 25, 2015 Flagg Ranch to Lava Mountain Lodge, WY",
+			"h4summ": "08:14 AM, 61.8mi, 4,042ft of climbing"
+		},
+		{
+			"ahref": "tourdivide18.html",
+			"h2posttitle": "Day 18 - Union Pass only better",
+			"h3postsubtitle": "The Devils Hole Trail and riding the divide",
+			"ppostmetadate": "Friday, June 26, 2015 Lava Mountain Lodge to Pinedale, WY",
+			"h4summ": "6:24 AM 82.6mi 4,157ft of climbing"
+		},
+		{
+			"ahref": "tourdivide19.html",
+			"h2posttitle": "Day 19 - Wyoming - after the mountains",
+			"h3postsubtitle": "A long, hot day in the desert",
+			"ppostmetadate": "Saturday, June 27, 2015  Pinedale to Atlantic City, WY",
+			"h4summ": "07:52 AM, 87.7mi, 3,560ft of climbing"
+		},
+		{
+			"ahref": "tourdivide20.html",
+			"h2posttitle": "Day 20 - Another long day in Wyomings Great Basin",
+			"h3postsubtitle": "Water supply and disappearing jeep trails",
+			"ppostmetadate": "Sunday, June 28, 2015 Atlantic City to Wamsutter, WY",
+			"h4summ": "07:15 AM, 97.9mi, 2,712ft of climbing"
+		},
+		{
+			"ahref": "tourdivide21.html",
+			"h2posttitle": "Day 21 - Brush Mountain Lodge",
+			"h3postsubtitle": "My birthday in a slice of heaven",
+			"ppostmetadate": "Monday, June 29, 2015 - Wamsutter, WY to Brush Mtn Lodge, CO",
+			"h4summ": "7:06 AM 81.9mi 3,928ft of climbing"
+		},
+		{
+			"ahref": "tourdivide22.html",
+			"h2posttitle": "Day 22 - Colorado Mountains",
+			"h3postsubtitle": "Long steady climbs and descents",
+			"ppostmetadate": "Tuesday, June 30, 2015 Brush Mountain Lodge to Steamboat Springs, CO",
+			"h4summ": "07:55 AM, 50.5mi, 3,220ft of climbing"
+		},
+		{
+			"ahref": "tourdivide23.html",
+			"h2posttitle": "Day 23 - A long day out on the road",
+			"h3postsubtitle": "A giant coast into Kremmling and mind games",
+			"ppostmetadate": "Wednesday, July 1, 2015 Steamboat Springs to Dillon, CO",
+			"h4summ": "06:55 AM, 108.7mi, 6,441ft of climbing"
+		},
+		{
+			"ahref": "tourdivide24.html",
+			"h2posttitle": "Day 24 - Dillon Reservoir, Breckenridge and Boreas Pass",
+			"h3postsubtitle": "Highest pass on my tour",
+			"ppostmetadate": "Thursday, July 2, 2015  Dillon to Hartsel, CO",
+			"h4summ": "7:00 AM 68.0mi  3,507ft of climbing"
+		},
+		{
+			"ahref": "tourdivide25.html",
+			"h2posttitle": "Day 25 - July weather",
+			"h3postsubtitle": "More afternoon rains and washboard roads",
+			"ppostmetadate": "Friday, July 3, 2015 Hartsel to Salida, CO",
+			"h4summ": "7:51 AM 48.4mi 2,300ft of climbing"
+		},
+		{
+			"ahref": "tourdivide26.html",
+			"h2posttitle": "Day 26 - Marshall Pass and the Colorado Trail",
+			"h3postsubtitle": "Tepees, Rain and the 4th of July",
+			"ppostmetadate": "Saturday, July 4, 2015 Salida to Sargents, CO",
+			"h4summ": "07:30 AM, 46.4mi, 4,382ft of climbing"
+		},
+		{
+			"ahref": "tourdivide27.html",
+			"h2posttitle": "Day 27 - Lighting and Thunder in the afternoon",
+			"h3postsubtitle": "Two passes and outrunning the rain",
+			"ppostmetadate": "Sunday, July 5, 2015 Sargents to Del Norte, CO",
+			"h4summ": "07:49 AM, 101.0mi, 5,182ft of climbing"
+		},
+		{
+			"ahref": "tourdivide28.html",
+			"h2posttitle": "Day 28 - Getting some rest and plotting my course",
+			"h3postsubtitle": "The Library, Amish Cinnamon Rolls and Wild Boar",
+			"ppostmetadate": "Monday, July 6, 2015 Del Norte",
+			"h4summ": "Sleeping in at the Windsor Hotel - zero ft of climbing"
+		}
+	],
+	"haPages": [
+		{
+			"TripId": "Day01",
+			"id": "td01",
+			"pageLink": "tourdivide01.html",
+			"pageTitle": "Day 1 - Leaving Banff was the easy part.",
+			"h3SubTitle": "Those hills didn't look so steep in the pictures",
+			"pPostMeta": "Tuesday, June 9, 2015 Banff, Alberta, Canada to Bolton Trading Post",
+			"h4DateStats": "9:59AM, 6h48m, 62.4 miles, 4,814 ft of climbing",
+			"tripThumb": "../img/tourdivide/tdThumbs/day01pic02.jpg"
+		},
+		{
+			"TripId": "Day02",
+			"id": "td02",
+			"pageLink": "tourdivide02.html",
+			"pageTitle": "Day 2 - Tires and Helmets",
+			"h3SubTitle": "First Divide pass and a shaky set of tires",
+			"pPostMeta": "Wednesday, June 10, 2015 Bolton Trading Post to Elkford, BC",
+			"h4DateStats": "7:10am, 9h48m, 52.3 miles, 2,490 ft of climbing",
+			"tripThumb": "../img/tourdivide/tdThumbs/day02pic02.jpg"
+		},
+		{
+			"TripId": "Day03",
+			"id": "td03",
+			"pageLink": "tourdivide03.html",
+			"pageTitle": "Day 3 - Fixing the Bike and shedding gear",
+			"h3SubTitle": "Another short ride and then some maintenance",
+			"pPostMeta": "Thursday, June 11, 2015 Elkford to Sparwood",
+			"h4DateStats": "7:16am, 3h30m, 30.7 miles, 1,562 ft of climbing",
+			"tripThumb": "../img/tourdivide/tdThumbs/day03pic00v2.jpg"
+		},
+		{
+			"TripId": "Day04",
+			"id": "td04",
+			"pageLink": "tourdivide04.html",
+			"pageTitle": "Day 04 - Stream or Trail??",
+			"h3SubTitle": "Two passes then ...shooting guns and blowing stuff up",
+			"pPostMeta": "Friday, June 12, 2015 Sparwood to part way up Cabin Pass",
+			"h4DateStats": "7:02am, 7h56m, 72.8 miles, 4,557 ft of climbing",
+			"tripThumb": "../img/tourdivide/tdThumbs/day04pic00.JPG"
+		},
+		{
+			"TripId": "Day05",
+			"id": "td05",
+			"pageLink": "tourdivide05.html",
+			"pageTitle": "Day 5 - Cabin Pass, The Wall (WTF) and Galton Pass",
+			"h3SubTitle": "Last day in Canada and it's a good one",
+			"pPostMeta": "Saturday, June 13, 2015 Cabin Pass to Eureka, MT, USA",
+			"h4DateStats": "7:39am, 7h40m, 59.8 miles, 4,548 ft of climbing",
+			"tripThumb": "../img/tourdivide/tdThumbs/day05pic00.JPG"
+		},
+		{
+			"TripId": "Day06",
+			"id": "td06",
+			"pageLink": "tourdivide06.html",
+			"pageTitle": "Day 6 - Whitefish Pass and Red Meadow Lake",
+			"h3SubTitle": "Now I know why you don't use tubes",
+			"pPostMeta": "Sunday, June 14, 2015 Eureka to Whitefish Lake, MT",
+			"h4DateStats": "5:57am, 10h3m, 94.7 miles, 5,833 ft of climbing",
+			"tripThumb": "../img/tourdivide/tdThumbs/day06pic00.JPG"
+		},
+		{
+			"TripId": "Day07",
+			"id": "td07",
+			"pageLink": "tourdivide07.html",
+			"pageTitle": "Day 07 - Flat 40 miles to nice B&B",
+			"h3SubTitle": "A partial rest, laundry and an easy 47 including an extra 4",
+			"pPostMeta": "Monday, June 15, 2015 Whitefish to Ferndale, MT",
+			"h4DateStats": "11:38am, 3h55m, 47.3 miles, 986 ft of climbing",
+			"tripThumb": "../img/tourdivide/tdThumbs/day07pic00.JPG"
+		},
+		{
+			"TripId": "Day08",
+			"id": "td08",
+			"pageLink": "tourdivide08.html",
+			"pageTitle": "Day 08 - Grizzly Country and climbs just for fun",
+			"h3SubTitle": "Tough climbs, a nice ride until washboard - great setting at the end",
+			"pPostMeta": "Tuesday, June 16, 2015 Ferndale to Holland Lake, MT",
+			"h4DateStats": "left at 8:39am, 8h24m, 71.8 miles, 5,697 ft of climbing",
+			"tripThumb": "../img/tourdivide/tdThumbs/day08pic00.JPG"
+		},
+		{
+			"TripId": "Day09",
+			"id": "td09",
+			"pageLink": "tourdivide09.html",
+			"pageTitle": "Day 9 - Richmond Peak & Ovando",
+			"h3SubTitle": "Circling Richmond Peak and a huge save",
+			"pPostMeta": "Wednesday, June 17, 2015 Holland Lake to Ovando, MT",
+			"h4DateStats": "8:45 AM, 8h49m, 60.34 miles, 5,574 ft of climbing",
+			"tripThumb": "../img/tourdivide/tdThumbs/day09pic00.JPG"
+		},
+		{
+			"TripId": "Day10",
+			"id": "td10",
+			"pageLink": "tourdivide10.html",
+			"pageTitle": "Day 10 - 4 peaks = 10K climbing",
+			"h3SubTitle": "Walk the last pass - camp when it gets dark",
+			"pPostMeta": "Thursday, June 18, 2015 Ovando to Priest Pass, MT",
+			"h4DateStats": "6:55 AM, 15h10m, 86.70 miles, 8,000 ft of climbing",
+			"tripThumb": "../img/tourdivide/tdThumbs/day10pic00.jpg"
+		},
+		{
+			"TripId": "Day11",
+			"id": "td11",
+			"pageLink": "tourdivide11.html",
+			"pageTitle": "Day 11 - Helena - Rest day on N. Davis St",
+			"h3SubTitle": "Trail magic, great breakfast, like new tires and a derailleur-hanger",
+			"pPostMeta": "Friday, June 19, 2015 Priest Pass to Helena, MT",
+			"h4DateStats": "5:57am, 1h 6m, 15.9 miles, 262 ft of climbing",
+			"tripThumb": "../img/tourdivide/tdThumbs/day11pic02.JPG"
+		},
+		{
+			"TripId": "Day12",
+			"id": "td12",
+			"pageLink": "tourdivide12.html",
+			"pageTitle": "Day 12 - Rocks, Roots and Missed Buses",
+			"h3SubTitle": "Paying for wrong turns",
+			"pPostMeta": "Saturday, June 20, 2015 Helena to Butte, MT",
+			"h4DateStats": "6:56 AM 13h 54m 80.0mi 7,970ft of climbing",
+			"tripThumb": "../img/tourdivide/tdThumbs/day12pic07.jpg"
+		},
+		{
+			"TripId": "Day13",
+			"id": "td13",
+			"pageLink": "tourdivide13.html",
+			"pageTitle": "Day 13 - Rerouting to Jim's Tour Divide",
+			"h3SubTitle": "Chocolate Milk at Great Divide Outfitters",
+			"pPostMeta": "Sunday, June 21, 2015 Butte to Wise River",
+			"h4DateStats": "8:45 AM, 8h 57m, 50.60 miles, 2,960 ft of climbing",
+			"tripThumb": "../img/tourdivide/tdThumbs/day13pic02.JPG"
+		},
+		{
+			"TripId": "Day14",
+			"id": "td14",
+			"pageLink": "tourdivide14.html",
+			"pageTitle": "Day 14 - Stretching it out and covering ground",
+			"h3SubTitle": "What about this road by the reservoir?",
+			"pPostMeta": "Monday, June 22, 2015 Wise River to Lima",
+			"h4DateStats": "6:23am, 11h 21m, 105 miles, 4,188 ft of climbing",
+			"tripThumb": "../img/tourdivide/tdThumbs/day14pic00.jpg"
+		},
+		{
+			"TripId": "Day15",
+			"id": "td15",
+			"pageLink": "tourdivide15.html",
+			"pageTitle": "Day 15 - Wide open spaces",
+			"h3SubTitle": "Leaving Montana (finally)",
+			"pPostMeta": "Tuesday, June 23, 2015 Lima to Mack's Inn",
+			"h4DateStats": "7:23am, 14h 15mm, 89 miles, 2,566 ft of climbing",
+			"tripThumb": "../img/tourdivide/tdThumbs/day15pic00.JPG"
+		},
+		{
+			"TripId": "Day16",
+			"id": "td16",
+			"pageLink": "tourdivide16.html",
+			"pageTitle": "Day 16 - Scenic Byway and some assistance",
+			"h3SubTitle": "Past Mesa Falls towards the Tetons",
+			"pPostMeta": "Wednesday, June 24, 2015 Island Park to Flagg Ranch, WY",
+			"h4DateStats": "8:14 AM 81.1mi 3,374ft",
+			"tripThumb": "../img/tourdivide/tdThumbs/day16pic00.JPG"
+		},
+		{
+			"TripId": "Day17",
+			"id": "td17",
+			"pageLink": "tourdivide17.html",
+			"pageTitle": "Day 17 - Grand Teton NP in AM, Togwotee in PM",
+			"h3SubTitle": "Lost tourists and finding hidden lakes",
+			"pPostMeta": "Thursday, June 25, 2015 Flagg Ranch to Lava Mountain Lodge, WY",
+			"h4DateStats": "08:14 AM, 61.8mi, 4,042ft of climbing",
+			"tripThumb": "../img/tourdivide/tdThumbs/day17pic00.jpg"
+		},
+		{
+			"TripId": "Day18",
+			"id": "td18",
+			"pageLink": "tourdivide18.html",
+			"pageTitle": "Day 18 - Union Pass only better",
+			"h3SubTitle": "The Devil's Hole Trail and riding the divide",
+			"pPostMeta": "Friday, June 26, 2015 Lava Mountain Lodge to Pinedale, WY",
+			"h4DateStats": "6:24 AM 82.6mi 4,157ft of climbing",
+			"tripThumb": "../img/tourdivide/tdThumbs/day18pic00.JPG"
+		},
+		{
+			"TripId": "Day19",
+			"id": "td19",
+			"pageLink": "tourdivide19.html",
+			"pageTitle": "Day 19 - Wyoming - after the mountains",
+			"h3SubTitle": "A long, hot day in the desert",
+			"pPostMeta": "Saturday, June 27, 2015 Pinedale to Atlantic City, WY",
+			"h4DateStats": "07:52 AM, 87.7mi, 3,560ft of climbing",
+			"tripThumb": "../img/tourdivide/tdThumbs/day19pic05d.JPG"
+		},
+		{
+			"TripId": "Day20",
+			"id": "td20",
+			"pageLink": "tourdivide20.html",
+			"pageTitle": "Day 20 - Another long day in Wyoming's Great Basin",
+			"h3SubTitle": "Water supply and disappearing jeep trails",
+			"pPostMeta": "Sunday, June 28, 2015 Atlantic City to Wamsutter, WY",
+			"h4DateStats": "07:15 AM, 97.9mi, 2,712ft of climbing",
+			"tripThumb": "../img/tourdivide/tdThumbs/day20pic00.JPG"
+		},
+		{
+			"TripId": "Day21",
+			"id": "td21",
+			"pageLink": "tourdivide21.html",
+			"pageTitle": "Day 21 - Brush Mountain Lodge",
+			"h3SubTitle": "My birthday in a slice of heaven",
+			"pPostMeta": "Monday, June 29, 2015 - Wamsutter, WY to Brush Mtn Lodge, CO",
+			"h4DateStats": "7:06 AM 81.9mi 3,928ft of climbing",
+			"tripThumb": "../img/tourdivide/tdThumbs/day21pic10.JPG"
+		},
+		{
+			"TripId": "Day22",
+			"id": "td22",
+			"pageLink": "tourdivide22.html",
+			"pageTitle": "Day 22 - Colorado Mountains",
+			"h3SubTitle": "Long steady climbs and descents",
+			"pPostMeta": "Tuesday, June 30, 2015 Brush Mountain Lodge to Steamboat Springs, CO",
+			"h4DateStats": "07:55 AM, 50.5mi, 3,220ft of climbing",
+			"tripThumb": "../img/tourdivide/tdThumbs/day22pic00.JPG"
+		},
+		{
+			"TripId": "Day23",
+			"id": "td23",
+			"pageLink": "tourdivide23.html",
+			"pageTitle": "Day 23 - A long day out on the road",
+			"h3SubTitle": "A giant coast into Kremmling and mind games",
+			"pPostMeta": "Wednesday, July 1, 2015 Steamboat Springs to Dillon, CO",
+			"h4DateStats": "06:55 AM, 108.7mi, 6,441ft of climbing",
+			"tripThumb": "../img/tourdivide/tdThumbs/day23pic00.JPG"
+		},
+		{
+			"TripId": "Day24",
+			"id": "td24",
+			"pageLink": "tourdivide24.html",
+			"pageTitle": "Day 24 - Dillon Reservoir, Breckenridge and Boreas Pass",
+			"h3SubTitle": "Highest pass on my tour",
+			"pPostMeta": "Thursday, July 2, 2015 Dillon to Hartsel, CO</p",
+			"h4DateStats": "7:00 AM 68.0mi 3,507ft of climbing",
+			"tripThumb": "../img/tourdivide/tdThumbs/day24pic0401.JPG"
+		},
+		{
+			"TripId": "Day25",
+			"id": "td25",
+			"pageLink": "tourdivide25.html",
+			"pageTitle": "Day 25 - July weather",
+			"h3SubTitle": "More afternoon rains and washboard roads",
+			"pPostMeta": "Friday, July 3, 2015 Hartsel to Salida, CO",
+			"h4DateStats": "7:51 AM 48.4mi 2,300ft of climbing",
+			"tripThumb": "../img/tourdivide/tdThumbs/day25pic01.JPG"
+		},
+		{
+			"TripId": "Day26",
+			"id": "td26",
+			"pageLink": "tourdivide26.html",
+			"pageTitle": "Day 26 - Marshall Pass and the Colorado Trail",
+			"h3SubTitle": "Teepees, Rain and the 4th of July",
+			"pPostMeta": "Saturday, July 4, 2015 Salida to Sargents, CO",
+			"h4DateStats": "07:30 AM, 46.4mi, 4,382ft of climbing",
+			"tripThumb": "../img/tourdivide/tdThumbs/day26pic00.JPG"
+		},
+		{
+			"TripId": "Day27",
+			"id": "td27",
+			"pageLink": "tourdivide27.html",
+			"pageTitle": "Day 27 - Lighting and Thunder in the afternoon",
+			"h3SubTitle": "Two passes and outrunning the rain",
+			"pPostMeta": "Sunday, July 5, 2015 Sargents to Del Norte, CO",
+			"h4DateStats": "07:49 AM, 101.0mi, 5,182ft of climbing",
+			"tripThumb": "../img/tourdivide/tdThumbs/day27pic02.JPG"
+		},
+		{
+			"TripId": "Day28",
+			"id": "td28",
+			"pageLink": "tourdivide28.html",
+			"pageTitle": "Day 28 - Getting some rest and plotting my course",
+			"h3SubTitle": "The Library, Amish Cinnamon Rolls and Wild Boar",
+			"pPostMeta": "Monday, July 6, 2015 Del Norte",
+			"h4DateStats": "Sleeping in at the Windsor Hotel - zero ft of climbing",
+			"tripThumb": "../img/tourdivide/tdThumbs/day28pic00.JPG"
+		},
+		{
+			"TripId": "Day29",
+			"id": "td29",
+			"pageLink": "tourdivide29.html",
+			"pageTitle": "Day 29 - A tough call to avoid thunderstorms",
+			"h3SubTitle": "Riding in the rain",
+			"pPostMeta": "Tuesday, July 7, 2015 DelNorte to Antonito, CO",
+			"h4DateStats": "7:03am, 67.4 miles, 1,887ft of climbing",
+			"tripThumb": "../img/tourdivide/tdThumbs/day29pic11.JPG"
+		},
+		{
+			"TripId": "Day30",
+			"id": "td30",
+			"pageLink": "tourdivide30.html",
+			"pageTitle": "Day 30 - Entering the final state",
+			"h3SubTitle": "Dum spelled backward",
+			"pPostMeta": "Wednesday, July 8, 2015 Antonito, CO to Abiquiu, NM",
+			"h4DateStats": "06:58 AM, 87.1mi, 1,887ft",
+			"tripThumb": "../img/tourdivide/tdThumbs/day30pic12.JPG"
+		},
+		{
+			"TripId": "Day31",
+			"id": "td31",
+			"pageLink": "tourdivide31.html",
+			"pageTitle": "Day 31 - Abiquiu Reservoir and more desert",
+			"h3SubTitle": "On the Road. Avoiding the mud.",
+			"pPostMeta": "Thursday, July 9, 2015 Abiquiu to Cuba",
+			"h4DateStats": "06:50 AM, 61.4mi, 3,804ft",
+			"tripThumb": "../img/tourdivide/tdThumbs/day31pic06.JPG"
+		},
+		{
+			"TripId": "Day32",
+			"id": "td32",
+			"pageLink": "tourdivide32.html",
+			"pageTitle": "Day 32 - Long day with an assist",
+			"h3SubTitle": "Rain, wind and desert",
+			"pPostMeta": "Friday, July 10, 2015 Cuba to Grants, NM",
+			"h4DateStats": "05:53 AM, 121.8mi, 3,670ft",
+			"tripThumb": "../img/tourdivide/tdThumbs/day32pic02.JPG"
+		},
+		{
+			"TripId": "Day33",
+			"id": "td33",
+			"pageLink": "tourdivide33.html",
+			"pageTitle": "Day 33 - El Malpais National Monument",
+			"h3SubTitle": "Morning riding and snakes on the bed",
+			"pPostMeta": "Saturday, July 11, 2015 Grants to Quemado, NM",
+			"h4DateStats": "06:06 AM, 85.6mi, 2,083ft",
+			"tripThumb": "../img/tourdivide/tdThumbs/day33pic00.jpg"
+		},
+		{
+			"TripId": "Day34",
+			"id": "td34",
+			"pageLink": "tourdivide34.html",
+			"pageTitle": "Day 34 - The Afternoon Wind Switch",
+			"h3SubTitle": "Apache Creek, Reserve and an extra 30 miles",
+			"pPostMeta": "Sunday, July 12, 2015 Quemado to Glenwood, NM",
+			"h4DateStats": "05:42 AM, 90.3mi, 3,360ft",
+			"tripThumb": "../img/tourdivide/tdThumbs/day34pic07.JPG"
+		},
+		{
+			"TripId": "Day35",
+			"id": "td35",
+			"pageLink": "tourdivide35.html",
+			"pageTitle": "Day 35 - On to Silver City",
+			"h3SubTitle": "The last divide crossing, really",
+			"pPostMeta": "Monday, July 13, 2015 Glenwood to Silver City, NM",
+			"h4DateStats": "6:08 AM, 63.8mi, 3,625ft",
+			"tripThumb": "../img/tourdivide/tdThumbs/day35pic02.JPG"
+		},
+		{
+			"TripId": "Day36",
+			"id": "td36",
+			"pageLink": "tourdivide36.html",
+			"pageTitle": "Day 36 - No more days",
+			"h3SubTitle": "It's all downhill from here",
+			"pPostMeta": "Tuesday, July 14, 2015 Silver City, NM to Palomas, Mexico",
+			"h4DateStats": "6:28 AM, 6h 5m, 87.1mi, 507ft",
+			"tripThumb": "../img/tourdivide/tdThumbs/day36pic08.JPG"
+		}
+	]
+}

@@ -1,0 +1,342 @@
+{
+  "trip": {
+    "nav": "1",
+    "TripId": "201408tetons",
+    "id": "ha-",
+    "backgroundImg": "../img/tetons/20140824GTetons00.jpg",
+    "tripThumb": "../img/index/thumb/.jpg",
+    "pageLink": "adventures/ha_tetons.html",
+    "pageTitle": "Tetons Crest Trail",
+    "pageSubtitle": "==August 22nd to 27th, 2014==",
+    "tripSumm": "",
+    "summ": "",
+    "intro": "--",
+    "introDescr": "",
+    "introPic1": "",
+    "introPic1span": "",
+    "introPic2": "",
+    "introPic2span": "",
+    "videoLink": "",
+    "videoIframe": "",
+    "foot": "1",
+    "footerPic1": "",
+    "footerPic2": "",
+    "footPic1Span": "",
+    "endMap": "",
+    "endmapName": "",
+    "days": [
+    ]
+  },
+  "adventureDay": [
+    {
+      "dayId": "20140822",
+      "h1title": "",
+      "h3": "",
+      "pdate": "",
+      "pdesc": "",
+      "pdescLink1": "",
+      "pdescLinktag1": "",
+      "pdesc2": "",
+      "pdescLink2": "",
+      "pdescLinktag2": "",
+      "pdesc3": "",
+      "pdescLink3": "",
+      "pdescLinktag3": "",
+      "mappic": "",
+      "mappicport": "",
+      "mapspan": "",
+      "pictures": [
+        {
+          "picID": "1",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "2",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "3",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "4",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        }
+      ],
+      "iframe": "",
+      "smugAlbum": "",
+      "smugAlbumName": "",
+      "dayMap": "1NqKktXvPEL7UkQnksBxw_ROYuTqgy8DE",
+      "daymapName": "The Drive Out"
+    },
+    {
+      "dayId": "20220520",
+      "h1title": "",
+      "h3": "",
+      "pdate": "",
+      "pdesc": "",
+      "pdescLink1": "",
+      "pdescLinktag1": "",
+      "pdesc2": "",
+      "pdescLink2": "",
+      "pdescLinktag2": "",
+      "pdesc3": "",
+      "pdescLink3": "",
+      "pdescLinktag3": "",
+      "mappic": "",
+      "mappicport": "",
+      "mapspan": "",
+      "pictures": [
+        {
+          "picID": "1",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "2",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "3",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "4",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        }
+      ],
+      "iframe": "",
+      "smugAlbum": "",
+      "smugAlbumName": "",
+      "dayMap": "13ee2EP_rBpc0cnGekcvnCbIbB6RLCtgn",
+      "daymapName": "Seaside,OR to West Yellowstone,MT"
+    },
+    {
+      "dayId": "2019xxxx",
+      "h1title": "",
+      "h3": "",
+      "pdate": "",
+      "pdesc": "",
+      "pdescLink1": "",
+      "pdescLinktag1": "",
+      "pdesc2": "",
+      "pdescLink2": "",
+      "pdescLinktag2": "",
+      "pdesc3": "",
+      "pdescLink3": "",
+      "pdescLinktag3": "",
+      "mappic": "",
+      "mappicport": "",
+      "mapspan": "",
+      "pictures": [
+        {
+          "picID": "1",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "2",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "3",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "4",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        }
+      ],
+      "iframe": "",
+      "smugAlbum": "",
+      "smugAlbumName": ""
+    },
+    {
+      "dayId": "2019xxxx",
+      "h1title": "",
+      "h3": "",
+      "pdate": "",
+      "pdesc": "",
+      "pdescLink1": "",
+      "pdescLinktag1": "",
+      "pdesc2": "",
+      "pdescLink2": "",
+      "pdescLinktag2": "",
+      "pdesc3": "",
+      "pdescLink3": "",
+      "pdescLinktag3": "",
+      "mappic": "",
+      "mappicport": "",
+      "mapspan": "",
+      "pictures": [
+        {
+          "picID": "1",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "2",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "3",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "4",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        }
+      ],
+      "iframe": "",
+      "smugAlbum": "",
+      "smugAlbumName": ""
+    },
+    {
+      "dayId": "2019xxxx",
+      "h1title": "",
+      "h3": "",
+      "pdate": "",
+      "pdesc": "",
+      "pdescLink1": "",
+      "pdescLinktag1": "",
+      "pdesc2": "",
+      "pdescLink2": "",
+      "pdescLinktag2": "",
+      "pdesc3": "",
+      "pdescLink3": "",
+      "pdescLinktag3": "",
+      "mappic": "",
+      "mappicport": "",
+      "mapspan": "",
+      "pictures": [
+        {
+          "picID": "1",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "2",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "3",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "4",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        }
+      ],
+      "iframe": "",
+      "smugAlbum": "",
+      "smugAlbumName": ""
+    },
+    {
+      "dayId": "2019xxxx",
+      "h1title": "",
+      "h3": "",
+      "pdate": "",
+      "pdesc": "",
+      "pdescLink1": "",
+      "pdescLinktag1": "",
+      "pdesc2": "",
+      "pdescLink2": "",
+      "pdescLinktag2": "",
+      "pdesc3": "",
+      "pdescLink3": "",
+      "pdescLinktag3": "",
+      "mappic": "",
+      "mappicport": "",
+      "mapspan": "",
+      "pictures": [
+        {
+          "picID": "1",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "2",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "3",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "4",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        }
+      ],
+      "iframe": "",
+      "smugAlbum": "",
+      "smugAlbumName": ""
+    }
+  ]
+}

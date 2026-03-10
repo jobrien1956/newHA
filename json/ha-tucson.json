@@ -28,12 +28,12 @@
 			"h3": "Hiking trail behind the hotel.",
 			"pdate": "Sunday/Monday Nov 1 & 2, 2015",
 			"pdesc": "After a morning hike, we started by visiting the area around Sugudo National Park and the Arizona-Sonora Desert Museum.  We started out with a hike behind the hotel but on the way back we took a wrong turn and extended our hike and had to improvise somewhat. The dark blue is our intended route and the light blue is the way we ended up going.",
-			"mappic": "../img/tucson/201511Tucson03.jpg",
+			"mappic": "img/tucson/201511Tucson03.jpg",
 			"mapspan": "Our hike around the hotel",
 			"pictures": [
 				{
 					"picID": "1",
-					"pic": "../img/tucson/201511Tucson01.jpg",
+					"pic": "img/tucson/201511Tucson01.jpg",
 					"piccap": "View from behind the hotel",
 					"pictop": ""
 				},
@@ -54,7 +54,7 @@
 			"h3": "Mount Lemon, Mission San Xavier Del Bac and Sabino Canyon",
 			"pdate": "Tues/Wed Nov 3 & 4, 2015",
 			"pdesc": "",
-			"mappic": "../img/tucson/tucsontripmap.JPG",
+			"mappic": "img/tucson/tucsontripmap.JPG",
 			"mapspan": "",
 			"pictures": [
 				{

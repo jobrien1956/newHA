@@ -3,18 +3,18 @@
 		"nav": "1",
 		"TripId": "197907xctry",
 		"id": "ha-xctry79",
-		"backgroundImg": "img/index/197907xctry.jpg",
-		"tripThumb": "img/index/thumb/197907xctry.jpg",
+		"backgroundImg": "../img/index/197907xctry.jpg",
+		"tripThumb": "../img/index/thumb/197907xctry.jpg",
 		"pageLink": "adventures/ha_future.html",
 		"pageTitle": "Jun 1979 - My first big adventure",
 		"pageSubtitle": "Six weeks - 10,000mi",
 		"summ": "NJ,PA,OH,IN,IL,IA,NB,CO,UT,AZ,NV,CA,UT,ID,WY,MT,SD,MN, WI,IL,IN,OH,PA,NJ",
-		"intro": "44 days on the road in a 72 Chevy Van",
-		"introDescr": "Tony and I crossed thru 19 states on our way across the heartland, thru Denver and Aspen to the Grand Canyon and on to  San Diego.  We then went up the coast of CA and across Nevada and Utah to come back thru Yellowstone and the northern interstate route.",
+		"intro": "43 days on the road in a 72 Chevy Van",
+		"introDescr": "Tony and I crossed thru 19 states on our way across the heartland, thru Denver and Aspen to the Grand Canyon and on to  San Diego.  We then went up the coast of CA and across Nevada and Utah to come back thru Yellowstone and the northern interstate route.  Our vehicle for this 10,000 mile trip would be a 1972 Chevy Van I had purchased two years before.",
 		"introPic1": "https://photos.smugmug.com/197906Xctry/Island-in-the-Sky-Monticello-UT-June-28-1979/i-fhNvnwm/0/83a7e744/L/1979Xctry%20-%2017%20of%2098-L.jpg",
 		"introPic1span": "Tony in Canyonlands NP, Utah",
-		"introPic2": "",
-		"introPic2span": "",
+		"introPic2": "../img/197907xctry/1972ChevyVanbefore.jpg",
+		"introPic2span": "This is the shape it was in when I purchased in 1978.  It would be transformed inside and out.  In the after picture below the wheels would also be 'improved' prior to the trip.",
 		"videoLink": "",
 		"videoIframe": "",
 		"foot": "1",
@@ -28,11 +28,11 @@
 	},
 	"adventureDay": [
 		{
-			"dayId": "19790615",
-			"h1title": "",
-			"h3": "Under construction",
-			"pdate": "June 1979",
-			"pdesc": "",
+			"dayId": "19790619x",
+			"h1title": "Cranford, NJ to Plum, Pa",
+			"h3": "Getting underway",
+			"pdate": "Tuesday, June 19, 1979",
+          "pdesc": "The genesis of this trip had been in my mind for at least 5 years after my brother, Mike, had taken similar trips.  Prior to the trip I had visited southern California briefly in 1977 but otherwise had not been west of Dayton, Ohio or south of Washington, DC.  With my money saved from a year of teaching 9th grade math in Berkeley Heights, NJ and Tony's 'backpension' from his tuna boat adventures supposedly on its way, we left Cranford.  Our immediate goal was Pittsburgh and Chicago over the next few days.  ",
 			"pdesc2": "",
 			"pdesc3": "",
 			"pdescLink1": "",
@@ -45,7 +45,74 @@
 			"pictures": [
 				{
 					"picID": "1",
-					"pic": "",
+					"pic": "../img/197907xctry/1972ChevyVanafter.jpg",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": "On Tuesday night, we slept at Zav's house in Pittsburgh and the following night we stayed at my future home in Chicago on S Kenwood Avenue with Pat.  "
+				},
+				{
+					"picID": "5",
+					"pic": "../img/197907xctry/gmapNJ2Chi.JPG",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "19790620",
+			"h1title": "Plum, Pa to Chicago, IL",
+			"h3": "Getting to know the southside of Chicago",
+			"pdate": "Wednesday, Jun 20, 1979",
+			"pdesc": "Upon arriving in Chicago we had no sooner parked the van then one of the steering control arms snapped leaving the front wheels untethered from the steering wheel.  We were delayed a day by this and I was introduced to the wilds of Chicago's south side (at least to South 79th St.) in search of auto parts",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "../img/197907xctry/5756Skenwood.jpeg",
+					"piccap": "5756 S Kenwood Ave (Corner of s 58th and Kenwood)",
+					"pictop": ""
+				},
+				{
+					"picID": "3",
+					"pic": "../img/197907xctry/5756SKenwoodMap2.JPG",
+					"piccap": "My future home along (kinda) lake Michigan ",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "19790621",
+			"h1title": "Chicago, IL to Henderson, NE",
+			"h3": "Across the flat states Illinois Indiana Iowa Nebraska to the Mile High City",
+			"pdate": "Thursday ,Jun 21, 1979",
+			"pdesc": "From Chicago we drove 600 miles and stopped for the night in our first KOA near Chamberlain, SD along the Missouri River.  Everything went smoothly and we slept thru a massive thunderstorm that drove off a boy scout troop.  They packed up and left in the middle of the night.  We remained tucked inside our metal van.  We wouldn't spend many nights outside the van. ",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "../img/197907xctry/Front_Range.JPG",
 					"piccap": "",
 					"pictop": ""
 				},
@@ -62,9 +129,108 @@
 		},
 		{
 			"dayId": "19790622",
-			"h1title": "",
+			"h1title": "Henderson, NE to Littleton, CO",
 			"h3": "",
-			"pdate": "Fri, Apr 06, 2007",
+			"pdate": "Fri & Saturday, Jun 22-23, 2007",
+			"pdesc": "From there we were on to Uncle Victor's house in Littleton.  Driving east on I70 toward Denver, we were mesmerized by the Rocky Mountain skyline which had been hidden by the clouds of a thunderstorm.  We stayed two nights with Ann & Victor and then headed across the great divide to Aspen.",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "19790624",
+			"h1title": "Littleton, CO to Aspen, CO",
+			"h3": "Indepenence Pass",
+			"pdate": "Sunday,Jun 24, 1979",
+			"pdesc": "We drove across the Continental Divide and from Cooper Mtn we took the state higways through Leadville to 12,000 ft Indepenence Pass.  After stopping at the pass we headed down toward Aspen.  Along the way we passed a little ghost town on the Roaring Fork river.  We stopped to explore the old buildings.  In the 90s the buildings would be recreated.  The pictures below were from the original.  Some are still there and you can see the tree in one of the 1979 pictures has only grown a few feet taller in 40 years.",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "https://aspenhistory.org/tours-sites/independence-ghost-town/",
+			"pdescLink2": "",
+			"pdescLinktag1": "Brochure for Indepenence Ghost Town State Park",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "../img/197907xctry/197907gmapLittle2Aspen.JPG",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/197906Xctry/White-River-National-Forest-Twin-Lakes-June-26-1979/i-pVGRhx3/0/bd8f4b85/M/1979Xctry%20-%204%20of%2098-M.jpg",
+					"piccap": "Independence Pass",
+					"pictop": "In 1979 they had real glaciers up here (at least 20 feet along the road.)"
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/197906Xctry/White-River-National-Forest-Twin-Lakes-June-26-1979/i-Bbbh8Dk/0/8f1dc768/M/1979Xctry%20-%205%20of%2098-M.jpg",
+					"piccap": "We weren't prepared for ice climbing or the cold ",
+					"pictop": ""
+				},
+				{
+					"picID": "3",
+					"pic": "../img/197907xctry/197907xcntryaspen.jpg",
+					"piccap": "Looking down from Indepenence Pass into the starting point of the Roaring Fork ",
+					"pictop": ""
+				},
+				{
+					"picID": "4",
+					"pic": "https://photos.smugmug.com/197906Xctry/White-River-National-Forest-Twin-Lakes-June-26-1979/i-s69cDvW/0/d10c4706/M/1979Xctry%20-%2013%20of%2098-M.jpg",
+					"piccap": "Ghost town along Roaring Fork River",
+					"pictop": ""
+				},
+				{
+					"picID": "5",
+					"pic": "https://photos.smugmug.com/197906Xctry/White-River-National-Forest-Twin-Lakes-June-26-1979/i-KLW5jZR/0/2afbface/M/1979Xctry%20-%2010%20of%2098-M.jpg",
+					"piccap": "Tony was a BadAss",
+					"pictop": ""
+				},
+				{
+					"picID": "6",
+					"pic": "https://photos.smugmug.com/197906Xctry/White-River-National-Forest-Twin-Lakes-June-26-1979/i-g4knZW3/0/beec07c9/M/1979Xctry%20-%208%20of%2098-M.jpg",
+					"piccap": "Jim trying to be",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=HKpd3T",
+			"smugAlbum": "https://havingadventures.smugmug.com/197906Xctry/White-River-National-Forest-Twin-Lakes-June-26-1979",
+			"smugAlbumName": "Aspen and Independence Pass"
+		},
+		{
+			"dayId": "19790625",
+			"h1title": "Aspen, CO to Grand Junction",
+			"h3": "",
+			"pdate": "June 25, 1979",
+			"pdesc": "Leaving Aspen we spent a night fighting off racoons in a national forest near Grand Junction before heading towards Canyonlands NP.",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+          "iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=zGRnCB",
+          "smugAlbum": "https://havingadventures.smugmug.com/frame/slideshow?key=HKpd3T&speed=3&transition=fade&autoStart=1&captions=0&navigation=0&playButton=0&randomize=0&transitionSpeed=2&clickable=1",
+          "smugAlbumName": "Island in the Sky - Monticello, UT, June 28, 1979"
+		},
+		{
+			"dayId": "19790626",
+			"h1title": "Grand Junction to Moab, UT (or Colorado border)",
+			"h3": "",
+			"pdate": "Tuesday,Jun 26, 1979",
 			"pdesc": "",
 			"pdesc2": "",
 			"pdesc3": "",
@@ -94,10 +260,10 @@
 			"smugAlbumName": ""
 		},
 		{
-			"dayId": "19790629",
-			"h1title": "",
+			"dayId": "19790627",
+			"h1title": "Moab, UT (or Colorado border) to Canyonlands NP, UT",
 			"h3": "",
-			"pdate": "June 29, 1979",
+			"pdate": "Wednesday,Jun 27, 1979",
 			"pdesc": "",
 			"pdesc2": "",
 			"pdesc3": "",
@@ -106,7 +272,288 @@
 			"pdescLinktag1": "",
 			"pdescLinktag2": "",
 			"mappic": "",
+			"mappicport": "https://photos.smugmug.com/197906Xctry/Island-in-the-Sky-Monticello-UT-June-28-1979/i-5Tx5ndM/1/22232842/M/1979Xctry%20-%2023%20of%2098-M.jpg",
+			"mapspan": "Sunset from our camping spot in Canyonlands.  We barely saw any other people.",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/197906Xctry/Island-in-the-Sky-Monticello-UT-June-28-1979/i-fhNvnwm/1/c23c828b/M/1979Xctry%20-%2017%20of%2098-M.jpg",
+					"piccap": "Tony was always happy to have his picture taken",
+					"pictop": "Inside Canyonlands"
+				}
+			],
+          "iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=zGRnCB",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "19790628",
+			"h1title": "Canyonlands NP, UT to Grand Canyon, AZ",
+			"h3": "",
+			"pdate": "Thursday,Jun 28, 1979",
+			"pdesc": "This was a travel day which looped around the east side of Grand Canyon NP.  We ended up in Grand Canyon village and planned our hike down Bright Angel Trail",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
 			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "2",
+					"piccap": "These were a couple pictures along the way from Canyonlands to the Grand Canyon.  Dont have a good location.",
+					"pic": "https://photos.smugmug.com/197906Xctry/Island-in-the-Sky-Monticello-UT-June-28-1979/i-xZwVSMg/1/f2d0c979/M/1979Xctry%20-%2022%20of%2098-M.jpg",
+					"pictop": ""
+				},
+				{
+					"picID": "3",
+					"pic": "https://photos.smugmug.com/197906Xctry/Island-in-the-Sky-Monticello-UT-June-28-1979/i-PsxFZDR/1/0d0d4fae/M/1979Xctry%20-%2020%20of%2098-M.jpg",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "19790629",
+			"h1title": "Grand Canyon, AZ to Grand Canyon - 23rd birthday",
+			"h3": "Hike of the Grand Canyon",
+			"pdate": "June 29, 1979 - Jim's 23rd birthday",
+			"pdesc": "We arrived on June 28 without a plan other than to hike to the river and back.  On the 29th at 5:45am we went down the Bright Angel Trail with a couple of jugs of water.  The trail from top to bottom is 7.6 miles and drops 4,400 ft.  Down was easy.  It took 3.5 hrs.  We got to the river and people were swimming but it was colder than frozen balls falls.  After a quick dunk of the feet we were headed back.  We had carried a two gallon jug for our trip.  I left it with Tony about half way back and told him he was on his own.  I kept walking until I caught up to two girls from Philly.  They had walked 1/2 way down and were on their way back.  I walked the rest of the way with them stopping to rest and drink water every 15-20 minutes.  The last part was the steepest with short switchbacks.  Every time you came around a corner you would get disappointed because it just kept going up.  We kept up a good pace and made it to the top before total exhaustion.  Tony came up about 20 minutes later and we both agreed we were crazy to have done the trip in one day.  It was so crazy I would repeat the round trip in 2008 with Kelly on the South Kaibab Trail. We did meet more people on the way after splitting up.  We both were exhausted until we had a shower, a couple Budweisers and cooked our steak dinner.  We went to a bar near the top of the trail and when the singer dedicated a birthday song to me it wasn't long before the we were asked to leave.  The next thing I knew it was morning and we were on our way to Las Vegas ",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappicport": "https://photos.smugmug.com/197906Xctry/South-Rim-Grand-Canyon-AZ-June-29-1979/i-pKdd7MT/1/a33c1aea/M/1979Xctry%20-%2032%20of%2098-M.jpg",
+			"mappic": "",
+			"mapspan": "Picture above is mine.  Below is from Google Maps",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/197906Xctry/South-Rim-Grand-Canyon-AZ-June-29-1979/i-vKmW5QM/0/3d1ad1d5/M/Bright%20Angel%20Trailhead%20-%20Google%20Maps-M.jpg",
+					"piccap": "",
+					"picbotm": "It was a long climb the last few miles."
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/197906Xctry/South-Rim-Grand-Canyon-AZ-June-29-1979/i-whhcrKR/0/60666410/M/1979Xctry%20-%2033%20of%2098-M.jpg",
+					"piccap": "We made it to the river",
+					"picbotm": "I got back around 5pm and Tony arrived 20 minutes later.  As a 23rd birthday it couldn't have been better."
+				},
+				{
+					"picID": "3",
+					"pic": "https://photos.smugmug.com/197906Xctry/South-Rim-Grand-Canyon-AZ-June-29-1979/i-bgwPVZ8/0/0ba05ee6/M/1979Xctry%20-%2034%20of%2098-M.jpg",
+					"piccap": "",
+					"picbotm": "Afterwards we cooked up some steaks, drank some beers and went to the bar in the park and proceeded to drink a bit to much.  "
+				},
+				{
+					"picID": "4",
+					"pic": "https://photos.smugmug.com/197906Xctry/South-Rim-Grand-Canyon-AZ-June-29-1979/i-pKdd7MT/1/a33c1aea/M/1979Xctry%20-%2032%20of%2098-M.jpg",
+					"piccap": "",
+					"picbotm": "So ended my 23rd year."
+				},
+				{
+					"picID": "5",
+					"pic": "https://photos.smugmug.com/197906Xctry/South-Rim-Grand-Canyon-AZ-June-29-1979/i-bf4zKsZ/0/4b058a0f/M/Pipe%20Creek%20Rest%20House%20-%20Google%20Maps-M.jpg",
+					"piccap": "",
+					"picbotm": "I didnt return for almost 20 years. "
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=XGZ676",
+			"smugAlbum": "https://havingadventures.smugmug.com/197906Xctry/South-Rim-Grand-Canyon-AZ-June-29-1979",
+			"smugAlbumName": "Grand-Canyon"
+		},
+		{
+			"dayId": "19790630",
+			"h1title": "Grand Canyon to Hover Dam to Las Vegas",
+			"h3": "",
+			"pdate": "Saturday,Jun 30, 1979",
+			"pdesc": "We left the Grand Canyon and when we got to the Hoover Dam the van was overheating and water pump was leaking. We were able to drive slowly to Las Vegas.  After checking into a mobil home park we went for our first peak at Las Vegas.  After some brief success Tony and I both lost about $40 and got back to our camp at 4:30am.",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "https://photos.smugmug.com/197906Xctry/San-Diego-Zoo-San-Diego-CA-July-3-1979/i-Qrzg9mD/0/72df504b/M/gmapGrandCan2Vegas-M.jpg",
+
+          "mapspan": "Our route from the Grand Canyon to Vegas",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "19790701",
+			"h1title": "Las Vegas to San Diego, CA - Tawny Pines State Park",
+			"h3": "",
+			"pdate": "Sunday,Jul 01, 1979",
+			"pdesc": "July 1 - I was up early on the 1st and walked to the auto parts store.  I told the auto part guy the pump he sold me didn't look right.  He had given me a V8 pump instead of a 6cyl pump.  I had another hitch hike to and from the auto parts store with a kindly assist from a Vegas cop. We finally got the whole thing back together and we were back on the road by noon.  Cruising through the California desert the engine still getting up around 220 and the temp outside is over 100. Arrived in San Diego and stayed at Torrey Pines State Beach.",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "19790702",
+			"h1title": "We spend a couple days in San Diego",
+			"h3": "",
+			"pdate": "Monday, July 2",
+			"pdesc": "July 2 In the morning we went looking for Tony's friend Rudy who was going to give him his pay from his Tuna boat trip earlier in 1979.  Rudy was sleeping so we went to the SD Zoo. Afterward to Foggy's Notion.  ",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+          "mappicport": "https://photos.smugmug.com/197906Xctry/San-Diego-Zoo-San-Diego-CA-July-3-1979/i-Qrzg9mD/0/72df504b/M/gmapGrandCan2Vegas-M.jpg",
+          "mapspan": "Our route from the Grand Canyon to Vegas",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/197906Xctry/San-Diego-Zoo-San-Diego-CA-July-3-1979/i-PvqVnsk/0/7ff15c0c/M/1979Xctry%20-%2058%20of%2098-M.jpg",
+					"piccap": "Peacock at SD Zoo",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/197906Xctry/San-Diego-Zoo-San-Diego-CA-July-3-1979/i-mS6WNxC/1/d4d3b8ba/M/1979Xctry%20-%2049%20of%2098-M.jpg",
+					"piccap": "Toucan",
+					"pictop": ""
+				},
+				{
+					"picID": "4",
+					"pic": "https://photos.smugmug.com/197906Xctry/San-Diego-Zoo-San-Diego-CA-July-3-1979/i-n4RfcK7/0/ce51c744/M/1979Xctry%20-%2048%20of%2098-M.jpg",
+					"piccap": "Lion",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "19790703",
+			"h1title": "San Diego, CA -  to San Diego, CA - Quinn",
+			"h3": "",
+          "pdate": "Monday,Jul 02, 1979 to Tuesday,Jul 03, 1979",
+			"pdesc": "- Bully's East- watch Yanks on tv - Murcer had been traded back to the Yankees.  ",
+			"pdesc2": "\"We sleep out in front of the bar on the morning of July 3rd and then went over to Kevin Quinn's house.",
+			"pdesc3": "",
+			"pdescLink1": "https://www.baseball-reference.com/boxes/NYA/NYA197907020.shtml",
+			"pdescLink2": "",
+			"pdescLinktag1": "July 2 box score",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "19790704",
+			"h1title": "San Diego, CA -to San Diego, CA ",
+			"h3": "Padres vs Dodgers - ",
+			"pdate": "Wednesday,Jul 04, 1979",
+			"pdesc": "July 4th we went to the Padres Dodgers game and saw Bob Shirley two hit the Dodgers.",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "https://www.baseball-reference.com/boxes/SDN/SDN197907040.shtml",
+			"pdescLink2": "",
+			"pdescLinktag1": "Los Angeles Dodgers vs San Diego Padres Box Score: July 4, 1979",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "19790705",
+			"h1title": "San Diego, CA - Quinn to LA Rossi",
+			"h3": "",
+			"pdate": "Thursday,Jul 05, 1979",
+			"pdesc": "On Thursday we drove up to LA. We considered going to Universal Studios but it was too expensive.  We stopped at the batting cages touted by Mike and got blistered hands.  After that we stopped for the night at Ann Marie Rozzi's home north of LA. ",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "../img/197907xctry/gmapSanDiego2LA.JPG",
 			"mapspan": "",
 			"pictures": [
 				{
@@ -128,12 +575,238 @@
 		},
 		{
 			"dayId": "19790706",
-			"h1title": "",
+          "h1title": "LA Rossi to Foggy's Notion in SD",
 			"h3": "",
-			"pdate": "July 6, 1979",
-			"pdesc": "",
+			"pdate": "Friday,Jul 06, 1979",
+          "pdesc": "Tony had heard alot about the Over The Line (OTL) 3 man softball event on Old Mission Beach.  After being underwhelmed by LA we decided to drive back to SD and go to the Saturday session.  Not many pictures survived the last 45 years ",
 			"pdesc2": "",
 			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "19790707",
+			"h1title": "Foggy's Notion SD to OTL parking area",
+          "h3": " Old Mission Beach Athletic Club ",
+			"pdate": "Saturday,Jul 07, 1979",
+          "pdesc": "Not many pictures survived the last 45 years",
+			"pdesc2": "",
+			"pdesc3": "",
+          "pdescLink1": "https://www.youtube.com/watch?v=8HhHEqHyq7c&t=85s",
+			"pdescLink2": "",
+          "pdescLinktag1": "You Tube 1978 News 8 SanDiego",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "19790707x",
+			"h1title": "Over The Line World Championships",
+			"h3": "Old Mission Beach Athletic Club",
+			"pdate": "Saturday, July 7, 1979",
+          "pdesc": "With a cooler more than filled with beer we had a fun day strolling around watch this 3 on 3 softball and all the other festivities. ",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://photos.smugmug.com/197906Xctry/San-Diego-Zoo-San-Diego-CA-July-3-1979/i-L2tQGt7/0/6ed99466/M/1979Xctry%20-%2030%20of%2098-M.jpg",
+					"piccap": "Tony getting ready for the Over The Line festivities",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/197906Xctry/San-Diego-Zoo-San-Diego-CA-July-3-1979/i-gbQFD7r/0/ce27f2e9/M/1979Xctry%20-%2059%20of%2098-M.jpg",
+					"piccap": "Over The Line 1979",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "19790708",
+			"h1title": "OTL parking area to Pismo Beach, CA",
+			"h3": "",
+			"pdate": "Sunday,Jul 08, 1979",
+          "pdesc": "This was a tough ride after our day at the OTL. From the parking area we made our way up the coast to Pismo Beach on Sunday (July 7)",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "19790709",
+          "h1title": "Pismo Beach, CA to Hearst stayed in state park north of there",
+			"h3": "",
+			"pdate": "Monday,Jul 09, 1979",
+          "pdesc": "Sunday night stayed in Pismo Beach in a state park on the beach.  In the morning we drove up the Pacific Coast Highway (PCH) to the Hurst Castle.  Many harrowing moments along the curves and hills with my tank of a van doing it's Malibu Grand Prix impression. The drive on the PCH was more fun for me than Tony.  We stayed in a state park about 10 miles from the coast with giant Sequoia or Redwoods.  The name is lost to history but it's possible it was Pfeiffer Big Sur State Park.  Our peaceful night was disrupted by a racoon which initially scared the crap out of Tony and then stole our loaf of bread.  He came back with a friend and using a flashlight we kept trying to hit them with rocks.  Evenually we locked up the van and went to sleep. Thankful we weren't tent camping.",
+			"pdesc2": "",
+          "pdesc3": "The Hurst Castle was quite a site with lots of Gold and Silver inlaid pieces and million dollar tapestries. ",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+          "mappicport": "https://photos.smugmug.com/197906Xctry/San-Diego-Zoo-San-Diego-CA-July-3-1979/i-SmZ52n5/0/e44adc5d/M/1979Xctry%20-%2060%20of%2098-M.jpg",
+          "mapspan": "Hurst Castle at San Simian",
+			"pictures": [
+				{
+					"picID": "1",
+                  "pic": "https://photos.smugmug.com/197906Xctry/San-Diego-Zoo-San-Diego-CA-July-3-1979/i-RbbKHdS/0/fdf2be47/M/1979Xctry%20-%2062%20of%2098-M.jpg",
+                  "piccap": "HEARST CASTLE",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "19790710",
+          "h1title": "State park south of SF to SF",
+			"h3": "",
+			"pdate": "Tuesday,Jul 10, 1979",
+          "pdesc": "We cruised around SF and then parked the van on the street",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "19790711",
+			"h1title": "SF on the street maybe to State Line, NV - Circus Circus",
+			"h3": "",
+			"pdate": "Wednesday,Jul 11, 1979",
+          "pdesc": "We parked in the lot of the Circus Circus Casino in South Lake Tahoe.  Spent some time gambling and both lost a couple bucks.  An uneventful day on a beautiful lake",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+
+		{
+			"dayId": "19790712",
+			"h1title": "State Line, NV - Circus Circus to Yosemite Valley",
+			"h3": "",
+          "pdate": "Thursday Jul 12 to Friday July 13, 1979",
+          "pdesc": "This is where our trip took some turns.  Our plan had been to go to Lake Tahoe and then Yosemite NP.  This went smoothly until while showering at a camp in Yosemite I had my wallet, Drivers license and travelers checks stolen.  We had to reroute to Sacramento where Tony's uncle lived to await the arrival of my new license and insurance card.",
+			"pdesc2": "",
+          "pdesc3": "We did get two days in Yosemite and hiked up to at least one of the falls.   We drove thru Tuolumne Meadows and come into the park from the east.",
 			"pdescLink1": "",
 			"pdescLink2": "",
 			"pdescLinktag1": "",
@@ -161,9 +834,9 @@
 		},
 		{
 			"dayId": "19790713",
-			"h1title": "",
+			"h1title": "Yosemite Valley to Yosemite Valley",
 			"h3": "",
-			"pdate": "July 13, 1979",
+			"pdate": "Friday,Jul 13, 1979",
 			"pdesc": "",
 			"pdesc2": "",
 			"pdesc3": "",
@@ -193,10 +866,501 @@
 			"smugAlbumName": ""
 		},
 		{
-			"dayId": "19790722",
-			"h1title": "",
+			"dayId": "19790714",
+			"h1title": "Yosemite Valley to Tony's uncle Phil",
 			"h3": "",
-			"pdate": "July 22, 1979",
+          "pdate": "Saturday,Jul 14, 1979 to Wednesday, July 18",
+			"pdesc": "",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+          "dayId": "19790719",
+          "h1title": "Sacramento, CA - left 6am to 950 miles - south of Yellowstone",
+			"h3": "",
+          "pdate": "Thursday,Jul 19, 1979",
+          "pdesc": "This was by far the longest drive we made.  After getting delayed in Sacramento waiting for my ID we were pretty far behind schedule.  We went across the Utah desert and then straight north to Yellowstone.  We almost made it but ended up pulling into a turnout on the road and sleeping for a few hours",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+          "dayId": "19790720",
+          "h1title": "South of Yellowstone to Yellowstone NP, WY",
+			"h3": "",
+          "pdate": "Friday,Jul 20, 1979",
+			"pdesc": "",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+                  "pic": "https://photos.smugmug.com/197906Xctry/Yellowstone-National-Park-Yellowstone-National-Park-WY-July/i-PXz5vsm/0/3d890875/M/1979Xctry%20-%2086%20of%2098-M.jpg",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+                  "pic": "https://photos.smugmug.com/197906Xctry/Yellowstone-National-Park-Yellowstone-National-Park-WY-July/i-c9xcVfX/0/4f9ff268/M/1979Xctry%20-%2096%20of%2098-M.jpg",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+          "dayId": "19790721",
+          "h1title": "Yellowstone NP, WY to Slouth Creek, Yellowstone NP, WY",
+			"h3": "",
+          "pdate": "Saturday,Jul 21, 1979",
+			"pdesc": "",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+                  "pic": "https://photos.smugmug.com/197906Xctry/Yellowstone-National-Park-Yellowstone-National-Park-WY-July/i-Z2d7Z46/0/64af128e/M/1979Xctry%20-%2094%20of%2098-M.jpg",
+                  "piccap": "Our first Moose siting",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+                  "pic": "https://photos.smugmug.com/197906Xctry/Yellowstone-National-Park-Yellowstone-National-Park-WY-July/i-gVDSr96/0/117c1cb4/M/1979Xctry%20-%2093%20of%2098-M.jpg",
+					"piccap": "",
+                  "pictop": "Probably a bit to close"
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+          "dayId": "19790722",
+          "h1title": "Drive shaft drops to Yellowstone NP, WY",
+			"h3": "",
+          "pdate": "Sunday, Jul 22, 1979",
+			"pdesc": "",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+          "dayId": "19790722x",
+          "h1title": "",
+			"h3": "",
+          "pdate": "July 22, 1979",
+			"pdesc": "",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+
+		{
+          "dayId": "19790725",
+          "h1title": "Chamberlain SD to Summer 79 trip - Metropolitan Stadium Minniapolis, MN, Eau Claire overnight",
+			"h3": "",
+          "pdate": "Wednesday,Jul 25, 1979",
+			"pdesc": "",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+                  "pic": "- twins clev.pdf",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "19790723",
+			"h1title": "Yellowstone NP, WY to Yellowstone NP, WY",
+			"h3": "",
+			"pdate": "Monday,Jul 23, 1979",
+			"pdesc": "",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "19790724",
+			"h1title": "Yellowstone NP, WY to Chamberlain SD Half way across S Dakota",
+			"h3": "",
+			"pdate": "Tuesday,Jul 24, 1979",
+			"pdesc": "",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "19790725",
+          "h1title": "Chamberlain SD to Summer 79 trip - Metropolitan Stadium Minniapolis, MN, Eau Claire overnight",
+			"h3": "",
+			"pdate": "Wednesday,Jul 25, 1979",
+			"pdesc": "",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "19790726",
+			"h1title": "EauClaire, WI to Oak Park, IL ( Munkels)",
+			"h3": "",
+			"pdate": "Thursday,Jul 26, 1979",
+			"pdesc": "",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "19790727",
+			"h1title": "Oak Park, IL ( Munkels) to Chicago, IL (Pat - steak dinner at 5756)",
+			"h3": "",
+			"pdate": "Friday,Jul 27, 1979",
+			"pdesc": "",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "19790728",
+			"h1title": "Chicago, IL (Pat - steak dinner at 5756) to Upper Lowes, Dayton, OH",
+			"h3": "",
+			"pdate": "Saturday,Jul 28, 1979",
+			"pdesc": "",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "19790729",
+			"h1title": "Upper Lowes, Dayton, OH to Upper Lowes, Dayton, OH",
+			"h3": "",
+			"pdate": "Sunday,Jul 29, 1979",
+			"pdesc": "",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "19790730",
+			"h1title": "Upper Lowes, Dayton, OH to Plum, PA ",
+			"h3": "",
+			"pdate": "Monday,Jul 30, 1979",
+			"pdesc": "",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "19790731",
+			"h1title": "Plum, PA  to Cranford",
+			"h3": "",
+			"pdate": "Tuesday,Jul 31, 1979",
 			"pdesc": "",
 			"pdesc2": "",
 			"pdesc3": "",
@@ -227,5 +1391,6 @@
 		}
 	]
 }
+
 
 

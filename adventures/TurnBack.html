@@ -1,0 +1,1805 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="JBK Turn Back">
+	<meta name="author" content="Jim OBrien">
+	<!-- Bootstrap Core CSS     -->
+	<link href="../css/bootstrap.min.css" rel="stylesheet">
+	<!-- Custom CSS -->
+
+	<link href="../css/clean-blog.min.css" rel="stylesheet">
+	<link href="../css/styles.css" rel="stylesheet">
+	<!-- Custom Fonts -->
+	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet"
+	      type="text/css">
+	<link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet'
+	      type='text/css'>
+	<link
+			href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800'
+			rel='stylesheet' type='text/css'>
+	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+	<!--[if lt IE 9]>
+	<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+	<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+	<![endif]-->
+	<title>HA Turn Back 74</title>
+	<script src="https://unpkg.com/mithril/mithril.js"></script>
+
+	<style>
+		td {
+			font-size: medium;
+		}
+
+		p.blog-post {
+			text-indent: 5em each-line;
+			font-size: medium;
+		}
+
+		p::first-letter {
+			color: #ff0000;
+			font-size: 150%;
+		}
+
+
+		figure-rt {
+			float: right;
+			width: 25%;
+			text-align: center;
+			font-style: italic;
+			font-size: smaller;
+			text-indent: 0;
+			border: thin silver solid;
+			margin: 0.5em;
+			padding: 0.5em;
+		}
+
+		figure-lf {
+			float: left;
+			width: 25%;
+			text-align: center;
+			font-style: italic;
+			font-size: smaller;
+			text-indent: 0;
+			border: thin silver solid;
+			margin: 0.5em;
+			padding: 0.5em;
+		}
+
+		.img-inline {
+			width: 15%; /* or to whatever you want here */
+			max-height: auto; /* or to whatever you want here */
+		}
+
+		.img-inline20 {
+			width: 20%; /* or to whatever you want here */
+			max-height: auto; /* or to whatever you want here */
+		}
+
+
+		a {
+			text-decoration: underline;
+		}
+
+		img {
+			display: block;
+			margin-left: auto;
+			margin-right: auto;
+			width: 50%;
+		}
+
+		img-title {
+			page-break-inside: avoid;
+		}
+
+		img {
+			max-width: 100% !important;
+		}
+
+		.post-preview {
+			page-break-before: always;
+		}
+
+		.post-preview h1.post-title {
+			font-size: 48px;
+			line-height: 1.1;
+			display: block;
+			color: #333333;
+			font-family: 'Times New Roman', sans-serif;
+			margin: 5px 0 0;
+		}
+
+		h2.post-title {
+			font-size: 36px;
+			line-height: 1.1;
+			display: block;
+
+			font-family: 'Times New Roman', sans-serif;
+			margin: 5px 0 0;
+		}
+
+		h3.post-title {
+			font-size: 28px;
+			line-height: 1.1;
+			display: block;
+			font-family: 'Times New Roman', sans-serif;
+			margin: 5px 0 0;
+		}
+
+		h3.post-title {
+			font-size: 20px;
+			line-height: 1.1;
+			display: block;
+			font-family: 'Times New Roman', sans-serif;
+			margin: 5px 0 0;
+		}
+
+
+		.centerImage {
+			horiz-align: center;
+			display: block;
+		}
+
+	</style>
+
+
+</head>
+<body>
+<!-- Navigation -->
+<div id="nav"></div> <!-- link to navagation bar included -->
+
+<!-- <header class="intro-header" style="background-image: url('../img/TrainloadOfBosses/20th_Century_Limited_604.jpg'); height: 500px">
+    <a name="train_top"></a>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <div class="site-heading">
+                    <h2></h2>
+                    <hr class="small">
+                </div>
+            </div>
+        </div>
+    </div></header><!-- /.container -->
+
+
+<article>
+	<div class="container">
+		<div class="row">
+			<img class="img-responsive" src="../img/TrainloadOfBosses/xxx.jpg" alt="no picture"
+			     style="float: left; margin: 10px">
+			<div class="col-lg-12">
+				<div class="post-preview">
+					<h2 class="post-title">-</h2>
+					<h1 class="post-title">I Turned Back The Clock to Yesterday</h1>
+					<h2 class="post-title"></h2>
+					<h2 class="post-title"></h2>
+					<h3 class="post-title">by</h3>
+					<h3 class="post-title">JOSEPH B. KOMONCHAK</h3>
+					<h3 class="post-title">1975</h3>
+					<h4 class="post-title">
+						© 1975 Joseph B Komonchak<br>
+						All rights reserved. </h4>
+					<hr>
+				</div>
+				<div class="post-preview"><!-- Forward-->
+					<h3 class="post-title">Forward</h3>
+					<h4></h4>
+					<p class="blog-post">These are the pages on his early life which Daddy left unfinished when he died. I have
+						typed them over just as they were, only correcting a misspelling or typographical error here or there or
+						occasionally supplying a word which seemed to be missing. In the last half, I supplied some sub-headings to
+						make it easier to find favorite stories; but I haven't had the time to retyped and do the same for the
+						earlier pages.
+						<br><br>
+						There are two pages written in shorthand which, of course, I cannot read. But from a word in English here
+						and there, it appears that these were simply notes for stories that are written out in full here.
+						<br><br>
+						I have also added at the end Daddy's description of brickmaking and two retirement speeches. The title I
+						have taken from a scrap of paper that was with this material and which I think Daddy intended as his title.
+						<br><br>
+						I hope you all get as much enjoyment out of reading these pages, in which you can hear Daddy speaking, as
+						much as I have gotten out of typing them.
+						<br><br>
+						Now we have to get after Mother to finish her "autobiography"<br>
+						Joe Komonchak
+
+
+					</p>
+					<div class="center-block">
+						<img class="img-responsive rounded d-block" style="max-height: 400px"
+						     src="../img/TrainloadOfBosses/JBK-HKphoto.jpg" alt="no picture" style="margin: 10px">
+					</div>
+				</div> <!-- Forward -->
+				<hr>
+				<div class="post-preview"><!-- ChapterI-->
+					<h3 class="post-title">Failing Marriages in modern times</h3>
+					<h3 class="post-title">
+
+					</h3>
+					<p class="blog-post">
+						Of all the problems which beset us modern Americans, there is none more tragic or more dangerous to our
+						whole social structure than the fact that so many marriages fail. Even if they don't end in divorce or
+						separation, as bad or worse are the thousands of men and women still living together with constant
+						misunderstanding and quarreling that often approaches actual hate.
+						<br><br>
+						Love we have--or think we have--when we become engaged. It makes the engagement and honeymoon glorious, but
+						then, sad to relate, in too many cases, instead of deepening and purifying our love, we fail with the coming
+						years to keep it bright and shining. We fail to "live happily ever after," and marriage becomes a sentence
+						and not a glorification.
+						<br><br>
+						What happens? Why do so many marriages fail? I am convinced that, with many marriages, the biggest source of
+						trouble is the lack of communication and the /failure to share all experiences. During the engagement-period
+						and the early years of marriage, you talk about and share everything. You make it a point to remember all
+						the things that may be of interest to the other and you can hardly wait to tell your partner about them. As
+						your marriage progress, there should be more and more mutual interest to share. But do we share them? There
+						was more togetherness in the olden days than there is now.
+					</p>
+					<blockquote><b> </b></blockquote>
+					<p class="blog-post">
+					</p>
+				</div> <!-- ChapterI -->
+				<hr>
+
+				<div class="post-preview" style="page-break-before: always"><!-- ChapterII-->
+					<h3>12 Van Houten Street</h3>
+					<p class="blog-post">
+						Our house was a small house as we look at houses today, but in those days growing up it seemed quite
+						sufficient for our family. The front of the house faced Van Houten Street and the lot ran back to Canal
+						Street. It had sort of a sub-basement where the kitchen was located as well as the dining-room. There was a
+						hall that led from the kitchen to the upstairs rooms. In the dining-room there was another entrance toward
+						the front of the house that also led upstairs. In later years, when we got sewers, we put in an inside
+						toilet in the hall, but no bath.
+						Upstairs there were two bedrooms and a parlor. The bedrooms were occupied by my parents and the other room
+						by my two sisters, Ann and Mary.
+						<br><br>
+						Another big room took up most of the attic with a small hallway that housed a closet. This is where the boys
+						slept; my older brother Mike in one bed and Andy and I shared the other. The attic had a sloping ceiling.
+						That's the side Andy slept on generally because he was smaller and didn't bump his head on the ceiling.
+						<br><br>
+						There was a front entrance to the house by way of a small porch to the upstairs rooms and another entrance
+						to the hall in the basement. There was also an entrance on the east side by way of some steps and a small
+						porch. In the back there was an entrance to the kitchen.<br><br>
+						In the back of the lot there was a fairly large shed which housed the wood and coal, as well as such sundry
+						items as our barrel of sauerkraut in the winter and various other articles.<br><br>
+						Growing up we all had various chores to do daily. One job that I dreaded was cleaning the windows on the
+						downstairs windows in the dining-room. They had these small 8 by 10 panes of glass and the only time I
+						didn't have to do it was in the very cold weather, or when it rained. How I hated that job!--and no matter
+						how much I tried to get the corners cleaned, it was very rarely that it satisfied my mother.
+						<br><br>
+						Another job I detested was cleaning the grass from between the bricks in our front and side sidewalks.
+						Somehow or other the grass would always come up between the bricks and I had to take out the grass and
+						apparently I wasn't getting the roots because within the next few days the grass came back up again.
+						<br><br>
+						In the summertime my job after supper was to fill three washtubs with water. We didn't own a hose: nobody in
+						our neighborhood had such a thing. I had to carry pails full of water from the kitchen sink, up two or three
+						steps and out to the garden where the tubs were placed in various sections of the garden. The watering of
+						the flowers and vegetables was generally done by my mother and father, gene­ rally y mother who had great
+						pride in her garden. In fact, she had one of the nicest flower gardens in the area, which contained many
+						varieties of flowers, from the spring till the fall. My mother boasted that she didn't buy any seeds. She
+						would save the seeds from her best flowers and vegetables for the next year. Oftentimes on her way to church
+						or visiting someone, she would see a flower she didn't have and she would go and knock on the door of that
+						particular person and ask for a slip or some seeds in the fall of the year when the flowers went to seed.
+						<br><br>
+						The Haverstraw Garden Club, or whatever the name was, gave a prize for the best garden in the village, and
+						my mother for two years straight won the first prize, which was a $5.00 gold piece. I remember those two
+						gold pieces very well. I know there were times when we could have used that money, for there were many lean
+						years when my father wasn't working, but she would never part with them. I have often wondered since she
+						passed on whatever happened to them or what she used them for.
+						<br><br>
+						Perhaps I should describe the interior of the house. As you entered the house in the kitchen to the left was
+						a coal and wood burning range or kitchen stove. As I recall, it was an "Acorn" brand. To the right of the
+						door near the east wall was a sink and between the sink and the kitchen door was a kitchen table and chairs.
+						There was a door to the hall, which later became our bathroom, and in the middle of the room there was
+						another door leading to the dining­ room.
+						<br><br>I recall the kitchen being lit by two kerosene lamps. The dining-room contained our dining-room
+						table and chairs and a pot-belly stove. Upstairs was the parlor which housed a few chairs and another parlor
+						stove. One of the chairs was what they called in those days a Morris chair, and the other chair was similar
+						to it but that one had rockers on it. I remember writing to the Larkin Company in Buffalo when we got, I
+						believe, the rocking chair, which we obtained after acquiring a certain number of trading stamps similar to
+						the green stamps that were dispensed by some stores and gas stations a few years ago. The room was lit by a
+						nice rose decorated kerosene parlor lamp. We also had one-somewhat similar for the dining­ room.
+						<br><br>
+						Upstairs in the attic was a fairly large closet and in the attic room there were two beds, one on the south
+						side and the other on the north. In between I recall a couple of storage trunks and some bureaus. The two
+						bedrooms on the second" floor had a double bed each and some bureaus. I believe there was a closet in each
+						room also.
+						<br><br>
+						There was no central heat in the house, and in the wintertime the boys undressed in the parlor, put on our
+						pajamas and, after getting our backsides warm, ran up the stairs and jumped into bed under the big
+						featherbed covers (perini). It didn't take long to get snug and warm.
+						<br><br>
+						Another job of mine was to keep the wood box under the back porch filled with wood from the shed, and in the
+						wintertime to bring two scuttles of coal into the house. During the day we would generally use wood for the
+						three stoves, but at night coal was shoveled on the fire, the dampers closed after the cog! gas burned off,
+						and bahkeu for the night. In the morning the stove would be shaken down, the dampers opened, and in a few
+						minutes the stoves would warm up.
+						<br><br>
+						Saturday night was bath night. One of the washtubs would be filled with water and we would undress and bathe
+						in the kitchen. In the winter, of course, the water was heated. While we were bathing, the other members of
+						the family would be in the dining-room awaiting their turn.<br><br>I remember my mother on wash day, heating
+						the water on a kitchen stove, then dumping it into a washtub and scrubbing the clothes on one of those
+						old-fashioned wash­ boards. Why her knuckles weren't skinned off I'll never know. When she finished the
+						wash, my job was to dump the water in the garden, as this was good for the soil: of course, in the summer
+						time on some of the plants. I used to watch the worms come up, apparently not appreciating the soapy
+						water.<br><br>
+						Looking back, it seems there were always clothes on the line, since my father worked on the brickyard in
+						those days and the clothes were red from the red paint they put in the bricks.<br><br>
+						She also had another tub of cold water which was used to rinse the clothes.<br><br>
+						In the wintertime, he clothes were brought in off the line and thawed out in the kitchen. I can recall
+						standing some of the frozen clothes up all by themselves. It would certainly chill the kitchen when you
+						brought them in. We didn't get any sort of washing machine until we moved to Sharp Street. I can't recall
+						that we ever had a wringer, mostly the clothes were wrung out by hand.
+						<br><br>
+						Once in a while the clothes-line would break and all hell would break loose, first that the clothes-line
+						should have been replaced, etc.
+						<br><br>
+						The day after the wash was done, which was usually Monday unless it rained, was ironing day, and again the
+						old stove would have two or three old irons which my mother would use, putting one back on the stove when it
+						was getting cold and picking up another hot one.
+						<br><br>
+						Speaking about the frozen clothes, I'll never forget one fright I got one night. I had gone to a basketball
+						game or party, I don't recall which, but we were coming home when the car that Biscuit Burton was driving
+						had battery trouble. The lights would go out and we would lose power. I remember we all had to get out and
+						push the car to the hill on Route 202 in Mt. Ivy. Then we coasted down the hill all the way to Mt. Repose
+						Cemetery traffic light, where it stalled for good. We walked home, and as I came in the front gate and
+						walked to the rear, there were clothes on the line and a full moon lighted up the back yard. There was a
+						little breeze blowing, so when I looked up the clothes were waving and it gave the appearance of a man
+						sawing a woman's head off. As if that wasn't enough, I caught hell because I was out after 12.
+						<br><br>
+					</p>
+					<blockquote>(The bracketed sect1on is on a separate, unnumbered page, at the bottom of which is written,
+						Insert in proper place. This seemed as good a place as any.)
+						<br></blockquote>
+					<p class="blog-post">
+						I recollect very vividly when we got sewers. It was the home owner's job to dig the trench for the sewer
+						line from the main in the street to the house, and what occurred in our neighborhood was probably practiced
+						in other areas of the village. Our neighbors, Mr. Urban, Mr. Tomovick, Mr. Giddies, Mr. Kushnir, and my
+						cousin, Mr. Gulash, and perhaps there were some others, dug the trench. For dinner, my mother had made up a
+						batch of perogie for the workmen.<br><br>
+						I remember her placing this big bowl in the middle of the table, and everyone went at the food like they
+						hadn't eaten for a week, and I kept wondering if there would be any left for us.<br><br>
+						I don't remember what day of the week this occurred, but one day was set aside for the baking. My mother
+						would bake a week's supply of bread and often times would also make her own noodles. I can't remember having
+						spaghetti very much in those days, mostly noodles for soup, etc. She. would drape them over the dining-room
+						table and, if she made an extra big batch would cover the bed with them.’
+						<br><br>
+						I remember peeling apples and slicing them thin and then drying them and stringing them and hanging them in
+						the attic hall; and, when my mother wanted to bake a pie in. the winter, she would send us up for one or two
+						strings, which was ample for a pie.
+						<br><br>
+						She took great pride in the rows of canned fruits, vegetables and jellies which she processed during the
+						summer in order to supplement the meager income my father earned.
+						We also dried mushrooms which I gathered with my father in the fall. There were two seasons when we went
+						mushrooming, sometime in the spring and the other was in early fall.
+						<br><br>
+						As I recall, the fall mushrooms were gathered where there was an abundance of oak trees. One type of
+						mushrooms was called "hen and chicks," because when you found one big one, you would find a dozen or so
+						small ones around it. I also went for horseradish with my father across the road from the Centenary Church,
+						where there was a spring. He would pull out the horseradish, cut off the bottom with a sharp knife, and
+						stick the top back to grow again.
+						<br><br>
+						Recently I paid a visit to 12 Van Houten Street where I spent the greater part of my youth and stood there
+						looking at the house, bringing back some memories, some of them I will try to tell you about, some cheerful
+						and others on a sad note.
+						<br><br>
+						I remember my father, when he was about to leave to go to church for confession, he would turn to my mother
+						and say, “Forgive me for any transgressions," in spite of the fact that only shortly before they might have
+						had a terrific argument. In the fall and winter, we all wore long-johns and when it snowed, we had felt
+						boots which had a rubber type of shoe with felt uppers. I remember my first long-pants suit which my parents
+						bought at Baum's Department Store, which was located on Broadway. As I recall, it coat $9.00, and I was
+						given an Ingersoll watch as a premium, which, incidentally, kept perfect time.
+						<br><br>
+						When my father was crossing guardsman at the New Main Street railroad crossing, he had to have a dependable
+						"railroad watch," that had to be taken to the watchmaker's or jeweler's every six months for testing for
+						accuracy. When he left his watch at the jeweler's, he used the Ingersoll, which had also passed the
+						accuracy-test. The store was the biggest in the Haverstraw area, and I was always fascinated by the trolley
+						wire gadget where the salesman would place the money and the overhead sales slip for the item purchased in a
+						container, pull on the cord, and away would go the container to the cashier's booth, then returned to the
+						particular salesperson with the change and a receipt. Years later, when I went shopping in New York, I saw
+						the same setup in some of the department stores there.
+						<br><br>
+						Halloween was a great time in Haverstraw, as I am sure it was in other communities. There wasn't as much
+						vandalism as there is now. There was an occasional gate that disappeared, since there weren't that many
+						gates around our area in those days, and no outhouses to be pushed over. What the kids in our neighborhood
+						would do, we would go. to Hall's Blacksmith Shop, which was next door to Washington Hall on West Street, and
+						steal a wagon and we would haul it through the streets. I think Mr. Rall would purposely leave an old wagon
+						out front which we would take, because most of the others were generally chained. We would start down West
+						Street to Canal, up Canal (where the Elks Club is now located), and on to First Street and down Second
+						Street, through South Street to Third to Main, Main to Fourth and back to West Street, and return it where
+						we got it.
+						<br><br>
+						We didn't have any costumes or masks. Our false faces usually were a black stocking with holes cut out for
+						the eyes, nose and mouth, and the other stocking would be filled with flour or dried horse manure, which we
+						got at Hall's also. I never had flour in mine and our deviltry was when we met up with the other gangs in
+						the co munity, to smack them across the backside. Of course, these that used flour would leave a white mark
+						where they were smacked.
+						<br><br>
+						I recall one incident that occurred one Halloween. When we got to assembly in school the next day our
+						Principal, Mr. O. O. Markham, got up and bawled everybody out for dese­ crating the soldier's monument on
+						Hudson Avenue. Somebody had placed a potty on top of the soldier's head. Across the street from the monument
+						there were two or three teachers living who apparently called it to his attention. In his criticism he said
+						he understood it was boys from the lower end of the village that were the culprits. This wasn't so because
+						most of our activities were confined to Main Street and possibly Broadway. He said unless those involved
+						confessed, everybody was going to get an hour's detention which was to continue until somebody owned up to
+						it. After a few days the detention was lifted. Who was the culprit? The son of one of the teachers!
+					</p>
+
+					<hr>
+					<div class="post-preview"><!-- ChapterIII-->
+
+						<p class="blog-post">
+
+							Speaking of Hall's Blacksmith Shop, occasionally on our way home from school we would stop there to see
+							him shoe the horses and perform other blacksmith functions. It was always a mystery to me that it didn't
+							hurt the horses when he pounded the nails into the hooves or when he was cutting off part of the hoof with
+							a sharp knife. Once in a while he would fashion a ring for us made from horseshoe nails.
+							<br><br>
+							As I was growing up and perhaps when I was around 12 or 13, my job was to go up to what we called the
+							Hollow, which was to the west of Rte. '9W. The Elks Club was built on the site of the Hollow; it is now a
+							convalescent home. I would cut the dead trees down and hack them into about 3-foot lengths. The smaller
+							ones I would lug down across 9W, the railroad tracks to the top of Pop Wilson's Hill or Tor Avenue, where
+							I would load them on an old brickyard wheelbarrow, which is somewhat different from the conventional
+							wheelbarrow in that it didn't have a metal bucket or shell; it had two boards on either side of the wheel
+							that were about six inches wide and about 28 inches long. Then I would start down the hill, bearing down
+							on the handles to keep it from going too fast, since Pop Wilson's was a very steep hill, and at the bottom
+							I would lift up on the handles and get a running start to get up the incline to West Street. Sometimes, if
+							I had a big load, I would have to take some of the log off and make two trips. These would be piled in the
+							yard and on Saturday I would go up with my father and we would drag down the bigger logs in the same
+							fashion. We did this until we had a fairly good quantity of wood, and then we would saw the logs into
+							kitchen stove lengths, about ten, twelve inches long. The bigger logs we had to split. our winter supply
+							was at least two cords of wood. A cord is four foot high, four foot wide, and eight feet long. That amount
+							of wood plus two tons of coal my father bought would do us for the winter. The next fall the process was
+							repeated, until we moved to Sharp Street, where we had the comfort of central heating.</p>
+						<blockquote>note by Jim O'Brien - The Komonchak's moved to 35 Sharp Street on October 31, 1924. They took
+							out a mortgage for $1,700. The property was 30 feet wide and a hundred feet deep. A title-search seems to
+							indicate that the house was built in 1893.<br>
+						</blockquote>
+						<p>
+
+							When we were cutting the logs with a crosscut saw, my father was always scolding me, saying I was pushing
+							instead of just pulling in my direction. After we finished sawing and chopping, he would sweep up the
+							sawdust1 the splinters were used for kindling and the sawdust was thrown into the garden. Pop said we were
+							warmed by the wood three times, once while cutting and hauling the logs, then when we sawed and chopped
+							them, and finally in the fire.
+							<br><br>
+							One part of our yard was used to house our chickens. We usually had about 35, 40 chickens for the eggs and
+							for eating. At one time I had several pair of pigeons, which were housed in a small house on top of two
+							poles, which was located in the middle of the chicken yard. My pigeon-raising days came to an end very
+							abruptly because of an incident that occurred one Saturday afternoon. My mother had asked my father to
+							kill one of our roosters for Sunday's dinner. He went out to catch the rooster but the rooster, sensing
+							something, proceeded to run all around the yard, eluding my father. In the process of trying to catch him,
+							my father turned very suddenly and banged his eye on one of the poles holding the pigeon roost. He came
+							into the house with the biggest blackeye I ever saw. My mother, seeing what had happened, gave me a
+							quarter and told me to hurry to the Crescent Drug Store and get two leeches. I remember running up to the
+							drug store, the druggist putting two leeches in a small bottle, and then running home, where my mother
+							took the leeches and put them on my father's face, one on either side of the swelling which had, by this
+							time, almost covered the whole side of his face. As she put the leeches on, they immediately began to suck
+							up the black blood and they continued doing this until they were about five or six times their normal size
+							when they fell off. It was horrible to see those things on my father's face, but apparently there was no
+							pain associated with the blood-sucking. When they fell off, there was very little swelling left. Needless
+							to say, my father cut that rooster's head off with a vengeance.
+							<br><br>
+							Next to our house was an open lot or field. Right next to our chicken yard was a big old barn that was
+							boarded up · for many, many years, that was owned by Capt. Bill. At one time his family used to garden it
+							and then later we used it as our baseball field where the neighborhood kids played ball.<br><br>
+							Many evenings in the summer I would be hauling water for the garden and the kids would holler over, "Come
+							on, Chuck we need a second baseman," and my mother would shout hack that they should be doing the same
+							thing for their parents.
+							<br><br>
+							One year I remember that field was used as a storage area by Allison & VerValen's Lumber Yard, for storage
+							of a large quantity of lumber, which was piled on the lot. We used to climb all over the huge piles of
+							lumber, but nobody ever stole a stick of it. I'm inclined to think it was just before World War I.
+							<br><br>
+							Previously I mentioned the Hollow; that's where we played football on Saturday morning. There were no
+							goal­ posts to kick the football between, just lines marking the ends of the field. Most of the time we
+							played against Henry Hahn's Dirty Dozen.
+							<br><br>
+							Another place we played ball in later years is down in the Mud Hole, just south of where Doig's factory is
+							now located at the junction of Maple Avenue and West Street. The problem with that field was that left
+							field and right field were on a slope since the shape of the field was more of less like a bowl.
+							<br><br>
+
+							Games played: Miggles or marbles, kick the can, similar to ice hockey, baseball and football. Swimming at
+							Capt. Bill's or Fowler's Gap. In winter pompeying on ice. When the ice wasn't frozen too hard and had a
+							springy, rubber-like effect, we would run across it to the other side of the pond, usually at the Gas
+							House Pond. Sometimes we would crack the ice and fall in: then we would go up to the Gas House and take
+							our shoes and stockings off and dry them over the boilers.
+							<br><br>
+							One game of marbles we played: we would draw a circle, put the marbles in the circle, put the hand on the
+							ground, and place a shooter, usually a glassie or steel marble, between the thumb and first finger and
+							shoot the marbles out of the ring. The marbles you shot out of the ring were· yours. You kept this up
+							until you missed and then it was· the next fellow's turn. This was called the knuckle­ down game.
+							<br><br>
+							Another marble-game we played: we would get a cigar box and cut a hole in the center just a little larger
+							than a marble. You would take a marble and hold it in your hand at the belt line and see if you could drop
+							it in the hole. If you did, you won five or ten marbles, depending upon the owner of the box.
+							<br><br>
+							Most of the marbles in our early years were made of clay and brightly colored. Later on we got the
+							glassies, aggies and reels and steel. In the wintertime on a Sunday afternoon, we walked out to the middle
+							of the Hudson to watch the skaters and the horses and cutters, a light sled, oftentimes racing.
+							<br><br>
+							I remember Judge Tompkins coming up from Nyack and racing with our local politicians.<br><br>
+							Lou Hoyt, who had a garage on New Main Street, where the Provident Savings and Loan Parking Lot is now
+							located, was a sports racer. Occasionally he would drive on the ice, go up to Stony Point or Grassy Point
+							and come speeding down the river, slam on the brakes and go swirling round and round. He always had an
+							audience of several hundred people.
+							<br><br>
+							On other occasions we would walk across the ice to Croton on the other side. It was fun sliding on the ice
+							and after a short stay there we would start the five-mile hike back. It seems on the way back we were
+							always bucking the wind and we would get very cold and would have to run to keep warm, always vowing never
+							to do it again, but the next Sunday we repeated the same thing.
+							<br><br>
+							Another familiar sight in the Mudhole in the fall was the slaughtering of the pigs. This was somewhat a
+							com­munity-affair. Quite a few of the people kept hogs and in the fall the men would gather on a
+							designated Saturday and start a fire under a big bathtub. One man who had a reputa­tion for knowing where
+							to stick the pig to kill it had that chore; another would catch the blood for bloodwurst, and then the pig
+							was dunked into the hot water to clean off the bristles, and when the pig came out, it was lily-white.
+							Then they would hang it up and butcher it into hams, pork-chops, slice off the fat for rendering into
+							lard, and the intestines were washed and cleaned to be used for sausages.
+							<br><br>
+							In the early part of my life, my father worked for DeNoyelles Brickyard during the months weather
+							permitted brickmaking. After the brickyards shut down, sometimes he would work on the highway in order to
+							work out his taxes, or on the railroad when there was a heavy snowfall, keeping the switches clear, either
+							at West Haverstraw or at Weehawken. At other times he worked at Rockland Lake cutting ice when the lake
+							froze.
+							<br><br>
+							When my father was working on the brickyard, the kids whose parents worked on the yard were let out of
+							school fifteen minutes before twelve to carry lunches to their fathers. We would practically run home,
+							pick up the lunchbox, and take it to them. Their lunch hour was something like fifteen, twenty minutes. In
+							the meantime, while they were eating their lunches, we would be running along the riverfront, sometimes
+							fishing or otherwise occupying ourselves, and then return home to eat our lunch and run back to school.
+							<br><br>
+							Between Maple Avenue and Clove Avenue, the West Shore Gas Company was located; later it was absorbed by
+							the Rockland Gas Company. It was the custom of most of the people in that part of the village to go to the
+							Gas House dump where they would dump their ashes and cinders. There was always a small quantity of coal
+							that didn't burn and we would pick this out of the ashes, put it in baskets or boxes and haul it home in a
+							wagon. There was a certain part of the day when they did this, and there was always a gang of kids waiting
+							around for them.
+							<br><br>
+							We did most of our swimming at Captain Bill's, which was located on First Street across the street from
+							his house. You walked down a set of steps to the beach. They had a small dock and boat house at the
+							river's edge. As I recall it, the Kavanagh's lived in the house and operated the boat dock. Many of the
+							kids from the village swam there, as that was about the best beach in that area. Later on, as we got older
+							and could swim better, Fowler's Gap was the favorite place to swim.<br><br>
+							Growing up, while attending school, we did most of our homework on the dining-room table, except on
+							occasions when my father held classes in what we would now call Americanization classes, preparing men for
+							citizenship. My father boasted that he had helped and sponsored something like sixty people for
+							citizenship. On those occasions, my father would have the men, usually three or four, in the dining-room,
+							teaching them to write their names and telling them what would be expected of them in the way of who our
+							President was, our Governor, Senators, Congressman, and other questions which would be asked of them by
+							the presiding judge.
+							<br><br>
+							My father loved to tell the story about one man, Mr. Katulock, who apparently had failed once or twice. Be
+							seemed to get the President, Governor and the representatives mixed up, or sometimes would just stand in
+							front of the judge speechless. On that particular occasion, Judge Tompkins was the Supreme Court Judge,
+							and from my father's frequent appearances with prospective citizens, he got to know him, particularly
+							through Heman Purdy, who was County Clerk for many years.
+							<br><br>
+							On this occasion, Mr. Katulock appeared before the Judge and when questioned, he again got the various
+							government officials confused, at which time the Judge told him to sit down.<br><br>
+							After the various people had all appeared before the Judge, Mr. Purdy went up to the bench and spoke to
+							the Judge. Then Judge Tompkins called my father up to the bench and said, "Andy, do you think Mr. Katulock
+							would make a good citizen? and my father's reply was, "If I didn't think so, I would never have brought
+							him here, to which the Judge replied, "On your recommendation I will give him his citizen­ ship." My
+							father loved to tell us how proud he was that a judge would take his word, and in future years when
+							preparing the men, he would stress he had a reputation to live up to.
+							<br><br>
+							There was no direct transportation from Haverstraw to New City. There was an Erie train you could take to
+							Spring Valley, then change to another Erie train to Nanuet and another one that would take you to New
+							City. The connections weren't too good, so the men would walk from Haverstraw to New City.<br><br>
+							Years later, when I was working with Judge Doscher, I pinch-hit for a speaker at the White Plains
+							Courthouse at ceremonies for new citizens. It seems the day before the ceremonies the man scheduled to
+							speak met with an accident and was hospitalized. On the way home from the courthouse, Judge Doscher
+							informed me he was asking me to speak to the new citizens. When I said I didn't have any idea what to talk
+							about, he said, "'Why don't you tell them about your father's Americanization classes?" I went home that
+							night, sat down at the typewriter, and made a few notes. The next day word got around the courthouse in
+							White Plains that I was to address the new citizens, and my fellow reporters all gathered in the back of
+							the courtroom to hear my remarks.<br><br>
+							I didn't dare look to the back of the courtroom for fear of some of them making me laugh or upsetting me.
+							I remember also telling the new citizens what this country meant to my father as well as to other people;
+							and, having just a few days prior to that being at the graduation exercises at West Point, I brought in
+							the opportunities in this country, citing General Eisenhower, who had graduated from West Point in the
+							bottom third of his class and yet rose to the highest office this country could bestow on any citizen.<br><br>
+							At the conclusion of my remarks, the immigration officer in charge of the affair came up to me and said he
+							thought it was one of the best talks given to new citizens he had ever heard, and my fellow reporters, who
+							had come, to sort of razz me a little, congratulated me. My reputation apparently got around, for a few
+							years later Judge Bailey, another Supreme Court Judge with whom I worked when he was first elected to that
+							post, asked me to speak in Rockland County, where I again used my father's work as a basis for my talk.
+							<br><br>
+							Haverstraw in those days was divided into various sections: the extreme lower end of the village was
+							called Dutchtown and those who lived there were Dutchtowners. A little north toward the village was the
+							Mud Hole and the Mud Holers. From Canal Street up to Main Street we were known as the Streeters, and up on
+							Broadway was Henry Hahn's Dirty Dozen.<br><br>
+							In the wintertime we used to sleighride on Pop Wilson's Hill, and then later on, when we got older, we
+							used to go down to the Short Clove and ride Jesse Mead's or Tom Ryder's bobsleds. They were huge affairs,
+							handmade, and would carry about ten people on them. I believe Mead's was a little larger. As I recall, he
+							had a steering wheel from an old car, whereas Ryder's had a stick-like affair similar to the Flexible
+							Flyer. We would haul the sled up to the Short Clove and start at the other side of the railroad tracks,
+							where the rock cut is now. In those days, before the cut, we would start at the top of the hill, go down
+							across 9W, across the tracks, which would make sparks fly like a Fourth of July celebration when the steel
+							runners hit the tracks, go down to Riverside Avenue, through the Mud Hole, and sometimes go as far as
+							Canal Street. It was quite a haul pulling this heavy bobsled and usually we would quit after two trips,
+							and then some others would take our places.
+							<br><br>
+							Talking about sleighrides, I remember my one and only time going for a hayride. I don't remember whose
+							birthday it was, it might have been one of the Campbell girls, whose father worked for Fritzy Ossman, who
+							owned a livery stable. He took us over to New City. This was a big treat. It was a bitter cold day, and we
+							all huddled in the back of this long horse-drawn sled which was pulled by two horses. When we got to New
+							City, we went to Pop Weiner's Hotel and crowded around a big potbelly stove trying to thaw out. They
+							served us hot cocoa and cake. This later became Jerry Carnegie's, Jerry having married Pop Weiner's
+							daughter.
+							<br><br>
+							In the spring we would make popguns out of elderberry sticks, clean out the center of one piece about five
+							or six inches long, make a ramrod with a piece of steel wire, insert it in another piece of elderberry
+							stick, and get green nanny­ berries, insert it in the center of the cleaned out portion and with the
+							ramrod shoot it out the other side. It was surprising what a sting it would give you if you were hit with
+							it. The only place that we knew where the nannyberries grew in profusion was the south side of Conklin
+							Avenue, south of St. Mary's Church. We would usually gather a supply on our way home from catechism on a
+							Saturday morning.
+							<br><br>
+							It seems everybody or at least most of the fellows had nicknames. My brother Mike was nicknamed Apple
+							because of his rosy cheeks. Skinner Bryson called me Crabapple, but most of the others called me Chuck.
+							(There is a note here: insert other nicknames here. I've found two pages on which Daddy apparently wrote
+							down the names as they came to mind.)</p>
+
+						<div class="col-sm-12 blog-post">
+							<div class="col-sm-4">
+								<table style="width:100%">
+									<tbody>
+									<tr>
+										<td>Cruse Robinson</td>
+									</tr>
+									<tr>
+										<td>Sunshine Heffern</td>
+									</tr>
+									<tr>
+										<td>Mickey the Goose Gosda</td>
+									</tr>
+									<tr>
+										<td>Stag Gosda</td>
+									</tr>
+									<tr>
+										<td>Killy Kushnir</td>
+									</tr>
+									<tr>
+										<td>Beans Tomovick</td>
+									</tr>
+									<tr>
+										<td>Lib Mulligan</td>
+									</tr>
+									<tr>
+										<td>Jigger Mulligan</td>
+									</tr>
+									<tr>
+										<td>Neely Swift</td>
+									</tr>
+									<tr>
+										<td>Jose Katen</td>
+									</tr>
+									<tr>
+										<td>Lottie Sylvester</td>
+									</tr>
+									<tr>
+										<td>Chick Bogaski</td>
+									</tr>
+									<tr>
+										<td>Peanuts Henkel</td>
+									</tr>
+									</tbody>
+								</table>
+							</div>
+							<div class="col-sm-4">
+								<table style="width:100%">
+									<tbody>
+									<tr>
+										<td>Barness Gosda</td>
+									</tr>
+									<tr>
+										<td>Chicken Joe</td>
+									</tr>
+									<tr>
+										<td>Stretch Kern</td>
+									</tr>
+									<tr>
+										<td>Chick Ryan</td>
+									</tr>
+									<tr>
+										<td>Nag Kovalski</td>
+									</tr>
+									<tr>
+										<td>Duke Kovalski</td>
+									</tr>
+									<tr>
+										<td>Harnbone Mader</td>
+									</tr>
+									<tr>
+										<td>Biyer Mader</td>
+									</tr>
+									<tr>
+										<td>Pope Ryan</td>
+									</tr>
+									<tr>
+										<td>Sonny Yonko</td>
+									</tr>
+									<tr>
+										<td>Moose Yonko</td>
+									</tr>
+									<tr>
+										<td>Puddinghead Thamsen</td>
+									</tr>
+									<tr>
+										<td>Polly Mader</td>
+									</tr>
+									</tbody>
+								</table>
+							</div>
+							<div class="col-sm-4">
+								<table style="width:100%">
+									<tbody>
+									<tr>
+										<td>Moxie Frisco</td>
+									</tr>
+									<tr>
+										<td>George Frisco</td>
+									</tr>
+									<tr>
+										<td> Jimmy Jim</td>
+									</tr>
+									<tr>
+										<td>Step and a Half Gazig</td>
+									</tr>
+									<tr>
+										<td>Ouch Flurchick</td>
+									</tr>
+									<tr>
+										<td>Choke the Parrot</td>
+									</tr>
+									<tr>
+										<td>Bucky Campbell</td>
+									</tr>
+									<tr>
+										<td>Schultz Siekierski</td>
+									</tr>
+									<tr>
+										<td>Rubber Duck Heffern</td>
+									</tr>
+									<tr>
+										<td>Biscuit Burton</td>
+									</tr>
+									<tr>
+										<td>Jimmy the Hermit Bismark</td>
+									</tr>
+									<tr>
+										<td>Willie Farrell</td>
+									</tr>
+									</tbody>
+								</table>
+							</div>
+						</div>
+					</div>
+					<hr>
+					<div class="post-preview"><!-- ChapterIII-->
+						<h3 class="post-title">-</h3>
+
+						<p class="blog-post">
+
+							The colored people in Haverstraw used to have revival meetings which were generally held on the Flats, the
+							area south of the DeNoyelles engine house and across from where Harry Zeh's bus garage is now located.
+							They were held in a big tent. We would crawl under the tent and listen to the preacher who generally was a
+							fired-up speaker, full of hell and brimstones and the congregation would punctuate his remarks with "Amen"
+							or "Hallelujah" every few minutes.
+							<br><br>
+							We loved to listen to their singing and clapping of hands. During some part of the revival meeting, which
+							usually lasted a week, they would baptize the new member. I recall going to two such baptisms at Captain
+							Bill's, where they would wade out about waist-deep and the preacher would dunk the new members.
+							<br><br>
+							On other occasions we would go to the Calvary Baptist Church, which was located and still is on West
+							Street, particularly in the summer time when the windows were open and listen to the singing. The Burtons,
+							Whites, Spruells, Browns were some of the families that attended the church regularly. There was no
+							vandalism or desecrating of property in those days; everybody had respect for the other person's religion.
+							<br><br>
+							On that note, while I only did this once, the kids in the neighborhood of the Jewish Temple on Clove
+							Avenue used to hang around the Temple where one of them would be given the job of lighting the candles on
+							Friday night, for which they were given a dime on Saturday. I had been asked by Mrs. Allen (Bischberg) on
+							this occasion, since we dealt with the store. I was given to understand that they couldn't handle money
+							after a certain time on Friday, thus the payment on Saturday.
+						</p>
+					</div>
+					<hr>
+					<div class="post-preview"><!-- ChapterIII-->
+						<h3 class="post-title"></h3>
+						<h3 class="post-title"></h3>
+						<p class="blog-post">
+							I don't know how old I was, but for two winters I tended the furnace for the Anness family on First
+							Street. It was my job to take the ashes out and to keep the cellar clean and stoke the fire after supper.
+							I also did this for Hannah Frankel after school and on Saturday would haul the ashes up from the cellar.
+							She ran a millinery shop at the corner of Main and Fourth Streets.
+							<br><br>
+							In the evenings after supper, after I finished my chores of filling the washtubs for the garden, after the
+							ballgames, we would generally start a small fire in the ball field lot next to our house and roast
+							Mickeys. · we would generally swipe a potato or two from home and roast them over the fire.
+							<br><br>
+							No matter how burned they were, they seemed to taste so good--we would repeat this many time. On occasions
+							we were joined by Jake Phillips, who lived two doors from us. Jake would tell us ghost stories. He always
+							told us the barn next to our chicken yard was haunted. We never would venture into it although the door
+							was held closed by a loose board, and finally the board fell off or was ripped off. On one occasion, he
+							asked us if were brave enough to see if ghosts really inhabited the place if he went with us
+							<br><br>
+							Of course we didn't want to be chicken, so we all agreed. We all cautiously entered the place tip­ toeing
+							and started up these wide stairs. It was dusk and there were no windows in the barn and it was quite dark
+							inside. When he got us all to the top of the stairs, he suddenly turned around and hollered, "Ghost" and
+							practically flew down the stairs, making it down in two or three steps.
+							<br><br>
+							Of course a few of us were knocked down in the process, and everybody concluded that they had seen the
+							ghost and that the place was really haunted. I believe it was later that winter that sometime in the early
+							morning hours a fire broke out in that barn and destroyed it. I remember my parents waking us up, telling
+							us to get dressed because there was a fire next door and they were fearful it might spread. The firemen-
+							arrived, but by that time the place was engulfed. What was left was torn down, and this enlarged our ball
+							field.
+							<br><br>
+							I remember that, when we were very small, we would, go to the various houses on First Street, generally to
+							the kitchen door, and wish the people a Merry Christmas, for which we were rewarded with a bag of hard
+							candy or some cookies. Jenny Pinkman was a cook and maid for the Anness family and would be extra generous
+							to us. I don't remember who. the cook and maid was for the Everett Fowlers, but she likewise was good to
+							us.<br><br>
+							The Everett Fowler estate was what is now the Elks Club, which had a large lawn in front, to the side and
+							in the back, which the caretaker kept cut with a hand-pushed mower. The front lawn was fairly steep
+							running down to the river, and it took Mr. Mader, the caretaker and a short man, almost a week to cut the
+							whole lawn. He would just about get it finished when he had to start all over again. This was in addition
+							to his other duties of being the janitor, gardener, and he also drove the team of horses and the carriage
+							which Mr. Fowler had. Everett Fowler was· one of· the last brickmakers to buy an automobile. I can still
+							picture Mr. Mader sitting. up on the driver's seat in a suit somewhat like a coachman's, looking very
+							dignified, driving up to the Fowler front gate, waiting for the Fowlers to appear. They lived in the
+							caretaker's cottage, which has since been destroyed.
+							<br><br>
+							Some evenings, if we weren't playing ball, we would go down to the Emiline and Chrystenah docks waiting
+							for the boats to come in. The Emiline plied between Haverstraw and Newburgh, and the Chrystenah between
+							Haverstraw and New York, stopping at Nyack and, I believe, some place in Westchester. There was another
+							boat, the Raleigh, which carried freight between Haverstraw and New York. We would watch the passenger
+							disembark and the freight be unloaded. I was never fortunate enough to have a ride on any of these boats.
+							Next to those docks was the berth of the Cornell Towing Company, where their tugs, that hauled the brick
+							barges to New York, tied up. I remember two of the tugs' names, the Engels and the Mabel.
+							<br><br>
+							Some of the boys used to work at the Haverstraw Club, which was also known as the Bicycle Club, setting up
+							pins in their bowling alleys. The members of that club were comprised of the Protestant brickmakers and
+							business­ men. The bowling alleys were downstairs and the billiard tables on the street floor, and I don't
+							know what they had on the second floor, but we surmised it was for card playing. We used to peer in at the
+							billiard players, watching them play. One of the men was Wilson P. Foss, a millionaire, who was the owner
+							of the Trap Rock Company, who won the US championship as a billiard player and then played in England for
+							the world's championship. As I recall, he won the first two games and then lost the next three to some
+							Englishman. He usually played against Fred W. Penny, at that time one of the prominent Rocklands County
+							lawyers. To discourage our standing on a ledge and peering in, they built slanting boards, since I'm sure
+							that our shoes scuffed the front of the building.
+							<br><br>
+							When I was working on the brickyard and even before that, in the evening after supper, we would congregate
+							at the fence near Fowler's Gap or in front of the Stink Pot, as we called it, which was located at the
+							junction of West Street and Maple Avenue, where we would sing and harmonize, usually accompanied by a
+							harmonica. I can't remember who played it. Later on, Lib Mulligan played his banjo and Mike Stez the
+							violin. The Kurisko brothers would do the Buck and Wing dances. As time went on, some of the colored
+							people who worked on the Fowler and DeNoyelles yards would join us in the singing and some of the colored
+							boys were very good tap and buck and wing dancers. This would continue until about ten o'clock when we
+							would go our separate ways. There were never any racial tensions between the whites and blacks in those
+							days.
+							<br><br>
+							Bread and buns and coffee ca e were purchased at Mardorf's Bakery, where my brother Mike worked, first as
+							a baker and then as a route man. In the summer I would accompany him on his rounds, which started on
+							Broadway, through the lower part of West Haverstraw up the Beach Road to Grassy Point.
+							<br><br>
+							There were a few stores and saloons that were sup­ plied with baked goods all the way up to Tomkins Cove.
+							I loved to go with him because he would let me drive the horse, and I could help myself to eclairs and
+							other delightful cookies.<br><br>
+							I also hung around the bakery for another reason. Estelle Mardorf, the owner's daughter, had a pony and
+							occasionally she had to deliver some special order with her pony and cart. I would saddle up the pony and
+							sometimes accompany her on the trip. On other occasions she would let me drive the pony around a few
+							adjacent blocks, a real treat.
+							<br><br>
+							Haverstraw had a very good baseball team, the Knights of Columbus Caseys. They played such semi-pro teams
+							as the Brooklyn Giants, a colored team, the Paterson Silk Sox, as well as other semi-pro teams from New
+							York and New Jersey. Frank Hessian, Drush Bolog and Vince Lynch were the pitchers. The only catcher I
+							recall was a fellow by the name of Arlington who hailed from some place in Jersey. He had a wicked arm and
+							very few runners ever stole second base on him. After a warm-up pitch, instead of pitching the ball to the
+							second baseman, Arlington would heave it out to the centerfielder. Vic Shankey played first base, Gus
+							Shankey second base, Jacko Anderson shortstop, Al Schnaars and Artie Milburn third base, and the
+							outfielders were Jim Finegan, Jack Scully, Johnny Cooke, Tom Shankey and Harty Hurley.<br><br>
+							The best cheerleader the Caseys ever had was Skinner Bryson, who pranced up and down the third base line
+							whipping up enthusiasm for the local team. Skinner's favorite expression was "Hold the phone. Games were
+							played on Eckerson's Field or, as we called it, the Circus Field, since that was where the carnivals and
+							circuses held forth when they came to town.
+							<br><br>
+							Waldron's Opera House showed movies and the minstrel shows that were generally sponsored by some local
+							groups. Joe Dunnigan was usually one of the end men; also … Dances were also held at the Opera House.
+							<br><br>
+							Washington Hall, owned by Otto Wurm, was the scene of many of St. Mary's dances, as well as wedding
+							receptions and christenings. We were invited to many of the affairs since my father was godfather for some
+							fifty Slovak children.<br><br>
+							Plays conducted in Slovak were held in the basement of St. Mary's Church, usually once a year. My sister
+							Mary once played a leading part and my father usually had one of the lead parts.
+						</p>
+						<h3 class="post-title">
+							MARTIN DRISCOLL</h3>
+						<p class="blog-post">
+							Martin Driscoll, who owned the Haverstraw Water Works, among other things, lived on First Street or Front
+							Street, as many people called it, housed his car in a garage on Van Houten Street, not too far from where
+							we lived. Across the street from the garage was a field where the neighborhood kids played ball in the
+							summer evenings. We would have one eye on the ball and the other directed toward First Street for the
+							first sign of Driscoll's car.
+							<br><br>
+							As soon as the car was spotted turning the corner, the kids would run over to the garage and wait for the
+							car to stop. Of course, there was much shoving and pushing, and it was really a miracle that no one was
+							injured. Mr. Driscoll would toss the keys to outstretched hands or would throw the keys up in the air and
+							whoever caught, grabbed the keys would open the garage-door, for which he was rewarded with a
+							dime.<br><br>
+							For many years it was his custom to run races on Memorial Day, the Fourth of July and Labor Day for the
+							kids in the neighborhood. The older boys, the 9 to 12 bracket, would race the length of the street. The
+							younger group ran a shorter race. The prizes were 25¢ for the winner, 15¢ for second, and the third got a
+							dime. We had this to ourselves for a few years, but then word got out and we had kids from the Mud Hole as
+							well as from Main St. and Broadway participate, so the race was tougher because of all the competition.
+							<br><br>
+							It was at this same man's farm in Pomona that I got my first job. I was not quite 12 at the time, around
+							1916. He recruited the kids in the neighborhood to work on the farm. We left Haverstraw on the old Erie
+							Railroad. The station at that time was directly across the street from the New Main Hotel and next to
+							where George Holt has his funeral parlor. We left about 7:30 and got off at the Mt. Ivy station, which was
+							located near where Routes 202 and 45 intersect in Mt. Ivy.
+							<br><br>
+							From there we had to walk to the Driscoll Farm, which was located not too far from where The Orchards is
+							now located. Our job was to weed and hoe the corn and potatoes, for which we received 75¢ a day as well as
+							the cost of the transportation. If it rained, we were given duties around several large barns that were
+							located on the property.
+							<br><br>
+							I was picked to work around the Manager's house. The Manager was a big Swede by the name of Carlsen who
+							was after the kids constantly because there was so much fooling around. As I recall, there were between
+							twelve and fifteen of us supposedly working. My duties consisted of mowing the lawn and keeping the
+							grounds around the house clean, which wasn't too much since I had the assistance of Carlsen's two
+							daughters. I also had to bring the cow in from the field, but they would do the milking. As I recall, I
+							also fed the three horses they had. The kids were jealous of my assignment since the two girls were always
+							with me. In later years the two girls attended Haverstraw High School, at which time we renewed our
+							acquaintanceship.
+							<br><br>
+							After a day's work we would wait for the Erie, which returned to Haverstraw around 7:00 P.M., or walk
+							home. Unless the weather was inclement, we would walk home most of the time, since we finished work around
+							4:30 or 5:00 and had to wait at least an hour and a half for the train.
+							<br><br>
+
+						</p>
+					</div>
+					<hr>
+					<div class="post-preview"><!-- ChapterIV-->
+						<h3 class="post-title"></h3>
+						<h3 class="post-title">WORKING IN THE CAP FACTORY</h3>
+						<p class="blog-post">
+
+							My second job was during the summer when I was 14. I went to work in the cap factory where my sister Mary
+							worked. They made men's caps for export to South America. They were the loudest colors and I am sure they
+							would be the "in-thing" today on 125th Street. The shop was run by Morris Schwaatz for his
+							father-in-law.<br><br>
+							At first I put buttons on top of the caps with a stamping machine. Later on I helped the cutter who cut
+							the patterns. We would take a roll or bolt of cloth and stretch it on a long table, about ten, twelve feet
+							long, smooth out any wrinkles and continue laying one layer on top of the other until the whole roll was
+							used up. Then the cutter would take and chalk out the patterns for the various parts of the cap, the peak,
+							etc. He would then cut the cloth with an electric machine, keeping the various parts together, which I
+							distributed to the various sewing-machine operators, who worked on a particular part of the cap, some
+							sewing the sections together, others the ·peaks, etc. This factory was run on a piece-work basis, where
+							they were paid for the work done. The sewers were very experienced people. The faster they worked, the
+							more money they made, and woe to you if you let their supply run out and they had to wait. The people in
+							this factory made more money than the other shirtwaist factories operating in Haverstraw at that time.
+							<br><br>
+							I had as a helper Joe Mader, who lived near us on Canal Street at that time. He was a year or two older
+							than I was, and when the cutter failed to show up, Joe and I, along with Morris, would do the cutting. It
+							was tricky cutting the patterns so as not to waste any material. I was also the janitor, for which I was
+							paid $2.00 a week for sweeping up the bits of cloth from under and around the machines, which used to fill
+							bags and bags and leave them out for the garbage truck to pick up. One day, being the enterprising young
+							man I was I went to Sam Slack, who was the local rag and junk dealer, and asked him if he would buy the
+							little pieces of rags, a sample of which I had with me, most of it being wool scraps; and he told me he
+							would pay me something like three cents a pound since they were wool and clear. He gave me a quantity of
+							bags to fill and I did this for a few weeks, when the proprietor one day asked me why I was sorting the
+							cloth from the sweepings and, foolishly, I told him I was selling the rags. From then on he cut out the
+							$2.00 a week I had been getting and all I got was whatever I received from the sale of the rags, which was
+							more than the $2.00 he was paying me.
+							<br><br>
+							It was while working there that another incident occurred to me that I well remember. After working in the
+							factory all day and cleaning up after the others left, this particular day was a very hot day. I gulped
+							down my supper and ran down to Fowler's Gap to join some of my friends swimming. I remember jumping off
+							the dock and was going to swim across the Gap, but when I got a certain distance, I don't remember what
+							happened, whether I got a cramp or what. I went down and was in the process of drowning when Buster Ryder
+							saw my predicament. He was only about 11 or 12, but an excellent swimmer. He grabbed me and hollered for
+							assistance and Joe Pehush helped bring me to the river bank where they worked on me until I was revived.
+							<br><br>
+							An odd incident occurred years later, when we were on our honeymoon. One of the Haverstraw papers had a
+							column entitled, "What happened ten years ago," and in that column it recited this occurrence ten years
+							before. Mrs. Simko, who was one of our Sharp Street neighbors, apparently didn't read the caption above
+							the article or through gossip from others got the idea that I had drowned while on my honeymoon and was
+							inquiring of the neighbors if this were so, when somebody finally straightened her out. They had the
+							neighborhood upset, particularly my two sisters who didn't want to mention it to my mother.
+						</p>
+						<h3 class="post-title">
+							THE ELKS CLUB CLAMBAKE</h3>
+						<p class="blog-post">
+							The Elks Club, which in those days was located on the east side of First Street across from the Oscar
+							Reynolds residence, had an annual clambake, which was held on their grounds near the river. It was one of
+							the season's big affairs for the Elks, well attended by their members and guests. For two summers I got a
+							job there cleaning up the tables of clam shells, helping husk the corn and whatever odd jobs there were to
+							do at the bake. For this we each got a dollar and all the watermelon and corn we could eat. These were
+							much-sought jobs, and you had to register with the steward of the Club well in advance of the clambake. As
+							I recall, the steward was Willie Hoppe.
+						</p>
+						<h3 class="post-title">
+							MR. GILLIES' HELP</h3>
+						<p class="blog-post">
+							Big Ben Topping was the chauffer for the Gillies family. Mr. Gillies was in the insurance business. He had
+							an office on Broadway and their home was on South Street and the garage or barn was on Van Houten Street
+							diagonally across from our house. Ben had a small room in one part of the garage, which at one time was a
+							stable before the auto­ mobile came along. Their car was a new, shiny Franklin, kept in one part of the
+							garage and the rest was used for storage. Upstairs, in what was formerly the hayloft, a colored man by the
+							name of Herb Burton, who was some distant relative of the Burton family who lived on Van Houten Street,
+							slept up there on a mattress thrown on the floor.<br><br>
+							He had a big hernia and walked with a considerable limp. He did some chores around the Gillies property,
+							gardening, etc. I don't recall any other employment that he had. Sometimes he would share his meals with
+							Ben, but quite often he would send us kids to Stasko's store for a box of Uneeda crackers and a can of
+							sardines, or a can of Campbell's pork and beans, which would comprise his evening meals. Occasionally my
+							mother would send over a pail of soup to him.
+						</p>
+						<h3 class="post-title">
+							LEARNING NOT TO SMOKE</h3>
+						<p class="blog-post">
+							We used to help Ben shine and wax the car for which we sometimes would be rewarded with a dime, other
+							times with a "Thank you.'' On one occasion, Joe Collins, who lived over on Maple Avenue, and I had
+							polished the car but were not· rewarded with the time and Joe was a little incensed for not getting paid.
+							After Ben left to take the car on some errand, Joe stole two Italian stogies cigars which Ben kept in his
+							room. We went across the street behind the lumber piles that Allison & Ver Valen had stored there and
+							smoked the cigars. I got very sick, throwing up, so much so that Joe took me home telling my mother I got
+							sick from something.
+							<br><br>
+							I was sick for two or three days, throwing up every time I put any food in my mouth. I never told my
+							mother this or I would have been in for a good tanning. In later years, as I was growing up and teen-agers
+							were smoking, as I got around to different parties, etc., where everybody was smoking, if I tried a
+							cigarette, I would almost immediately head for the bathroom. I could still taste that stogie; and after
+							this happened several times, I concluded it would be better not to smoke than to spoil my fun as well as
+							that of those I was out with, which has saved me probably hundreds of dollars in my lifetime.
+						</p>
+						<h3 class="post-title">SUMMER ACTIVITIES</h3>
+						<p class="blog-post">
+							We went fishing at Captain Bill's for eels and sunfish, and I would get a scolding from my mother because
+							I wouldn't eat the fish. Crabbing was another summer sport for us, usually crabbing off the DeNoyelles
+							property or the cofferdam. Occasionally we would go down to Bay Shore swimming, while my folks would be
+							visiting our relatives who lived in the Malley houses.<br><br>
+							The Fourth of July was generally celebrated with a parade by the firemen, Boy Scouts, end the various
+							veteran organizations, a few survivors of the Civil War and the Spanish-American War. Races were held,
+							starting from the Bank Corner to the top of the High Tor and back. It was a grueling race and the winner,
+							as long as I can remember, was Cooney Urban. Some of the others· participating were Eukie Gansen, Charlie
+							Lane and Irv Rose. I know there were others, whose names I don't recollect.
+							<br><br>
+						</p>
+						<h3 class="post-title">
+							THE VILLAGE POLICE
+						</h3>
+						<p class="blog-post">
+							When I was growing up, our police force consisted of Chief "Kig" Ford, Bernie Fox, Hughie Sheridan, Jack
+							Coyne; later on Frank Hessian and one of the part-time policemen was Bucky Buchanan, who lived next door
+							to our house on Sharp Street. It was rumored around the village that after Cleary shot his son-in-law that
+							"Rig" Ford's gun carried no bullets in it.
+						</p>
+						<h3 class="post-title">
+							PEDDLED GOODS
+						</h3>
+						<p class="blog-post">
+
+							We received some of our fresh vegetables, those that we didn't grow ourselves from Frenchy, who had a farm
+							in New City, located back of the High Tor. Also Mike Kushnir's father also peddled vegetables. In the
+							fall, my father would buy about fifty or more heads of cabbage which we made into sauerkraut for the
+							winter. A barrel of potatoes, some apples and 100 pounds of flour made up our winter's supply of staples.
+							Pop would cut the cabbage with a large cabbage-slicer, putting a layer of cabbage which was salted down,
+							then a layer of apples, another layer of sauerkraut, and so on until it was filled. Until you've tasted an
+							apple frozen in sauerkraut juice, you don't know how delicious apples can be.
+							<br><br>
+							Our ice came from Gene Goetschius from Stony Point, who peddled his ice from a horse and wagon, later on,
+							a truck. It wasn't until we moved to Sharp Street that we got a refrigerator. Milk was delivered to the
+							house by Ed Geier from New City and ladled into your own pail of container. Later on we got it in bottles,
+							but we used a lot of condensed milk also. <br><br>
+							There were various peddlers that came around door­to-door. hawking their goods. One of them was a man by
+							the name of Paster, peddling pots, pans, notions, etc. If he didn't have it with him, he brought it on his
+							next visit. Also we had a fish man who came around with his horse and buggy, blowing a horn as he headed
+							up our street. I can't forget the umbrella man who trudged up and down the streets ringing his bell,
+							shouting "Umbrellas fixed!"
+							<br><br>
+						</p>
+					</div><!-- ChapterIV -->
+					<hr>
+					<div class="post-preview"><!-- ChapterV-->
+						<h3 class="post-title">GOING TO WORK ON THE BRICKYARDS</h3>
+						<p class="blog-post">
+							Some of the boys I palled around with were a year or two older than I was, particularly Joe Collins. He
+							got a job as water-boy on the railroad and, of course, when we would meet in the evening, he had money
+							jingling in his pocket, which the rest of us didn't have. My father worked on the brickyards seasonally
+							and every penny had to count, so I wanted to get a job and leave school. I made application for working
+							papers but I was turned down because I was not yet 14. When the summer vacation came around, my father
+							said to me, "If you want to go to work, get a job on the brickyard and see what it is to work hard and you
+							will be only too glad to go back to school." I took him at his word and tried to get a job at Fowler's and
+							DeNoyelle's brickyards, but there were no openings there. I went down to Malley's where<br><br>
+							I was able to get a job as trucker. Some of the fellows who worked at Malley's were Jack Urban and Joe
+							Rabatin. They were practically brought up on the brickyards, starting to hack brick when they were 6 or 7,
+							helping their older brothers, and, of course., they were hardened to the task.
+							<br><br>
+							I will never forget my first day. I trucked out the pit of brick with the others and thought I had a day's
+							work in, only to find out that was half a day's work and for the other half I had to, hack two-thirds of a
+							yard of brick. If you were experienced, you would generally wind up your day's work about 3:00, 3:30.
+							While it was nearly killing me, I didn't dare quit because there were a few fellows sitting on the
+							sideline razzing me about my slowness, saying, "He'll never make it," and some such remarks. About six
+							o'clock<br><br>
+							my father came down to see what had happened just about the time I was about to complete my hacking. I
+							remember walking home, and that was about three-quarters of a mile, from Malley's to Van Houten Street,
+							and it seemed to me like five miles that day. When I got home, I didn't want to eat, I was so tired; I
+							just wanted to go to bed. After supper I headed straight for bed. My mother said she wouldn't wake me the
+							next morning to give me a day's rest. I told her I had to get up the next day as I would never live it
+							down. After about a week it wasn't so bad after the muscles in my arms and legs developed. When September
+							rolled around, my father asked me if I wanted to continue or go back to school. Needless to say, school
+							was my preference, for which I am grateful.
+						</p>
+						<h3 class="post-title">
+							MIKE RYAN'S DANCE HALL
+						</h3>
+						<p class="blog-post">
+
+							I can't remember when Mike Ryan built his dance hall in back of the family home, but it had a downstairs
+							part which contained a pool room and a room where they played cards and occasionally a crap game. Upstairs
+							was a dance hall and basketball court.
+							<br><br>
+							There was a local basketball team which was called the Flukey Five, which comprised Jimmy McCabe and Harry
+							Schuler as forwards, Johnny Goetschius as center, and Frank McCabe and someone else as guards. Other
+							players were Ken Murray, Joey Lefkowitz and Red Curran. Jimmy McCabe and Schuler were very short men but
+							they were very good shots as forwards. They seemed to duck around the taller opponents. It is hard to
+							think they were good being so small as compared to the seven-footers these days. It was a very good team
+							and played teams from New York and New Jersey, generally on Sunday afternoon.<br><br>
+							They also held dances at Ryan's, I believe every other Saturday. One dance stands out vividly in my
+							memory. It was shortly after the hall was built and was not used very much. Somebody got the idea of
+							holding a funny hat dance. The men went up to Snedeker's on Main Street, who in the early days was a hat
+							and shoe store. He had a big supply of derby hats in the cellar, which somebody found out about, which he
+							wanted to get rid of. He sold these for a quarter each. There were all types of derbies, tall ones and
+							shallow ones.
+							<br><br>
+							The ladies had gone to Hannah Frankel's millinery store and they, too, found some old hats which they
+							bought, or made their own.
+							<br><br>
+							The orchestra was composed of Rope Ryan, Mike's brother, on the piano, Lib Mulligan banjo, Mike
+							Stec<br><br>
+							violin and a drummer, with Professor Chefo as the conductor. Chefo was a frustrated musician whose dream
+							was to be a big orchestra maestro. He had a baton and would stand in front of the orchestra, waving his
+							baton on the style of Toscanini. Woe to you if you ever laughed at his actions!
+							<br><br>
+							The dance was a complete success and was repeated several times. From then on the dances were better
+							attended, with other orchestras playing there; the two most popular at that time were Denny Mitchell's and
+							Eddie Fox's. Later on some local fights were promoted there'. The dance hall burned down in???
+							<br><br>
+
+
+						</p>
+					</div><!-- Chapter V -->
+					<hr>
+					<div class="post-preview"><!-- ChapterVI -->
+						<h3 class="post-title">Chapter VI</h3>
+						<h3 class="post-title">THE BUSINESS DISTRICT</h3>
+						<p class="blog-post">
+
+
+							Reminiscing, I was trying to recall some of the stores and business establishments located on our two main
+							thoroughfares, Main Street and Broadway. The old United States Hotel, a three-story affair, was located
+							where the Post Office is now. Across the street was the Kings Daughters Library which still stands today.
+							Next to it was Renn's bar, at the corner of Main and Liberty Street. Fritzy Ossman had a livery stable on
+							Liberty Street. I recall the night it caught fire. What a spectacular blaze it made with all the hay and
+							straw in it! They were fearful that that part of the village would go up in flame, but the firemen managed
+							to confine the loss to the stable.
+							<br><br>
+							On the other corner of Main and Liberty was Flynn and Lawson's grocery and butcher shop. I can only recall
+							going there once since they dealt in prime meats and groceries, which were too expensive for my father's
+							pocketbook.
+							<br><br>
+							On the same block Martin Lichtenstein had a men's clothing store. Next to it was Levi West's ice cream
+							parlor and restaurant. His reputation for good ice cream was so good that people from around the county
+							came there: for this refreshment. This is where my mother worked when she first came to this
+							country.<br><br>
+							Across the street was the Haverstraw Club and in the next block Snedeker's shoe store was located, Lane's
+							Hardware, Speck's Drug Store, later taken over by Mr. Miller, who was his pharmacist. Speck was drowned
+							when his car went through the ice one winter when he was returning from riding up and down the river on
+							the ice. The Bee Hive was a small notions store and then moved to the Straut Building on New Main Street,
+							where they sold furniture, etc. Across the street was a photographer, as I recall, by the name of Terhune,
+							and in the first block of Main Street was Mardorf's Bakery and I can't remember the name of the stationery
+							store, then Grosson's pool parlor, tobacco and newspaper store, and Lagomarino's candy store where we got
+							our penny candy.<br><br>
+							Henry Reynold had a grocery store in the block where the National Bank (now Empire National) is located,
+							and the Greeks had a confectionary and ice cream store. Pop Jenkins had a store in that same block where
+							he sold wallpaper and Hannah Frankel had a millinery store on the corner of Fourth and Main.<br><br>
+							The National Bank was on the southeast corner of Main, and the Peoples Bank (now the County Trust) across
+							the street on the northwest corner.<br><br>
+							Further down New Main Street, the Straut Building, which was an electrical store, lamps, etc., later the
+							Bee Hive, then Pressler's Men's Shop and Ralph Stalter1 s restaurant known for his culinary art in cooking
+							Westerns and Klondikes. If you wanted to know the latest gossip, you didn't have to buy the Times or
+							Messenger, just stop in at Ralph's for a hamburger and coffee. The Majestic Theatre was next to Scalter
+							that featured vaudeville on Saturday afternoon and evenings. Matinees were 15¢ and evenings it was
+							something like a quarter. The theatre burned down years after its opening. To the west of that was the
+							Savings and Loan and in back of that at the corner of Broad Street was Kaiser's Mills, where we bought our
+							chicken feed, later called Kasco, which was sold I believe to Purina or one of the big feed conglomerates.
+							<br><br>
+							Swift & Company's beef house, which served the Rockland County area butchers, was the other side of the
+							Erie Railroad station, where the line ended, and W. T. Purdy and Son had a furniture store there, later
+							converted to a funeral home by his son, Heman Purdy, now George Holt's Funeral Parlor.<br><br>
+							On the other side of New Main was Meyer's grocery store, a drug store, a barber shop, a saloon and next to
+							that was Mike McCabe's Rockland County Times, John Schubert's bicycle and electric shop, Freeman's real
+							estate and insurance office, and Ralph Pick's photo shop. Then P. Dickman built a large store which they
+							occupied until Mr. Dickman died several years ago.
+							<br><br>
+							Stores on Broadway, next to Lagornarsino's. was a shoe repair shop, then DeChelfin's jewelry store,
+							Lichter's, Bauer's Bakery and then Baum's Department store, Bernie Fox's poolroom and a few other stores.
+							<br><br>
+							On the west side of Broadway next to the bank was Vandenburg's Jewelry, Benny Friedman's 5 and 10, later
+							on Shea's Drug Store, Gillies real estate and insurance, The Messenger, a candy store, Adler's saloon and
+							Dr. Wood'-s house and office and Wood's Drug Store. Allen's men's and ladies' wear store was on the next
+							block, Simon and Son's furniture place next and the Crescent Drug Store next to the, t, followed by
+							Waldron's Opera House and, as I recall, a barber somewhere in between.
+							<br><br>
+						</p>
+					</div><!-- Chapter VI -->
+					<hr>
+					<div class="post-preview"><!-- Chapter VII -->
+						<h3 class="post-title">Chapter VII</h3>
+						<h3 class="post-title">WIDE OPEN HAVERSTRAW<br><br></h3>
+						<p class="blog-post">
+							Haverstraw was a wide open town in those days with pool rooms or parlors up and down Main St. and
+							Broadway.<br><br>
+							Down near the Post Office was Mickey Donaldson's brother's Tub of Blood. If you don't know who Mickey
+							Donaldson was, he was the Congressional Medal of Honor soldier (World War I) from Rockland County. Across
+							the street was the staid Haverstraw Club. The next block housed Jake Kern's and Flynn's pool rooms. In the
+							next block was Grosson's and up on Broadway was Bernie Fox's, Mike Ryan's, and the Business Men's Club.
+							While they were called poolrooms, the backrooms were used for card games and crap games. The Hole in One
+							on Division Street was another one.
+							<br><br>
+							Joe Rabatin, with whom I palled around, was quite a gambler, particularly with dice. He would start at the
+							Tub of Blood where the stakes were small--nickels and dimes-­ and, if successful, would move on to Flynn's
+							or Mike Ryan's. I remember once occasion when we had a date in Nyack to go to the vaudeville show with our
+							dates, and Joe started around 7:00 at the Tub of Blood, won a few dollars, then went to Flynn's, won some
+							more and then up to Mike Ryan's where his luck continued. He had something over a hundred dollars, quite a
+							bundle in those days, when he decided this was his night, so he went across the street to the Business
+							Men's Club, where big money was played. A few passes with the dice and he came out talking to himself,
+							saying, "I should have quit." But we managed to make the second show in Nyack.
+							<br><br>
+							Ironically, after Joe was married, he continued his gambling, sometimes not bothering to come home after
+							being paid, he would lose his weeks salary. His wife, Carrie Nation-style, decided to put an end to his
+							gambling by heaving a brick through Ryan's windows. After that he was barred from Ryan's.
+						</p>
+						<h3 class="post-title">
+							THE WELL-TO-DO
+						</h3>
+						<p class="blog-post">
+
+							Front Street or First Street was the location of many of Haverstraw's well-to-do people, including Everett
+							Fowler (the Elks Club now), Captain Bill's (where Dr. Glass' widow now lives), the Anness family who were
+							related to the DeNoyelle's family, Martin Driscoll, whom I mentioned earlier, later occupied by Major
+							William Welch of the Palisades Interstate Park, John Fowler, later sold to Ed Vandenburg, Oscar Reynolds,
+							the cashier of the Peoples Bank, the Coe family, and the Ira Hedtes family. Hedtes was a general in the
+							Civil War. They were beautiful homes, well-kept, and it breaks my heart when I pass by and see the
+							dilapidated condition of those big houses now turned into multi-apartments.
+						</p>
+						<h3 class="post-title">
+							THE ONTEORA
+						</h3>
+						<p class="blog-post">
+
+							Sometime around the early 1920's the Hudson River day liner Onteora was housed in the Clay Hole, as it was
+							then called, which is now filled with rock dust from the Trap Rock. A dam was broken through and the river
+							water filled up the deep hole where the clay deposits had formerly been taken from; and that boat, as well
+							as one other, the name of which I can’t remember, were berthed there for one winter. We used to go down
+							when the water was frozen and climb around the decks.
+
+						</p>
+						<h3 class="post-title">
+							AN OLD FEUD
+						</h3>
+						<p class="blog-post">
+
+							There was a feud between Mike McCabe, the publisher of The Times, and Thomas Gagan, one of the most
+							prominent Rockland County attorneys. As I recall being told, it stemmed from the time of the Cleary trial
+							when Gagan was District Attorney. If my recollection is correct, Bill Cleary was a tailor in New York City
+							who catered to the police and firemen and was deeply involved in Tammany politics in the City as well as
+							in Haverstraw. His daughter had eloped with Gene Newman, a Protestant, much against her father's will.
+							Cleary, who was Village Clerk at the time, had invited Newman to the Village Hall. Thinking it w s for a
+							reconciliation, Newman appeared in the Clerk's office at the designated time. In the office at the time
+							was Chief Kig Ford, who was sitting next to Cleary. I don't recall if there were some words between them
+							or whatever prompted the action, but Cleary reached over and took the gun out of the Chief's holster and
+							shot Newman. Gagan at that time was the D.A. who prosecuted Cleary. It has been rumored down to today that
+							Tammany Hall had contacted every juror on the panel and from hearing the story many times it was rumored
+							that such and such a juror got a horse, another one had a porch added on to his house, and others received
+							cash-consideration. Cleary was acquitted but then later sent to prison for having used some village funds.
+							The Cleary's were neighbors of ours and I remember my folks telling us about the anxious hours they spent
+							during the trial. One of Cleary's sisters was the Superintendent of our High School.<br><br>
+							If that was the reason for the feud I don't know, but what I observed many times was Mike McCabe waiting
+							in front of his Times office for Tom Gagan to pass. Gagan, if he was not at the courthouse or elsewhere,
+							was a man who punctually would leave his office at 12:00 noon to go home to lunch. As Gagan would reach
+							the edge of his sidewalk, McCabe would take his broom and sweep Gagan's footsteps off the sidewalk. It was
+							a common thing for those of us in the Peoples Bank, where I worked, to watch for Gagan and McCabe go
+							through this routine. Gagan, with head held high, would continue walking, paying no attention to McCabe.
+						</p>
+						<h3 class="post-title">
+							SOME VILLAGE CHARACTERS
+						</h3>
+						<p class="blog-post">
+
+							Fritz Bauer had a bakery on Broadway just south of Baum's Department Store. There was an alley that had a
+							door in front which led to the barn that housed his horse and bakery wagon. Bauer liked to imbibe and,
+							since he serviced a few saloons (they weren't bars and grills in those days), he would take a drink here
+							and there. His last stop was Otto Wurm's on West Street and from being on the road from early morning and
+							with the libation helping, he would fall asleep sometimes at the bar. He would be escorted to the wagon,
+							placed inside and the horse given a slap on the rump, and the horse would trot homeward, across the Main
+							St. and Broadway intersection and stop at the edge of the sidewalk entrance to the alley until someone
+							from the store or a passerby would open the gate and the horse would then go in.
+							<br><br>
+							Rev. Walter Hoffman was a familiar sight around the village. He was a frequenter of Adler's, where he
+							rubbed elbows with the villagers. I remember he was a character witness for Sheriff "Bus" Dormann and he
+							was being cross examined by Irving Kennedy about his presence in a bar, being asked if he thought it was a
+							good thing for a minister to frequent bars, and I remember his answer so vividly: "You meet more sinners
+							in a bar than you do in church!"
+							<br><br>
+							Gents Brems was Police Justice in the village for years. He was also known to bend an elbow. I recall one
+							incident when Frank Hessian, one of our patrolmen, had been accused of using too much force in the arrest
+							of a crossing guard at the Westside Avenue crossing. At the trial we had a recess about every half-hour
+							when the judge would disappear.
+							<br><br>
+							The trial went into the wee hours of the morning and by this time Gents had the shakes, shaking so much
+							that I had to ask him not to lean on the desk because I couldn't write. In selecting the jury, the
+							attorney, who came from Newburgh, never asked any of the jurors if they were any relation to Hessian. It
+							so happened that two of the jurors were related to Hessian. Need I tell you he was acquitted?
+							<br><br>
+							Henry Beall was another character around town who would do odd jobs in the village. He never had a steady
+							job but managed to keep himself fed. At one time he slept in the boiler room of the Village Hall, sharing
+							it with Choke the Parrot Haefle. On one occasion someone bet Henry he couldn't eat a whole panful of
+							beans. Henry sat down to a newly baked pan of pork and beans and proceeded to devour the whole large pan
+							that the restaurants use. After he finished he asked for several slices of bread so· he could wipe up the
+							pan.
+							<br><br>
+							Choke the Parrot Haefle never had a steady job either. In the spring he would sell pussy-willows up on 9W
+							at the railroad crossing and in the fall he would sell bunches of bittersweets. But he always seemed to
+							have a cigar in his mouth. He was supposedly some shirttail relation of Vic Shankey. In his later years
+							Vic got him admitted to Summit Park, where he would stay a few days, where he had a clean bed and meals,
+							and then would return to his boiler room sleeping quarters.
+						</p>
+						<h3 class="post-title">
+							SKIMMELTONS
+						</h3>
+						<p class="blog-post">
+
+							Bet you don't know what a skimmelton is. When a married couple returned from their honeymoon, they would
+							be serenaded by their friends and neighbors beating on a pot or pan with a spoon outside their home. ' If
+							they were kids, you would usually be rewarded with a sum of money, which they split up, or, if adults, be
+							invite~ in for coffee and cake or a drink. When we returned from our honeymoon to Sharp Street, we were
+							treated to a skimmelton by the neighbors.
+						</p>
+						<h3 class="post-title">
+							THE KU KLUX KLAN
+						</h3>
+						<p class="blog-post">
+
+							I recall the burning of crosses on the <a href="https://en.wikipedia.org/wiki/High_Tor_State_Park">High
+							Tor</a> by the Ku Klux Klan on two occasions. This would be around 9:00 or 9:30 at night and we would
+							watch from the street as the crosses burned, which sent a shiver down your spine. I recall my mother
+							saying, "They should fall off the cliff for frightening everyone."
+
+						</p>
+					</div><!-- Chapter VII -->
+					<hr>
+					<div class="post-preview"><!-- Chapter VIII -->
+						<h3 class="post-title">BRICKMAKING</h3>
+
+						<blockquote>
+							These notes are on three separate pages. Daddy must have sent them to Dan DeNoyelles because with them is
+							a letter from him, dated November 15, 1975, in which DeNoyelles’ makes several comments on Daddy’s
+							description. I have indicated to what sections of Daddy's pages the comments refer and have also added
+							DeNoyelles’ letter, since I think Daddy intended to make some use of it in rewriting this section.
+						</blockquote>
+						<p class="blog-post">Since the art of brickmaking seems to be lost forever in the Haverstraw area, perhaps I
+							should tell you a little about how bricks were made in those days when I worked the yards.<br><br>
+							In 1919 and 1920 brickyards were a thriving industry and was sort of a way of life for the community (1).
+							Since my experience was with the Malley yard, I will try to give you a word-picture of what it was like,
+							as best I can recall. The Malley yard was located on the lands where Ward Brothers and the Trap Rock silos
+							stand today at the southern end of the village. The brickyards extended from the Malley yards up the beach
+							all the way up to Tomkins Cove.
+							<br><br>
+							The clay for the brick from the Malley yard was cut from a clay pit which was then located immediately
+							north of the yard, which is now filled in with rock dust (1). At that time it was a big hole which had a
+							winding road from the bottom up to a road leading south to the Malley yard.<br><br>
+							There the men would slice the clay from the bank with a razor-sharp pick (3), slicing a chunk of clay much
+							like a butcher would slice a piece of meat. The clay was then loaded into a two-wheel wagon drawn by a
+							horse. There was no driver's seat on the wagon, as I recall; the man walked alongsidethe horse (4). The
+							load was taken to the pit which was locater. at the back of the brickmaking machine.
+							<br><br>
+							The DeNoyelles and Fowler yards did not have a clay bank. They got their clay from the river. A big dredge
+							or shovel would dig the clay from the river bottom, load it into small railroad cars on a barge and a
+							Cornell tug would tr.0.n bring it to their docks where the cars would be hooked onto the winch which would
+							pull the cars up a trestle and when the cars reached a certain point, they were dumped by a lever and the
+							clay would slide down on both sides of the trestle. The engine room of the DeNoyelles yard still stands
+							today opposite Zeh's school bus parking lot.
+							<br><br>
+							When the clay was dumped into the pit, the p i t crew went to work chopping it into smaller pieces and
+							mixing it with coal dust and a sharp sand containing silica, which made for a good strong brick. They
+							shoveled this mixture into a machine which had a revolving mixing-action, somewhat like a blender (5).
+							Generally, there were two or three men in the pit (6), mostly Slovak, Irish or Italian. Very few colored
+							people worked the pits.
+							<br><br>
+							In front of the machine stood the striker or molder. To the side of the machine was another small
+							cylinder-type affair, which contained five or six, perhaps more, openings to hold the molds. Into this
+							machine was dumped a certain quantity of sand and brick dust or red dust (7). This cylinder revolved and
+							the sand and dust coated the inside molds.
+							<br><br>
+							As the cylinder revolved, the sander, as he was called (8), would take a mold and put it into the press.
+							When this was done, the striker would pull down a lever and the machine would press the mixed clay into
+							the molds and when filled, it was pushed out to the striker, who had a large piece of steel with handles
+							on either side, something resembling a scraper, and would shave off whatever excess clay was on the mold
+							to give the brick a smooth finish. Then he would take the mold and put it on a truck and when six of these
+							molds were on the truck, the trucker would take the newly formed brick and run up the yard to either the
+							short dumper or the long dumper, who would dump the brick on the smooth yard with the face or name facing
+							down, the long dumper being located at the extreme end of the yard and the short dumper at about the
+							middle of the yard. The dumpers were really experts in this in that they could dump a mold only an inch or
+							so apart. The entire output of one yard was about 22,000 brick.
+							<br><br>
+							The brickyards would start work very early in the morning to take advantage of the sun drying the brick.
+							The Malley yards had a gang which started around 4:00 A.M., which they called "The Sunlighters." The rest
+							of the machines started around 4:30 or shortly thereafter (9).
+							<br><br>
+							The Malley yard had seven machines; most of the other yards had between four and six machines. Each
+							machine had two yards which they worked on alternate days.
+							<br><br>
+							The brick that were dumped on this stone-free yard and, after they were dried a certain length of time,
+							the edger, with a particular kind of wood-type thing, would edge the bricks on their sides to continue the
+							drying process. These bricks were generally left to dry overnight (10). The next day they were hacked and
+							placed on a plank that extended the full length of the yard and stacked about four feet high with about a
+							quarter-inch space between them and left to dry for another day, after which they were wheeled into the
+							shed and stacked for burning or drying in a kiln.
+							<br><br>
+							The personnel of a gang was two or three pit men, a striker, a sander or molder, five truckers (if the
+							weather had been rainy and the yard soft, six men), two dumpers and a machine boy, whose duty it was to
+							keep the sander filled with red dust and sand as well as doing errands for the crew, including keeping the
+							water pail filled (11).
+							<br><br>
+							To make the kiln brick were piled up to the top of. the shed approximately 35, 40 feet high. The truckers
+							or\ men who wheeled these brick to the kiln were so expert in this that they would take two bricks in each
+							hand from the wheelbarrow, slap them together and heave them up to the setter at the top without the
+							bricks corning apart (12). I am told there were some brickyard men who would put a dime between the four
+							bricks and toss it up to the top of the kiln to the setter without the dime falling out.
+							<br><br>
+							The crew who stacked the brick for the kiln were experienced men, expert in the art of building arches for
+							the fires. I don't know how many brick would be in a kiln, hut my recollection is that there were at least
+							eight or ten arches to a kiln. Somewhere I heard a kiln was something over a million brick (13). These
+							arches were filled with wood to start the fires and then fired with coal, which burned 24 hours of the day
+							for about a week or so, after which the fires died down and the brick were allowed to cool. When the brick
+							were cooled, they were then loaded on a barge. Wheeling the brick from the kiln was difficult work,
+							particularly if the barge was empty and the tide was high. If the barge was high, the men had to make a
+							running start with the special wheelbarrow made for brick-hauling, which held ~bout 100 bricks, stacked on
+							both sides of the wheel.
+							<br><br>
+							The kiln-dried brick (14) were stacked on the barge close together for shipment to New York or wherever
+							they were destined to. Sometimes if the tide was high, they would assign a man on the barge with a long
+							hook, who would hook onto the wheelbarrow and help the man up the narrow plank leading to the barge.
+							Occasionally a man running up the plank would lose his balance and the wheelbarrow full of bricks would go
+							into the river, sometimes even the man being dunked, only to catch hell from the foreman. It was always
+							said you were never a man until you loaded boat. I tried it once and had to give up as I couldn't stand
+							the pace.
+
+							<br><br>
+							After our day's work we would generally go skinny dipping in the river to get cleaned off.<br><br>
+							When I worked the Malley yard, there were, I was told, something like 30, 32 yards in operation from
+							Malley's up to Tomkins Cove.
+							<br><br>
+							Among some of the names I remember were DeNoyelles, Lynch, Everett Fowler and Son, Excelsior, Archer's
+							upper and lower yards, Renn, Morrissey, Wood and Allison, U. F. Washburn, Denton Fowler and Son, Peck,
+							Garner, Byrnes, Lilburn, Nicholson, Bennett and Dunnigan.
+							<br><br>I was curious as to when they started putting names or brands on the bricks and was informed by
+							Dan DeNoyelles, whose family was in the brickmaking business for over 150 years, it was sometime around
+							the 1870's. Before that, millions of bricks were manufactured along the Hudson River without any markings
+							or brands. So if_ you see a brick without a name or brand, you know it was made before the 1870's.
+							<br><br>
+						</p>
+						<blockquote>
+							Dan DeNoyelles' Notes<br><br>
+							===== <br> Jim's Note <br> Daniel DeNoyelles wrote a number of books about Rockland County and in 1982
+							published a book about Brickmaking in the area - "Within These Gates" The History of Brick-Making in the
+							Huson River Valley, NY <br>====
+							<br><br>
+							(1) The DeNoyelles yard built their trestle for the river clay in 1910, but I am not sure when we all gave
+							up digging clay from the cofferdam and went to river clay.<br><br>
+							Malley might have taken clay from the land deposit in the cofferdam while our DeNoyelles made brick from
+							the river clay. I don't know, though at one time all of our yards took clay from the cofferdam which was
+							built in 1883.<br><br>
+							(2) As mentioned above, we all took clay from the cofferdam, but when the river was let into the cofferdam
+							(about 1912), all of us used river-dredged clay.<br><br>
+							(3) The men cut the clay with a shovel which was razor-sharp and each clay-cutter took care of his shovel
+							as a barber would take care of his razor--take it home at night and occasionally sharpen it.<br><br>
+							(4) There was a little ledge on the front part of the clay cart. The men walked alongside of the
+							clay-filled carts (the clay was heavy enough), but going north to the clay bank, they would ride on this
+							ledge which was about 4 inches wide, maybe 3 inches.<br><br>
+							(5) The pitshovellers cut the clay and shoveled it onto a conveyer which conveyed the pieces along with
+							sand and coal dust up to the tub where the knives ground up the mixture. At the bottom of the tub there
+							were two wipers (wide knives) which pushed the mixture under the packer or press.<br><br>
+							(6) Two men generally worked as pitshovellers. They had to be big and strong. If they were small men or
+							light in weight, the foreman would use three men.<br><br>
+							(7) The red dust was iron oxide and along with the molding sand, it would coat the inside of the damp
+							molds so as to let the newly-molded brick slip out easily.<br><br>
+							(8) The man you list as sander was the mold pusher and he took the mold off the sander, would tap them a
+							bit to get rid of excess sand, and push them into the machine in front of a lever. The lever would come
+							forward and push the empty mold under the packer or press after the mold pusher had placed another empty
+							mold into the side of the brick machine.<br><br>
+							The truckers would take the molds--five at a time-on a little two-wheeled truck to run them out to the
+							dumpers. There were four molds on the sander.<br><br>
+							(9) Some of the gangs--the early starters--were known as Moonlighters.<br><br>
+							(10) Brick were not left overnight if possible. As soon as the foreman tested the brick so fingers would
+							not leave an imprint, he would give the signal to start hacking or placing the brick stacked on the hack
+							planks. Rain, which was disaster on the open yards, always made brickmakers wary, so brick were hacked as
+							soon as possible.<br><br>
+							<div class="col-sm-12 blog-post">
+								<div class="col-sm-8">
+									<table style="width:100%">
+										<caption><u>Personnel</u></caption>
+										<tbody>
+										<tr>
+											<td>2 Or 3 pitshovellers</td>
+											<td>1 machine boy</td>
+										</tr>
+										<tr>
+											<td>4 truckers (5 after a rain on a soft yard)</td>
+											<td> 1 mold pusher</td>
+										</tr>
+										<tr>
+											<td>1 molder</td>
+											<td>2 dumpers.</td>
+										</tr>
+										</tbody>
+									</table>
+								</div>
+							</div>
+
+							<br><br><br>
+							(12) As I noted, the truckers ran the new brick in the molds out to the dumpers. Green brick wheelers
+							brought the brick into the sheds and tossed them up to the brick setters as you have noted.<br><br>
+							(13) It was cheaper to burn a large amount of brick in a kiln. They were the stove type. Most brickmakers
+							burned 20 arches or 1,000,000 brick at a time, though you could burn as many arches as the owner wanted
+							to.<br><br>
+							(14) The brick could not be termed kiln-dried. They actually burned and it all fused together to make a
+							strong brick. The first course of brick in the kiln ignited the second course. The second course burned
+							the third course. Our kilns, and Malley's too, I believe, were 60 brick high
+						</blockquote>
+
+
+					</div><!-- Chapter VIII -->
+					<hr>
+					<div class="post-preview"><!-- Chapter IX-->
+						<h3 class="post-title">Chapter IX</h3>
+						<h3 class="post-title">JBK AND KBK</h3>
+						<p class="blog-post">
+							Then there was the time I was mistaken for United States Senator Kenneth B. Keating. The occasion was a
+							Republican fund-raising dinner at the Bear Mountain Inn. The time, I believe, was in the early 1960's and
+							the tickets were $25.00 per, fairly high for that time. When Judge Henion said he couldn't afford to bring
+							his wife because of the cost, we decided I couldn't afford it either, and so Mom stayed home.
+							<br><br>
+							Everybody in the office, including Kathy Walter, who at that time wasn't married and was the judge's
+							secretary, Gene Cavallo, the Judge's law-secretary, as well as myself, were prevailed upon to buy a ticket
+							for the dinner. It was a dressy affair and I picked up Kathy at her mother's home and drove up the Parkway
+							to the Bear Mountain Inn. As I drove up to the entrance to the Inn, one of the Palisades Interstate Park
+							patrolmen rushed over to the car and opened the door for Kathy, and I said I would drive over and park the
+							car in the parking lot, whereupon the officer said, "No, no; just leave it right here." I said, "Right
+							here?" and he said, "Just leave it right here."
+							<br><br>
+							So then he proceeded to escort us to the VIP room, where the big shots were assembled, where drinks and
+							hors d'oeuvres were being served; and this officer asked us what we would like to drink and he went over
+							to ··the bar and brought us our drink and had one of the hostesses bring over a tray of hors d'oeuvres,
+							which prompted Kathy to say, "Boy, do you rate around here!"
+							<br><br>
+							As Sheriff Buddy Mock, Judge Henion, Judge Skahen and District Attorney Mort Silberman came in, they all
+							remarked that I had a hell of a nerve to park in the front of the entrance whereas they had to park in the
+							public parking lot. At that time I was Clerk in the Justice's Court in Clarkstown, and I had a wide
+							acquaintance with practically all of the PIP cops and I thought it was for this reason I was given the red
+							carpet treatment. It wasn't until we were being escorted into the dining room that Chief Hlavaty, of the
+							PIP police, took me asio.e and said, "Joe, he thinks you're Senator Keating." He was told to look for a
+							white-haired man whose license-plates were KBK. Well, JBK was close.
+						</p>
+						<hr>
+						<div class="post-preview" style="page-break-before: always">
+							<!-- Chapter IX-->
+							<h3 class="post-title">Chapter VIII addendum</h3>
+							<h3 class="post-title">Lou Nova</h3>
+							<blockquote>note by Jim O'Brien -
+								Included in JBK's papers when he passed was an addiltional pamphlet <a
+										href="https://www.havingadventures.com/adventures/TurnedBack.html">"I Turned Back the Clock to
+									Yesterday"</a>. Along with this was a note regarding the following story which JBK wished he had
+								included in this book. Therefore I've included it here with some additional notes.
+							</blockquote>
+							<p class="blog-post">
+								In my book about my stint on the 20th Century, I had written about having done some work for Doc Bernard
+								at the Clarkstown Country Club. I don't recall that I mentioned that hanging on the wall of his office
+								was a pair of boxing gloves, which I went over to look at and Doc said, "If you want them, take them.
+								They're the gloves that Lou Nova used when he won the world's heavyweight title from Max Baer in
+								1939."<br><br>
+								I was reminded of the incident recently when I read a story in the May 1975 issue of True Magazine
+								entitled ''It Happened in Sports: A Moment of Cosmic Truth," which related the unusual training of Lou
+								Nova at the Clarkstown Country Club, where he was attended not by the usual handlers, but by young women
+								dressed in flowing white Grecian-style gowns, who would wipe away the sweat, patted him with little
+								towels, and rubbed his neck. In the background elephants strutted around while strutting peacocks roamed
+								the grounds.<br><br>
+								His training consisted of drinking nothing but goat's milk and studying Yoga at night under the stars.
+								The story goes on that Oom had invited Nova to work out at his 300-acre estate and through the cult's
+								teachings developed special powers needed to beat his opponent, Baer. According to Oom, these powers
+								were cosmic in nature.<br><br>
+								One of the sports writers of the time, Hype Igoe of the New York Journal-American, reported, "If Lou
+								stays in this nuthouse, he 1s sure to lose the fight." At a press conference, Oom told the reporters,
+								"Nova will absorb our doctrine of mind over matter and be given inner strength no other fighter ever
+								had," and that Nova had developed what he called the "Cosmic punch." Oom went on to say that among
+								astronomers "nova" meant a star which suddenly flares and increases its energy output.<br><br>
+								The story goes on that one of the reporters' response was that this was a lot of crap. One moonlight
+								night Nova was observed dancing over the grass wearing what was described as a great big hunk of
+								cheesecloth, being instructed by Oom in how to arrange himself in various Yoga positions.<br><br>
+								Mike Jacobs, who promoted the Madison Square Garden fight, at first thought it was a publicity-stunt,
+								but later changed his mind and was worried about what the goings-on would do to ticket sales.<br><br>
+								On the night of the fight Oom was sitting near the ringside with several of his followers looking
+								confident. The first three rounds Baer won easily and Nova lost Round four because of a low blow. In the
+								fifth round Baer was all over him cutting Lou above the right eye. During these rounds Nova was booed
+								loudly. However, in the sixth round, pivoting his hips in what might or might not have been a cosmic
+								movement, Nova struck Baer flush on the mouth ripping it open. From that time on it was all Nova. In the
+								tenth both of Baer's eyes were virtually closed and his legs started to go and in the eleventh Baer
+								collapsed in his corner, unable to continue. After the fight Nova revealed that in the third round he
+								hurt his hand on the top of Baer's skull so badly he didn't think he could continue. However, he said,
+								"Oom and the cosmic punch saw me through."<br><br>
+								I got a big kick out of the last paragraph which said Lou ran on what he called the Utopian Party ticket
+								for President of the United States. Oldtimers on Cauliflower Alley sighed with relief when his
+								presidential ambitions failed, for guess who--if he was elected--might have been Vice-President? So you
+								see, those boxing-gloves we had had a history behind them.
+							</p>
+							<blockquote>
+								Jim’s note – <a href="https://www.history.com/topics/black-history/joe-louis">Joe Louis was the World
+								Champion from 1937 to 1949.</a><br>
+								The first Nova Baer fight was on June 1, 1939. Nova won but then lost in his next fight with Tony
+								Galento on Sept 15, 1939. Nova was injured badly and was treated in hospital, almost losing an eye. He
+								fought and defeated Baer again in 1941.<br>
+								On September 29, 1941 he fought Joe Louis for the heavyweight title. Nova was knocked down once in the
+								6th round. Nova made a poor showing. According to Nat Fleischer (The Ring, December 1941, page 4) he
+								didn't win a round and took a terrible beating in the sixth round. The end was somewhat controversial
+								because the fight was stopped with just one second left in the sixth round when Nova arose unsteadily
+								from the knockdown.<br><br>
+
+								<b> From NY Times Tuesday, Sept 30, 1941 – Title “Cosmic Punch Lands, All Right, But It’s Nova Doing the
+									Catching” the final three paragraphs with heading “Cosmic Punch” Victim
+									Then came the sixth when the cosmic punch appeared. But J. Shufflin’ Louis had it. He took aim like a
+									hunter with a rifle and let fly with a right. Nova was knocked flying to the eastern edge of the
+									canvas, right by the rope.
+									The victim wavered his way up at the count of “nine” and Louis pursued him and belabored him in
+									fearful fashion. Just before the bell rang the Dark Destroyer nailed his victim with a left that
+									opened a wicked cut over Nova’s left eye. The challenger was a gory wreck. He was helpless and his
+									case was hopeless. Revere Donovan gave the “all off” sign just before the bell rang to end the round.
+									The result was a blow to the study of yoga in this country. And the US Army will get an undefeated
+									heavyweight champion ready for a private’s life in a squad tent.
+								</b></blockquote>
+						</div>
+
+					</div><!-- Chapter IX-->
+					<hr>
+					<div class="post-preview"><!-- Chapter X-->
+						<h3 class="post-title">Speeches</h3>
+						<h3 class="post-title"></h3>
+						<p class="blog-post">
+							These two speeches were in the same folder with the previous material. Daddy may have been thinking of
+							typing them up or of simply usinq them to recall memories. In any case I thought it would be good to
+							include them here. <br><br>
+
+							The First of them is the speech Daddy gave at his retirement dinner April 3, 1970. The other one reads as
+							if it must have been given at the Courthouse, at some retirement-service there.<br><br>
+						</p>
+						<p class="blog-post">
+							I feel somewhat like the drunk who found himself at the edge of the lake in Central Park on a very bright,
+							moonlit night, with the moon reflecting brightly on the water As he stood there weaving, a police officer
+							came along and, fearing he would fall in, nudged him to move on.<br><br>
+							The drunk said, "All right, officer, just tell me what's that down there?" indicating the reflection of
+							the moon on the water.<br><br>
+							"Why that's the moon," said the officer. The drunk looked at him for a moment and said, "That's what I
+							thought; but what am I dining up here?"<br><br>
+							After many, many years of being the silent one in the courtroom, this is a new switch for me.<br><br>
+							The time of retirement I suppose in certain respects is a time for reflection--going back over the events
+							that have occurred for over a third of a century. I have a very vivid recollection of my first day in
+							court where I was called upon to record all day a handwriting expert, who later was to testify in the
+							Lindbergh trial. I came into the case in the middle of it and didn't know what the previous testimony was,
+							knew none of the attorneys, and, in fact, didn't know the difference between a plaintiff and a
+							defendant.<br><br>
+
+							I have witnessed a great change in our county, particularly in our county seat, and seen the traumatic
+							change from a nice, quiet, sleepy farming town to suburbia with all its problems and ramifications.
+						</p>
+					</div>
+				</div><!-- Chapter X -->
+				<hr>
+				<div class="post-preview"><!-- ChapterIII-->
+					<h3 class="post-title">Additional incidents</h3>
+					<h3 class="post-title"></h3>
+					<p class="blog-post">
+						These three incidents are on separate pages, the first and third apparently stories Daddy wanted to add to
+						his book on working on the Twentieth Century Limited.
+						BABY BORN ON. 20TH CENTURY and Lou Nova are in the revised "Trainload of Bosses" links
+					</p>
+				</div>
+				<hr>
+
+				<div class="post-preview"><!-- Chapter XI-->
+					<h3 class="post-title">Story of Big Mike</h3>
+					<p class="blog-post">
+						A few nights ago I came home from court and, while waiting for supper, I sat relaxed in my reclini.ng chair
+						trying to think of something to say tonight. One of my daughters was at the piano playing, and among the
+						tunes she played was that beautiful song from "Man of LaMancha," "The Impossible Dream;" and while I
+						listened, the words of the song kept corning to me and the thought came to me that I, too, have lived the
+						impossible dream--not the dream of landing on the moon, or accomplishing some almost impossible feat—hut the
+						dream that you and I, and all good parents dream--to raise our families--educate them--and hope and pray
+						that they turn out to be good citizens. <br><br>
+						Another phase of that impossible dream was the time when my son, Father Joe, was picked to go to Rome for
+						his last four years. It was a happy occasion because this had been his dream. The whole family went to the
+						boat to which him bon voyage, and as the boat pulled away from the dock, the happy occasion ended and--as
+						one--almost everybody started crying. When I inquired why the tears, I was reminded that they would not be
+						able to attend his ordination because it would be in Rome, which at that time seemed out of the question.
+
+						With tongue in cheek I recall saying, "With God's help we'll make it." Little did I dream that four years
+						later a miracle--the impossible dream had come true.
+
+						Like all reporters, I have had many experiences in court--some of tragic proportions and others of a gayer
+						nature. One incident of a happy nature was when we were in the midst of a criminal trial when George V.
+						Dorsey was District Attorney. One of the court attendants came up to him during his examination of a witness
+						and handed him a note.
+
+						He came up to the railing and in all seriousness said he had a very important statement to make on the
+						record, and then proceeded to say, "If your Honor please, I have a very important announcement to make that
+						I wish recorded on the record--that Mr. Komonchak, after four girls, is now the father of a boy," at which
+						time the courtroom exploded into a round of applause from those present, including the jury and the judge,
+						who was noted for his decorum in the courtroom.
+
+						So, Father Joe, not only is your birth recorded with the Bureau of Vital Statistics, but also recorded in
+						the records of the County Court.
+
+						I have had sad occasions where people that I knew and people for whom I had great regard and respect were
+						brought before the bar of justice for their transgressions.
+
+						Also in the Surrogate's Court there were many sad situations in that court--to see a family that has grown
+						up together and lived under one roof for so many years, that shared so many happy times, when someone dies
+						to see the fighting and skeleton-rattling that goes on over a few paltry Dollars.
+						Many people have asked me about important cases. Every case is important to the litigants and as far as the
+						reporter is concerned, it makes no difference whether it is for a petty crime or one of the high felonies in
+						the criminal court or an unlimited amount in the civil court.
+					</p>
+				</div><!-- Chapter XI -->
+
+
+			</div><!--col-lg-12-->
+			<!-- maps and links-->
+			<div style="page-break-before: always;">
+				<h4><a href="https://drive.google.com/open?id=1h-7VYL_ntrU95Tfen6-6SaJuiOP-abFX&usp=sharing">Link to full size
+					map</a></h4>
+
+				<div class="col-sm-12 blog-post center-block text-center">
+					<div class="embed-responsive embed-responsive-16by9">
+						<iframe src="xx" width="640" height="480"></iframe>
+					</div>
+				</div>
+			</div>
+		</div><!--row-->
+	</div><!--container-->
+</article>
+
+
+<!-- Footer -- loaded from separate file - footer.html -->
+<div id="footer"></div>
+
+<!-- jQuery -->
+<script src="../js/jquery.min.js"></script>
+<!-- Bootstrap Core JavaScript -->
+<script src="../js/bootstrap.min.js"></script>
+<!-- Custom Theme JavaScript -->
+<script src="../js/clean-blog.min.js"></script>
+
+<script>
+	$("#nav").load("nav.html");
+
+	$("#footer").load("footer.html");
+
+</script>
+
+</body>
+</html>

@@ -1,0 +1,561 @@
+{
+  "trip": {
+    "nav": "1",
+    "TripId": "202001patagonia",
+    "id": "ha-patagonia",
+    "backgroundImg": "../img/index/202001patagonia.jpg",
+    "tripThumb": "../img/index/thumb/202001patagonia.jpg",
+    "pageLink": "adventures/202001patagonia.html",
+    "pageTitle": "Jan 2020 - Patagonia",
+    "pageSubtitle": "",
+    "tripSumm": "",
+    "summ": "10 days in Argentina",
+    "intro": "Buenos Aires and Patagonia",
+    "introDescr": "Our first full family adventure in many years. We spent almost two weeks exploring the Southern Patagonia Argentina with Backroads after a short side trip to Buenos Aires.  After a long 10 hour flight from NY, we spent an active 36 hours in BA before taking an additional 3 hour flight to El Calafate.  Each day was almost non-stop with a number of long hikes, drives or boat rides and always great views along the way.  In the sections below it was really hard to narrow my pictures down to 5 or 6 for each day so consider going to the albums on SmugMug linked at the end of each section",
+    "introPic1": "https://photos.smugmug.com/202001PatagoniaBuenosAires/20200104EcoDomeLagunadelosTres/i-QVgKfbq/0/333eeb89/M/HN5A0789-M.jpg",
+    "introPic1span": "Our home for the middle of our trip",
+    "introPic2": "https://photos.smugmug.com/202001PatagoniaBuenosAires/20191230-31LakeArgentinaEstanciaCristina/i-bkZQPkk/0/9aa28d99/M/HN5A0432-M.jpg",
+    "introPic2span": "Iceberg on Lake Argentina",
+    "videoLink": "",
+    "videoIframe": "",
+    "foot": "1",
+    "footerPic1": "",
+    "footerPic2": "",
+    "footPic1Span": "",
+    "endMap": "1N1HJQRwfNVwtNxXGaHyI1bb0AbhK_nA9",
+    "endmapName": "",
+    "days": [{
+      "dayLink": "202001patagonia.html#20191228",
+      "dayTitle": "Buenos Aires",
+      "dayThumb": "../img/patagonia/BuenosAires2.jpg"
+    },
+      {
+        "dayLink": "202001patagonia.html#20191230",
+        "dayTitle": "Estancia Christina",
+        "dayThumb": "../img/patagonia/EstanciaChristina.jpg"
+      },
+      {
+        "dayLink": "202001patagonia.html#20200101",
+        "dayTitle": "PeritoMoreno",
+        "dayThumb": "../img/patagonia/PeritoMoreno.jpg"
+      },
+      {
+        "dayLink": "202001patagonia.html#20200102",
+        "dayTitle": "Estancia La Estela",
+        "dayThumb": "../img/patagonia/EstanciaEstela.jpg"
+      },
+      {
+        "dayLink": "202001patagonia.html#20200103",
+        "dayTitle": "El Diablo Hike",
+        "dayThumb": "../img/patagonia/ElDiabloHike2.jpg"
+      },
+      {
+        "dayLink": "202001patagonia.html#20200104",
+        "dayTitle": "Laguna de los Tres",
+        "dayThumb": "../img/patagonia/LagunaDeLosTres.jpg"
+      },
+      {
+        "dayLink": "202001patagonia.html#20200105",
+        "dayTitle": "Laguna Cerro Torre",
+        "dayThumb": "../img/patagonia/CerroTorre.jpg"
+      },
+      {
+        "dayLink": "202001patagonia.html#20200106",
+        "dayTitle": "Long Trip Home",
+        "dayThumb": "../img/patagonia/ParadorLaLeona.jpg"
+      }
+    ]
+  },
+  "adventureDay": [
+    {
+      "dayId": "20191228",
+      "h1title": "36 hours in Buenos Aires",
+      "h3": "Food tour, History, LeTigre and Tango",
+      "pdate": "Saturday & Sunday, Dec 28/29, 2019",
+      "pdesc": "",
+      "pdescLink1": "",
+      "pdescLinktag1": "",
+      "pdesc2": "",
+      "pdescLink2": "",
+      "pdescLinktag2": "",
+      "pdesc3": "",
+      "pdescLink3": "",
+      "pdescLinktag3": "",
+      "mappic": "../img/patagonia/BuenosAires.JPG",
+      "mappic2": "../img/patagonia/RioParanaDeLasPalmas.JPG",
+      "mappicport": "",
+      "mapspan": "We had a really busy 36 hours in Buenos Aires with a food tour on Saturday afternoon and a history tour on Sunday.  ",
+      "pictures": [
+        {
+          "picID": "1",
+          "pic": "https://photos.smugmug.com/202001PatagoniaBuenosAires/2019122829BuenosAiresTigre/i-bXtqkxF/0/4298c57b/M/IMG_7822-M.jpg",
+          "piccap": "San Telmo, Buenos Aires' oldest neighborhood",
+          "pictop": "",
+          "picbotm": "We were suppose to be doing more walking in the Savoring Buenos Aires Food Tour.  Due to the fiasco in customs we arrived late.   We ended up spending the afternoon in Mercado San Telmo (the Market) where we sampled a number of different local foods."
+        },
+        {
+          "picID": "2",
+          "pic": "https://photos.smugmug.com/202001PatagoniaBuenosAires/2019122829BuenosAiresTigre/i-nStt2Kd/0/186af4de/M/IMG_7846-M.jpg",
+          "piccap": "We passed the Pink House (Presidents) on our way back to our hotel on Saturday afternoon",
+          "pictop": "",
+          "picbotm": "We learned more about the Pink House and the Square during our tour on Sunday."
+        },
+        {
+          "picID": "3",
+          "pic": "https://photos.smugmug.com/202001PatagoniaBuenosAires/2019122829BuenosAiresTigre/i-9xhDwNC/0/e79bb904/M/HN5A0336-M.jpg",
+          "piccap": "Walking along the docks",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "4",
+          "pic": "../img/patagonia/LeTigre.JPG",
+          "piccap": "These are the water taxis for the people living in the delta",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "5",
+          "pic": "https://photos.smugmug.com/202001PatagoniaBuenosAires/2019122829BuenosAiresTigre/i-H82GMzF/0/6ad60102/M/IMG_7875-M.jpg",
+          "piccap": "This was a side channel we went down with homes on each side ",
+          "pictop": "",
+          "picbotm": ""
+        }
+      ],
+      "iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=KZkVV2",
+      "smugAlbum": "https://havingadventures.smugmug.com/202001PatagoniaBuenosAires/2019122829BuenosAiresTigre",
+      "smugAlbumName": "Buenos Aires and Tigre"
+    },
+    {
+      "dayId": "20191230",
+      "h1title": "Estancia Cristina and a 25th birthday",
+      "h3": "",
+      "pdate": "Tuesday, December 31, 2019",
+      "pdesc": "After spending most of Monday traveling to El Cafate we had a late lunch and some ice cream in town.  We then took a walk down to the nature reserve on the shores of Lake Argentina.  Our hotel had seen better days but we made the best of it. The next day, Allie's birthday, we really got started on our Amazing Adventure. It began at 7:30 with a full day trip to Estancia Cristina, an exclusive, historical and remote estancia (ranch) located within ",
+      "pdescLink1": "https://www.argentina.gob.ar/parquesnacionales/losglaciares",
+      "pdescLinktag1": "Parque Nacional Los Glaciares",
+      "pdesc2": " and only reachable by boat. ",
+      "pdescLink2": "",
+      "pdescLinktag2": "",
+      "pdesc3": "",
+      "pdescLink3": "",
+      "pdescLinktag3": "",
+      "mappic": "",
+      "mappicport": "../img/patagonia/EstanciaChristina.JPG",
+      "mapspan": "",
+      "pictures": [
+        {
+          "picID": "1",
+          "pic": "https://photos.smugmug.com/202001PatagoniaBuenosAires/20191230-31LakeArgentinaEstanciaCristina/i-4TDP2cn/0/896b2319/L/HN5A0400-L.jpg",
+          "piccap": "1",
+          "pictop": "A short drive from ElCafate, we embarked on a cruise across Lake Argentina,  stopping in a number of spots to see the icebergs before heading to Estancia Christina",
+          "picbotm": ""
+        },
+        {
+          "picID": "2",
+          "pic": "https://photos.smugmug.com/202001PatagoniaBuenosAires/20191230-31LakeArgentinaEstanciaCristina/i-wprQFQk/0/95b8131e/L/HN5A0488-L.jpg",
+          "piccap": "The scale of the icebergs was hard to understand",
+          "pictop": "We took in the grandeur of awe-inspiring channels and mountain peaks, as well as a close encounter with the Upsala Glacier and lots of icebergs floating nearby.",
+          "picbotm": ""
+        },
+        {
+          "picID": "3",
+          "pic": "https://photos.smugmug.com/202001PatagoniaBuenosAires/20191230-31LakeArgentinaEstanciaCristina/i-3xmKnSX/0/e56d8faa/L/HN5A0536-L.jpg",
+          "piccap": "3",
+          "pictop": "After our cruise, we four-wheeled across a rocky road to start our hike up to the lookout point over the massive Upsala Glacier. ",
+          "picbotm": "The area in these pictures were covered by Glaciers less than 200 yrs ago"
+        },
+        {
+          "picID": "4",
+          "pic": "https://photos.smugmug.com/202001PatagoniaBuenosAires/20191230-31LakeArgentinaEstanciaCristina/i-8mxd6W8/0/b281aaf0/XL/IMG_7937-XL.jpg",
+          "piccap": "From our second viewpoint above Upsala Glacier",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "5",
+          "pic": "https://photos.smugmug.com/202001PatagoniaBuenosAires/20191230-31LakeArgentinaEstanciaCristina/i-84NMmp3/0/765b7e6b/XL/2019-12-31%2014-27%20Pano-XL.jpg",
+          "piccap": "5",
+          "pictop": "",
+          "picbotm": "We then hiked back along the rocky terrain en route to Fossil Canyon."
+        },
+        {
+          "picID": "6",
+          "pic": "https://photos.smugmug.com/202001PatagoniaBuenosAires/20191230-31LakeArgentinaEstanciaCristina/i-Pk9tTrw/0/2d7897c1/L/HN5A0589-L.jpg",
+          "piccap": "6",
+          "pictop": "  We found many uniquely colored stones and ammonite fossils believed to be millions of years old.",
+          "picbotm": ""
+        },
+        {
+          "picID": "7",
+          "pic": "https://photos.smugmug.com/202001PatagoniaBuenosAires/20191230-31LakeArgentinaEstanciaCristina/i-9zmV2Ct/0/5a852111/L/HN5A0639-L.jpg",
+          "piccap": "7",
+          "pictop": "  We wound down with an easy section of trail that weaved through lagoons and returned to the dock for our boat ride home.",
+          "picbotm": "At the end we stopped for a quick beer at the ranch and were back on the boat by 6pm"
+        },
+        {
+          "picID": "8",
+          "pic": "https://photos.smugmug.com/202001PatagoniaBuenosAires/20191230-31LakeArgentinaEstanciaCristina/i-5vxwTWb/0/24d82138/L/IMG_7979-L.jpg",
+          "piccap": "Everyone sang for the birthday girl",
+          "pictop": "  Back at the hotel we had a great meal to ring in the new year and wish Allie a wonderful 25th birthday",
+          "picbotm": ""
+        }
+      ],
+      "iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=3PXjzH",
+      "smugAlbum": "https://havingadventures.smugmug.com/202001PatagoniaBuenosAires/20191230-31LakeArgentinaEstanciaCristina",
+      "smugAlbumName": "Estancia Cristina"
+    },
+    {
+      "dayId": "20200101",
+      "h1title": "Estancia La Usina and Perito Moreno Glacier",
+      "h3": "A great way to start a new decade",
+      "pdate": "Wed, Jan 1, 2020",
+      "pdesc": "This was the only day of the trip when we were able to sleep past 8am.  We took a short drive out to Peninsula Magallanes and stopped at a small ranch along the Mitre river.  After a short hike and a nice lunch at Estancia La Usina we continued around the peninsula to the National Park. ",
+      "pdescLink1": "",
+      "pdescLinktag1": "",
+      "pdesc2": "",
+      "pdescLink2": "",
+      "pdescLinktag2": "",
+      "pdesc3": "",
+      "pdescLink3": "",
+      "pdescLinktag3": "",
+      "mappic": "../img/patagonia/BackroadsMap1.jpg",
+      "mappicport": "",
+      "mapspan": "Day 2 of the backroads trip",
+      "pictures": [
+        {
+          "picID": "1",
+          "pic": "https://photos.smugmug.com/202001PatagoniaBuenosAires/2020-01-01Perito-MorenoGlacier/i-Hn22RgC/0/efa0bdcb/L/HN5A0664-L.jpg",
+          "piccap": "1",
+          "pictop": "Along the Mitre river at Estancia La Usina",
+          "picbotm": ""
+        },
+        {
+          "picID": "2",
+          "pic": "https://photos.smugmug.com/202001PatagoniaBuenosAires/2020-01-01Perito-MorenoGlacier/i-zgqtmjP/0/0445b62a/L/HN5A0698-L.jpg",
+          "piccap": "2",
+          "pictop": "We followed a series of walkways and boardwalks which overlooked the Perito Moreno Glaicer. ",
+          "picbotm": ""
+        },{
+          "picID": "3",
+          "pic": "https://photos.smugmug.com/202001PatagoniaBuenosAires/2020-01-01Perito-MorenoGlacier/i-GvHFptN/0/f5aa1515/L/HN5A0697-L.jpg",
+          "piccap": "3",
+          "pictop": "An portion of the the glacier had recently collapsed leaving this ice jam",
+          "picbotm": "The glacier is one of the few in the world which isn't retreating.  The amount of ice being added at the top is replacing the ice pushing into the lake."
+        },{
+          "picID": "4",
+          "pic": "https://photos.smugmug.com/202001PatagoniaBuenosAires/2020-01-01Perito-MorenoGlacier/i-mDF7SzG/0/46e20dc1/L/HN5A0674-L.jpg",
+          "piccap": "4",
+          "pictop": "",
+          "picbotm": ""
+        },{
+          "picID": "5",
+          "pic": "https://photos.smugmug.com/202001PatagoniaBuenosAires/2020-01-01Perito-MorenoGlacier/i-HNHtNk9/0/4a24537a/XL/HN5A0692-XL.jpg",
+          "piccap": "5",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "6",
+          "pic": "https://photos.smugmug.com/202001PatagoniaBuenosAires/2020-01-01Perito-MorenoGlacier/i-8g4z4jf/0/8783e838/L/HN5A0687-L.jpg",
+          "piccap": "6",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "7",
+          "pic": "https://photos.smugmug.com/202001PatagoniaBuenosAires/2020-01-01Perito-MorenoGlacier/i-bnTCT3Q/0/83050309/M/IMG_8004-M.jpg",
+          "piccap": "7",
+          "pictop": "",
+          "picbotm": "We ended our day with dinner in El Calafate at the Mi Rancho "
+        }
+      ],
+      "iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=rCxP5j",
+      "smugAlbum": "https://havingadventures.smugmug.com/202001PatagoniaBuenosAires/2020-01-01Perito-MorenoGlacier",
+      "smugAlbumName": "Perito-Moreno Glacier"
+    },
+    {
+      "dayId": "20200102",
+      "h1title": "Viedma Lake ride and El Chalten",
+      "h3": "Mirador Condor and Aguila ending at the Eco-Domes",
+      "pdate": "Thur Jan 2, 2020",
+      "pdesc": "Once again we were and out by 8:30 for a 2 hour ride to Estancia La Estela, a ranch at the edge of Viedma Lake and Rio Le Leonia, the outlet river for the lake. ",
+      "pdescLink1": "",
+      "pdescLinktag1": "",
+      "pdesc2": "",
+      "pdescLink2": "",
+      "pdescLinktag2": "",
+      "pdesc3": "",
+      "pdescLink3": "",
+      "pdescLinktag3": "",
+      "mappic": "",
+      "mappicport": "../img/patagonia/BackroadsMap2.jpg",
+      "mapspan": "2 nights in Eco Domes and 2 nights in El Chalten",
+      "pictures": [
+        {
+          "picID": "1",
+          "pic": "https://photos.smugmug.com/202001PatagoniaBuenosAires/20200102LaEstelaElChalten/i-dZnqMtx/0/a3cca851/L/IMG_2930-L.jpg",
+          "piccap": "Sara, Kelly and I riding at Estancia La Estela",
+          "pictop": "We took a 90 minutes horseback ride along the sand dunes with views up into the mountains we would be in by the end of the day. ",
+          "picbotm": ""
+        },
+        {
+          "picID": "2",
+          "pic": "https://photos.smugmug.com/202001PatagoniaBuenosAires/20200102LaEstelaElChalten/i-bJHF8TF/0/4b409be1/L/IMG_8008-L.jpg",
+          "piccap": "A horse sculpture made out of drift wood.",
+          "pictop": "",
+          "picbotm": "After lunch we had another 90 minute drive where we stopped at a view point for Fitz Roy which is shrouded in clouds most of the time.  "
+        },
+        {
+          "picID": "3",
+          "pic": "https://photos.smugmug.com/202001PatagoniaBuenosAires/20200102LaEstelaElChalten/i-wfRBS6V/0/50ea570a/L/IMG_8006-L.jpg",
+          "piccap": "The view from our lunch spot at the ranch",
+          "pictop": "",
+          "picbotm": " After lunch we had another 90 minute drive where we stopped at a view point for Fitz Roy which is shrouded in clouds most of the time.  This was also where we first saw a condor circling above the mountains. "
+        },
+        {
+          "picID": "4",
+          "pic": "https://photos.smugmug.com/202001PatagoniaBuenosAires/20200102LaEstelaElChalten/i-Dgkb6MR/0/add45cda/L/HN5A0728-L.jpg",
+          "piccap": "",
+          "pictop": "This was also where we first saw a condor circling above the mountains.",
+          "picbotm": " From there it was a short ride to the start of our hike up to the Condor and Eagle lookouts onto both the Patagonian steppe around Lake Viedma and Fitz Roy.  This was a nice 3.5 mile hike with some ups and downs. "
+        },
+        {
+          "picID": "5",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "6",
+          "pic": "https://photos.smugmug.com/202001PatagoniaBuenosAires/20200102LaEstelaElChalten/i-zjkzPsL/0/c33377ae/L/HN5A0754-L.jpg",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": "Lake Viedma from Mirador De Las Aguilas"
+        },
+        {
+          "picID": "7",
+          "pic": "https://photos.smugmug.com/202001PatagoniaBuenosAires/20200102LaEstelaElChalten/i-CBXcpPf/0/1f76e1c6/M/HN5A0767-M.jpg",
+          "piccap": "",
+          "pictop": " By now we'd had a pretty busy day and were ready to get to the end of it. ",
+          "picbotm": " So after a pit stop for ice cream in El Chalten we headed out of town and into the national park and our Eco Domes."
+        },
+        {
+          "picID": "7",
+          "pic": "https://photos.smugmug.com/202001PatagoniaBuenosAires/20200102LaEstelaElChalten/i-HGKPSRv/0/6b257784/L/IMG_8035-L.jpg",
+          "piccap": "Dinner at the Eco Domes",
+          "pictop": " ",
+          "picbotm": ""
+        }
+      ],
+      "iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=NfGV2J",
+      "smugAlbum": "https://havingadventures.smugmug.com/202001PatagoniaBuenosAires/20200102LaEstelaElChalten",
+      "smugAlbumName": "Viedma Lake"
+    },
+    {
+      "dayId": "20200103",
+      "h1title": "Hike to Cagliero Glacier",
+      "h3": "Wind, Horizontal Rain and a welcome lunch spot.",
+      "pdate": "Fri Jan 3, 2020",
+      "pdesc": "In the morning, after a short drive further north, we hiked along a stream up to a remote mountain hut at the foot of the Cagliero glacier on Laguna El Diablo.  We had a family style lunch at the Puesto Cagliero.  For most of the 9 mile hike we were in the woods walking along a raging river and mostly protected from the rain and wind.  After crossing a somewhat shaky foot bridge with no hand rails, we crossed over the top of a couple moraines and into the teeth of really strong wind and rain.  We were really happy to get to Puesto Cagliero and warm up inside.  We had great views of the glacier and by the end of lunch the wind had subsided and the sun was out.  It was a long walk back with a side trip for some to Laguna Azul.  Our day ended back at the Eco Domes with a relaxing drinks and dinner inside the dining dome.",
+      "pdescLink1": "",
+      "pdescLinktag1": "",
+      "pdesc2": "",
+      "pdescLink2": "",
+      "pdescLinktag2": "",
+      "pdesc3": "",
+      "pdescLink3": "",
+      "pdescLinktag3": "",
+      "mappic": "../img/patagonia/ElDiabloHike.jpg",
+      "mappicport": "",
+      "mapspan": "",
+      "pictures": [
+        {
+          "picID": "1",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "2",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "3",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "4",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        }
+      ],
+      "iframe": "",
+      "smugAlbum": "",
+      "smugAlbumName": "Laguna El Diablo"
+    },
+    {
+      "dayId": "20200104",
+      "h1title": "Eco Domes & Laguna de los Tres",
+      "h3": "",
+      "pdate": "Sat Jan 4, 2020",
+      "pdesc": "We hiked about 9 miles from the Eco Domes back into El Chalten.  On our way we passed through groves of lenga trees and had great views of the Piedras Blancas Glacier and its lagoon.  After a few miles some of us took a side trip to Laguna de los Tres.  There were an amazing number of others out for a Saturday hike up the switchbacks.  Our guide found us a more secluded spot where we had lunch in front of the De los Tres Glacier.  After lunch we made our way back to El Chaltén, passing by Laguna Capri.  The walk into town allowed you to look back up the river valley where we had spent the last couple days",
+      "pdescLink1": "",
+      "pdescLinktag1": "",
+      "pdesc2": "",
+      "pdescLink2": "",
+      "pdescLinktag2": "",
+      "pdesc3": "",
+      "pdescLink3": "",
+      "pdescLinktag3": "",
+      "mappic": "",
+      "mappicport": "../img/patagonia/LagunaDeLosTres.jpg",
+      "mapspan": "",
+      "pictures": [
+        {
+          "picID": "1",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "2",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "3",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "4",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        }
+      ],
+      "iframe": "",
+      "smugAlbum": "",
+      "smugAlbumName": "Laguna de los Tres"
+    },
+    {
+      "dayId": "20200105",
+      "h1title": "Laguna Cerro Torre",
+      "h3": "",
+      "pdate": "Jan 5, 2020",
+      "pdesc": "Like the previous day, we started our hike from our hotel up along the Fitz Roy River,  In the first couple miles we had to climb up over a moraine and reached a nice view spot that looked up into the valley.  Allie and I went a couple more mile along the valley floor and had nice views of the glaciers.  We were back just after 2pm and spent some time at the hotel pool",
+      "pdescLink1": "",
+      "pdescLinktag1": "",
+      "pdesc2": "",
+      "pdescLink2": "",
+      "pdescLinktag2": "",
+      "pdesc3": "",
+      "pdescLink3": "",
+      "pdescLinktag3": "",
+      "mappic": "../img/patagonia/CerroTorre.jpg",
+      "mappicport": "",
+      "mapspan": "",
+      "pictures": [
+        {
+          "picID": "1",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "2",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "3",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "4",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        }
+      ],
+      "iframe": "",
+      "smugAlbum": "",
+      "smugAlbumName": "Laguna Cerro Torre"
+    },
+    {
+      "dayId": "20200106",
+      "h1title": "Long Trip Home",
+      "h3": "ElChaltén ElCalafate BuenosAires Ridgewood",
+      "pdate": "Moom & Tues, Jan 6 & 7 2020",
+      "pdesc" : "Our final day was a 24 hour travel day.  We leftthe hotel by 8:3v and stopped a couple times to get a last photos or Fitz Roy since the top was pretty clear.  We then had an hour drive where we stopped at La La Leona, a roadside coffee house- gift shop along Hwy 40, which runs down the length of Argentina.  The building had been there since 1894 and was actually one of the hideouts for Butch Cassidy and the Sundance Kid.  We arrived at the ElCalafate airport by 11am and after a uneventful afternoon traveled back to BA where we had to change airport and then wait 3 more hours for our 10 hour flight back to JFK.  In total we left ElChalten at 7:30 and arrived back in Ridgewood about noon,",
+      "pdescLink1": "",
+      "pdescLinktag1": "",
+      "pdesc2": "",
+      "pdescLink2": "",
+      "pdescLinktag2": "",
+      "pdesc3": "",
+      "pdescLink3": "",
+      "pdescLinktag3": "",
+      "mappic": "",
+      "mappicport": "",
+      "mapspan": "",
+      "pictures": [
+        {
+          "picID": "1",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "2",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "3",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "4",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        }
+      ],
+      "iframe": "",
+      "smugAlbum": "",
+      "smugAlbumName": "Coming Home"
+    }
+  ]
+}

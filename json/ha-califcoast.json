@@ -1,0 +1,393 @@
+{
+	"trip": {
+		"nav": "1",
+		"TripId": "",
+		"id": "ha-",
+		"backgroundImg": "../img/index/202108califcoast.jpg",
+		"tripThumb": "../img/index/thumb/202108califcoast.jpg",
+		"pageLink": "adventures/202108califcoast.html",
+		"pageTitle": "California Coast",
+		"pageSubtitle": "Aug 2021",
+		"tripSumm": "",
+		"summ": "Santa Barbara, Channel Isl NP, Big Sur and SanFran",
+		"intro": "--",
+		"introDescr": "In August, 2021 after a 18 months of COVID, we decided to take a trip up the coast of California from LAX to SFO.  Zav, Jackie, Mike, Kathy and I flew into LAX and drove to Santa Barbara where Karen had been wine tasting with her sisters.  We set a breakneck pace up the coast with stops in Ventura Harbor, Channel Islands NP, Big Sur and Carmel/Pacific Grove before ending our trip in San Francisco",
+		"introPic1": "https://photos.smugmug.com/202108CalifCoast/2021-08-01/i-VKdDrsb/1/0de93a19/M/2A34A3E3-E350-4FFD-85D2-F0AE1D3D4F4B_1_105_c-M.jpg",
+		"introPic1span": "",
+		"introPic2": "https://photos.smugmug.com/202108CalifCoast/2021-08-02/i-nmx6BJc/1/9e2c5192/M/491CF23F-D5B6-4B38-BE0B-5A5CF96C3991_1_105_c-M.jpg",
+		"introPic2span": "",
+		"videoLink": "",
+		"videoIframe": "",
+		"foot": "1",
+		"footerPic1": "",
+		"footerPic2": "",
+		"footPic1Span": "",
+		"endMap": "1VkjP9YYpp4wlmTB314KdUGfmGZgdhUM7",
+		"endmapName": "2021 Aug - Calif Coast",
+		"days": [
+		]
+	},
+	"adventureDay": [
+		{
+			"dayId": "20210801",
+			"h1title": "Into LAX and drive to Santa Barbara",
+			"h3": "with a stop at IN-N-OUT Burger",
+			"pdate": "01-Aug-21",
+			"pdesc": "",
+			"pdescLink1": "",
+			"pdescLinktag1": "",
+			"pdesc2": "",
+			"pdescLink2": "",
+			"pdescLinktag2": "",
+			"pdesc3": "",
+			"pdescLink3": "",
+			"pdescLinktag3": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "2",
+					"pic": "https://photos.smugmug.com/202108CalifCoast/2021-08-02/i-gnKVjZm/0/eaf03557/M/2021-08-02%20Morning%20walk%20Santa%20Barbara%20v2-M.jpg",
+					"piccap": "We took a morning walk along the ocean and around to a bird sanctuary",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "3",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "4",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": "",
+			"dayMap": "",
+			"daymapName": ""
+		},
+		{
+			"dayId": "20210802",
+			"h1title": "Santa Barabara in 1 day",
+			"h3": "",
+			"pdate": "02-Aug-21",
+			"pdesc": "",
+			"pdescLink1": "",
+			"pdescLinktag1": "",
+			"pdesc2": "",
+			"pdescLink2": "",
+			"pdescLinktag2": "",
+			"pdesc3": "",
+			"pdescLink3": "",
+			"pdescLinktag3": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "3",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "4",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": "",
+			"dayMap": "",
+			"daymapName": ""
+		},
+		{
+			"dayId": "20210803",
+			"h1title": "Channel Island NP",
+			"h3": "",
+			"pdate": "03-Aug-21",
+			"pdesc": "",
+			"pdescLink1": "",
+			"pdescLinktag1": "",
+			"pdesc2": "",
+			"pdescLink2": "",
+			"pdescLinktag2": "",
+			"pdesc3": "",
+			"pdescLink3": "",
+			"pdescLinktag3": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "3",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "4",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "20210804",
+			"h1title": "Up Hwy 101 to Big Sur",
+			"h3": "",
+			"pdate": "04-Aug-2021",
+			"pdesc": "Julia Pheiffer Burns SP and Nepenthe",
+			"pdescLink1": "",
+			"pdescLinktag1": "",
+			"pdesc2": "",
+			"pdescLink2": "",
+			"pdescLinktag2": "",
+			"pdesc3": "",
+			"pdescLink3": "",
+			"pdescLinktag3": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "3",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "4",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "20210805",
+			"h1title": "Andrew Molera State Park",
+			"h3": "With a forced march to make  the day complete",
+			"pdate": "",
+			"pdesc": "",
+			"pdescLink1": "",
+			"pdescLinktag1": "",
+			"pdesc2": "",
+			"pdescLink2": "",
+			"pdescLinktag2": "",
+			"pdesc3": "",
+			"pdescLink3": "",
+			"pdescLinktag3": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "3",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "4",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "20210806",
+			"h1title": "Pacific Grove and Pebble Beach biking",
+			"h3": "Dinner at Casanova in Carmel by the Sea (not really)",
+			"pdate": "06-Aug-2021",
+			"pdesc": "",
+			"pdescLink1": "",
+			"pdescLinktag1": "",
+			"pdesc2": "",
+			"pdescLink2": "",
+			"pdescLinktag2": "",
+			"pdesc3": "",
+			"pdescLink3": "",
+			"pdescLinktag3": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "3",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				},
+				{
+					"picID": "4",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+				{
+					"dayId": "20210807",
+					"h1title": "SF and Tiburon before the redeye ",
+					"h3": "",
+					"pdate": "07-Aug-2021",
+					"pdesc": "",
+					"pdescLink1": "",
+					"pdescLinktag1": "",
+					"pdesc2": "",
+					"pdescLink2": "",
+					"pdescLinktag2": "",
+					"pdesc3": "",
+					"pdescLink3": "",
+					"pdescLinktag3": "",
+					"mappic": "",
+					"mappicport": "",
+					"mapspan": "",
+					"pictures": [
+						{
+							"picID": "1",
+							"pic": "",
+							"piccap": "",
+							"pictop": "",
+							"picbotm": ""
+						},
+						{
+							"picID": "2",
+							"pic": "",
+							"piccap": "",
+							"pictop": "",
+							"picbotm": ""
+						},
+						{
+							"picID": "3",
+							"pic": "",
+							"piccap": "",
+							"pictop": "",
+							"picbotm": ""
+						},
+						{
+							"picID": "4",
+							"pic": "",
+							"piccap": "",
+							"pictop": "",
+							"picbotm": ""
+						}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": "2021 Calif Coast"
+		}
+	]
+}

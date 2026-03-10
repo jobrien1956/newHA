@@ -1,0 +1,1057 @@
+
+{
+  "trip": {
+    "nav": "1",
+    "TripId": "2305lisbonportosantiago",
+    "id": "ha-lisbonportosantiago",
+    "backgroundImg": "../img/index/202305lisbonportosantiago.jpg",
+    "tripThumb": "../img/index/thumb/202305lisbonportosantiago.jpg",
+    "pageLink": "adventures/ha_lisbonportosantiago.html",
+    "pageTitle": "A Walk to Santiago",
+    "pageSubtitle": "May-Jun 2023",
+    "tripSumm": "",
+    "summ": "",
+    "intro": "--",
+    "introDescr": "",
+    "introPic1": "",
+    "introPic1span": "",
+    "introPic2": "",
+    "introPic2span": "",
+    "videoLink": "",
+    "videoIframe": "",
+    "foot": "1",
+    "footerPic1": "",
+    "footerPic2": "",
+    "footPic1Span": "",
+    "endMap": "",
+    "endmapName": "",
+    "days": [
+    ]
+  },
+  "adventureDay": [
+    {
+      "dayId": "20230520",
+      "h1title": "",
+      "h3": "Pat & Vassos ",
+      "pdate": "Saturday, May 20, 2023",
+      "pdesc": "",
+      "pdescLink1": "",
+      "pdescLinktag1": "",
+      "pdesc2": "",
+      "pdescLink2": "",
+      "pdescLinktag2": "",
+      "pdesc3": "",
+      "pdescLink3": "",
+      "pdescLinktag3": "",
+      "mappic": "",
+      "mappicport": "",
+      "mapspan": "",
+      "pictures": [
+        {
+          "picID": "1",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "2",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "3",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "4",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        }
+      ],
+      "iframe": "",
+      "smugAlbum": "",
+      "smugAlbumName": "",
+      "dayMap": "",
+      "daymapName": ""
+    },
+    {
+      "dayId": "20230521",
+      "h1title": "",
+      "h3": "",
+      "pdate": "Sunday, May 21, 2023",
+      "pdesc": "",
+      "pdescLink1": "",
+      "pdescLinktag1": "",
+      "pdesc2": "",
+      "pdescLink2": "",
+      "pdescLinktag2": "",
+      "pdesc3": "",
+      "pdescLink3": "",
+      "pdescLinktag3": "",
+      "mappic": "",
+      "mappicport": "",
+      "mapspan": "",
+      "pictures": [
+        {
+          "picID": "1",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "2",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "3",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "4",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        }
+      ],
+      "iframe": "",
+      "smugAlbum": "",
+      "smugAlbumName": "",
+      "dayMap": "",
+      "daymapName": ""
+    },
+    {
+      "dayId": "20230522",
+      "h1title": "",
+      "h3": "",
+      "pdate": "Monday, May 22, 2023",
+      "pdesc": "",
+      "pdescLink1": "",
+      "pdescLinktag1": "",
+      "pdesc2": "",
+      "pdescLink2": "",
+      "pdescLinktag2": "",
+      "pdesc3": "",
+      "pdescLink3": "",
+      "pdescLinktag3": "",
+      "mappic": "",
+      "mappicport": "",
+      "mapspan": "",
+      "pictures": [
+        {
+          "picID": "1",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "2",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "3",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "4",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        }
+      ],
+      "iframe": "",
+      "smugAlbum": "",
+      "smugAlbumName": ""
+    },
+    {
+      "dayId": "20230523",
+      "h1title": "",
+      "h3": "",
+      "pdate": "Tuesday, May 23, 2023",
+      "pdesc": "",
+      "pdescLink1": "",
+      "pdescLinktag1": "",
+      "pdesc2": "",
+      "pdescLink2": "",
+      "pdescLinktag2": "",
+      "pdesc3": "",
+      "pdescLink3": "",
+      "pdescLinktag3": "",
+      "mappic": "",
+      "mappicport": "",
+      "mapspan": "",
+      "pictures": [
+        {
+          "picID": "1",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "2",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "3",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "4",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        }
+      ],
+      "iframe": "",
+      "smugAlbum": "",
+      "smugAlbumName": ""
+    },
+    {
+      "dayId": "20230524",
+      "h1title": "",
+      "h3": "",
+      "pdate": "Wednesday, May 24, 2023",
+      "pdesc": "",
+      "pdescLink1": "",
+      "pdescLinktag1": "",
+      "pdesc2": "",
+      "pdescLink2": "",
+      "pdescLinktag2": "",
+      "pdesc3": "",
+      "pdescLink3": "",
+      "pdescLinktag3": "",
+      "mappic": "",
+      "mappicport": "",
+      "mapspan": "",
+      "pictures": [
+        {
+          "picID": "1",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "2",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "3",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "4",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        }
+      ],
+      "iframe": "",
+      "smugAlbum": "",
+      "smugAlbumName": ""
+    },
+    {
+      "dayId": "20230525",
+      "h1title": "",
+      "h3": "",
+      "pdate": "Thursday, May 25, 2023",
+      "pdesc": "",
+      "pdescLink1": "",
+      "pdescLinktag1": "",
+      "pdesc2": "",
+      "pdescLink2": "",
+      "pdescLinktag2": "",
+      "pdesc3": "",
+      "pdescLink3": "",
+      "pdescLinktag3": "",
+      "mappic": "",
+      "mappicport": "",
+      "mapspan": "",
+      "pictures": [
+        {
+          "picID": "1",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "2",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "3",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "4",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        }
+      ],
+      "iframe": "",
+      "smugAlbum": "",
+      "smugAlbumName": ""
+    },
+    {
+      "dayId": "20230526",
+      "h1title": "",
+      "h3": "Red-eye to Lisbon",
+      "pdate": "Friday, May 26, 2023",
+      "pdesc": "Friday night flight arrive in AM Saturday\n",
+      "pdescLink1": "",
+      "pdescLinktag1": "",
+      "pdesc2": "",
+      "pdescLink2": "",
+      "pdescLinktag2": "",
+      "pdesc3": "",
+      "pdescLink3": "",
+      "pdescLinktag3": "",
+      "mappic": "",
+      "mappicport": "",
+      "mapspan": "",
+      "pictures": [
+        {
+          "picID": "1",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "2",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "3",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "4",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        }
+      ],
+      "iframe": "",
+      "smugAlbum": "",
+      "smugAlbumName": ""
+    },
+    {
+      "dayId": "20230527",
+      "h1title": "",
+      "h3": "Walking around Lisbon",
+      "pdate": "Saturday, May 27, 2023",
+      "pdesc": "",
+      "pdescLink1": "",
+      "pdescLinktag1": "",
+      "pdesc2": "27 MAY 2023, SAT\tFlight: UA 64 from EWR to LIS\n",
+      "pdescLink2": "",
+      "pdescLinktag2": "",
+      "pdesc3": "",
+      "pdescLink3": "",
+      "pdescLinktag3": "",
+      "mappic": "",
+      "mappicport": "",
+      "mapspan": "",
+      "pictures": [
+        {
+          "picID": "1",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "2",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "3",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "4",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        }
+      ],
+      "iframe": "",
+      "smugAlbum": "",
+      "smugAlbumName": ""
+    },
+    {
+      "dayId": "20230528",
+      "h1title": "",
+      "h3": "Walking around Lisbon Day 2",
+      "pdate": "Sunday, May 28, 2023",
+      "pdesc": "",
+      "pdescLink1": "",
+      "pdescLinktag1": "",
+      "pdesc2": "28 MAY 2023, SUN\tMoxy Lisbon City, 05/28-30 2023 (Day 1/3)",
+      "pdescLink2": "",
+      "pdescLinktag2": "",
+      "pdesc3": "",
+      "pdescLink3": "",
+      "pdescLinktag3": "",
+      "mappic": "",
+      "mappicport": "",
+      "mapspan": "",
+      "pictures": [
+        {
+          "picID": "1",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "2",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "3",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "4",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        }
+      ],
+      "iframe": "",
+      "smugAlbum": "",
+      "smugAlbumName": ""
+    },
+    {
+      "dayId": "20230529",
+      "h1title": "",
+      "h3": "Morning Train to Porto",
+      "pdate": "Monday, May 29, 2023",
+      "pdesc": "",
+      "pdescLink1": "",
+      "pdescLinktag1": "",
+      "pdesc2": "29 MAY 2023, MON\tMoxy Lisbon City, 05/28-30 2023 (Day 2/3)\n",
+      "pdescLink2": "",
+      "pdescLinktag2": "",
+      "pdesc3": "",
+      "pdescLink3": "",
+      "pdescLinktag3": "",
+      "mappic": "",
+      "mappicport": "",
+      "mapspan": "",
+      "pictures": [
+        {
+          "picID": "1",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "2",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "3",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "4",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        }
+      ],
+      "iframe": "",
+      "smugAlbum": "",
+      "smugAlbumName": ""
+    },
+    {
+      "dayId": "20230530",
+      "h1title": "",
+      "h3": "Car Service Porto to Baiona (start walk following day)\n",
+      "pdate": "Tuesday, May 30, 2023",
+      "pdesc": "",
+      "pdescLink1": "",
+      "pdescLinktag1": "",
+      "pdesc2": "30 MAY 2023, TUE\tMoxy Lisbon City, 05/28-30 2023 (Day 3/3)\n",
+      "pdescLink2": "",
+      "pdescLinktag2": "",
+      "pdesc3": "",
+      "pdescLink3": "",
+      "pdescLinktag3": "",
+      "mappic": "",
+      "mappicport": "",
+      "mapspan": "",
+      "pictures": [
+        {
+          "picID": "1",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "2",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "3",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "4",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        }
+      ],
+      "iframe": "",
+      "smugAlbum": "",
+      "smugAlbumName": ""
+    },
+    {
+      "dayId": "20230531",
+      "h1title": "",
+      "h3": "J,K,K&M join the walk w Pat & Vasso in Baiona",
+      "pdate": "Wednesday, May 31, 2023",
+      "pdesc": "",
+      "pdescLink1": "",
+      "pdescLinktag1": "",
+      "pdesc2": "31 MAY 2023, WED\tSheraton Porto Hotel & Spa (Day 1/2)\n",
+      "pdescLink2": "",
+      "pdescLinktag2": "",
+      "pdesc3": "",
+      "pdescLink3": "",
+      "pdescLinktag3": "",
+      "mappic": "",
+      "mappicport": "",
+      "mapspan": "",
+      "pictures": [
+        {
+          "picID": "1",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "2",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "3",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "4",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        }
+      ],
+      "iframe": "",
+      "smugAlbum": "",
+      "smugAlbumName": ""
+    },
+    {
+      "dayId": "20230601",
+      "h1title": "",
+      "h3": "Vigo to Arcadee",
+      "pdate": "Thursday, June 1, 2023",
+      "pdesc": "",
+      "pdescLink1": "",
+      "pdescLinktag1": "",
+      "pdesc2": "1 JUN 2023, THU\tSheraton Porto Hotel & Spa (Day 2/2)\n",
+      "pdescLink2": "",
+      "pdescLinktag2": "",
+      "pdesc3": "",
+      "pdescLink3": "",
+      "pdescLinktag3": "",
+      "mappic": "",
+      "mappicport": "",
+      "mapspan": "",
+      "pictures": [
+        {
+          "picID": "1",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "2",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "3",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "4",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        }
+      ],
+      "iframe": "",
+      "smugAlbum": "",
+      "smugAlbumName": ""
+    },
+    {
+      "dayId": "20230602",
+      "h1title": "",
+      "h3": "Arcadee to Pontevedra",
+      "pdate": " Friday, June 2, 2023",
+      "pdesc": "",
+      "pdescLink1": "",
+      "pdescLinktag1": "",
+      "pdesc2": "2 JUN 2023, FRI\tWalk 26km - Baiona to Nigran & Vigo\n",
+      "pdescLink2": "",
+      "pdescLinktag2": "",
+      "pdesc3": "",
+      "pdescLink3": "",
+      "pdescLinktag3": "",
+      "mappic": "",
+      "mappicport": "",
+      "mapspan": "",
+      "pictures": [
+        {
+          "picID": "1",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "2",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "3",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "4",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        }
+      ],
+      "iframe": "",
+      "smugAlbum": "",
+      "smugAlbumName": ""
+    },
+    {
+      "dayId": "20230603",
+      "h1title": "",
+      "h3": "Pontevedra to Caldas de Reis",
+      "pdate": "Saturday, June 3, 2023",
+      "pdesc": "",
+      "pdescLink1": "",
+      "pdescLinktag1": "",
+      "pdesc2": "3 JUN 2023, SAT\tWalk 23km - Vigo to Arcade\n",
+      "pdescLink2": "",
+      "pdescLinktag2": "",
+      "pdesc3": "",
+      "pdescLink3": "",
+      "pdescLinktag3": "",
+      "mappic": "",
+      "mappicport": "",
+      "mapspan": "",
+      "pictures": [
+        {
+          "picID": "1",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "2",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "3",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "4",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        }
+      ],
+      "iframe": "",
+      "smugAlbum": "",
+      "smugAlbumName": ""
+    },
+    {
+      "dayId": "20230604",
+      "h1title": "",
+      "h3": "Caldas de Reis to Padron\n",
+      "pdate": "Sunday, June 4, 2023",
+      "pdesc": "",
+      "pdescLink1": "",
+      "pdescLinktag1": "",
+      "pdesc2": "4 JUN 2023, SUN\tWalk 12km - Arcade to Pontevedra\n",
+      "pdescLink2": "",
+      "pdescLinktag2": "",
+      "pdesc3": "",
+      "pdescLink3": "",
+      "pdescLinktag3": "",
+      "mappic": "",
+      "mappicport": "",
+      "mapspan": "",
+      "pictures": [
+        {
+          "picID": "1",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "2",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "3",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "4",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        }
+      ],
+      "iframe": "",
+      "smugAlbum": "",
+      "smugAlbumName": ""
+    },
+    {
+      "dayId": "20230605",
+      "h1title": "",
+      "h3": "Padron to Santiago de Compostela\n",
+      "pdate": "Monday, June 5, 2023",
+      "pdesc": "",
+      "pdescLink1": "",
+      "pdescLinktag1": "",
+      "pdesc2": "5 JUN 2023, MON\tWalk 22km - Pontevedra - Caldas de Reis\n",
+      "pdescLink2": "",
+      "pdescLinktag2": "",
+      "pdesc3": "",
+      "pdescLink3": "",
+      "pdescLinktag3": "",
+      "mappic": "",
+      "mappicport": "",
+      "mapspan": "",
+      "pictures": [
+        {
+          "picID": "1",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "2",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "3",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "4",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        }
+      ],
+      "iframe": "",
+      "smugAlbum": "",
+      "smugAlbumName": ""
+    },
+    {
+      "dayId": "20230606",
+      "h1title": "",
+      "h3": "Caldas deReis to Padron\n",
+      "pdate": "Tuesday, June 6, 2023",
+      "pdesc": "",
+      "pdescLink1": "",
+      "pdescLinktag1": "",
+      "pdesc2": "6 JUN 2023, TUE\tWalk 18km",
+      "pdescLink2": "",
+      "pdescLinktag2": "",
+      "pdesc3": "",
+      "pdescLink3": "",
+      "pdescLinktag3": "",
+      "mappic": "",
+      "mappicport": "",
+      "mapspan": "",
+      "pictures": [
+        {
+          "picID": "1",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "2",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "3",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "4",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        }
+      ],
+      "iframe": "",
+      "smugAlbum": "",
+      "smugAlbumName": ""
+    },
+    {
+      "dayId": "20230607",
+      "h1title": "",
+      "h3": "Padron to Santiago de Compostela",
+      "pdate": "Wednesday, June 7, 2023",
+      "pdesc": "",
+      "pdescLink1": "",
+      "pdescLinktag1": "",
+      "pdesc2": "7 JUN 2023, WED\tWalk 25km - Padron to Santiago de Compostela",
+      "pdescLink2": "",
+      "pdescLinktag2": "",
+      "pdesc3": "",
+      "pdescLink3": "",
+      "pdescLinktag3": "",
+      "mappic": "",
+      "mappicport": "",
+      "mapspan": "",
+      "pictures": [
+        {
+          "picID": "1",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "2",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "3",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "4",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        }
+      ],
+      "iframe": "",
+      "smugAlbum": "",
+      "smugAlbumName": ""
+    },
+        {
+          "dayId": "20230608",
+          "h1title": "",
+          "h3": "",
+          "pdate": "Thursday, June 8, 2023",
+          "pdesc": "Early morning car to Lisbon Airport",
+          "pdescLink1": "",
+          "pdescLinktag1": "",
+          "pdesc2": "8 JUN 2023, THU - Flight UA145 OPO to EWR\n",
+          "pdescLink2": "",
+          "pdescLinktag2": "",
+          "pdesc3": "",
+          "pdescLink3": "",
+          "pdescLinktag3": "",
+          "mappic": "",
+          "mappicport": "",
+          "mapspan": "",
+          "pictures": [
+            {
+              "picID": "1",
+              "pic": "",
+              "piccap": "",
+              "pictop": "",
+              "picbotm": ""
+            },
+            {
+              "picID": "2",
+              "pic": "",
+              "piccap": "",
+              "pictop": "",
+              "picbotm": ""
+            },
+            {
+              "picID": "3",
+              "pic": "",
+              "piccap": "",
+              "pictop": "",
+              "picbotm": ""
+            },
+            {
+              "picID": "4",
+              "pic": "",
+              "piccap": "",
+              "pictop": "",
+              "picbotm": ""
+            }
+          ],
+          "iframe": "",
+          "smugAlbum": "",
+          "smugAlbumName": ""
+        }
+  ]
+}

@@ -14,7 +14,7 @@ p.post-meta , h4.post-meta{
 }
 
 header.intro-header {
-    margin-top: 10px;
+    /*margin-top: 10px;*/
     margin-bottom: 10px;
 }
 
@@ -69,7 +69,7 @@ div.carousel-caption {
 
 
 #topContainer {
-    background-image: url(../img/sierra/20190827SierraSunrise.jpg);
+    background-image: url(../img/ss2sg/202205seaside.jpg);
     height:350px;
     width:100%;
     margin-bottom: 0;

@@ -24,9 +24,14 @@ h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
 }
-a {
-  color: #333333;
+
+a:not([href]):not([tabindex]) {
+  color: white;
+  text-decoration: none;
 }
+/*a {*/
+/*  color: rgba(227, 229, 37, 1);*/
+/*}*/
 a:hover,
 a:focus {
   color: #0085A1;
@@ -138,9 +143,7 @@ hr.small {
   }
 }
 .intro-header {
-  background-color: #777777;
-  background: no-repeat center center;
-  background-attachment: scroll;
+  background: #777777 no-repeat scroll center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -150,7 +153,7 @@ hr.small {
 .intro-header .site-heading,
 .intro-header .post-heading,
 .intro-header .page-heading {
-  padding: 100px 0 50px;
+  /*padding: 100px 0 50px;*/
   color: white;
 }
 @media only screen and (min-width: 768px) {

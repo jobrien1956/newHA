@@ -14,7 +14,7 @@
 		"introDescr": "We started our trip with a day in Seattle and the wine area north of town.  After staying in Burlington, we followed this with a hike up to Cascade Pass .  We then took a ferry from Anacortes to Friday Harbor in the San Juan Islands. After four days on the various islands we spent another 5 days exploring Portland, the Columbia River area and the Oregon Coast.",
 		"introPic1": "https://www.havingadventures.com/img/sanjuan/day1-2map.PNG",
 		"introPic1span": "Our route from seattle",
-		"introPic2": "https://www.havingadventures.com/img/sanjuan/day3map.jpg",
+		"introPic2": "../img/sanjuan/day3map.jpg",
 		"introPic2span": "Our route around San Juan Isl",
 		"videoLink": "",
 		"videoIframe": "",
@@ -384,7 +384,9 @@
 		},
 		{
 			"dayId": "2060913.2",
+			"h1title": "Oregon Coast",
 			"h3": "Down to the coast in Oceanside",
+			"pdate": "Monday evening, Sept 12th, 2016",
 			"pdesc": "After a couple hour drive, we ended the day in Oceanside in our Vacasa home for two nights. We arrived in time to go to the beach and catch one of the best sunsets I've seen.",
 			"mappic": "https://www.havingadventures.com/img/sanjuan/20160912ColRiv061.jpg",
 			"mapspan": "Oceanside sunset",
@@ -406,7 +408,6 @@
 		{
 			"dayId": "2060913",
 			"h1title": "Oceanside and Pacific City",
-			"h3": "",
 			"pdate": "Tuesday, Sept 13th, 2016",
 			"pdesc": "After a morning walk along the beach by Three Arch Rocks we drove south to see the coast. We ended up in Pacific City which is part of the Cape Kiwanda State Natural Area. This was our most relaxed day of the trip and after a nap on the beach admiring Chief Kiawanda Rock we had a leisurely lunch at The Pelican Pub and Brewery and headed back to Oceanside.",
 			"mappic": "",

@@ -1,0 +1,190 @@
+{
+	"trip": {
+		"nav": "1",
+		"TripId": "2015TD01",
+		"id": "ha-TD01",
+		"backgroundImg": "../img/tourdivide/day01/day01pic02.jpg",
+		"tripThumb": "../img/tourdivide/tdThumbs/day01pic02.jpg",
+		"pageLink": "adventures/ha_future.html",
+		"pageTitle": "Day 1 - Leaving Banff was the easy part.",
+		"pageSubtitle": "Tuesday, June 9, 2015",
+		"tripSumm": "",
+		"summ": "Banff, Alberta, Canada to Bolton Trading Post",
+		"intro": "9:59AM, 6h48min, 62.4 miles, 4,814 ft of climbing\n",
+		"introDescr": "My Garmin Tracking device(Etrex20) didn’t actually show me any roads or map features but it gave me a purple line to follow.<br>For some reason the electronic map I loaded from Topofusion didn’t have detail for the area right around Banff but the Spray River trail was easy to follow I didn't really need anything else. The map showed some detail about 35 miles later.  ",
+		"introPic1": "",
+		"introPic1span": "",
+		"introPic2": "",
+		"introPic2span": "",
+		"videoLink": "",
+		"videoIframe": "",
+		"foot": "1",
+		"footerPic1": "",
+		"footerPic2": "",
+		"footPic1Span": "",
+		"endMap": "",
+		"endmapName": "",
+		"days": [
+		]
+	},
+	"adventureDay": [
+		{
+			"dayId": "20150609-01",
+			"h1title": "The First 40 miles",
+			"h3": "",
+			"pdate": "",
+			"pdesc": "Once out of town the fun (and the walking) began. Probably walked five times in the first 12 miles. After two hours I had covered 12 miles. Some quick extrapolation and it appeared I was going to finish 2,700 miles in October.",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "../img/tourdivide/day01/day01elev.png",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "3",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "",
+			"h1title": "",
+			"h3": "",
+			"pdate": "",
+			"pdesc": "",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "3",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "",
+			"h1title": "",
+			"h3": "",
+			"pdate": "",
+			"pdesc": "",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "3",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "",
+			"h1title": "",
+			"h3": "",
+			"pdate": "",
+			"pdesc": "",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "3",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		}
+	]
+}
+
+

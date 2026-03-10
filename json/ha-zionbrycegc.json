@@ -1,0 +1,446 @@
+{
+  "trip": {
+    "nav": "1",
+    "TripId": "202303zionbrycegc",
+    "id": "ha-zionbrycegc",
+    "backgroundImg": "../img/index/202303zionbrycegc.jpg",
+    "tripThumb": "../img/index/thumb/202303zionbrycegc.jpg",
+    "pageLink": "adventures/202303zionbrycegc.html",
+    "pageTitle": "Zion Bryce and the Grand Canyon",
+    "pageSubtitle": "March 2023",
+    "tripSumm": "",
+    "summ": "Three amazing national parks in 6 days",
+    "intro": "",
+    "introDescr": "Jim, Kathy, Mike, Karen, Jody and Stefan have a whirlwind trip these 3 National Parks.",
+    "introPic1": "",
+    "introPic1span": "",
+    "introPic2": "",
+    "introPic2span": "",
+    "videoLink": "",
+    "videoIframe": "",
+    "foot": "1",
+    "footerPic1": "",
+    "footerPic2": "",
+    "footPic1Span": "",
+    "endMap": "1yImbTyNLI6vYYyPZC8MBhGOMphhNrMaO",
+    "endmapName": "2023-03 Zion-Bryce-GrandCanyon",
+    "days": [
+    ]
+  },
+  "adventureDay": [
+    {
+      "dayId": "20230325",
+      "h1title": "Flying into Vegas",
+      "h3": "A drive thru the desert to Springdale, Utah",
+      "pdate": "Saturday, March 25, 2023",
+      "pdesc": "It was a busy day with our flight from Newark leaving at 8:30am and arriving in Vegas in the early afternoon.  Springdale about 6.  Karen had a dinner reservation at  the Spotted Dog Café so we didn't see much more than the canyons along our route from Vegas and looking out our window at   ",
+      "pdescLink1": "https://www.zioncanyonbnb.com",
+      "pdescLinktag1": "Zion Canyon B&B  ",
+      "pdesc2": " which was still pretty amazing.",
+      "pdescLink2": "",
+      "pdescLinktag2": "",
+      "pdesc3": "",
+      "pdescLink3": "",
+      "pdescLinktag3": "",
+      "mappic": "",
+      "mappicport": "",
+      "mapspan": "",
+      "pictures": [
+        {
+          "picID": "1",
+          "pic": "../img/zionbrycegc/20220307p1.jpg",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "2",
+          "pic": "../img/zionbrycegc/20220307p2.jpg",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "3",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "4",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        }
+      ],
+      "iframe": "",
+      "smugAlbum": "",
+      "smugAlbumName": "",
+      "dayMap": "",
+      "daymapName": ""
+    },
+    {
+      "dayId": "20230326",
+      "h1title": "Zion is the first stop",
+      "h3": "A beautiful sunny day to explore Zion",
+      "pdate": "Sunday, March 26, 2023",
+      "pdesc": "Zion doesn't allow private vehicles for visitors so we took parked by the entrance and boarded the bus.  We had already been amazed by the canyon as we drove through Springdale, Utah.  After a nice brealfast at the B&B, we had a long hike today passing up the spur trail to Angel's Landing (we didn't have a pass) and ending up following the West Rim Trail from Scouts Lookout.  Once we were back down we added on an additional few miles to hike under and around the Emerald Garden waterfalls.  WE got a chance to stop at the Castle Dome Cafe for a couple beers before heading back.",
+      "pdescLink1": "",
+      "pdescLinktag1": "",
+      "pdesc2": "",
+      "pdescLink2": "",
+      "pdescLinktag2": "",
+      "pdesc3": "",
+      "pdescLink3": "",
+      "pdescLinktag3": "",
+      "mappic": "",
+      "mappicport": "",
+      "mapspan": "",
+      "pictures": [
+        {
+          "picID": "1",
+          "pic": "../img/zionbrycegc/20220307p1.jpg",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "2",
+          "pic": "../img/zionbrycegc/20220307p2.jpg",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "3",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "4",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        }
+      ],
+      "iframe": "",
+      "smugAlbum": "",
+      "smugAlbumName": "",
+      "dayMap": "",
+      "daymapName": ""
+    },
+    {
+      "dayId": "20230327",
+      "h1title": "A new B&B after a",
+      "h3": "",
+      "pdate": "Monday, March 27, 2023",
+      "pdesc": "Bryce Trails B&B",
+      "pdescLink1": "",
+      "pdescLinktag1": "",
+      "pdesc2": "",
+      "pdescLink2": "",
+      "pdescLinktag2": "",
+      "pdesc3": "",
+      "pdescLink3": "",
+      "pdescLinktag3": "",
+      "mappic": "",
+      "mappicport": "",
+      "mapspan": "",
+      "pictures": [
+        {
+          "picID": "1",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "2",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "3",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "4",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        }
+      ],
+      "iframe": "",
+      "smugAlbum": "",
+      "smugAlbumName": "",
+      "dayMap": "",
+      "daymapName": ""
+    },
+    {
+      "dayId": "20220328",
+      "h1title": "Leaving Zion and entering Bryce",
+      "h3": "",
+      "pdate": "Tuesday, March 28, 2023",
+      "pdesc": "We drove our Suburban away from the main road to possibly get a short hike into the back side of Bryce.  It was somewhat muddy and the frozen mud was warming fast when we got to the turn around.  If not for some quick thinking by Kathy to use the floor mats under the tires we might have had a long walk out.  Once we were out we had another day in Bryce.  We hiked down to the Queens Garden and back. - dinner at the Stone Hearth Grill",
+      "pdescLink1": "",
+      "pdescLinktag1": "",
+      "pdesc2": "",
+      "pdescLink2": "",
+      "pdescLinktag2": "",
+      "pdesc3": "",
+      "pdescLink3": "",
+      "pdescLinktag3": "",
+      "mappic": "",
+      "mappicport": "",
+      "mapspan": "",
+      "pictures": [
+        {
+          "picID": "1",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "2",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "3",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "4",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        }
+      ],
+      "iframe": "",
+      "smugAlbum": "",
+      "smugAlbumName": ""
+    },
+    {
+      "dayId": "20230329",
+      "h3": "Adventurous Antelope Canon Tours",
+      "h1title": "Antelope Canyons, Lake Powell, Horse Shoe Curve, etc",
+      "pdate": "Wednesday, March 29, 2023",
+      "pdesc": "March 29 Scheduled Tour 10:10AM with Adventurous Antelope Canon Tours\n•\tUpper Antelope and •\t Rattlesnake Canyons- \n",
+      "pdescLink1": "https://edgars-erglis.pixels.com/",
+      "pdescLinktag1": "Edgar Erglis phots",
+      "pdesc2": "Our guide, Edgar, was extremely helpful and was also a world class photographer.  He assisted in framing and using various iphone features we had no idea how to use.  He also took many of the pictures in my album with all of our different phones.",
+      "pdescLink2": "",
+      "pdescLinktag2": "",
+      "pdesc3": "",
+      "pdescLink3": "",
+      "pdescLinktag3": "",
+      "mappic": "",
+      "mappicport": "",
+      "mapspan": "",
+      "pictures": [
+        {
+          "picID": "1",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "2",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "3",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "4",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        }
+      ],
+      "iframe": "",
+      "smugAlbum": "",
+      "smugAlbumName": ""
+    },
+    {
+      "dayId": "20230330",
+      "h1title": "head out early from Page (2 hours) to the South Rim and Grand Canyon’s El Tovar Hotel ",
+      "h3": "",
+      "pdate": "Thursday, March 30, 2023",
+      "pdesc": "",
+      "pdescLink1": "",
+      "pdescLinktag1": "",
+      "pdesc2": "",
+      "pdescLink2": "",
+      "pdescLinktag2": "",
+      "pdesc3": "",
+      "pdescLink3": "",
+      "pdescLinktag3": "",
+      "mappic": "",
+      "mappicport": "",
+      "mapspan": "",
+      "pictures": [
+        {
+          "picID": "1",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "2",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "3",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "4",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        }
+      ],
+      "iframe": "",
+      "smugAlbum": "",
+      "smugAlbumName": ""
+    },
+    {
+      "dayId": "20230331",
+      "h1title": "Sunrise at the Rim (for some), Bright Angel Trail to the 3 mile guesthouse.",
+      "h3": "",
+      "pdate": "Friday, March 31, 2023",
+      "pdesc": "Snow at night on the way back to the hotel",
+      "pdescLink1": "",
+      "pdescLinktag1": "",
+      "pdesc2": "",
+      "pdescLink2": "",
+      "pdescLinktag2": "",
+      "pdesc3": "",
+      "pdescLink3": "",
+      "pdescLinktag3": "",
+      "mappic": "",
+      "mappicport": "",
+      "mapspan": "",
+      "pictures": [
+        {
+          "picID": "1",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "2",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "3",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "4",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        }
+      ],
+      "iframe": "",
+      "smugAlbum": "",
+      "smugAlbumName": ""
+    },
+    {
+      "dayId": "20230401",
+      "h1title": "",
+      "h3": "A night in Vegas and a 4am wakeup call",
+      "pdate": "Saturday, April 1, 2023",
+      "pdesc": "We had to get to the airport at 5am to catch a flight to Los Angels after our previous flight was cancelled at 10pm Saturday",
+      "pdescLink1": "",
+      "pdescLinktag1": "",
+      "pdesc2": "April 1 Wake for Sunrise at the Rim, hike\nHead back to Las Vegas- see Lake Mead/Hoover dam- \n278 mi. (About 4 hours 21 mins)\n",
+      "pdescLink2": "",
+      "pdescLinktag2": "",
+      "pdesc3": "",
+      "pdescLink3": "",
+      "pdescLinktag3": "",
+      "mappic": "",
+      "mappicport": "",
+      "mapspan": "",
+      "pictures": [
+        {
+          "picID": "1",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "2",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "3",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        },
+        {
+          "picID": "4",
+          "pic": "",
+          "piccap": "",
+          "pictop": "",
+          "picbotm": ""
+        }
+      ],
+      "iframe": "",
+      "smugAlbum": "",
+      "smugAlbumName": ""
+    }
+  ]
+}

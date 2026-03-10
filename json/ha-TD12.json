@@ -1,0 +1,269 @@
+{
+	"trip": {
+		"nav": "1",
+		"TripId": "2015TD12",
+		"id": "ha-TD12",
+		"backgroundImg": "../img/tourdivide/day12/day12pic02.JPG",
+		"tripThumb": "../img/tourdivide/tdThumbs/day12pic02.jpg",
+		"pageLink": "adventures/ha_future.html",
+		"pageTitle": "Day 12 ",
+		"pageSubtitle": "Saturday, June 20, 2015",
+		"tripSumm": "",
+		"summ": "Helena to Butte, MT",
+		"intro": "6:56AM, 13h54min, 78.90 miles, 9,300 ft of climbing",
+		"blockquote1": "By far the hardest day.",
+		"blockquote2": "x",
+		"elevsumm": "../elev/20150620summ.png",
+		"elevmap": "../elev/20150620elev.png",
+		"twopicblock6x6Pic1": "x",
+		"twopicblock6x6Pic2": "x",
+		"picparablock6x6Pic1": "x",
+		"picparablock6x6Para": "x",
+		"introDescr": "",
+		"introPic1": "",
+		"introPic1span": "",
+		"introPic2": "",
+		"introPic2span": "",
+		"videoLink": "",
+		"videoIframe": "",
+		"foot": "1",
+		"footerPic1": "",
+		"footerPic2": "",
+		"footPic1Span": "",
+		"endMap": "",
+		"endmapName": "",
+		"days": [
+		]
+	},
+	"adventureDay": [
+		{
+			"dayId": "20150620-01",
+			"h1title": "North Davis St",
+			"h3": "",
+			"pdate": "",
+			"pdesc": "After two hours of hours climbing out of Helena, Kelly caught me after giving me an hour head start. He then mentioned that there was a free bus leaving Helena every Saturday morning which would have taken me up the six mile hill I just climbed. I saw them unloading while I struggled up the hills and wished I had taken the bus. Just kidding ;)",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "../img/tourdivide/day12/day12pic01.JPG",
+			"mappicport": "",
+			
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"twopicblock6x6Pic1": "../img/tourdivide/day12/day12pic03.JPG",
+					"twopicblock6x6Pic1Span": "Toward the top of Corral Gulch Dr",
+					"twopicblock6x6Pic2": "../img/tourdivide/day12/day12pic05.JPG",
+					"pic": "",
+					"piccap": "",
+					"pictop": "After two hours of hours climbing out of Helena, Kelly caught me after giving me an hour head start. He then mentioned that there was a free bus leaving Helena every Saturday morning which would have taken me up the six mile hill I just climbed. I saw them unloading while I struggled up the hills and wished I had taken the bus. Just kidding ;)"
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "3",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "20150620-02",
+			"h1title": "A couple major climbs before lunch\n",
+			"h3": "",
+			"pdate": "",
+			"pdesc": "",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "../elev/20150620helena_basin.JPG",
+			"mappicport": "",
+			"mapspan": "Helena to Basin, Montana was a real struggle. After getting over the first climb the second climb was a monster.",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "../img/tourdivide/day12/day12pic04.JPG",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "3",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "",
+			"h1title": "",
+			"h3": "",
+			"pdate": "",
+			"pdesc": "",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"twopicblock6x6Pic1": "../img/tourdivide/day12/day12pic07a.JPG",
+					"twopicblock6x6Pic1Span": "The roots and rocks really started to grind me down.",
+					"twopicblock6x6Pic2": "../img/tourdivide/day12/day12pic06.JPG",
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "20150620-03",
+					"pic": "../img/tourdivide/day12/day12pic07.jpg",
+					"piccap": "",
+					"pictop": "This photo from another site really captures it. Lucky for me I didn't have as much weight as this guy but I still struggled.",
+					"picbotm": "This 14 mile section took me more than three and a half hours and when I finally got to the top and started down I made a wrong turn."
+				},
+				{
+					"picID": "3",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "20150620-04",
+			"h1title": "Crushing mistake",
+			"h3": "Wrong Turn",
+			"pdate": "June 20",
+			"pdesc": "I was so happy to be going down I turned left instead of right. I then spent the next 10 minutes trying not to crash and neglecting my purple line. By the time I looked down and realized it was gone I had dropped 500 feet and gone over a mile",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "../img/tourdivide/day12/day12pic08.jpg",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "../img/tourdivide/day12/day12pic09.JPG",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": "Hard to describe how hard it is to push a bike weighting 50 lbs over ternain like this."
+				},
+				{
+					"picID": "2",
+					"pic": "../img/tourdivide/day12/day12pic10.JPG",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": "Walking the mile back to the top really tested me mentally. There wasn't anything I could do but go back up but it seemed that I was never going to get back up that hill."
+				},
+				{
+					"picID": "3",
+					"pic": "../elev/day12wrongturn.png",
+					"piccap": "The shaded area is the ground cover up and down.",
+					"pictop": "",
+					"picbotm": "When I reached the intersection where I had made my mistake I still had 350 feet to climb. This five miles was definitely a low point."
+				},
+				{
+					"picID": "4",
+					"pic": "../img/tourdivide/day12/day12pic11.JPG",
+					"piccap": "The shaded area is the ground cover up and down.",
+					"pictop": "",
+					"picbotm": "I stopped in the small town of Basin, MT and had a small pizza and lots to drink. A family came in while I was eating and the woman behind the counter required the husband to remove his pistol and holster. When I got back on my way I road along I15 for a while and then went up a 15 mile gradual climb to avoid the interstate frontage road. This was another instance where I could see a river being formed as I traveled up to the source and then down the other side as another river was formed going south."
+				},
+				{
+					"picID": "5",
+					"pic": "../img/tourdivide/day12/day12pic12.JPG",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": "I stopped in the small town of Basin, MT and had a small pizza and lots to drink. A family came in while I was eating and the woman behind the counter required the husband to remove his pistol and holster. When I got back on my way I road along I15 for a while and then went up a 15 mile gradual climb to avoid the interstate frontage road. This was another instance where I could see a river being formed as I traveled up to the source and then down the other side as another river was formed going south."
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "20150620-05",
+			"h1title": "Basin to Butte",
+			"h3": "",
+			"pdate": "",
+			"pdesc": "",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "../img/tourdivide/day12/day12pic12.JPG",
+					"piccap": "",
+					"picbotm": "Me and my shadow towards the end of a long day"
+				},
+				{
+					"picID": "5",
+					"pic": "../img/tourdivide/day12/day12pic13.JPG",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": "Interesting rock structures looks like Lava. This was the name of the section I had just come through."
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "3",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		}
+	]
+}
+
+

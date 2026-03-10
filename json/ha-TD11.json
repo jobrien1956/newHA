@@ -1,0 +1,198 @@
+{
+	"trip": {
+		"nav": "1",
+		"TripId": "2015TD11",
+		"id": "ha-TD11",
+		"backgroundImg": "../img/tourdivide/day11/day11pic02.JPG",
+		"tripThumb": "../img/tourdivide/tdThumbs/day01pic02.jpg",
+		"pageLink": "adventures/ha_future.html",
+		"pageTitle": "Day 11 Helena and a rest day on N. Davis St",
+		"pageSubtitle": "Tuesday, June 9, 2015",
+		"tripSumm": "Trail magic, great breakfast, like new tires and a derailleur-hanger",
+		"summ": "Priest Pass to Helena",
+		"intro": "5:57am, 1h06mmin, 15.9 miles, 262 ft of climbing",
+		"introDescr": "My Garmin Tracking device(Etrex20) didn’t actually show me any roads or map features but it gave me a purple line to follow.<br>For some reason the electronic map I loaded from Topofusion didn’t have detail for the area right around Banff but the Spray River trail was easy to follow I didn't really need anything else. The map showed some detail about 35 miles later.  ",
+		"introPic1": "",
+		"introPic1span": "",
+		"introPic2": "",
+		"introPic2span": "",
+		"videoLink": "",
+		"videoIframe": "",
+		"foot": "1",
+		"footerPic1": "",
+		"footerPic2": "",
+		"footPic1Span": "",
+		"endMap": "",
+		"endmapName": "",
+		"days": [
+		]
+	},
+	"adventureDay": [
+		{
+			"dayId": "20150619-01",
+			"h1title": "Priest Pass in the morning",
+			"h3": "",
+			"pdate": "",
+			"pdesc": "",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "../img/tourdivide/day11/day11pic01.JPG",
+			"mapspan": "On top of Priest Pass in the morning",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "../elev/20150619summ.png",
+					"piccap": "- coasting down to Helena",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "../img/tourdivide/day11/day11pic03.JPG",
+					"piccap": "",
+					"pictop": "Short fast ride down from my camping spot just after the CD crossing. The last 10 or so was on a highway.",
+					"picbotm": "I had breakfast with my new friend Kelly Elder after my night on Priest Pass."
+				},
+				{
+					"picID": "3",
+					"pic": "http://localhost:63342/havingadventures.com/img/tourdivide/day11/day11pic01Steves.jpg",
+					"piccap": "Steve's Cafe",
+					"picbotm": "I happened to meet Kelly while discussing Helena breakfast options with an older gent on N. Benton Ave on the edge of Helena. Both agreed that Steve's was the place to go. Kelly directed me to Steve's and we ended up having breakfast together. I ended up spending the day and night at his home on N Davis Street. Great Trail Magic on a day when it was much needed. We went to breakfast (stuffed French Toast and another full breakfast) and then to his house. Kelly also solved a number of other issues by driving me out to the airport road so I could pick up my FedEx package. This contained the all important Rear Derailuer Hanger (thanks Ed, Amanda and Thomas)."
+				},
+				{
+					"picID": "4",
+					"pic": "",
+					"piccap": "",
+					"pictop": "",
+					"picbotm": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "20150619-02",
+			"h1title": "Big Sky Bikes - bigskybikes.com",
+			"h3": "Notube heaven",
+			"pdate": "",
+			"pdesc": "Brought my tires in here and removed the tubes I had used since BC. Never had to touch my tires again. Took them a couple hours but they got it done.",
+			"pdesc2": "Ended my rest day with a nice dinner at 'On Broadway'",
+			"pdesc3": "Priest Pass to Helena at sunrise and then a day off the bike and some rest.\"",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "3",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "",
+			"h1title": "",
+			"h3": "",
+			"pdate": "",
+			"pdesc": "",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "3",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "",
+			"h1title": "",
+			"h3": "",
+			"pdate": "",
+			"pdesc": "",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "3",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		}
+	]
+}
+
+
