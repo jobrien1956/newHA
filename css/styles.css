@@ -70,8 +70,10 @@ div.carousel-caption {
 
 #topContainer {
     background-image: url(../img/sierra/20190827SierraSunrise.jpg);
-    height:350px;
-    width:100%;
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+    width: 100%;
     margin-bottom: 0;
 }
 
