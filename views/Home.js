@@ -56,20 +56,7 @@ const mainHeader = {
 							key: it.storeName,
 							style: {position: 'relative', height: '150px', marginBottom: '10px'}
 						}, [
-							m("a.square-text", {
-								onclick: () => {
-									console.log('navigate to trip:', it.storeName);
-									m.route.set('/trip/' + it.storeName);
-								}
-							}, it.pageTitle),
-							m(".square-img", {
-								style: {
-									'background-image': it.tripThumb ? 'url(' + it.tripThumb + ')' : 'none',
-									'background-color': it.tripThumb ? '' : '#2a2a28',
-									'background-size': 'cover',
-									'background-position': 'center'
-								}
-							})
+							const ToggleImage = () => {
 						])
 					)
 			)
