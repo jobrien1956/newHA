@@ -20,8 +20,19 @@ const mainHeader = {
 		if (!HA.stores.hapages) return;
 		return m("div.container",
 
-			// Site banner — background image set inline so path is always correct
-			m("header.intro-header", {id: 'topContainer'},
+			// Site banner — all background styles inline, no CSS dependency needed
+			m("header.intro-header", {
+				id: 'topContainer',
+				style: {
+					'background-image': 'url(img/sierra/20190827SierraSunrise.jpg)',
+					'background-size': 'cover',
+					'background-position': 'center',
+					'background-repeat': 'no-repeat',
+					'height': '350px',
+					'width': '100%',
+					'margin-bottom': '0'
+				}
+			},
 				m("div.row",
 					m("div.col-lg-8.col-lg-offset-2.col-md-10.col-md-offset-1",
 						m("div.site-heading", [
