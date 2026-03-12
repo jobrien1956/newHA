@@ -78,7 +78,12 @@ const mainHeader = {
 									'background-image': it.tripThumb ? 'url(' + it.tripThumb + ')' : 'none',
 									'background-color': it.tripThumb ? '' : '#2a2a28',
 									'background-size': 'cover',
-									'background-position': 'center'
+									'background-position': 'center',
+									'position': 'absolute',
+									'top': '0',
+									'left': '0',
+									'right': '0',
+									'bottom': '0'
 								}
 							})
 						])
