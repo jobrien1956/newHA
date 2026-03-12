@@ -46,7 +46,7 @@
       "storeName": "sierra",
       "pageTitle": "Aug19 Sierra",
       "pageLink": "adventures/201908sierra.html",
-      "tripThumb": "img/index/thumb/20190819_sierra.jpg",
+      "tripThumb": "img/index/thumb/201908sierra.jpg",
       "pageSubtitle": "",
       "tripSumm": ""
     },
@@ -56,7 +56,7 @@
       "storeName": "amalfi",
       "pageTitle": "Jun19 Amalfi",
       "pageLink": "adventures/201906amalfi.html",
-      "tripThumb": "img/index/thumb/20190619_amalfi.jpg",
+      "tripThumb": "img/index/thumb/201906amalfi.jpg",
       "pageSubtitle": "",
       "tripSumm": ""
     },
@@ -76,7 +76,7 @@
       "storeName": "france",
       "pageTitle": "Aug18 France",
       "pageLink": "adventures/201808france.html",
-      "tripThumb": "img/index/thumb/201808france.jpg",
+      "tripThumb": "img/index/thumb/201808France.jpg",
       "pageSubtitle": "",
       "tripSumm": ""
     },
@@ -96,7 +96,7 @@
       "storeName": "sweden",
       "pageTitle": "July17-Stockholm/Copenhagen",
       "pageLink": "adventures/201707sweden.html",
-      "tripThumb": "img/index/thumb/201707sweden.jpg",
+      "tripThumb": "img/index/thumb/20170709Sweden.jpg",
       "pageSubtitle": "",
       "tripSumm": ""
     },
@@ -106,7 +106,7 @@
       "storeName": "malawi",
       "pageTitle": "Jun17-Malawi",
       "pageLink": "adventures/201706malawi.html",
-      "tripThumb": "img/index/thumb/201706malawi.jpg",
+      "tripThumb": "img/index/thumb/20170701Malawi.jpg",
       "pageSubtitle": "",
       "tripSumm": ""
     },
@@ -116,7 +116,7 @@
       "storeName": "201609sanjuan",
       "pageTitle": "Sept16-San Juan Isl",
       "pageLink": "adventures/201609sanjuan.html",
-      "tripThumb": "img/index/thumb/201609sanjuan.jpg",
+      "tripThumb": "img/index/thumb/20160909LopezIsl.jpg",
       "pageSubtitle": "",
       "tripSumm": ""
     },
@@ -126,7 +126,7 @@
       "storeName": "adiron",
       "pageTitle": "June16-Adiron",
       "pageLink": "adventures/201606adiron.html",
-      "tripThumb": "img/index/thumb/201606adiron.jpg",
+      "tripThumb": "img/index/thumb/20160628Adirondacks.jpg",
       "pageSubtitle": "",
       "tripSumm": ""
     },
@@ -136,7 +136,7 @@
       "storeName": "tucson",
       "pageTitle": "Nov15-Tucson",
       "pageLink": "adventures/201511tucson.html",
-      "tripThumb": "img/index/thumb/201511tucson.jpg",
+      "tripThumb": "img/index/thumb/201511Tucson02.jpg",
       "pageSubtitle": "",
       "tripSumm": ""
     },
@@ -176,7 +176,7 @@
       "storeName": "ansel",
       "pageTitle": "Sep14-Ansel",
       "pageLink": "adventures/201409ansel.html#ansel_top",
-      "tripThumb": "",
+      "tripThumb": "img/index/thumb/20140902AnselAdams00.jpg",
       "pageSubtitle": "",
       "tripSumm": ""
     },
@@ -186,7 +186,7 @@
       "storeName": "201408tetons",
       "pageTitle": "Aug14-Tetons",
       "pageLink": "adventures/201408tetons.html#tetons_top",
-      "tripThumb": "",
+      "tripThumb": "img/index/thumb/20140824GTetons00.jpg",
       "pageSubtitle": "",
       "tripSumm": ""
     },
@@ -196,7 +196,7 @@
       "storeName": "ireland",
       "pageTitle": "2013 Ireland",
       "pageLink": "adventures/201311ireland.html",
-      "tripThumb": "",
+      "tripThumb": "img/index/thumb/20131110RabachsGlen.jpg",
       "pageSubtitle": "",
       "tripSumm": ""
     },
@@ -206,7 +206,7 @@
       "storeName": "kili",
       "pageTitle": "2013 Kili",
       "pageLink": "adventures/201301kili.html",
-      "tripThumb": "",
+      "tripThumb": "img/index/thumb/20130120Kili01.jpg",
       "pageSubtitle": "",
       "tripSumm": ""
     },
@@ -216,7 +216,7 @@
       "storeName": "201301kilivideos",
       "pageTitle": "2013 Kili Videos",
       "pageLink": "adventures/201301kilivideos.html",
-      "tripThumb": "",
+      "tripThumb": "img/index/thumb/20130120Kili01.jpg",
       "pageSubtitle": "",
       "tripSumm": ""
     },
@@ -226,7 +226,7 @@
       "storeName": "greece",
       "pageTitle": "2012 Greece",
       "pageLink": "adventures/201208greece.html",
-      "tripThumb": "",
+      "tripThumb": "img/index/thumb/20120731MtOlympus.jpg",
       "pageSubtitle": "",
       "tripSumm": ""
     },
@@ -236,7 +236,7 @@
       "storeName": "canyon2012",
       "pageTitle": "2012 Grand Canyon",
       "pageLink": "adventures/201201canyon.html",
-      "tripThumb": "",
+      "tripThumb": "img/index/thumb/20120114GC001.jpg",
       "pageSubtitle": "",
       "tripSumm": ""
     },
@@ -246,7 +246,7 @@
       "storeName": "alaska",
       "pageTitle": "2010 Alaska",
       "pageLink": "adventures/201008alaska.html",
-      "tripThumb": "",
+      "tripThumb": "img/index/thumb/20100818RussianRiver2.jpg",
       "pageSubtitle": "",
       "tripSumm": ""
     },
@@ -256,7 +256,7 @@
       "storeName": "costarica",
       "pageTitle": "2010 Costa Rica",
       "pageLink": "adventures/201002costarica.html",
-      "tripThumb": "",
+      "tripThumb": "img/index/thumb/201002CostaRica.jpg",
       "pageSubtitle": "",
       "tripSumm": ""
     },
@@ -266,7 +266,7 @@
       "storeName": "italy",
       "pageTitle": "2009 Italy",
       "pageLink": "adventures/200904italy.html",
-      "tripThumb": "",
+      "tripThumb": "img/index/thumb/200904Venice.jpg",
       "pageSubtitle": "",
       "tripSumm": ""
     },
@@ -276,7 +276,7 @@
       "storeName": "la2norf",
       "pageTitle": "2008 X Cntry",
       "pageLink": "adventures/200808la2norf.html",
-      "tripThumb": "",
+      "tripThumb": "img/index/thumb/200808xcntry.jpg",
       "pageSubtitle": "",
       "tripSumm": ""
     },
@@ -286,7 +286,7 @@
       "storeName": "layosemite",
       "pageTitle": "2008 LA Yosemite",
       "pageLink": "adventures/200807layosemite.html",
-      "tripThumb": "",
+      "tripThumb": "img/index/thumb/200807layosemite.jpg",
       "pageSubtitle": "",
       "tripSumm": ""
     },
@@ -296,7 +296,7 @@
       "storeName": "nj2la",
       "pageTitle": "2008 NJ 2 LA",
       "pageLink": "adventures/200806nj2la.html",
-      "tripThumb": "",
+      "tripThumb": "img/index/thumb/200806nj2la.jpg",
       "pageSubtitle": "",
       "tripSumm": ""
     },
@@ -306,7 +306,7 @@
       "storeName": "rome",
       "pageTitle": "2007 Rome",
       "pageLink": "adventures/200704rome.html",
-      "tripThumb": "",
+      "tripThumb": "img/index/thumb/200704Rome.jpg",
       "pageSubtitle": "",
       "tripSumm": ""
     },
@@ -316,7 +316,7 @@
       "storeName": "hawaii",
       "pageTitle": "2006 Hawaii",
       "pageLink": "adventures/200608hawaii.html",
-      "tripThumb": "",
+      "tripThumb": "img/index/thumb/2006Hawaii.jpg",
       "pageSubtitle": "",
       "tripSumm": ""
     },
@@ -326,7 +326,7 @@
       "storeName": "lakecomo",
       "pageTitle": "2006 Lake Como",
       "pageLink": "adventures/200604lakecomo.html",
-      "tripThumb": "",
+      "tripThumb": "img/index/thumb/200604LakeComo.jpg",
       "pageSubtitle": "",
       "tripSumm": ""
     },
@@ -346,7 +346,7 @@
       "storeName": "sequoia",
       "pageTitle": "2003 SF - Seqouia",
       "pageLink": "adventures/200304sequoia.html",
-      "tripThumb": "",
+      "tripThumb": "img/index/thumb/200304sequoia.jpg",
       "pageSubtitle": "",
       "tripSumm": ""
     },
@@ -356,7 +356,7 @@
       "storeName": "smokey",
       "pageTitle": "2000 Smokey Mtn NP",
       "pageLink": "adventures/200008smokey.html",
-      "tripThumb": "",
+      "tripThumb": "img/index/thumb/200008NCSmokey.jpg",
       "pageSubtitle": "",
       "tripSumm": ""
     },
@@ -366,7 +366,7 @@
       "storeName": "glacier",
       "pageTitle": "1999 Glacier",
       "pageLink": "adventures/199908glacier.html",
-      "tripThumb": "",
+      "tripThumb": "img/index/thumb/199908Glacier.jpg",
       "pageSubtitle": "",
       "tripSumm": ""
     },
@@ -376,7 +376,7 @@
       "storeName": "sedona",
       "pageTitle": "1999 Sedona",
       "pageLink": "adventures/199904sedona.html",
-      "tripThumb": "",
+      "tripThumb": "img/index/thumb/199904Arizona.jpg",
       "pageSubtitle": "",
       "tripSumm": ""
     },
@@ -386,7 +386,7 @@
       "storeName": "rmnp",
       "pageTitle": "1997 Rocky Mtn NP",
       "pageLink": "adventures/199705rmnp.html",
-      "tripThumb": "",
+      "tripThumb": "img/index/thumb/199705RckyMtnNP.jpg",
       "pageSubtitle": "",
       "tripSumm": ""
     },
@@ -396,7 +396,7 @@
       "storeName": "elkhuntnm",
       "pageTitle": "1995 Elk Hunt",
       "pageLink": "adventures/199510elkhuntNM.html",
-      "tripThumb": "",
+      "tripThumb": "img/index/thumb/199510NMElk.jpg",
       "pageSubtitle": "",
       "tripSumm": ""
     },
@@ -406,7 +406,7 @@
       "storeName": "bc",
       "pageTitle": "1994 BC",
       "pageLink": "adventures/199407BC.html",
-      "tripThumb": "",
+      "tripThumb": "img/index/thumb/199407BC.jpg",
       "pageSubtitle": "",
       "tripSumm": ""
     },
@@ -416,7 +416,7 @@
       "storeName": "zimbab",
       "pageTitle": "1993 Zimbabwe",
       "pageLink": "adventures/199312zimbab.html",
-      "tripThumb": "",
+      "tripThumb": "img/index/thumb/199312Zimbabwe.jpg",
       "pageSubtitle": "",
       "tripSumm": ""
     },
@@ -426,7 +426,7 @@
       "storeName": "yellowstone",
       "pageTitle": "1993 Yellowstone",
       "pageLink": "adventures/199308yellowstone.html",
-      "tripThumb": "",
+      "tripThumb": "img/index/thumb/199308yellowstone2.jpg",
       "pageSubtitle": "",
       "tripSumm": ""
     },
@@ -436,7 +436,7 @@
       "storeName": "ireland91",
       "pageTitle": "1991 Ireland",
       "pageLink": "adventures/199108ireland.html",
-      "tripThumb": "",
+      "tripThumb": "img/index/thumb/199109ireland.jpg",
       "pageSubtitle": "",
       "tripSumm": ""
     },
@@ -446,7 +446,7 @@
       "storeName": "olympiabc",
       "pageTitle": "1988 Olympia",
       "pageLink": "adventures/198807olympiaBC.html",
-      "tripThumb": "",
+      "tripThumb": "img/index/thumb/198807BCOlympia.jpg",
       "pageSubtitle": "",
       "tripSumm": ""
     },
@@ -456,7 +456,7 @@
       "storeName": "chiportden",
       "pageTitle": "1981 Chi-Port",
       "pageLink": "adventures/198108chiPortDen.html",
-      "tripThumb": "",
+      "tripThumb": "img/index/thumb/1981chidenprtl.jpg",
       "pageSubtitle": "",
       "tripSumm": ""
     },
@@ -466,7 +466,7 @@
       "storeName": "xctry79",
       "pageTitle": "1979 X Cntry",
       "pageLink": "adventures/197907xctry.html",
-      "tripThumb": "",
+      "tripThumb": "img/index/thumb/197907xctry.jpg",
       "pageSubtitle": "",
       "tripSumm": ""
     },
@@ -486,7 +486,7 @@
       "storeName": "46er",
       "pageTitle": "46er",
       "pageLink": "adventures/46er.html",
-      "tripThumb": "",
+      "tripThumb": "img/index/thumb/201907-46er.jpg",
       "pageSubtitle": "",
       "tripSumm": ""
     },
@@ -496,7 +496,7 @@
       "storeName": "trainloadofbosses",
       "pageTitle": "JBK-TrainLoad",
       "pageLink": "adventures/TrainloadOfBosses.html",
-      "tripThumb": "",
+      "tripThumb": "img/index/thumb/trainload.jpg",
       "pageSubtitle": "",
       "tripSumm": ""
     },
@@ -506,7 +506,7 @@
       "storeName": "turnback",
       "pageTitle": "JBK-Turnback the Clock",
       "pageLink": "adventures/Turnback.html",
-      "tripThumb": "",
+      "tripThumb": "img/index/thumb/TurnBack.jpg",
       "pageSubtitle": "",
       "tripSumm": ""
     }
