@@ -21,10 +21,7 @@ const mainHeader = {
 		return m("div.container",
 
 			// Site banner — background image set inline so path is always correct
-			m("header.intro-header", {
-				id: 'topContainer',
-				style: {'background-image': 'url(img/index/having_adventures2.jpg)'}
-			},
+			m("header.intro-header", {id: 'topContainer'},
 				m("div.row",
 					m("div.col-lg-8.col-lg-offset-2.col-md-10.col-md-offset-1",
 						m("div.site-heading", [
