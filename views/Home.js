@@ -20,8 +20,19 @@ const mainHeader = {
 		if (!HA.stores.hapages) return;
 		return m("div.container",
 
-			// Site banner
-			m("header.intro-header[id='topContainer']",
+			// Site banner — all background styles inline, no CSS dependency needed
+			m("header.intro-header", {
+				id: 'topContainer',
+				style: {
+					'background-image': 'url(img/sierra/20190827SierraSunrise.jpg)',
+					'background-size': 'cover',
+					'background-position': 'center',
+					'background-repeat': 'no-repeat',
+					'height': '350px',
+					'width': '100%',
+					'margin-bottom': '0'
+				}
+			},
 				m("div.row",
 					m("div.col-lg-8.col-lg-offset-2.col-md-10.col-md-offset-1",
 						m("div.site-heading", [
@@ -46,22 +57,54 @@ const mainHeader = {
 			),
 
 			// Trip card grid
-			// Each card's storeName routes to /trip/<storeName>
-			// Trip.js loads json/ha-<storeName>.json
-			// If that JSON has haPages[] (Type 2 index) TripIndex.js takes over
-			// If it has adventureDay[] (Type 1) Trip.js renders it directly
 			m("div.row",
 				HA.stores.hapages.haPages
 					.filter(it => it.storeName)
-					.map((it) => m(".col-xs-6.col-sm-4.col-md-3", {key: it.storeName},
-						m(".margin-top"),
-						m("a.square-text", {
+					.map((it) => m(".col-xs-6.col-sm-4.col-md-3", {
+							key: it.storeName,
+							style: {marginBottom: '10px'}
+						},
+						// Outer wrapper forces square via padding-bottom trick
+						m("div", {
+							style: {
+								position: 'relative',
+								width: '100%',
+								'padding-bottom': '100%',  // makes height = width = square
+								overflow: 'hidden',
+								cursor: 'pointer'
+							},
 							onclick: () => {
 								console.log('navigate to trip:', it.storeName);
 								m.route.set('/trip/' + it.storeName);
 							}
-						}, it.pageTitle),
-						m(".square-img", {style: {"background-image": it.tripThumb ? "url(" + it.tripThumb + ")" : "none", "background-color": it.tripThumb ? "" : "#2a2a28"}})
+						}, [
+							// Background image — z-index 1 (bottom layer)
+							m("div", {
+								style: {
+									position: 'absolute',
+									top: '0', left: '0', right: '0', bottom: '0',
+									'background-image': it.tripThumb ? 'url(' + it.tripThumb + ')' : 'none',
+									'background-color': it.tripThumb ? '#000' : '#2a2a28',
+									'background-size': 'cover',
+									'background-position': 'center',
+									'z-index': '1'
+								}
+							}),
+							// Title bar — z-index 2 (on top of image)
+							m("div", {
+								style: {
+									position: 'absolute',
+									bottom: '0', left: '0', right: '0',
+									'z-index': '2',
+									background: 'rgba(0,0,0,0.55)',
+									color: '#fff',
+									'text-align': 'center',
+									padding: '6px 4px',
+									'font-size': '12px',
+									'line-height': '1.3'
+								}
+							}, it.pageTitle)
+						])
 					))
 			)
 		);
