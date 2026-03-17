@@ -1,6 +1,63 @@
 {
   "haPages": [
     {
+      "TripId": "empirestate2504.html",
+      "id": "ha-empirestate2504",
+      "jsonFile": "ha-empirestate2504.json",
+      "backgroundImg": "img/index/202504empirestate.jpg",
+      "tripThumb": "img/index/thumb/202504empirestate.jpg",
+      "pageLink": "adventures/202504empirestate.html",
+      "pageTitle": "April 2025 Niagara Falls to Albany",
+      "pageSubtitle": "An April trip across NY State",
+      "tripSumm": "Mike, Tim, Jim and Dave cover the Erie Canal from Niagara Falls to the Hudson River"
+    },
+    {
+      "TripId": "2408Greece.html",
+      "id": "ha-2408Greece",
+      "jsonFile": "ha-greece2024.json",
+      "backgroundImg": "img/index/202408Greece.jpg",
+      "tripThumb": "img/index/thumb/202408greece.jpg",
+      "pageLink": "adventures/202408greece.html",
+      "pageTitle": "2024 Greece",
+      "pageSubtitle": "Two weeks in Greece",
+      "tripSumm": "Our long delayed Greece trip to Mt Olympus, Delhi,"
+    },
+    {
+      "TripId": "2405egcw1.html",
+      "id": "ha-2405egcw1",
+      "jsonFile": "ha-egcw1.json",
+      "backgroundImg": "img/index/202405egcw1.jpg",
+      "tripThumb": "img/index/thumb/202405egcw1.jpg",
+      "pageLink": "adventures/202405egcw1.html",
+      "pageTitle": "May 2024 York PA - Rich VA",
+      "pageSubtitle": "Our first sample of the ECG",
+      "tripSumm": "Mike, Tim, Jim and Dave have a quick ride mostly on the ECG and Bike US1"
+    },
+    {
+      "TripId": "2305lisbonportosantiago.html",
+      "id": "ha-lisbonportosantiago",
+      "jsonFile": "ha-lisbonportosantigo.json",
+      "backgroundImg": "img/index/202305lisbonportosantiago.jpg",
+      "tripThumb": "img/index/thumb/202305lisbonportosantiago.jpg",
+      "pageLink": "adventures/202305lisbonportosantiago.html",
+      "pageTitle": "May-Jun 2023 - Lisbon-Porto-Santiago",
+      "pageSubtitle": "Walking the Way to Santiago, Spain",
+      "tripSumm": ""
+    },
+    {
+      "TripId": "202303zionbrycegc",
+      "id": "zionbrycegc",
+      "storeName": "zionbrycegc",
+      "jsonFile": "ha-zionbrycegc.json",
+      "backgroundImg": "img/index/202303zionbrycegc.jpg",
+      "tripThumb": "img/index/thumb/202303zionbrycegc.jpg",
+      "pageLink": "adventures/202303zionbrycegc.html",
+      "pageTitle": "March 2023 Zion Bryce & Grand Canyon",
+      "pageSubtitle": "A week in Utah/Arizona",
+      "tripSumm": "With our friends we visit 3 amazing National Parks and Lake Powell"
+    },
+
+    {
       "TripId": "SS2SG2022",
       "id": "SS2SG2022",
       "storeName": "ss2sg2022",
