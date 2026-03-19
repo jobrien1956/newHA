@@ -1,0 +1,223 @@
+{
+	"trip": {
+		"nav": "1",
+		"TripId": "202405egcw1",
+		"id": "ha-202405egcw1",
+		"backgroundImg": "../img/index/202405ecgw1.jpg",
+		"tripThumb": "../img/index/thumb/202405ecgw1.jpg",
+		"pageLink": "adventures/202405ecgw1.html",
+		"pageTitle": "East Coast Greenway p1",
+		"pageSubtitle": "May 2024",
+		"tripSumm": "",
+		"summ": "",
+		"intro": "Dave, Tim, Mike and I took a five day trip mostly along the East Coast Greenway and USBR1",
+		"introDescr": "York PA to Richmond (almost)",
+		"introPic1": "",
+		"introPic1span": "",
+		"introPic2": "",
+		"introPic2span": "",
+		"videoLink": "",
+		"videoIframe": "",
+		"foot": "1",
+		"footerPic1": "xxx",
+		"footerPic2": "",
+		"footPic1Span": "",
+		"endMap": "",
+		"endmapName": "",
+		"days": [
+		]
+	},
+	"adventureDay": [
+		{
+			"dayId": "20240527",
+			"h1title": "SG | Humelstown | Cockeysville MD",
+			"h3": "",
+			"pdate": "Monday, May 27, 2024",
+			"pdesc": "",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "3",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "20240528",
+			"h1title": "Cockeysville | RockCreek | Washington DC",
+			"h3": "",
+			"pdate": "Tuesday, May 28, 2024",
+			"pdesc": "",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "3",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "20240529",
+			"h1title": "Washington DC | Woodbridge VA | Richmond\n",
+			"h3": "",
+			"pdate": "Wednesday, May 29, 2024",
+			"pdesc": "Leaving right from our hotel in the center of DC we went down thee mall towards the Washington Monument  and the Lincoln Memorial.  We then stopped at the Korean War Memorial (excellent) before crossing back into Virginia via the Arlington Memorial Bridge.  We then joined the Mt Vernon Trail eventually ending our morning at George and Martha's house.  After lunch at the Mt Vernon Inn we had another 12 miles along excellent bile paths (Mount Vernon Memorial Hwy Trail, Richmond Highway Bike Path, Old Colchester Road).  We stopped at the Harbour Grill and after looking at our route south and some thunderstorms we called it a day and decided to drive in the van south and begin Thursday near Richmond and then ride north",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "20240530",
+			"h1title": "Richmond | Fredricksburg",
+			"h3": "Distance: 67.1 miles\nDuration: 7 hours, 25 minutes",
+			"pdate": "Thursday, May 30, 2024",
+			"pdesc": "We started heading north after we had driven to the northern suburbs of Richmond on Wednesday.  Most of the day we were on US Bicycle Route 1 (USBR 1) which was well signed and mostly safe",
+			"pdesc2": "Our first meet up with Tim was in North Anna Battlefield Park.  We then came across a small marker for the York (Clarks slave) and William Clark Birthplace which I was happy to see the recognition of the slave who had been on the Lewis and Clark expedition",
+			"pdesc3": "We had lunch at a NPS park honoring Confederate General Stoneall Jackson who was injured in the Battle of Chancellorsville (May 6, 1863 and died here eight days later.",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "https://www.nps.gov/frsp/learn/photosmultimedia/images/jackson-small.jpg?maxwidth=1300&maxheight=1300&autorotate=false&format=webp",
+					"piccap": "Confederate General Thomas \"Stonewall\" Jackson died in the farm office building of the Fairfield Plantation.  Tim stopped here and we had lunch",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "3",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+				"iframe": "",
+				"smugAlbum": "",
+				"smugAlbumName": ""
+		},
+		{
+			"dayId": "20240531",
+			"h1title": "Fredricksburg | Stafford VA| Hummelstown| Pottersville|SG",
+			"h3": "End of 05/31/24 - Stafford, VA",
+			"pdate": "Friday, May 31, 2024",
+			"pdesc": "Friday was a short day followed by a few hours drive back to Hummelstown where we dropped of Dave and then Mike and Tim in Pottersville",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "3",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		}
+	]
+}
+
+

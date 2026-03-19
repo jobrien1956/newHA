@@ -1,32 +1,32 @@
 {
 	"trip": {
-		"nav": "1",
-		"TripId": "2022ss2sg",
-		"id": "ha-ss2sg",
-		"backgroundImg": "../img/index/202205ss2sg.jpg",
-		"tripThumb": "../img/index/thumb/2022ss2sg.jpg",
-		"pageLink": "adventures/2022ss2sg.html",
-		"pageTitle": "May 2022 - Seaside to SeaGirt",
-		"pageSubtitle": "SS2SG2022 - A Bike Ride - 17 states - 50 days",
-		"tripSumm": "",
-		"summ": "NJ to Oregon (by Van) and back to NJ (by bicycle)",
-		"intro": "Wile E's Wild West Adventure",
-		"introDescr": "This page contains links to the various maps and tables for seeing how  Mike, myself and various friends and family plot our journey from Seaside, Oregon to Sea Girt, NJ",
-		"introPic1": "../img/ss2sg/202205seaside.jpg",
-		"introPic1span": "Seaside, Oregon",
-		"introPic2": "../img/ss2sg/202207seagirt.jpg",
-		"introPic2span": "Sea Girt, NJ",
-		"videoLink": "",
-		"videoIframe": "",
-		"foot": "1",
-		"footerPic1": "",
-		"footerPic2": "",
-		"footPic1Span": "",
-		"endMap": "",
-		"endmapName": "",
-		"days": [
-		]
-	},
+      "nav": "1",
+      "TripId": "2022ss2sg",
+      "id": "ha-ss2sg",
+      "backgroundImg": "../img/index/202205ss2sg.jpg",
+      "tripThumb": "../img/index/thumb/2022ss2sg.jpg",
+      "pageLink": "adventures/2022ss2sg.html",
+      "pageTitle": "May 2022 - Seaside to SeaGirt",
+      "pageSubtitle": "SS2SG2022 - A Bike Ride - 17 states - 50 days",
+      "tripSumm": "",
+      "summ": "NJ to Oregon (by Van) and back to NJ (by bicycle)",
+      "intro": "Wile E's Wild West Adventure",
+      "introDescr": "In 2019 (actually much earlier), I began planning this bike ride across the country with the hope of taking the adventure in the summer of 2020 which would be 5 years after my Tour Divide Ride.  COVID got in the way but also allowed me to be join by my friend Mike Moriarty.  I purchased a support van in 2021 and various friends and family agreed to drive the Beast and provide support for the riders.  We left NJ on May 13, 2022 and returned on July 7, 2022.  We took 6 days to cross in the van and 50 days to bicycle from Seaside, Oregon to Sea Girt, NJ.  We hit the ground a few times and broke a few tires, rims and bikes.",
+      "introPic1": "../img/ss2sg/202205seaside.jpg",
+      "introPic1span": "Seaside, Oregon",
+      "introPic2": "../img/ss2sg/202207seagirt.jpg",
+      "introPic2span": "Sea Girt, NJ",
+      "videoLink": "",
+      "videoIframe": "",
+      "foot": "1",
+      "footerPic1": "",
+      "footerPic2": "",
+      "footPic1Span": "",
+      "endMap": "1J6KVr3a0Tmn5QlxkC0wPLnUjUN3IlA0",
+      "endmapName": "2022-07 SS2SG full route w actual segments",
+      "days": [
+      ]
+    },
 	"adventureDay": [
 			{
 				"dayId": "20220511",
@@ -83,12 +83,12 @@
 			},
 			{
 			"dayId": "20220512",
-			"h1title": "Summary",
-			"h3": "Links to Daily Routes",
-			"pdate": "May 12, 2022",
-			"pdesc": "Summary Page with Info on each day w ",
-			"pdescLink1": "../oldversions/SS2SGDayPlanner.htm",
-			"pdescLinktag1": "Links to Ride-w-GPS Daily Routes",
+              "h1title": "Summary of Days events",
+              "h3": "Ride, Eat, Sleep repeat",
+              "pdate": "",
+			"pdesc": "Summary Page with Info on each ride - ",
+              "pdescLink1": "https://ridewithgps.com/collections/47670?privacy_code=zYLn30vK2YcBUb5u",
+              "pdescLinktag1": "Link to Ride-w-GPS Collection",
 			"pdesc2": "",
 			"pdescLink2": "",
 			"pdescLinktag2": "",
@@ -134,25 +134,25 @@
 			"dayMap": "",
 			"dayMapName": ""
 		},
-		{
-			"dayId": "20220515",
-			"h1title": "Heading to the Pacific Coast",
-			"h3": "",
-			"pdate": "May 13 -15, 2022",
-			"pdesc": "Tim, Mike and I left May 13 from Pottersville, NJ.",
-			"pdescLink1": "",
-			"pdescLinktag1": "",
-			"pdesc2": "    Day 1 ended in Naperville/Warrenville, IL after an easy 800 miles and visited Tim's sister, Chris in Weaton, IL.  On day two (Saturday) after our bike ride and visit we drove out to Fargo ND/Morehead, MN and a late dinner at Texas Roadhouse.    A morning bike ride along the Red River North and we were off to Teddy Roosevelt NP this afternoon.  We ended the \",",
-			"pdescLink2": "",
-			"pdescLinktag2": "",
-			"pdesc3":"",
-			"pdescLink3": "https://www.instagram.com/seaside2seagirt2022",
-			"pdescLinktag3": "Link to seaside2seagirt2022 Instagram page",
-			"mappic": "",
-			"mappicport": "",
-			"mapspan": "--------------------------------",
-			"pictures": [
-				{
+      {
+        "dayId": "20220513",
+        "h1title": "Heading to the Pacific Coast",
+        "h3": "6 days on the Northern US Interstate Highways",
+        "pdate": "May 13 -18, 2022",
+        "pdesc": "Tim, Mike and I left May 13 from Pottersville, NJ.",
+        "pdescLink1": "adventures/202205ss2sgout.html",
+        "pdescLinktag1": "The Beast goes west",
+        "pdesc2": "    I have a separate page highlighting our East to West adventure - ",
+        "pdescLink2": "",
+        "pdescLinktag2": "",
+        "pdesc3": "  '\n' We also set up an Instagram page were we all could post stuff throughout the trip.",
+        "pdescLink3": "https://www.instagram.com/seaside2seagirt2022",
+        "pdescLinktag3": "Link to seaside2seagirt2022 Instagram page",
+        "mappic": "",
+        "mappicport": "",
+        "mapspan": "--------------------------------",
+        "pictures": [
+          {
 					"picID": "1",
 					"pic": "",
 					"piccap": "",
@@ -188,27 +188,27 @@
 			"dayMapName": ""
 		},
 		{
-			"dayId": "20220513",
-			"h1title": "The Drive Out",
-			"h3": "6 days on the road to Oregon",
-			"pdate": "est May 13 - 20, 2022",
-			"pdesc": "The drive out will be some long driving days to get out of the midwest and then days of driving and exploring in North Dakota, Montana, Idaho and Washington.",
-			"pdescLink1": "",
-			"pdescLinktag1": "",
-			"pdesc2": "",
-			"pdescLink2": "",
-			"pdescLinktag2": "",
-			"pdesc3": "We left May 13 from Pottersville, NJ\nOn day 1 we ended up in Naperville/Warrenville and visited Tim's sister.  On day two after our bike ride and visit we drove out to Fargo/Morehead, MI\nA morning bike ride and we are off to THeddy Roosevelt NP this afternoon.",
-			"pdescLink3": "",
-			"pdescLinktag3": "",
-			"mappic": "",
-			"mappicport": "../img/ss2sg/DriveOut.jpg",
-			"mapspan": "--------------------------------",
-			"pictures": [
-				{
-					"picID": "1",
-					"pic": "",
-					"piccap": "",
+          "dayId": "20220513",
+          "h1title": "The Drive Out - Heading to the Pacific Coast",
+          "h3": "6 days on the road to Oregon",
+          "pdate": "May 13 - 19, 2022",
+          "pdesc": "Tim, Mike and I left May 13 from Pottersville, NJ.  The drive out will be some long driving days to get out of the midwest and then days of driving and exploring in North Dakota, Montana, Idaho and Washington.",
+          "pdescLink1": "",
+          "pdescLinktag1": "",
+          "pdesc2": "",
+          "pdescLink2": "",
+          "pdescLinktag2": "",
+          "pdesc3": "We left May 13 from Pottersville, NJ\n  Day 1 ended in Naperville/Warrenville, IL after an easy 800 miles and visited Tim's sister, Chris in Weaton, IL.  On day two (Saturday) after our bike ride and visit we drove out to Fargo ND/Morehead, MN and a late dinner at Texas Roadhouse.    A morning bike ride along the Red River North and we were off to Teddy Roosevelt NP on the other side of North Dakota.  We ended the",
+          "pdescLink3": "",
+          "pdescLinktag3": "",
+          "mappic": "",
+          "mappicport": "../img/ss2sg/DriveOut.jpg",
+          "mapspan": "--------------------------------",
+          "pictures": [
+            {
+              "picID": "1",
+              "pic": "",
+              "piccap": "",
 					"pictop": "",
 					"picbotm": ""
 				},
@@ -231,41 +231,334 @@
 					"pic": "",
 					"piccap": "",
 					"pictop": "",
-					"picbotm": ""
-				}
-			],
-			"iframe": "",
-			"smugAlbum": "",
-			"smugAlbumName": "",
-			"dayMap": "1NqKktXvPEL7UkQnksBxw_ROYuTqgy8DE",
-			"dayMapName": "The Drive Out - NJ to Oregon"
-		},
-		{
-			"dayId": "20220513p1",
-			"h1title": "The full route",
-			"h3": "3,900 miles",
-			"pdate": "est May 20 - July 8, 2022",
-			"pdesc": "At this point, the full route is a work in progress which may evolve based on conditions once we are on the ground.  The bike links below will take you to each of the 5 detailed maps which are the initial maps with links for each day.",
-			"pdescLink1": "",
-			"pdescLinktag1": "",
-			"pdesc2": "",
-			"pdescLink2": "",
-			"pdescLinktag2": "",
-			"pdesc3": "",
-			"pdescLink3": "",
-			"pdescLinktag3": "",
-			"mappic": "",
-			"mappicport": "../img/ss2sg/WeeklyChart.jpg",
-			"mapspan": "",
-			"pictures": [
-				{
-					"picID": "1",
-					"pic": "",
-					"piccap": "",
-					"pictop": "",
-					"picbotm": ""
-				},
-				{
+                  "picbotm": ""
+                }
+          ],
+          "iframe": "",
+          "smugAlbum": "",
+          "smugAlbumName": "",
+          "dayMap": "1NqKktXvPEL7UkQnksBxw_ROYuTqgy8DE",
+          "dayMapName": "The Drive Out - NJ to Oregon"
+        },
+      {
+        "dayId": "2022-summary",
+        "h1title": "Summary",
+        "h3": "Links to Daily Routes",
+        "pdate": "",
+        "pdesc": "Summary Page with Info on each day w ",
+        "pdescLink1": "../oldversions/RidewGPSCollec20240121.htm",
+        "pdescLinktag1": "Links to Ride-w-GPS Daily Routes ",
+        "pdesc2": " Our original plan was reasonably well set on May 19 when we arrived in Astoria one day early.  This allowed to modify the first couple days.  We had originally planned to go up the coast and across to the Columbia around Rainer, OR.  Instead we traveled up and over ",
+        "pdescLink2": "",
+        "pdescLinktag2": "",
+        "pdesc3": "",
+        "pdescLink3": "",
+        "pdescLinktag3": "",
+        "mappic": "",
+        "mappicport": "../img/ss2sg/WeeklyChart.jpg",
+        "mapspan": "--------------------------------",
+        "pictures": [
+          {
+            "picID": "1",
+            "pic": "",
+            "piccap": "",
+            "pictop": "",
+            "picbotm": ""
+          },
+          {
+            "picID": "2",
+            "pic": "",
+            "piccap": "",
+            "pictop": "",
+            "picbotm": ""
+          },
+          {
+            "picID": "3",
+            "pic": "",
+            "piccap": "",
+            "pictop": "",
+            "picbotm": ""
+          },
+          {
+            "picID": "4",
+            "pic": "",
+            "piccap": "",
+            "pictop": "",
+            "picbotm": ""
+          }
+        ],
+        "iframe": "",
+        "smugAlbum": "",
+        "smugAlbumName": "",
+        "dayMap": "",
+        "dayMapName": ""
+      },
+      {
+        "dayId": "20220519",
+        "h1title": "Seaside,OR to Clarkston, WA/Lewiston, ID",
+        "h3": "The first week.  We try to go from the Pacific Ocean up the Columbia River to Clarkston / Lewiston at the border between Washington and Idaho",
+        "pdate": "est May 20 to May 27, 2022",
+        "pdesc": "The first three days just gets us past Portland up to the Cascade Locks, ",
+        "pdescLink1": "https://ridewithgps.com/routes/38188590",
+        "pdescLinktag1": "The third day route",
+        "pdesc2": "",
+        "pdescLink2": "",
+        "pdescLinktag2": "",
+        "pdesc3": "",
+        "pdescLink3": "",
+        "pdescLinktag3": "",
+        "mappic": "",
+        "mappicport": "../img/ss2sg/ss2sgWeek1.jpg",
+        "mapspan": "",
+        "pictures": [
+          {
+            "picID": "1",
+            "pic": "../img/ss2sg/Day01SeasideORRainierOR.jpg",
+            "piccap": "",
+            "pictop": "Day 1 SunsetOR - RainierOR",
+            "picbotm": "======= Day 1 Sunset to Rainier ======="
+          },
+          {
+            "picID": "2",
+            "pic": "../img/ss2sg/Day02RainierPortland.jpg",
+            "piccap": "",
+            "pictop": "Day 2 RainierOR - PortlandOR L&C7",
+            "picbotm": "======= Day 2 Rainier to Portland ======="
+          },
+          {
+            "picID": "3",
+            "pic": "../img/ss2sg/Day03PortlandCascadeLocks.png",
+            "piccap": "",
+            "pictop": "Day 3 PortlandOR - CascadeLocksOR L&C7",
+            "picbotm": "======= Day 3 Portland - Cascade Locks ======="
+          },
+          {
+            "picID": "4",
+            "pic": "",
+            "piccap": "",
+            "pictop": "Day 4 Cascade Locks OR - Biggs Junction OR L&C7",
+            "picbotm": "======= Day 4 Cascade Locks OR - Biggs Junction OR ======="
+          },
+          {
+            "picID": "5",
+            "pic": "",
+            "piccap": "First day on the Washington side of the river.  Start and end with river crossings to end in Oregon",
+            "pictop": "Day 5 Biggs Junction OR - Umatilla OR L&C7",
+            "picbotm": "======= Biggs Junction OR - Umatilla OR ======="
+          },
+          {
+            "picID": "6",
+            "pic": "",
+            "piccap": "",
+            "pictop": "Day06 Umatilla OR - WallaWalla WA L&C7",
+            "picbotm": "======= Umatilla OR - WallaWalla WA ======="
+          },
+          {
+            "picID": "7",
+            "pic": "../img/ss2sg/Day07WallaWallaWAClarkstonWALC7.png",
+            "piccap": "",
+            "pictop": "Day 7 Walla Walla WA - Clarkston WA L&C7",
+            "picbotm": "======= Walla Walla WA - Clarkston / Lewiston ID ======="
+          },
+          {
+            "picID": "8",
+            "pic": "",
+            "piccap": "",
+            "pictop": "Day8 Clarkston WA - Kooskia ID L&C 6",
+            "picbotm": "======= Clarkston - Kooskia, ID ======="
+          }
+        ],
+        "iframe": "",
+        "smugAlbum": "",
+        "smugAlbumName": "",
+        "dayMap": "13ee2EP_rBpc0cnGekcvnCbIbB6RLCtgn",
+        "dayMapName": "1 - Seaside,OR to West Yellowstone,MT"
+      },
+      {
+        "dayId": "20220604",
+        "h1title": "West Yellowstone,MT to Reliance,SD",
+        "h3": "",
+        "pdate": "est June 4 to June 14, 2022",
+        "pdesc": "",
+        "pdescLink1": "",
+        "pdescLinktag1": "",
+        "pdesc2": "",
+        "pdescLink2": "",
+        "pdescLinktag2": "",
+        "pdesc3": "",
+        "pdescLink3": "",
+        "pdescLinktag3": "",
+        "mappic": "",
+        "mappicport": "../img/ss2sg/ss2sgWeek1.jpg",
+        "mapspan": "",
+        "pictures": [
+          {
+            "picID": "1",
+            "pic": "",
+            "piccap": "",
+            "pictop": "",
+            "picbotm": ""
+          },
+          {
+            "picID": "2",
+            "pic": "",
+            "piccap": "",
+            "pictop": "",
+            "picbotm": ""
+          },
+          {
+            "picID": "3",
+            "pic": "",
+            "piccap": "",
+            "pictop": "",
+            "picbotm": ""
+          },
+          {
+            "picID": "4",
+            "pic": "",
+            "piccap": "",
+            "pictop": "",
+            "picbotm": ""
+          }
+        ],
+        "iframe": "",
+        "smugAlbum": "",
+        "smugAlbumName": "",
+        "dayMap": "1Z1iJzkAUEVKSu5m8PkGbgglgAKezgie1",
+        "dayMapName": "2 - West Yellowstone,MT to Reliance,SD"
+      },
+      {
+        "dayId": "20220614",
+        "h1title": "Reliance,SD to StLouis,MO",
+        "h3": "",
+        "pdate": "est June 15 to June 25, 2022",
+        "pdesc": "",
+        "pdescLink1": "",
+        "pdescLinktag1": "",
+        "pdesc2": "",
+        "pdescLink2": "",
+        "pdescLinktag2": "",
+        "pdesc3": "",
+        "pdescLink3": "",
+        "pdescLinktag3": "",
+        "mappic": "",
+        "mappicport": "",
+        "mapspan": "",
+        "pictures": [
+          {
+            "picID": "1",
+            "pic": "",
+            "piccap": "",
+            "pictop": "",
+            "picbotm": ""
+          },
+          {
+            "picID": "2",
+            "pic": "",
+            "piccap": "",
+            "pictop": "",
+            "picbotm": ""
+          },
+          {
+            "picID": "3",
+            "pic": "",
+            "piccap": "",
+            "pictop": "",
+            "picbotm": ""
+          },
+          {
+            "picID": "4",
+            "pic": "",
+            "piccap": "",
+            "pictop": "",
+            "picbotm": ""
+          }
+        ],
+        "iframe": "",
+        "smugAlbum": "",
+        "smugAlbumName": "",
+        "dayMap": "1fecH2jMdgQdskgZLyW_rlTDR-ZBHJqUu",
+        "dayMapName": "3 - Reliance,SD to St Louis, MO"
+      },
+      {
+        "dayId": "20220625",
+        "h1title": "St Louis, MO to Pittsburgh, PA",
+        "h3": "",
+        "pdate": "est June 25 to July 2, 2022",
+        "pdesc": "",
+        "pdescLink1": "",
+        "pdescLinktag1": "",
+        "pdesc2": "",
+        "pdescLink2": "",
+        "pdescLinktag2": "",
+        "pdesc3": "",
+        "pdescLink3": "",
+        "pdescLinktag3": "",
+        "mappic": "",
+        "mappicport": "",
+        "mapspan": "",
+        "pictures": [
+          {
+            "picID": "1",
+            "pic": "",
+            "piccap": "",
+            "pictop": "",
+            "picbotm": ""
+          },
+          {
+            "picID": "2",
+            "pic": "",
+            "piccap": "",
+            "pictop": "",
+            "picbotm": ""
+          },
+          {
+            "picID": "3",
+            "pic": "",
+            "piccap": "",
+            "pictop": "",
+            "picbotm": ""
+          },
+          {
+            "picID": "4",
+            "pic": "",
+            "piccap": "",
+            "pictop": "",
+            "picbotm": ""
+          }
+        ],
+        "iframe": "",
+        "smugAlbum": "",
+        "smugAlbumName": "",
+        "dayMap": "1Q-xqkkWDLQwIUTdlxjE_MzcHJADcBSPg",
+        "dayMapName": "4 - St Louis, MO to Pittsburgh, PA"
+      },
+      {
+        "dayId": "20220xxx",
+        "h1title": "",
+        "h3": "",
+        "pdate": "May 19, 2022",
+        "pdesc": "",
+        "pdescLink1": "",
+        "pdescLinktag1": "",
+        "pdesc2": "",
+        "pdescLink2": "",
+        "pdescLinktag2": "",
+        "pdesc3": "",
+        "pdescLink3": "",
+        "pdescLinktag3": "",
+        "mappic": "",
+        "mappicport": "",
+        "mapspan": "",
+        "pictures": [
+          {
+            "picID": "1",
+            "pic": "",
+            "piccap": "",
+            "pictop": "",
+            "picbotm": ""
+          },
+          {
 					"picID": "2",
 					"pic": "",
 					"piccap": "",
@@ -280,19 +573,19 @@
 					"picbotm": ""
 				},
 				{
-					"picID": "4",
-					"pic": "",
-					"piccap": "",
-					"pictop": "",
-					"picbotm": ""
-				}
-			],
-			"iframe": "",
-			"smugAlbum": "",
-			"smugAlbumName": "",
-			"dayMap": "1dbmNCCqlKYmr6HK4M8Shrv27LqSRenlZ",
-			"dayMapName": "The full route"
-		},
+                  "picID": "4",
+                  "pic": "",
+                  "piccap": "",
+                  "pictop": "",
+                  "picbotm": ""
+                }
+        ],
+        "iframe": "",
+        "smugAlbum": "",
+        "smugAlbumName": "",
+        "dayMap": "1NqKktXvPEL7UkQnksBxw_ROYuTqgy8DE&ehbc=2E312F",
+        "dayMapName": "The Drive Out"
+      },
 		{
 			"dayId": "20220519",
 			"h1title": "Seaside,OR to Clarkston, WA/Lewiston, ID",

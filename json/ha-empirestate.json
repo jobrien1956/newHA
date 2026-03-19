@@ -1,0 +1,243 @@
+{
+	"trip": {
+		"nav": "1",
+		"TripId": "2504empirestate",
+		"id": "ha-empirestate",
+		"backgroundImg": "../img/index/202504empirestate.jpg",
+		"tripThumb": "../img/index/thumb/202504empirestate.jpg",
+		"pageLink": "adventures/202504empirestate.html",
+		"pageTitle": "Erie Canal Trail",
+		"pageSubtitle": "April 2025",
+		"tripSumm": "",
+		"summ": "",
+		"intro": "--",
+		"introDescr": "We decided to ride the Erie Canal from Niagra Falls to ...",
+		"introPic1": "",
+		"introPic1span": "",
+		"introPic2": "",
+		"introPic2span": "",
+		"videoLink": "",
+		"videoIframe": "",
+		"foot": "1",
+		"footerPic1": "",
+		"footerPic2": "",
+		"footPic1Span": "",
+		"endMap": "",
+		"endmapName": "",
+		"days": [
+		]
+	},
+	"adventureDay": [
+		{
+			"dayId": "20250427",
+			"h1title": "SG | Pottersville | Goat Island | Lockport\n",
+			"h3": "",
+			"pdate": "Sunday, April 27, 2025",
+			"pdesc": "We all arrived at Mike's and were on the rode by 8:30 and arrived at Niagra Falls by 4pm.  After unloading the bikes we walked/road around Goat Island to see both of the falls.  We rode along the Niagra River on a nice bike path until Tonawanda where we joined the Empire State Trail along the Erie Canal (Tonawanda Creek).  In all we covered 33 miles and ended our day at the ",
+			"pdesc2": "(IN LOCKPORT).",
+			"pdesc3": "",
+			"pdescLink1": "https://www.bigditchbrewing.com/",
+			"pdescLink2": "",
+			"pdescLinktag1": "Big Ditch Brewing",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "3",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "20250428",
+			"h1title": "",
+			"h3": "",
+			"pdate": "Monday, April 28, 2025",
+			"pdesc": "After staying at the Holiday Inn Express the day broke into three parts Lockport to Albion, Albion to Brockport amd Rockport to Rochester/Pittsford.",
+			"pdesc2": "In Albion we stopped for coffee and snacks (Tim Horton) a bit off the canal.  In Brockport, Tim found a small park next to the Park Avenue Bridge",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "3",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "20250429",
+			"h1title": "",
+			"h3": "",
+			"pdate": "Tuesday, April 29, 2025",
+			"pdesc": "",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbum": "",
+			"smugAlbumName": ""
+		},
+		{
+			"dayId": "20250430",
+			"h1title": "",
+			"h3": "",
+			"pdate": "Wednesday, April 30, 2025",
+			"pdesc": "",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=zjJb5N",
+			"smugAlbum": "https://havingadventures.smugmug.com/199908Glacier/Glacier-National-Park-Essex-MT-August-22-1999",
+			"smugAlbumName": "Glacier NP"
+		},
+		{
+			"dayId": "20250501",
+			"h1title": "",
+			"h3": "",
+			"pdate": "Thursday, May 1, 2025",
+			"pdesc": "",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "",
+			"smugAlbumName": "Glacier NP"
+		},
+		{
+			"dayId": "20250502",
+			"h1title": "",
+			"h3": "",
+			"pdate": "Friday, May 2, 2025",
+			"pdesc": "",
+			"pdesc2": "",
+			"pdesc3": "",
+			"pdescLink1": "",
+			"pdescLink2": "",
+			"pdescLinktag1": "",
+			"pdescLinktag2": "",
+			"mappic": "",
+			"mappicport": "",
+			"mapspan": "",
+			"pictures": [
+				{
+					"picID": "1",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				},
+				{
+					"picID": "2",
+					"pic": "",
+					"piccap": "",
+					"pictop": ""
+				}
+			],
+			"iframe": "https://havingadventures.smugmug.com/frame/slideshow?key=zjJb5N",
+			"smugAlbum": "",
+			"smugAlbumName": "Erie Canal"
+		}
+	]
+}
+
+
