@@ -3,6 +3,7 @@
     {
       "TripId": "empirestate2504.html",
       "id": "ha-empirestate2504",
+      "storeName": "empirestate",
       "jsonFile": "ha-empirestate2504.json",
       "backgroundImg": "img/index/202504empirestate.jpg",
       "tripThumb": "img/index/thumb/202504empirestate.jpg",
@@ -14,6 +15,7 @@
     {
       "TripId": "2408Greece.html",
       "id": "ha-2408Greece",
+      "storeName": "greece2024",
       "jsonFile": "ha-greece2024.json",
       "backgroundImg": "img/index/202408Greece.jpg",
       "tripThumb": "img/index/thumb/202408greece.jpg",
@@ -25,6 +27,7 @@
     {
       "TripId": "2405egcw1.html",
       "id": "ha-2405egcw1",
+      "storeName": "ecgw1",
       "jsonFile": "ha-egcw1.json",
       "backgroundImg": "img/index/202405egcw1.jpg",
       "tripThumb": "img/index/thumb/202405egcw1.jpg",
@@ -36,6 +39,7 @@
     {
       "TripId": "2305lisbonportosantiago.html",
       "id": "ha-lisbonportosantiago",
+      "storeName": "lisbonportosantiago",
       "jsonFile": "ha-lisbonportosantigo.json",
       "backgroundImg": "img/index/202305lisbonportosantiago.jpg",
       "tripThumb": "img/index/thumb/202305lisbonportosantiago.jpg",
