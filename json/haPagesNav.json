@@ -91,7 +91,7 @@
     {
       "TripId": "lbi",
       "id": "lbi",
-      "storeName": "lbi",
+      "storeName": "lbinj",
       "pageTitle": "Sep20 LBI",
       "pageLink": "adventures/2020LBI.html",
       "tripThumb": "img/index/thumb/202009lbinj.jpg",
@@ -181,7 +181,7 @@
     {
       "TripId": "201609sanjuan",
       "id": "201609sanjuan",
-      "storeName": "201609sanjuan",
+      "storeName": "sanjuan",
       "pageTitle": "Sept16-San Juan Isl",
       "pageLink": "adventures/201609sanjuan.html",
       "tripThumb": "img/index/thumb/201609sanjuan.jpg",
@@ -251,7 +251,7 @@
     {
       "TripId": "201408tetons",
       "id": "201408tetons",
-      "storeName": "201408tetons",
+      "storeName": "tetons",
       "pageTitle": "Aug14-Tetons",
       "pageLink": "adventures/201408tetons.html#tetons_top",
       "tripThumb": "img/index/thumb/20140824GTetons00.jpg",
@@ -301,7 +301,7 @@
     {
       "TripId": "canyon2012",
       "id": "canyon2012",
-      "storeName": "canyon2012",
+      "storeName": "canyon",
       "pageTitle": "2012 Grand Canyon",
       "pageLink": "adventures/201201canyon.html",
       "tripThumb": "img/index/thumb/20120114GC001.jpg",
@@ -401,7 +401,7 @@
     {
       "TripId": "canyon2004",
       "id": "canyon2004",
-      "storeName": "canyon2004",
+      "storeName": "canyon04",
       "pageTitle": "2004 Grand Canyon",
       "pageLink": "adventures/200411canyon.html",
       "tripThumb": "img/index/thumb/200411GC.jpg",
@@ -561,7 +561,7 @@
     {
       "TripId": "TrainloadOfBosses",
       "id": "TrainloadOfBosses",
-      "storeName": "trainloadofbosses",
+      "storeName": "trainload",
       "pageTitle": "JBK-TrainLoad",
       "pageLink": "adventures/TrainloadOfBosses.html",
       "tripThumb": "img/index/thumb/trainload.jpg",
