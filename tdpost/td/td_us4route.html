@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+	<meta charset="utf-8">
+	<title>GDMBR map sections</title>
+	<style>
+		html, body, #map-canvas {
+			height: 100%;
+			margin: 0px;
+			padding: 0px
+		}
+	</style>
+	<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&signed_in=true"></script>
+	<script>
+		// This example adds a purple rectangle to a map.
+
+		function initialize() {
+			var map = new google.maps.Map(document.getElementById('map-canvas'), {
+				zoom: 5,
+				center: new google.maps.LatLng(38.76023, -107.05693),
+				mapTypeId: google.maps.MapTypeId.TERRAIN
+			});
+
+
+			var rectangle4A = new google.maps.Rectangle({
+				strokeColor: '#9127AB',
+				strokeOpacity: 0.8,
+				strokeWeight: 3,
+				fillColor: '#F9F5FA',
+				fillOpacity: 0.1,
+				map: map,
+				bounds: new google.maps.LatLngBounds(
+					new google.maps.LatLng(39.63186, -106.17722),
+					new google.maps.LatLng(38.4694, -105.46335))
+			});
+
+			var rectangle4B = new google.maps.Rectangle({
+				strokeColor: '#9127AB',
+				strokeOpacity: 0.8,
+				strokeWeight: 3,
+				fillColor: '#F9F5FA',
+				fillOpacity: 0.1,
+				map: map,
+				bounds: new google.maps.LatLngBounds(
+					new google.maps.LatLng(38.76023, -107.05693),
+					new google.maps.LatLng(37.35568, -105.97223))
+			});
+
+			var ctaLayer = new google.maps.KmlLayer({
+				url: "http://www.havingadventures.com/kml/US4_just_route.kml"
+			});
+			ctaLayer.setMap(map);
+
+		}
+
+		google.maps.event.addDomListener(window, 'load', initialize);
+
+	</script>
+</head>
+<body>
+<div id="map-canvas"></div>
+</body>
+</html>

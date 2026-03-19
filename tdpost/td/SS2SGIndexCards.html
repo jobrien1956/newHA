@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="JimTD Index">
+	<meta name="author" content="Jim OBrien">
+	<!-- Bootstrap Core CSS      -->
+	<link href="../../css/bootstrap.min.css" rel="stylesheet">
+	<!-- Custom CSS -->
+	<link href="../../css/clean-blog.min.css" rel="stylesheet">
+	<link href="../../css/styles.css" rel="stylesheet">
+	<!-- Custom Fonts -->
+	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet"
+	      type="text/css">
+	<link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet'
+	      type='text/css'>
+	<link
+			href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800'
+			rel='stylesheet' type='text/css'>
+	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+	<!--[if lt IE 9]>
+	<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+	<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+	<![endif]-->
+	<title>JimSS2SG Index</title>
+	<script src="https://unpkg.com/mithril/mithril.js"></script>
+</head>
+<body>
+<!-- Navigation -->
+<div id="ss2sgnav"></div>
+
+<!-- Page Header -->
+<!-- Set your background image for this header on the line below. -->
+<a id="td_top"></a>
+<header class="intro-header" style="background-image:
+url('../../img/ss2sg/ss2sgsquare/2022-05-19-SQ-SS2SG.jpg')">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+				<div class="site-heading">
+					<h2 class="post-title" style="font-size: xx-large;font-family:
+					Lora,'Times New Roman',serif">Jim O'Brien's SS2SG</h2>
+					<hr class="small">
+					<span>56 Days Crossing the US from Oregon to NJ</span>
+				</div>
+			</div>
+		</div><!-- /.row -->
+	</div><!-- /.container -->
+</header>
+<!-- Main Content -->
+<div class="container">
+	<div class="row">
+		<div class="col-lg-12">
+			<h2 class="post-title" style="color:blue; font-size: xx-large;font-family:
+			Lora,'Times New Roman',serif" >Great Divide Mountain Bike Route</h2>
+			<article>
+				<!-- script below to pull page links -->
+				<div id="output1"></div>
+			</article>
+			<header class="intro-header" id="ha_awsometable">
+				<div class="container">
+					<h2>Tour divide places</h2>
+					<a href="https://awesome-table.com/-L-TZJjm4n3XhJ-4mF2K/view">
+						<div class="row">
+							<div data-type="AwesomeTableView" data-viewID="-L-TZJjm4n3XhJ-4mF2K"></div>
+						</div>
+					</a>
+				</div><!-- /.container -->
+			</header>
+			<hr>
+		</div>
+	</div>
+</div>
+<hr>
+<!-- Footer -- loaded from separate file - footer.html -->
+<div id="footer"></div>
+<!-- jQuery -->
+<script src="../../js/jquery.min.js"></script>
+<!-- Bootstrap Core JavaScript -->
+<script src="../../js/bootstrap.min.js"></script>
+<!-- Custom Theme JavaScript -->
+<script src="../../js/clean-blog.min.js"></script>
+<script>
+	$("#ss2sgnav").load("ss2sgnav.html");
+	$("#footer").load("../../adventures/footer.html");
+</script>
+
+
+<script src="../../js/HaTdIndex.js"></script>
+<script src="../../js/HavingAdventures.js"></script>
+
+<script>
+	m.mount(document.getElementById("output1"), {
+		view: function (vnode) {
+			"use strict";
+			return m(HaTdIndex.views.Main, {
+				adventures: [
+					m(HaTdIndex.views.Adventure, {
+						summName: "HaTdPages",
+						dataUrl: "../../json/HaSs2SgPages.json"
+					})
+				]
+			});
+		}
+	});
+</script>
+<script src="https://awesome-table.com/AwesomeTableInclude.js"></script>
+</body>
+
+</html>

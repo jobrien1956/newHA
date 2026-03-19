@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+	<meta charset="utf-8">
+	<title>GDMBR map sections</title>
+	<style>
+		html, body, #map-canvas {
+			height: 100%;
+			margin: 0px;
+			padding: 0px
+		}
+	</style>
+	<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&signed_in=true"></script>
+	<script>
+		// This example adds a purple rectangle to a map.
+
+		function initialize() {
+			var map = new google.maps.Map(document.getElementById('map-canvas'), {
+				zoom: 6,
+				center: new google.maps.LatLng(50.58421, -115.17955),
+				mapTypeId: google.maps.MapTypeId.TERRAIN
+			});
+
+			var rectangleC1 = new google.maps.Rectangle({
+				strokeColor: '#9127AB',
+				strokeOpacity: 0.8,
+				strokeWeight: 3,
+				fillColor: '#F9F5FA',
+				fillOpacity: 0.1,
+				map: map,
+				bounds: new google.maps.LatLngBounds(
+					new google.maps.LatLng(51.18878, -115.69556),
+					new google.maps.LatLng(49.97964, -114.66355))
+			});
+
+			var rectangleC2 = new google.maps.Rectangle({
+				strokeColor: '#9127AB',
+				strokeOpacity: 0.8,
+				strokeWeight: 3,
+				fillColor: '#F9F5FA',
+				fillOpacity: 0.1,
+				map: map,
+				bounds: new google.maps.LatLngBounds(
+					new google.maps.LatLng(50.12111, -115.5576),
+					new google.maps.LatLng(48.99444, -114.34161))
+			});
+
+			var rectangle1A = new google.maps.Rectangle({
+				strokeColor: '#9127AB',
+				strokeOpacity: 0.8,
+				strokeWeight: 3,
+				fillColor: '#F9F5FA',
+				fillOpacity: 0.1,
+				map: map,
+				bounds: new google.maps.LatLngBounds(
+					new google.maps.LatLng(49.00987, -115.20619),
+					new google.maps.LatLng(47.14713, -113.33297))
+			});
+
+			var rectangle1B = new google.maps.Rectangle({
+				strokeColor: '#9127AB',
+				strokeOpacity: 0.8,
+				strokeWeight: 3,
+				fillColor: '#F9F5FA',
+				fillOpacity: 0.1,
+				map: map,
+				bounds: new google.maps.LatLngBounds(
+					new google.maps.LatLng(47.21124, -113.58834),
+					new google.maps.LatLng(45.34671, -112.01431))
+			});
+
+			var rectangle2A = new google.maps.Rectangle({
+				strokeColor: '#9127AB',
+				strokeOpacity: 0.8,
+				strokeWeight: 3,
+				fillColor: '#F9F5FA',
+				fillOpacity: 0.1,
+				map: map,
+				bounds: new google.maps.LatLngBounds(
+					new google.maps.LatLng(45.37249, -113.56979),
+					new google.maps.LatLng(44.01547, -110.64467))
+			});
+
+			var rectangle2B = new google.maps.Rectangle({
+				strokeColor: '#9127AB',
+				strokeOpacity: 0.8,
+				strokeWeight: 3,
+				fillColor: '#F9F5FA',
+				fillOpacity: 0.1,
+				map: map,
+				bounds: new google.maps.LatLngBounds(
+					new google.maps.LatLng(44.12121, -110.70693),
+					new google.maps.LatLng(42.36019, -108.70785))
+			});
+
+			var rectangle3A = new google.maps.Rectangle({
+				strokeColor: '#9127AB',
+				strokeOpacity: 0.8,
+				strokeWeight: 3,
+				fillColor: '#F9F5FA',
+				fillOpacity: 0.1,
+				map: map,
+				bounds: new google.maps.LatLngBounds(
+					new google.maps.LatLng(42.49779, -108.80934),
+					new google.maps.LatLng(41.39289, -107.18732))
+			});
+
+			var rectangle3B = new google.maps.Rectangle({
+				strokeColor: '#9127AB',
+				strokeOpacity: 0.8,
+				strokeWeight: 3,
+				fillColor: '#F9F5FA',
+				fillOpacity: 0.1,
+				map: map,
+				bounds: new google.maps.LatLngBounds(
+					new google.maps.LatLng(41.43848, -107.40098),
+					new google.maps.LatLng(39.62355, -106.05474))
+			});
+
+			var rectangle4A = new google.maps.Rectangle({
+				strokeColor: '#9127AB',
+				strokeOpacity: 0.8,
+				strokeWeight: 3,
+				fillColor: '#F9F5FA',
+				fillOpacity: 0.1,
+				map: map,
+				bounds: new google.maps.LatLngBounds(
+					new google.maps.LatLng(39.63186, -106.17722),
+					new google.maps.LatLng(38.4694, -105.46335))
+			});
+
+			var rectangle4B = new google.maps.Rectangle({
+				strokeColor: '#9127AB',
+				strokeOpacity: 0.8,
+				strokeWeight: 3,
+				fillColor: '#F9F5FA',
+				fillOpacity: 0.1,
+				map: map,
+				bounds: new google.maps.LatLngBounds(
+					new google.maps.LatLng(38.76023, -107.05693),
+					new google.maps.LatLng(37.35568, -105.97223))
+			});
+
+			var rectangle5A = new google.maps.Rectangle({
+				strokeColor: '#9127AB',
+				strokeOpacity: 0.8,
+				strokeWeight: 3,
+				fillColor: '#F9F5FA',
+				fillOpacity: 0.1,
+				map: map,
+				bounds: new google.maps.LatLngBounds(
+					new google.maps.LatLng(37.37542, -107.01193),
+					new google.maps.LatLng(35.95976, -106.05436))
+			});
+
+			var rectangle5B = new google.maps.Rectangle({
+				strokeColor: '#9127AB',
+				strokeOpacity: 0.8,
+				strokeWeight: 3,
+				fillColor: '#F9F5FA',
+				fillOpacity: 0.1,
+				map: map,
+				bounds: new google.maps.LatLngBounds(
+					new google.maps.LatLng(36.07051, -108.149),
+					new google.maps.LatLng(34.293, -106.95911))
+			});
+
+			var rectangle6A = new google.maps.Rectangle({
+				strokeColor: '#9127AB',
+				strokeOpacity: 0.8,
+				strokeWeight: 3,
+				fillColor: '#F9F5FA',
+				fillOpacity: 0.1,
+				map: map,
+				bounds: new google.maps.LatLngBounds(
+					new google.maps.LatLng(34.59813, -109.05989),
+					new google.maps.LatLng(32.71538, -107.87026))
+			});
+
+			var rectangle6B = new google.maps.Rectangle({
+				strokeColor: '#9127AB',
+				strokeOpacity: 0.8,
+				strokeWeight: 3,
+				fillColor: '#F9F5FA',
+				fillOpacity: 0.1,
+				map: map,
+				bounds: new google.maps.LatLngBounds(
+					new google.maps.LatLng(32.80162, -108.6505),
+					new google.maps.LatLng(31.32227, -108.05562))
+			});
+
+
+			var ctaLayer = new google.maps.KmlLayer({
+				url: "http://www.havingadventures.com/kml/TD_just_route.kml"
+			});
+			ctaLayer.setMap(map);
+
+		}
+
+		google.maps.event.addDomListener(window, 'load', initialize);
+
+	</script>
+</head>
+<body>
+<div id="map-canvas"></div>
+</body>
+</html>

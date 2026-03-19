@@ -77,8 +77,11 @@ HA.views.TripIndex = {
 							m('.panel.panel-default', {
 									style: {cursor: 'pointer', height: '100%'},
 									onclick: function () {
-										console.log('TripIndex → navigate to:', dayStoreName);
-										m.route.set('/trip/' + dayStoreName);
+										const link = page.pageLink
+											? 'tdpost/' + page.pageLink
+											: '/trip/' + dayStoreName;
+										console.log('TripIndex → navigate to:', link);
+										window.location.href = link;
 									}
 								},
 
