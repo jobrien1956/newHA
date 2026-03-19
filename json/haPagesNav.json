@@ -27,7 +27,7 @@
     {
       "TripId": "2405egcw1.html",
       "id": "ha-2405egcw1",
-      "storeName": "ecgw1",
+      "storeName": "egcw1",
       "jsonFile": "ha-egcw1.json",
       "backgroundImg": "img/index/202405egcw1.jpg",
       "tripThumb": "img/index/thumb/202405egcw1.jpg",
@@ -95,7 +95,7 @@
     {
       "TripId": "lbi",
       "id": "lbi",
-      "storeName": "lbinj",
+      "storeName": "lbi",
       "pageTitle": "Sep20 LBI",
       "pageLink": "adventures/2020LBI.html",
       "tripThumb": "img/index/thumb/202009lbinj.jpg",
@@ -185,7 +185,7 @@
     {
       "TripId": "201609sanjuan",
       "id": "201609sanjuan",
-      "storeName": "sanjuan",
+      "storeName": "201609sanjuan",
       "pageTitle": "Sept16-San Juan Isl",
       "pageLink": "adventures/201609sanjuan.html",
       "tripThumb": "img/index/thumb/201609sanjuan.jpg",
@@ -255,7 +255,7 @@
     {
       "TripId": "201408tetons",
       "id": "201408tetons",
-      "storeName": "tetons",
+      "storeName": "201408tetons",
       "pageTitle": "Aug14-Tetons",
       "pageLink": "adventures/201408tetons.html#tetons_top",
       "tripThumb": "img/index/thumb/20140824GTetons00.jpg",
@@ -305,7 +305,7 @@
     {
       "TripId": "canyon2012",
       "id": "canyon2012",
-      "storeName": "canyon",
+      "storeName": "canyon2012",
       "pageTitle": "2012 Grand Canyon",
       "pageLink": "adventures/201201canyon.html",
       "tripThumb": "img/index/thumb/20120114GC001.jpg",
@@ -405,7 +405,7 @@
     {
       "TripId": "canyon2004",
       "id": "canyon2004",
-      "storeName": "canyon04",
+      "storeName": "canyon2004",
       "pageTitle": "2004 Grand Canyon",
       "pageLink": "adventures/200411canyon.html",
       "tripThumb": "img/index/thumb/200411GC.jpg",
@@ -548,7 +548,7 @@
       "storeName": "ha_future",
       "pageTitle": "Future",
       "pageLink": "adventures/ha_future.html",
-      "tripThumb": "img/index/thumb/",
+      "tripThumb": "",
       "pageSubtitle": "",
       "tripSumm": ""
     },
@@ -565,7 +565,7 @@
     {
       "TripId": "TrainloadOfBosses",
       "id": "TrainloadOfBosses",
-      "storeName": "trainload",
+      "storeName": "trainloadofbosses",
       "pageTitle": "JBK-TrainLoad",
       "pageLink": "adventures/TrainloadOfBosses.html",
       "tripThumb": "img/index/thumb/trainload.jpg",
@@ -585,13 +585,44 @@
   ],
   "haNavIndex": [
     {
+      "navgrp": "new",
+      "grpName": "23-25",
+      "grpMember": [
+        {
+          "hrefx": "adventures/202504empirestate.html",
+          "name": "Apr25 Erie Canal",
+          "storeName": "empirestate2504"
+        },
+        {
+          "hrefx": "adventures/202408greece.html",
+          "name": "2024 Greece",
+          "storeName": "greece2024"
+        },
+        {
+          "hrefx": "adventures/202405egcw1.html",
+          "name": "May24 ECG",
+          "storeName": "egcw1"
+        },
+        {
+          "hrefx": "adventures/202305lisbonportosantiago.html",
+          "name": "May-Jun23 Lisbon-Porto-Santiago",
+          "storeName": "lisbonportosantiago"
+        },
+        {
+          "hrefx": "adventures/202303zionbrycegc.html",
+          "name": "Mar23 Zion-Bryce-GC",
+          "storeName": "zionbrycegc"
+        }
+      ]
+    },
+    {
       "navgrp": "0",
       "grpName": "20-22",
       "grpMember": [
         {
           "hrefx": "adventures/2022ss2sg.html",
           "name": "May-Jul22 SS2SG2022",
-          "storeName": "ss2sg2022"
+          "storeName": "ss2sg"
         },
         {
           "hrefx": "adventures/2021calcoast.html",
@@ -658,7 +689,7 @@
         {
           "hrefx": "adventures/201609sanjuan.html",
           "name": "Sept16-San Juan Isl",
-          "storeName": "201609sanjuan"
+          "storeName": "sanjuan"
         },
         {
           "hrefx": "adventures/201606adiron.html",
@@ -693,7 +724,7 @@
         {
           "hrefx": "adventures/201408tetons.html#tetons_top",
           "name": "Aug14-Tetons",
-          "storeName": "201408tetons"
+          "storeName": "tetons"
         }
       ]
     },
@@ -724,7 +755,7 @@
         {
           "hrefx": "adventures/201201canyon.html",
           "name": "2012 Grand Canyon",
-          "storeName": "canyon2012"
+          "storeName": "canyon"
         },
         {
           "hrefx": "adventures/201008alaska.html",
@@ -780,7 +811,7 @@
         {
           "hrefx": "adventures/200411canyon.html",
           "name": "2004 Grand Canyon",
-          "storeName": "canyon2004"
+          "storeName": "canyon04"
         },
         {
           "hrefx": "adventures/200304sequoia.html",
@@ -872,7 +903,7 @@
         {
           "hrefx": "adventures/TrainloadOfBosses.html",
           "name": "JBK-TrainLoad",
-          "storeName": "trainloadofbosses"
+          "storeName": "trainload"
         },
         {
           "hrefx": "adventures/Turnback.html",
