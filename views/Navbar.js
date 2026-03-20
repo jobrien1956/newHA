@@ -13,7 +13,7 @@ NavBar = {
 				[
 					m("div.navbar-header", [
 						m("a.navbar-brand", {
-							href: HA.config.dataUrl + '/index.html',
+							href: '#!/',
 							style: {color: "gold"}
 						}, "Having Adventures.com"),
 						m("button.navbar-toggle[type='button'][data-toggle='collapse'][data-target='#ha-navbar-collapse']",
@@ -31,15 +31,10 @@ NavBar = {
 									),
 									m("ul.dropdown-menu",
 										grp.grpMember.map((member) => {
-											// Skip entries still lacking a storeName
 											if (!member.storeName) return null;
 											return m("li",
-												m("a[href='']", {
-													onclick: (e) => {
-														e.preventDefault();
-														console.log('nav -> trip:', member.storeName);
-														m.route.set('/trip/' + member.storeName);
-													}
+												m("a", {
+													href: '#!/trip/' + member.storeName
 												}, member.name)
 											);
 										})
