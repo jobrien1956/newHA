@@ -5,7 +5,7 @@ HA.views.Trip = {
 		vnode.state.loadError = undefined;
 		HA.views.Trip.loadTrip(vnode);
 	},
- 
+
 	onbeforeupdate: function(vnode) {
 		const newTripName = m.route.param('tripName');
 		if (newTripName !== vnode.state.tripName) {
@@ -15,7 +15,7 @@ HA.views.Trip = {
 			HA.views.Trip.loadTrip(vnode);
 		}
 	},
- 
+
 	loadTrip: function(vnode) {
 		const tripName = vnode.state.tripName;
 		console.log('loading trip:', tripName);
@@ -30,10 +30,10 @@ HA.views.Trip = {
 			m.redraw();
 		});
 	},
- 
+
 	view: function(vnode) {
 		const {tripName, tripData, loadError} = vnode.state;
- 
+
 	function header(trip) {
 		return m("header.intro-header", {
 				style: {
@@ -52,7 +52,7 @@ HA.views.Trip = {
 				)))]
 		);
 	}
- 
+
 	//intro allows for a brief description and summary info about the trip w 2 images (maps or other)
 	function intro(trip) {
 		return m(".container", m(".row", m("div", {class: "col-lg-12"},
@@ -69,7 +69,7 @@ HA.views.Trip = {
 		return !tripData.trip.introPic1 && !tripData.trip.introPic2 ?
 			m(".col-sm-12.blog-post.center-block.text-center",
 				m("p.blog-post", trip.introDescr)) : //no pictures
-			tripIntroImg(trip)
+			tripIntroImg(trip);
 	}
 	// used tripIntro(trip) if 2 pics put descr on top and two pics below (7 and 5)
 	// overwise put text next to pic
@@ -137,7 +137,7 @@ HA.views.Trip = {
 					])
 			;
 	}
- 
+
 	// used in dayview to run through each of the pictures in the sub level
 	function dayPic(iii) {
 		return m(".col-sm-12.center-block.text-center",
@@ -148,7 +148,7 @@ HA.views.Trip = {
 			]
 		);
 	}
- 
+
 	// used in dayview to link slideshow and album from Smugmug
 	function slideshow(iii) {
 		return m(".col-sm-12.blog-main",
@@ -160,13 +160,17 @@ HA.views.Trip = {
 				)
 			]);
 	}
- 
+
 	function footer() {
 		return m("footer",
 			m(".container", m(".row", [m(".col-sm-12.center-block",
-				m("a[href='https://www.havingiiis.com/index.html#ha_top']",
-					m("h6", "Back to Having Adventures Home page"
-					))),
+				m("a", {
+					href: '#!/',
+					onclick: function(e) {
+						e.preventDefault();
+						m.route.set('/');
+					}
+				}, m("h6", "Back to Having Adventures Home page"))),
 				m("hr"),
 				m(".col-lg-12.col-md-12",
 					[m(".col-sm-4.center-block",
@@ -199,7 +203,7 @@ HA.views.Trip = {
 			]))
 		);
 	}
- 
+
 	function dayview(iii) {
 		return m("article", m(".container", m(".row", m(".col-lg-12",
 			m(".post-preview",
@@ -214,7 +218,7 @@ HA.views.Trip = {
 			)
 		))));
 	}
- 
+
 	//endmap runs with function adventure() could be broken out
 	function endmap(trip) {
 		return m(".container",
@@ -239,27 +243,27 @@ HA.views.Trip = {
 			]
 		);
 	}
- 
+
 		// Show load error if fetch failed
-		if (loadError) return m('.container', m('p', {style: {color:'red', padding:'2rem'}}, loadError))
+		if (loadError) return m('.container', m('p', {style: {color:'red', padding:'2rem'}}, loadError));
 		// Loading state while fetch is in flight
-		if (!tripData) return m('.container', m('p', {style: {padding:'2rem'}}, 'Loading…'))
- 
+		if (!tripData) return m('.container', m('p', {style: {padding:'2rem'}}, 'Loading…'));
+
 		// Detect Type 2 trips: JSON has haPages[] but no adventureDay[]
 		if (!tripData.adventureDay && tripData.haPages) {
-			return m(HA.views.TripIndex, {tripData: tripData, tripName: tripName})
+			return m(HA.views.TripIndex, {tripData: tripData, tripName: tripName});
 		}
- 
+
 		var trip = tripData.trip || {};
 		return m("div", m(".row", [
 				header(trip),
 				trip.introDescr && intro(trip),
 				tripData.adventureDay.map(function (iii) {
-					return iii.dayId && dayview(iii)
+					return iii.dayId && dayview(iii);
 				}),
 				endmap(trip),
 				footer(trip),
 			]
-		))
+		));
 	}
 };
