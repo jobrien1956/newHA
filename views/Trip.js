@@ -5,7 +5,7 @@ HA.views.Trip = {
 		vnode.state.loadError = undefined;
 		HA.views.Trip.loadTrip(vnode);
 	},
-
+ 
 	onbeforeupdate: function(vnode) {
 		const newTripName = m.route.param('tripName');
 		if (newTripName !== vnode.state.tripName) {
@@ -15,7 +15,7 @@ HA.views.Trip = {
 			HA.views.Trip.loadTrip(vnode);
 		}
 	},
-
+ 
 	loadTrip: function(vnode) {
 		const tripName = vnode.state.tripName;
 		console.log('loading trip:', tripName);
@@ -30,10 +30,10 @@ HA.views.Trip = {
 			m.redraw();
 		});
 	},
-
+ 
 	view: function(vnode) {
 		const {tripName, tripData, loadError} = vnode.state;
-
+ 
 	function header(trip) {
 		// Build correct image URL regardless of hosting subfolder
 		// Strips leading ../ from old-style paths, prepends base path
@@ -65,7 +65,7 @@ HA.views.Trip = {
 				)))]
 		);
 	}
-
+ 
 	//intro allows for a brief description and summary info about the trip w 2 images (maps or other)
 	function intro(trip) {
 		return m(".container", m(".row", m("div", {class: "col-lg-12"},
@@ -150,7 +150,7 @@ HA.views.Trip = {
 					])
 			;
 	}
-
+ 
 	// used in dayview to run through each of the pictures in the sub level
 	function dayPic(iii) {
 		return m(".col-sm-12.center-block.text-center",
@@ -161,7 +161,7 @@ HA.views.Trip = {
 			]
 		);
 	}
-
+ 
 	// used in dayview to link slideshow and album from Smugmug
 	function slideshow(iii) {
 		return m(".col-sm-12.blog-main",
@@ -173,7 +173,7 @@ HA.views.Trip = {
 				)
 			]);
 	}
-
+ 
 	function footer() {
 		return m("footer",
 			m(".container", m(".row", [m(".col-sm-12.center-block",
@@ -186,24 +186,12 @@ HA.views.Trip = {
 				}, m("h6", "Back to Having Adventures Home page"))),
 				m("hr"),
 				m(".col-lg-12.col-md-12",
-					[m(".col-sm-4.center-block",
-						m("a.ig-b-.ig-b-32[href='https://www.instagram.com/jzob65/?ref=badge']",
-							m("img[alt='Instagram'][src='//badges.instagram.com/static/images/ig-badge-32.png']"))
-					),
-						m(".col-sm-4.center-block",
-							[m("a.twitter-follow-button[data-show-count='false'][href='https://twitter.com/jzob65']", "Follow @jzob65"),
-								m("script", "!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');"
-								)
-							]
-						),
-						m(".col-sm-4.center-block",
-							m("a[href='https://www.facebook.com']",
-								m("span.fa-stack.fa-lg",
-									[m("i.fa.fa-circle.fa-stack-2x"),
-										m("i.fa.fa-facebook.fa-stack-1x.fa-inverse")
-									]
-								)))
-					]
+					m(".col-sm-4.center-block",
+						m("a", {href: 'https://www.instagram.com/jzob65/', target: '_blank'},
+							m("i.fa.fa-instagram.fa-2x", {style: {color: '#C13584'}}),
+							m("span", {style: {marginLeft: '6px', verticalAlign: 'middle'}}, " Instagram")
+						)
+					)
 				),
 				m("hr"),
 				m(".col-lg-12.col-md-12",
@@ -216,7 +204,7 @@ HA.views.Trip = {
 			]))
 		);
 	}
-
+ 
 	function dayview(iii) {
 		return m("article", m(".container", m(".row", m(".col-lg-12",
 			m(".post-preview",
@@ -231,7 +219,7 @@ HA.views.Trip = {
 			)
 		))));
 	}
-
+ 
 	//endmap runs with function adventure() could be broken out
 	function endmap(trip) {
 		return m(".container",
@@ -256,17 +244,23 @@ HA.views.Trip = {
 			]
 		);
 	}
-
+ 
 		// Show load error if fetch failed
 		if (loadError) return m('.container', m('p', {style: {color:'red', padding:'2rem'}}, loadError));
 		// Loading state while fetch is in flight
 		if (!tripData) return m('.container', m('p', {style: {padding:'2rem'}}, 'Loading…'));
-
+ 
+		// Handle redirect trips that point to a standalone HTML page
+		if (tripData.redirect) {
+			window.location.href = tripData.redirect;
+			return m('.container', m('p', {style: {padding:'2rem'}}, 'Redirecting…'));
+		}
+ 
 		// Detect Type 2 trips: JSON has haPages[] but no adventureDay[]
 		if (!tripData.adventureDay && tripData.haPages) {
 			return m(HA.views.TripIndex, {tripData: tripData, tripName: tripName});
 		}
-
+ 
 		var trip = tripData.trip || {};
 		return m("div", m(".row", [
 				header(trip),
