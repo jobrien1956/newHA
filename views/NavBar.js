@@ -1,13 +1,11 @@
 NavBar = {
 	view: function (vnode) {
 		if (!HA.stores.hapages) return;
-
 		const navGroups = HA.stores.hapages.haNavIndex;
 		if (!navGroups) {
 			console.error('NavBar: haNavIndex missing from haPagesNav.json');
 			return;
 		}
-
 		return m("nav.navbar.navbar-inverse.navbar-fixed-top[role='navigation']",
 			m("div.container", {style: {"background-color": "black"}},
 				[
@@ -25,7 +23,6 @@ NavBar = {
 							 m("span.icon-bar"), m("span.icon-bar"), m("span.icon-bar")]
 						)
 					]),
-
 					m(".collapse.navbar-right.navbar-collapse[id='ha-navbar-collapse']",
 						m("ul.nav.navbar-nav.navbar-collapse",
 							navGroups.map((grp) => {
