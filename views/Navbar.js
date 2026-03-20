@@ -1,5 +1,5 @@
 NavBar = {
-	view: function (vnode) {
+	view: function () {
 		if (!HA.stores.hapages) return;
 
 		const navGroups = HA.stores.hapages.haNavIndex;
