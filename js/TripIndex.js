@@ -36,7 +36,13 @@ HA.views.TripIndex = {
 
 			// ── Hero ──────────────────────────────────────────
 			m('header.intro-header', {
-					style: heroImg ? {'background-image': 'url(' + heroImg + ')'} : {}
+				style: heroImg ? {
+					'background-image': 'url(' + heroImg + ')',
+					'background-size': 'cover',
+					'background-position': 'center',
+					'background-repeat': 'no-repeat',
+					'margin-top': '50px'
+				} : {'margin-top': '50px'}
 				},
 				m('.container',
 					m('.row',

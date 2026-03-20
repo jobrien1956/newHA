@@ -20,7 +20,6 @@ const mainHeader = {
 		if (!HA.stores.hapages) return;
 		return m("div.container",
 
-			// Site banner — all background styles inline, no CSS dependency needed
 			m("header.intro-header", {
 				id: 'topContainer',
 				style: {
@@ -30,7 +29,8 @@ const mainHeader = {
 					'background-repeat': 'no-repeat',
 					'height': '350px',
 					'width': '100%',
-					'margin-bottom': '0'
+					'margin-bottom': '0',
+					'margin-top': '50px'
 				}
 			},
 				m("div.row",
@@ -57,37 +57,55 @@ const mainHeader = {
 			),
 
 			// Trip card grid
-			// FIX: each card column needs position:relative so that the
-			// absolutely-positioned .square-text and .square-img are contained
-			// FIX: children wrapped in [] array so all three render
 			m("div.row",
 				HA.stores.hapages.haPages
 					.filter(it => it.storeName)
 					.map((it) => m(".col-xs-6.col-sm-4.col-md-3", {
 							key: it.storeName,
-							style: {position: 'relative', height: '150px', marginBottom: '10px'}
+							style: {marginBottom: '10px'}
+						},
+						// Outer wrapper forces square via padding-bottom trick
+						m("div", {
+							style: {
+								position: 'relative',
+								width: '100%',
+								'padding-bottom': '100%',  // makes height = width = square
+								overflow: 'hidden',
+								cursor: 'pointer'
+							},
+							onclick: () => {
+								console.log('navigate to trip:', it.storeName);
+								m.route.set('/trip/' + it.storeName);
+							}
 						}, [
-							m("a.square-text", {
-								onclick: () => {
-									console.log('navigate to trip:', it.storeName);
-									m.route.set('/trip/' + it.storeName);
-								}
-							}, it.pageTitle),
-							m(".square-img", {
+							// Background image — z-index 1 (bottom layer)
+							m("div", {
 								style: {
+									position: 'absolute',
+									top: '0', left: '0', right: '0', bottom: '0',
 									'background-image': it.tripThumb ? 'url(' + it.tripThumb + ')' : 'none',
-									'background-color': it.tripThumb ? '' : '#2a2a28',
+									'background-color': it.tripThumb ? '#000' : '#2a2a28',
 									'background-size': 'cover',
 									'background-position': 'center',
-									'position': 'absolute',
-									'top': '0',
-									'left': '0',
-									'right': '0',
-									'bottom': '0'
+									'z-index': '1'
 								}
-							})
+							}),
+							// Title bar — z-index 2 (on top of image)
+							m("div", {
+								style: {
+									position: 'absolute',
+									bottom: '0', left: '0', right: '0',
+									'z-index': '2',
+									background: 'rgba(0,0,0,0.55)',
+									color: '#fff',
+									'text-align': 'center',
+									padding: '6px 4px',
+									'font-size': '12px',
+									'line-height': '1.3'
+								}
+							}, it.pageTitle)
 						])
-					)
+					))
 			)
 		);
 	}
