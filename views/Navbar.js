@@ -2,8 +2,11 @@ NavBar = {
 	view: function (vnode) {
 		if (!HA.stores.hapages) return;
 
-		// FIX: data key is 'haNavIndex' (not 'HomePageNavBarData')
 		const navGroups = HA.stores.hapages.haNavIndex;
+		if (!navGroups) {
+			console.error('NavBar: haNavIndex missing from haPagesNav.json');
+			return;
+		}
 
 		return m("nav.navbar.navbar-inverse.navbar-fixed-top[role='navigation']",
 			m("div.container", {style: {"background-color": "black"}},
