@@ -40,6 +40,7 @@ NavBar = {
 													onclick: function(e) {
 														e.preventDefault();
 														var sn = member.storeName;
+														// Close Bootstrap dropdown
 														if (window.$) $(this).closest('.open').removeClass('open');
 														m.route.set('/trip/' + sn);
 													}
