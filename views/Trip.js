@@ -1,21 +1,51 @@
-HA.views.Trip = (vnode) => {
-	let tripName = m.route.param('tripName')
-	let tripData = undefined
-	let loadError = undefined
-	console.log('in trip', tripName)
-	// FIX: use HA.config.dataUrl instead of hardcoded /newHA/ prefix
-	m.request({
-		url: HA.config.dataUrl + 'json/ha-' + tripName + '.json'
-	}).then(function (response) {
-		tripData = response;
-	}).catch(function (err) {
-		loadError = 'Could not load trip data for "' + tripName + '". (' + err.message + ')';
-		console.error(loadError);
-	});
 
+Copy
+
+HA.views.Trip = {
+	oninit: function(vnode) {
+		vnode.state.tripName = m.route.param('tripName');
+		vnode.state.tripData = undefined;
+		vnode.state.loadError = undefined;
+		HA.views.Trip.loadTrip(vnode);
+	},
+ 
+	onbeforeupdate: function(vnode) {
+		const newTripName = m.route.param('tripName');
+		if (newTripName !== vnode.state.tripName) {
+			vnode.state.tripName = newTripName;
+			vnode.state.tripData = undefined;
+			vnode.state.loadError = undefined;
+			HA.views.Trip.loadTrip(vnode);
+		}
+	},
+ 
+	loadTrip: function(vnode) {
+		const tripName = vnode.state.tripName;
+		console.log('loading trip:', tripName);
+		m.request({
+			url: HA.config.dataUrl + 'json/ha-' + tripName + '.json'
+		}).then(function(response) {
+			vnode.state.tripData = response;
+			m.redraw();
+		}).catch(function(err) {
+			vnode.state.loadError = 'Could not load trip data for "' + tripName + '". (' + err.message + ')';
+			console.error(vnode.state.loadError);
+			m.redraw();
+		});
+	},
+ 
+	view: function(vnode) {
+		const {tripName, tripData, loadError} = vnode.state;
+ 
 	function header(trip) {
 		return m("header.intro-header", {
-				style: {"background-image": "url(" + tripData.trip.backgroundImg + ")"}
+				style: {
+					"background-image": "url(" + tripData.trip.backgroundImg + ")",
+					"background-size": "cover",
+					"background-position": "center",
+					"background-repeat": "no-repeat",
+					"margin-top": "50px"
+				}
 			}, [m("a", {name: tripData.trip.id}),
 				m(".container", m(".row", m(".col-lg-8.col-lg-offset-2.col-md-10.col-md-offset-1",
 					m(".site-heading", [m("h2", tripData.trip.pageTitle),
@@ -25,7 +55,7 @@ HA.views.Trip = (vnode) => {
 				)))]
 		);
 	}
-
+ 
 	//intro allows for a brief description and summary info about the trip w 2 images (maps or other)
 	function intro(trip) {
 		return m(".container", m(".row", m("div", {class: "col-lg-12"},
@@ -110,7 +140,7 @@ HA.views.Trip = (vnode) => {
 					])
 			;
 	}
-
+ 
 	// used in dayview to run through each of the pictures in the sub level
 	function dayPic(iii) {
 		return m(".col-sm-12.center-block.text-center",
@@ -121,7 +151,7 @@ HA.views.Trip = (vnode) => {
 			]
 		);
 	}
-
+ 
 	// used in dayview to link slideshow and album from Smugmug
 	function slideshow(iii) {
 		return m(".col-sm-12.blog-main",
@@ -133,7 +163,7 @@ HA.views.Trip = (vnode) => {
 				)
 			]);
 	}
-
+ 
 	function footer() {
 		return m("footer",
 			m(".container", m(".row", [m(".col-sm-12.center-block",
@@ -172,7 +202,7 @@ HA.views.Trip = (vnode) => {
 			]))
 		);
 	}
-
+ 
 	function dayview(iii) {
 		return m("article", m(".container", m(".row", m(".col-lg-12",
 			m(".post-preview",
@@ -187,7 +217,7 @@ HA.views.Trip = (vnode) => {
 			)
 		))));
 	}
-
+ 
 	//endmap runs with function adventure() could be broken out
 	function endmap(trip) {
 		return m(".container",
@@ -212,33 +242,27 @@ HA.views.Trip = (vnode) => {
 			]
 		);
 	}
-
-	return {
-		view: function (vnode) {
-			// Show load error if fetch failed
-			if (loadError) return m('.container', m('p', {style: {color:'red', padding:'2rem'}}, loadError))
-			// Loading state while fetch is in flight
-			if (!tripData) return m('.container', m('p', {style: {padding:'2rem'}}, 'Loading…'))
-
-			// Detect Type 2 trips: JSON has haPages[] but no adventureDay[]
-			// Hand off to TripIndex instead of crashing on .adventureDay.map()
-			if (!tripData.adventureDay && tripData.haPages) {
-				return m(HA.views.TripIndex, {tripData: tripData, tripName: tripName})
-			}
-
-			var trip = tripData.trip || {};
-			return m("div", m(".row", [
-					header(trip),
-					trip.introDescr && intro(trip),
-					// FIX: removed stray comma operator which was discarding the first
-					// return value — m('div',"new dayID"...) was evaluated but thrown away
-					tripData.adventureDay.map(function (iii) {
-						return iii.dayId && dayview(iii)
-					}),
-					endmap(trip),
-					footer(trip),
-				]
-			))
+ 
+		// Show load error if fetch failed
+		if (loadError) return m('.container', m('p', {style: {color:'red', padding:'2rem'}}, loadError))
+		// Loading state while fetch is in flight
+		if (!tripData) return m('.container', m('p', {style: {padding:'2rem'}}, 'Loading…'))
+ 
+		// Detect Type 2 trips: JSON has haPages[] but no adventureDay[]
+		if (!tripData.adventureDay && tripData.haPages) {
+			return m(HA.views.TripIndex, {tripData: tripData, tripName: tripName})
 		}
+ 
+		var trip = tripData.trip || {};
+		return m("div", m(".row", [
+				header(trip),
+				trip.introDescr && intro(trip),
+				tripData.adventureDay.map(function (iii) {
+					return iii.dayId && dayview(iii)
+				}),
+				endmap(trip),
+				footer(trip),
+			]
+		))
 	}
-}
+};
