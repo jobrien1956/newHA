@@ -35,9 +35,22 @@ HA.views.Trip = {
 		const {tripName, tripData, loadError} = vnode.state;
 
 	function header(trip) {
+		// Build correct image URL regardless of hosting subfolder
+		// Strips leading ../ from old-style paths, prepends base path
+		var bgRaw = tripData.trip.backgroundImg || '';
+		var bgImg = '';
+		if (bgRaw) {
+			if (bgRaw.startsWith('http')) {
+				bgImg = bgRaw; // absolute URL, use as-is
+			} else {
+				// strip any leading ../
+				bgRaw = bgRaw.replace(/^(\.\.\/)+/, '');
+				bgImg = bgRaw;
+			}
+		}
 		return m("header.intro-header", {
 				style: {
-					"background-image": "url(" + tripData.trip.backgroundImg + ")",
+					"background-image": bgImg ? "url(" + bgImg + ")" : "none",
 					"background-size": "cover",
 					"background-position": "center",
 					"background-repeat": "no-repeat",
