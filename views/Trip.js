@@ -1,6 +1,3 @@
-
-Copy
-
 HA.views.Trip = {
 	oninit: function(vnode) {
 		vnode.state.tripName = m.route.param('tripName');
