@@ -92,36 +92,34 @@ HA.views.TDDay = {
             m('article',
                 m('.container',
                     m('.row',
-                        m('.blog-post',
 
-                            // Elevation summary chart (col-sm-8 left column)
-                            dayData.elevSumm && m('.col-sm-8.blog-main',
-                                dayData.elevEarth && m('img.img-responsive', {
-                                    src: dayData.elevEarth,
-                                    alt: 'Google Earth view',
-                                    style: { width: '95%' }
-                                }),
-                                m('img.img-responsive', {
-                                    src: dayData.elevSumm,
-                                    alt: 'Elevation summary',
-                                    style: { width: '95%' }
-                                })
-                            ),
+                        // Top row: elev summary (col-sm-8) + sidebar (col-sm-3)
+                        m('.col-sm-8.blog-main',
+                            dayData.elevEarth && m('img.img-responsive', {
+                                src: dayData.elevEarth,
+                                alt: 'Google Earth view',
+                                style: { width: '95%' }
+                            }),
+                            dayData.elevSumm && m('img.img-responsive', {
+                                src: dayData.elevSumm,
+                                alt: 'Elevation summary',
+                                style: { width: '95%' }
+                            })
+                        ),
 
-                            // Sidebar
-                            m(HA.views.TDSidebar, { currentDay: dayData.dayNum }),
+                        // Sidebar sits alongside elevation chart
+                        m(HA.views.TDSidebar, { currentDay: dayData.dayNum }),
 
-                            // Main content column - rendered from extracted HTML
-                            m('.col-sm-12.blog-main',
-                                // Elevation profile
-                                dayData.elevElev && m('img.img-responsive', {
-                                    src: dayData.elevElev,
-                                    alt: 'Elevation profile',
-                                    style: { width: '95%', marginBottom: '20px' }
-                                }),
+                        // Main content column - full width below
+                        m('.col-sm-12.blog-main',
+                            dayData.elevElev && m('img.img-responsive', {
+                                src: dayData.elevElev,
+                                alt: 'Elevation profile',
+                                style: { width: '95%', marginBottom: '20px' }
+                            }),
 
-                                // The rich narrative content from original HTML
-                                dayData.content && m.trust(dayData.content),
+                            // The rich narrative content from original HTML
+                            dayData.content && m.trust(dayData.content),
 
                                 // Google map
                                 dayData.mapMid && m('div', { style: { marginTop: '20px' } }, [
@@ -153,11 +151,10 @@ HA.views.TDDay = {
                                         '.'
                                     ]
                                 ])
-                            )
-                        )
-                    )
-                )
-            ),
+                            ) // col-sm-12
+                    ) // row
+                ) // container
+            ), // article
 
             // ── Back to home ──────────────────────────────────────
             m('hr'),
