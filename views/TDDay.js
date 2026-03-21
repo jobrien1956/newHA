@@ -93,8 +93,8 @@ HA.views.TDDay = {
                 m('.container',
                     m('.row',
 
-                        // Top row: elev summary (col-sm-8) + sidebar (col-sm-3)
-                        m('.col-sm-8.blog-main',
+                        // Elevation summary chart - only rendered if it exists
+                        (dayData.elevSumm || dayData.elevEarth) && m('.col-sm-8.blog-main',
                             dayData.elevEarth && m('img.img-responsive', {
                                 src: dayData.elevEarth,
                                 alt: 'Google Earth view',
@@ -107,11 +107,11 @@ HA.views.TDDay = {
                             })
                         ),
 
-                        // Sidebar sits alongside elevation chart
+                        // Sidebar - always rendered
                         m(HA.views.TDSidebar, { currentDay: dayData.dayNum }),
 
-                        // Main content column - full width below
-                        m('.col-sm-12.blog-main',
+                        // Main content column - col-sm-8 to sit beside sidebar
+                        m('.col-sm-8.blog-main',
                             dayData.elevElev && m('img.img-responsive', {
                                 src: dayData.elevElev,
                                 alt: 'Elevation profile',
