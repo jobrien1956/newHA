@@ -21,7 +21,7 @@ HA.views.Trip = {
 		const tripName = vnode.state.tripName;
 		console.log('loading trip:', tripName);
 		m.request({
-			url: HA.config.dataUrl + 'json/ha-' + tripName + '.json'
+			url: HA.config.basePath + '/' + HA.config.dataUrl + 'json/ha-' + tripName + '.json'
 		}).then(function(response) {
 			vnode.state.tripData = response;
 			m.redraw();

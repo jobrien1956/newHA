@@ -26,7 +26,7 @@ HA.views.TDDay = {
     loadDay: function(vnode) {
         var tripName = vnode.state.tripName;
         m.request({
-            url: HA.config.dataUrl + 'json/ha-' + tripName + '.json'
+            url: HA.config.basePath + '/' + HA.config.dataUrl + 'json/ha-' + tripName + '.json'
         }).then(function(response) {
             vnode.state.dayData = response;
             m.redraw();
@@ -65,15 +65,15 @@ HA.views.TDDay = {
 
             // ── Hero header ────────────────────────────────────────
             m('header.intro-header', {
-                    style: {
-                        'background-image': dayData.backgroundImg ? 'url(' + dayData.backgroundImg + ')' : 'none',
-                        'background-size': 'cover',
-                        'background-position': 'center',
-                        'background-repeat': 'no-repeat',
-                        'height': '500px',
-                        'margin-top': '50px'
-                    }
-                },
+                style: {
+                    'background-image': dayData.backgroundImg ? 'url(' + dayData.backgroundImg + ')' : 'none',
+                    'background-size': 'cover',
+                    'background-position': 'center',
+                    'background-repeat': 'no-repeat',
+                    'height': '500px',
+                    'margin-top': '50px'
+                }
+            },
                 m('.container',
                     m('.row',
                         m('.col-lg-8.col-lg-offset-2.col-md-10.col-md-offset-1',
@@ -123,37 +123,37 @@ HA.views.TDDay = {
                             // The rich narrative content
                             dayData.content && m.trust(dayData.content),
 
-                            // Google map
-                            dayData.mapMid && m('div', { style: { marginTop: '20px' } }, [
-                                m('iframe', {
-                                    src: 'https://www.google.com/maps/d/embed?mid=' + dayData.mapMid,
-                                    width: '640',
-                                    height: '480',
-                                    style: { border: 'none', maxWidth: '100%' }
-                                }),
-                                m('br'),
-                                m('a', {
-                                    href: 'https://www.google.com/maps/d/edit?mid=' + dayData.mapMid + '&usp=sharing',
-                                    target: '_blank'
-                                }, 'See full screen map')
-                            ]),
+                                // Google map
+                                dayData.mapMid && m('div', { style: { marginTop: '20px' } }, [
+                                    m('iframe', {
+                                        src: 'https://www.google.com/maps/d/embed?mid=' + dayData.mapMid,
+                                        width: '640',
+                                        height: '480',
+                                        style: { border: 'none', maxWidth: '100%' }
+                                    }),
+                                    m('br'),
+                                    m('a', {
+                                        href: 'https://www.google.com/maps/d/edit?mid=' + dayData.mapMid + '&usp=sharing',
+                                        target: '_blank'
+                                    }, 'See full screen map')
+                                ]),
 
-                            // Footer tagline + credits
-                            m('span.caption.text-muted', {
-                                style: { 'font-size': 'medium', 'font-weight': 'bold' }
-                            }, 'To go places and do things that I\'ve never done before – that\'s what living is all about.'),
+                                // Footer tagline + credits
+                                m('span.caption.text-muted', {
+                                    style: { 'font-size': 'medium', 'font-weight': 'bold' }
+                                }, 'To go places and do things that I\'ve never done before – that\'s what living is all about.'),
 
-                            m('p', { style: { marginTop: '10px' } }, [
-                                'Text by ',
-                                m('a', { href: 'https://www.havingadventures.com/' }, 'Jim O\'Brien'),
-                                '. Photographs by Jim O\'Brien',
-                                dayData.flickr && [
-                                    ', see additional photos of the ',
-                                    m('a', { href: dayData.flickr, target: '_blank' }, 'Tour Divide on Flickr'),
-                                    '.'
-                                ]
-                            ])
-                        ) // col-sm-12
+                                m('p', { style: { marginTop: '10px' } }, [
+                                    'Text by ',
+                                    m('a', { href: 'https://www.havingadventures.com/' }, 'Jim O\'Brien'),
+                                    '. Photographs by Jim O\'Brien',
+                                    dayData.flickr && [
+                                        ', see additional photos of the ',
+                                        m('a', { href: dayData.flickr, target: '_blank' }, 'Tour Divide on Flickr'),
+                                        '.'
+                                    ]
+                                ])
+                            ) // col-sm-12
                     ) // row
                 ) // container
             ), // article

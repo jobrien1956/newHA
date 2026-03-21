@@ -4,11 +4,16 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Having Adventures</title>
-  <base href="/newHA/">
-
+  <!-- 
+    ENVIRONMENT PATHS - update these when deploying:
+    GitHub Pages:          /newHA/css/...  and  /newHA/views/...
+    Local IntelliJ:        css/...         and  views/...
+    havingadventures.com:  css/...         and  views/...
+    Also update basePath in views/app.js
+  -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-  <link rel="stylesheet" href="css/clean-blog.css">
+  <link rel="stylesheet" href="/newHA/css/clean-blog.css">
 </head>
 <body>
 
@@ -16,20 +21,20 @@
   <script src="https://unpkg.com/mithril@2.2.2/mithril.min.js"></script>
 
   <!-- LOAD ORDER: app.js first (creates HA namespace), then views -->
-  <script src="views/app.js"></script>
+  <script src="/newHA/views/app.js"></script>
 
   <!-- Views - NavBar and Footer before Layout (Layout uses both) -->
-  <script src="views/NavBar.js"></script>
-  <script src="views/Footer.js"></script>
-  <script src="views/Layout.js"></script>
-  <script src="views/Home.js"></script>
-  <script src="views/TripIndex.js"></script>
-  <script src="views/Trip.js"></script>
+  <script src="/newHA/views/NavBar.js"></script>
+  <script src="/newHA/views/Footer.js"></script>
+  <script src="/newHA/views/Layout.js"></script>
+  <script src="/newHA/views/Home.js"></script>
+  <script src="/newHA/views/TripIndex.js"></script>
+  <script src="/newHA/views/Trip.js"></script>
 
   <!-- Tour Divide day renderer -->
-  <script src="views/TDNavBar.js"></script>
-  <script src="views/TDSidebar.js"></script>
-  <script src="views/TDDay.js"></script>
+  <script src="/newHA/views/TDNavBar.js"></script>
+  <script src="/newHA/views/TDSidebar.js"></script>
+  <script src="/newHA/views/TDDay.js"></script>
 
   <!-- jQuery + Bootstrap JS (navbar collapse) -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>

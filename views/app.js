@@ -1,11 +1,21 @@
 // app.js - Last updated: 2026-03-21 - App bootstrapper - HA namespace, Mithril routes, JsonLoader
 (function () {
+
+	// ── ENVIRONMENT CONFIG ─────────────────────────────────────────
+	// Change basePath for each environment:
+	// GitHub Pages:       basePath = '/newHA'
+	// Local IntelliJ:     basePath = ''
+	// havingadventures.com: basePath = ''
+	var basePath = '/newHA';
+	// ──────────────────────────────────────────────────────────────
+
 	window.HA = {
 		views: {},
 		stores: {},
 		utils: {},
 		config: {
-			dataUrl: ""
+			dataUrl: "",
+			basePath: basePath
 		}
 	};
   // This view is being used to load various parts of the homepage so I can get the formating.  I still need to get the functionality to present various views (navbar / intro / main header / tripcards / footer on the main page and then (navbar / trip (HA.views.Trip) and the footer with a trip page.
@@ -82,7 +92,7 @@
 	document.addEventListener("DOMContentLoaded", () => {
 		console.log('Running app...');
 		// loads haPages[] and HomePageNavBarData[] into HA.stores.hapages
-		HA.utils.JsonLoader.load({name: 'hapages', url: 'json/haPagesNav.json'});
+		HA.utils.JsonLoader.load({name: 'hapages', url: basePath + '/json/haPagesNav.json'});
 		m.route(document.body, "/", {
 			"/": {
 				view: function () {
