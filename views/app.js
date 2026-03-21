@@ -86,19 +86,25 @@
 		m.route(document.body, "/", {
 			"/": {
 				view: function () {
-					return m(HA.views.Layout, m(HA.views.Home))
+					return m(HA.views.Layout, m(HA.views.Home));
+				},
+			},
+			// TD day pages - use TDDay renderer (no Layout wrapper - has its own navbar)
+			"/trip/tourdivide:dayNum": {
+				view: function () {
+					return m(HA.views.TDDay);
 				},
 			},
 			"/trip/:tripName": {
 				view: function ({attrs}) {
 					console.log('route attrs', attrs);
-					return m(HA.views.Layout, m(HA.views.Trip))
+					return m(HA.views.Layout, m(HA.views.Trip));
 				},
 			},
 			"/tripindex/:tripName": {
 				view: function ({attrs}) {
 					console.log('route attrs', attrs);
-					return m(HA.views.Layout, m(HA.views.TripIndex))
+					return m(HA.views.Layout, m(HA.views.TripIndex));
 				},
 			}
 		})
