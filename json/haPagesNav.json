@@ -95,7 +95,7 @@
     {
       "TripId": "lbi",
       "id": "lbi",
-      "storeName": "lbi",
+      "storeName": "lbinj",
       "pageTitle": "Sep20 LBI",
       "pageLink": "adventures/2020LBI.html",
       "tripThumb": "img/index/thumb/202009lbinj.jpg",
@@ -632,7 +632,7 @@
         {
           "hrefx": "adventures/2020LBI.html",
           "name": "Sep20 LBI",
-          "storeName": "lbi"
+          "storeName": "lbinj"
         },
         {
           "hrefx": "adventures/202002cobo.html",
