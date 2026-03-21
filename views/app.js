@@ -1,13 +1,11 @@
+// app.js - Last updated: 2026-03-21 - App bootstrapper - HA namespace, Mithril routes, JsonLoader
 (function () {
 	window.HA = {
 		views: {},
 		stores: {},
 		utils: {},
 		config: {
-			//dataUrl: "/havingadventures.com"
 			dataUrl: ""
-// production this is       dataUrl: ""
-// dev this is       dataUrl: ""
 		}
 	};
   // This view is being used to load various parts of the homepage so I can get the formating.  I still need to get the functionality to present various views (navbar / intro / main header / tripcards / footer on the main page and then (navbar / trip (HA.views.Trip) and the footer with a trip page.

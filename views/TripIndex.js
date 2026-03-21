@@ -1,3 +1,4 @@
+// TripIndex.js - Last updated: 2026-03-21 - TripIndex - Type 2 multi-day card grid, hero image, margin-top navbar fix
 /*
  * TripIndex.js  —  HA.views.TripIndex
  *
@@ -36,7 +37,13 @@ HA.views.TripIndex = {
 
 			// ── Hero ──────────────────────────────────────────
 			m('header.intro-header', {
-					style: heroImg ? {'background-image': 'url(' + heroImg + ')'} : {}
+				style: heroImg ? {
+					'background-image': 'url(' + heroImg + ')',
+					'background-size': 'cover',
+					'background-position': 'center',
+					'background-repeat': 'no-repeat',
+					'margin-top': '50px'
+				} : {'margin-top': '50px'}
 				},
 				m('.container',
 					m('.row',

@@ -1,21 +1,62 @@
-HA.views.Trip = (vnode) => {
-	let tripName = m.route.param('tripName')
-	let tripData = undefined
-	let loadError = undefined
-	console.log('in trip', tripName)
-	// FIX: use HA.config.dataUrl instead of hardcoded /newHA/ prefix
-	m.request({
-		url: HA.config.dataUrl + 'json/ha-' + tripName + '.json'
-	}).then(function (response) {
-		tripData = response;
-	}).catch(function (err) {
-		loadError = 'Could not load trip data for "' + tripName + '". (' + err.message + ')';
-		console.error(loadError);
-	});
+// Trip.js - Last updated: 2026-03-21 - Trip page renderer - oninit/onbeforeupdate reload fix, footer Instagram only, redirect support, margin-top navbar fix
+HA.views.Trip = {
+	oninit: function(vnode) {
+		vnode.state.tripName = m.route.param('tripName');
+		vnode.state.tripData = undefined;
+		vnode.state.loadError = undefined;
+		HA.views.Trip.loadTrip(vnode);
+	},
+
+	onbeforeupdate: function(vnode) {
+		const newTripName = m.route.param('tripName');
+		if (newTripName !== vnode.state.tripName) {
+			vnode.state.tripName = newTripName;
+			vnode.state.tripData = undefined;
+			vnode.state.loadError = undefined;
+			HA.views.Trip.loadTrip(vnode);
+		}
+	},
+
+	loadTrip: function(vnode) {
+		const tripName = vnode.state.tripName;
+		console.log('loading trip:', tripName);
+		m.request({
+			url: HA.config.dataUrl + 'json/ha-' + tripName + '.json'
+		}).then(function(response) {
+			vnode.state.tripData = response;
+			m.redraw();
+		}).catch(function(err) {
+			vnode.state.loadError = 'Could not load trip data for "' + tripName + '". (' + err.message + ')';
+			console.error(vnode.state.loadError);
+			m.redraw();
+		});
+	},
+
+	view: function(vnode) {
+		const {tripName, tripData, loadError} = vnode.state;
 
 	function header(trip) {
+		// Build correct image URL regardless of hosting subfolder
+		// Strips leading ../ from old-style paths, prepends base path
+		var bgRaw = tripData.trip.backgroundImg || '';
+		var bgImg = '';
+		if (bgRaw) {
+			if (bgRaw.startsWith('http')) {
+				bgImg = bgRaw; // absolute URL, use as-is
+			} else {
+				// strip any leading ../
+				bgRaw = bgRaw.replace(/^(\.\.\/)+/, '');
+				bgImg = bgRaw;
+			}
+		}
 		return m("header.intro-header", {
-				style: {"background-image": "url(" + tripData.trip.backgroundImg + ")"}
+				style: {
+					"background-image": bgImg ? "url(" + bgImg + ")" : "none",
+					"background-size": "cover",
+					"background-position": "center",
+					"background-repeat": "no-repeat",
+					"margin-top": "50px"
+				}
 			}, [m("a", {name: tripData.trip.id}),
 				m(".container", m(".row", m(".col-lg-8.col-lg-offset-2.col-md-10.col-md-offset-1",
 					m(".site-heading", [m("h2", tripData.trip.pageTitle),
@@ -42,7 +83,7 @@ HA.views.Trip = (vnode) => {
 		return !tripData.trip.introPic1 && !tripData.trip.introPic2 ?
 			m(".col-sm-12.blog-post.center-block.text-center",
 				m("p.blog-post", trip.introDescr)) : //no pictures
-			tripIntroImg(trip)
+			tripIntroImg(trip);
 	}
 	// used tripIntro(trip) if 2 pics put descr on top and two pics below (7 and 5)
 	// overwise put text next to pic
@@ -137,29 +178,21 @@ HA.views.Trip = (vnode) => {
 	function footer() {
 		return m("footer",
 			m(".container", m(".row", [m(".col-sm-12.center-block",
-				m("a[href='https://www.havingiiis.com/index.html#ha_top']",
-					m("h6", "Back to Having Adventures Home page"
-					))),
+				m("a", {
+					href: '#!/',
+					onclick: function(e) {
+						e.preventDefault();
+						m.route.set('/');
+					}
+				}, m("h6", "Back to Having Adventures Home page"))),
 				m("hr"),
 				m(".col-lg-12.col-md-12",
-					[m(".col-sm-4.center-block",
-						m("a.ig-b-.ig-b-32[href='https://www.instagram.com/jzob65/?ref=badge']",
-							m("img[alt='Instagram'][src='//badges.instagram.com/static/images/ig-badge-32.png']"))
-					),
-						m(".col-sm-4.center-block",
-							[m("a.twitter-follow-button[data-show-count='false'][href='https://twitter.com/jzob65']", "Follow @jzob65"),
-								m("script", "!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');"
-								)
-							]
-						),
-						m(".col-sm-4.center-block",
-							m("a[href='https://www.facebook.com']",
-								m("span.fa-stack.fa-lg",
-									[m("i.fa.fa-circle.fa-stack-2x"),
-										m("i.fa.fa-facebook.fa-stack-1x.fa-inverse")
-									]
-								)))
-					]
+					m(".col-sm-4.center-block",
+						m("a", {href: 'https://www.instagram.com/jzob65/', target: '_blank'},
+							m("i.fa.fa-instagram.fa-2x", {style: {color: '#C13584'}}),
+							m("span", {style: {marginLeft: '6px', verticalAlign: 'middle'}}, " Instagram")
+						)
+					)
 				),
 				m("hr"),
 				m(".col-lg-12.col-md-12",
@@ -213,32 +246,32 @@ HA.views.Trip = (vnode) => {
 		);
 	}
 
-	return {
-		view: function (vnode) {
-			// Show load error if fetch failed
-			if (loadError) return m('.container', m('p', {style: {color:'red', padding:'2rem'}}, loadError))
-			// Loading state while fetch is in flight
-			if (!tripData) return m('.container', m('p', {style: {padding:'2rem'}}, 'Loading…'))
+		// Show load error if fetch failed
+		if (loadError) return m('.container', m('p', {style: {color:'red', padding:'2rem'}}, loadError));
+		// Loading state while fetch is in flight
+		if (!tripData) return m('.container', m('p', {style: {padding:'2rem'}}, 'Loading…'));
 
-			// Detect Type 2 trips: JSON has haPages[] but no adventureDay[]
-			// Hand off to TripIndex instead of crashing on .adventureDay.map()
-			if (!tripData.adventureDay && tripData.haPages) {
-				return m(HA.views.TripIndex, {tripData: tripData, tripName: tripName})
-			}
-
-			var trip = tripData.trip || {};
-			return m("div", m(".row", [
-					header(trip),
-					trip.introDescr && intro(trip),
-					// FIX: removed stray comma operator which was discarding the first
-					// return value — m('div',"new dayID"...) was evaluated but thrown away
-					tripData.adventureDay.map(function (iii) {
-						return iii.dayId && dayview(iii)
-					}),
-					endmap(trip),
-					footer(trip),
-				]
-			))
+		// Handle redirect trips that point to a standalone HTML page
+		if (tripData.redirect) {
+			window.location.href = tripData.redirect;
+			return m('.container', m('p', {style: {padding:'2rem'}}, 'Redirecting…'));
 		}
+
+		// Detect Type 2 trips: JSON has haPages[] but no adventureDay[]
+		if (!tripData.adventureDay && tripData.haPages) {
+			return m(HA.views.TripIndex, {tripData: tripData, tripName: tripName});
+		}
+
+		var trip = tripData.trip || {};
+		return m("div", m(".row", [
+				header(trip),
+				trip.introDescr && intro(trip),
+				tripData.adventureDay.map(function (iii) {
+					return iii.dayId && dayview(iii);
+				}),
+				endmap(trip),
+				footer(trip),
+			]
+		));
 	}
-}
+};

@@ -1,3 +1,4 @@
+// NavBar.js - Last updated: 2026-03-21 - NavBar - uses haNavIndex, dropdown links via m.route.set, brand link to home
 NavBar = {
 	view: function (vnode) {
 		if (!HA.stores.hapages) return;
@@ -18,7 +19,7 @@ NavBar = {
 						}, "Having Adventures.com"),
 						m("button.navbar-toggle[type='button'][data-toggle='collapse'][data-target='#ha-navbar-collapse']",
 							[m("span.sr-only", "Toggle navigation"),
-								m("span.icon-bar"), m("span.icon-bar"), m("span.icon-bar")]
+							 m("span.icon-bar"), m("span.icon-bar"), m("span.icon-bar")]
 						)
 					]),
 
@@ -40,6 +41,7 @@ NavBar = {
 													onclick: function(e) {
 														e.preventDefault();
 														var sn = member.storeName;
+														// Close Bootstrap dropdown
 														if (window.$) $(this).closest('.open').removeClass('open');
 														m.route.set('/trip/' + sn);
 													}

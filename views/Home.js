@@ -1,3 +1,4 @@
+// Home.js - Last updated: 2026-03-21 - Home page - square card grid, Sierra header, pageLink navigation, margin-top navbar fix
 const ToggleImage = () => {
 	let index = 0;
 	const images = [
@@ -20,7 +21,6 @@ const mainHeader = {
 		if (!HA.stores.hapages) return;
 		return m("div.container",
 
-			// Site banner — all background styles inline, no CSS dependency needed
 			m("header.intro-header", {
 				id: 'topContainer',
 				style: {
@@ -30,7 +30,8 @@ const mainHeader = {
 					'background-repeat': 'no-repeat',
 					'height': '350px',
 					'width': '100%',
-					'margin-bottom': '0'
+					'margin-bottom': '0',
+					'margin-top': '50px'
 				}
 			},
 				m("div.row",
