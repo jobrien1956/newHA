@@ -25,13 +25,13 @@
       "tripSumm": "Our long delayed Greece trip to Mt Olympus, Delhi,"
     },
     {
-      "TripId": "2405ecgw1.html",
-      "id": "ha-2405ecgw1",
-      "storeName": "ecgw1",
-      "jsonFile": "ha-ecgw1.json",
-      "backgroundImg": "img/index/202405ecgw1.jpg",
-      "tripThumb": "img/index/thumb/202405ecgw1.jpg",
-      "pageLink": "adventures/202405ecgw1.html",
+      "TripId": "2405egcw1.html",
+      "id": "ha-2405egcw1",
+      "storeName": "egcw1",
+      "jsonFile": "ha-egcw1.json",
+      "backgroundImg": "img/index/202405egcw1.jpg",
+      "tripThumb": "img/index/thumb/202405egcw1.jpg",
+      "pageLink": "adventures/202405egcw1.html",
       "pageTitle": "May 2024 York PA - Rich VA",
       "pageSubtitle": "Our first sample of the ECG",
       "tripSumm": "Mike, Tim, Jim and Dave have a quick ride mostly on the ECG and Bike US1"
@@ -185,7 +185,7 @@
     {
       "TripId": "201609sanjuan",
       "id": "201609sanjuan",
-      "storeName": "201609sanjuan",
+      "storeName": "sanjuan",
       "pageTitle": "Sept16-San Juan Isl",
       "pageLink": "adventures/201609sanjuan.html",
       "tripThumb": "img/index/thumb/201609sanjuan.jpg",
@@ -255,7 +255,7 @@
     {
       "TripId": "201408tetons",
       "id": "201408tetons",
-      "storeName": "201408tetons",
+      "storeName": "tetons",
       "pageTitle": "Aug14-Tetons",
       "pageLink": "adventures/201408tetons.html#tetons_top",
       "tripThumb": "img/index/thumb/20140824GTetons00.jpg",
@@ -465,7 +465,7 @@
     {
       "TripId": "elkhuntNM",
       "id": "elkhuntNM",
-      "storeName": "elkhuntnm",
+      "storeName": "elkhuntNM",
       "pageTitle": "1995 Elk Hunt",
       "pageLink": "adventures/199510elkhuntNM.html",
       "tripThumb": "img/index/thumb/199510NMElk.jpg",
@@ -475,7 +475,7 @@
     {
       "TripId": "BC",
       "id": "BC",
-      "storeName": "bc",
+      "storeName": "BC",
       "pageTitle": "1994 BC",
       "pageLink": "adventures/199407BC.html",
       "tripThumb": "img/index/thumb/199407BC.jpg",
@@ -515,7 +515,7 @@
     {
       "TripId": "olympiaBC",
       "id": "olympiaBC",
-      "storeName": "olympiabc",
+      "storeName": "olympiaBC",
       "pageTitle": "1988 Olympia",
       "pageLink": "adventures/198807olympiaBC.html",
       "tripThumb": "img/index/thumb/198807BCOlympia.jpg",
@@ -525,7 +525,7 @@
     {
       "TripId": "chiPortDen",
       "id": "chiPortDen",
-      "storeName": "chiportden",
+      "storeName": "chiPortDen",
       "pageTitle": "1981 Chi-Port",
       "pageLink": "adventures/198108chiPortDen.html",
       "tripThumb": "img/index/thumb/1981chidenprtl.jpg",
@@ -599,9 +599,9 @@
           "storeName": "greece2024"
         },
         {
-          "hrefx": "adventures/202405ecgw1.html",
+          "hrefx": "adventures/202405egcw1.html",
           "name": "May24 ECG",
-          "storeName": "ecgw1"
+          "storeName": "egcw1"
         },
         {
           "hrefx": "adventures/202305lisbonportosantiago.html",
@@ -847,12 +847,12 @@
         {
           "hrefx": "adventures/199510elkhuntNM.html",
           "name": "1995 Elk Hunt",
-          "storeName": "elkhuntnm"
+          "storeName": "elkhuntNM"
         },
         {
           "hrefx": "adventures/199407BC.html",
           "name": "1994 BC",
-          "storeName": "bc"
+          "storeName": "BC"
         },
         {
           "hrefx": "adventures/199312zimbab.html",
@@ -872,12 +872,12 @@
         {
           "hrefx": "adventures/198807olympiaBC.html",
           "name": "1988 Olympia",
-          "storeName": "olympiabc"
+          "storeName": "olympiaBC"
         },
         {
           "hrefx": "adventures/198108chiPortDen.html",
           "name": "1981 Chi-Port",
-          "storeName": "chiportden"
+          "storeName": "chiPortDen"
         },
         {
           "hrefx": "adventures/197907xctry.html",
