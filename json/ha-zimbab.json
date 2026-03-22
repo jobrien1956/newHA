@@ -3,8 +3,8 @@
 		"nav": "1",
 		"TripId": "199312zimbab",
 		"id": "ha-zimbab",
-		"backgroundImg": "../img/index/199312Zimbabwe.jpg",
-		"tripThumb": "../img/index/thumb/199312Zimbabwe.jpg",
+		"backgroundImg": "img/index/199312Zimbabwe.jpg",
+		"tripThumb": "img/index/thumb/199312Zimbabwe.jpg",
 		"pageLink": "adventures/199312zimbabwe.html",
 		"pageTitle": "Dec, 1993 - 3 days in Buffalo Range, Zimbabwe",
 		"pageSubtitle": "More time flying than exploring",
@@ -12,7 +12,7 @@
 		"summ": "",
 		"intro": "--",
 		"introDescr": "I grabbed the final seat on a flight from JFK to Zimbabwe to see a prospective ecotourism site.  Rhinos, Elephants, Wildebeest and Kudu!!! ",
-		"introPic1": "../img/zimbabwe/FlightPath.JPG",
+		"introPic1": "img/zimbabwe/FlightPath.JPG",
 		"introPic1span": "",
 		"introPic2": "",
 		"introPic2span": "",
@@ -40,8 +40,8 @@
 			"pdescLink2": "",
 			"pdescLinktag1": "",
 			"pdescLinktag2": "",
-			"mappic": "../img/zimbabwe/TheCamp1.JPG",
-			"mappic2": "../img/zimbabwe/TheCamp2.JPG",
+			"mappic": "img/zimbabwe/TheCamp1.JPG",
+			"mappic2": "img/zimbabwe/TheCamp2.JPG",
 			"mapspan": "",
 			"pictures": [
 				{
@@ -173,7 +173,7 @@
 				},
 				{
 					"picID": "4",
-					"pic": "../img/zimbabwe/TheLodge.JPG",
+					"pic": "img/zimbabwe/TheLodge.JPG",
 					"piccap": "",
 					"pictop": "",
 					"picbotm": ""

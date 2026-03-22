@@ -3,8 +3,8 @@
       "nav": "1",
       "TripId": "2022ss2sg",
       "id": "ha-ss2sg",
-      "backgroundImg": "../img/index/202205ss2sg.jpg",
-      "tripThumb": "../img/index/thumb/2022ss2sg.jpg",
+      "backgroundImg": "img/index/202205ss2sg.jpg",
+      "tripThumb": "img/index/thumb/2022ss2sg.jpg",
       "pageLink": "adventures/2022ss2sg.html",
       "pageTitle": "May 2022 - Seaside to SeaGirt",
       "pageSubtitle": "SS2SG2022 - A Bike Ride - 17 states - 50 days",
@@ -12,9 +12,9 @@
       "summ": "NJ to Oregon (by Van) and back to NJ (by bicycle)",
       "intro": "Wile E's Wild West Adventure",
       "introDescr": "In 2019 (actually much earlier), I began planning this bike ride across the country with the hope of taking the adventure in the summer of 2020 which would be 5 years after my Tour Divide Ride.  COVID got in the way but also allowed me to be join by my friend Mike Moriarty.  I purchased a support van in 2021 and various friends and family agreed to drive the Beast and provide support for the riders.  We left NJ on May 13, 2022 and returned on July 7, 2022.  We took 6 days to cross in the van and 50 days to bicycle from Seaside, Oregon to Sea Girt, NJ.  We hit the ground a few times and broke a few tires, rims and bikes.",
-      "introPic1": "../img/ss2sg/202205seaside.jpg",
+      "introPic1": "img/ss2sg/202205seaside.jpg",
       "introPic1span": "Seaside, Oregon",
-      "introPic2": "../img/ss2sg/202207seagirt.jpg",
+      "introPic2": "img/ss2sg/202207seagirt.jpg",
       "introPic2span": "Sea Girt, NJ",
       "videoLink": "",
       "videoIframe": "",
@@ -202,7 +202,7 @@
           "pdescLink3": "",
           "pdescLinktag3": "",
           "mappic": "",
-          "mappicport": "../img/ss2sg/DriveOut.jpg",
+          "mappicport": "img/ss2sg/DriveOut.jpg",
           "mapspan": "--------------------------------",
           "pictures": [
             {
@@ -255,7 +255,7 @@
         "pdescLink3": "",
         "pdescLinktag3": "",
         "mappic": "",
-        "mappicport": "../img/ss2sg/WeeklyChart.jpg",
+        "mappicport": "img/ss2sg/WeeklyChart.jpg",
         "mapspan": "--------------------------------",
         "pictures": [
           {
@@ -308,26 +308,26 @@
         "pdescLink3": "",
         "pdescLinktag3": "",
         "mappic": "",
-        "mappicport": "../img/ss2sg/ss2sgWeek1.jpg",
+        "mappicport": "img/ss2sg/ss2sgWeek1.jpg",
         "mapspan": "",
         "pictures": [
           {
             "picID": "1",
-            "pic": "../img/ss2sg/Day01SeasideORRainierOR.jpg",
+            "pic": "img/ss2sg/Day01SeasideORRainierOR.jpg",
             "piccap": "",
             "pictop": "Day 1 SunsetOR - RainierOR",
             "picbotm": "======= Day 1 Sunset to Rainier ======="
           },
           {
             "picID": "2",
-            "pic": "../img/ss2sg/Day02RainierPortland.jpg",
+            "pic": "img/ss2sg/Day02RainierPortland.jpg",
             "piccap": "",
             "pictop": "Day 2 RainierOR - PortlandOR L&C7",
             "picbotm": "======= Day 2 Rainier to Portland ======="
           },
           {
             "picID": "3",
-            "pic": "../img/ss2sg/Day03PortlandCascadeLocks.png",
+            "pic": "img/ss2sg/Day03PortlandCascadeLocks.png",
             "piccap": "",
             "pictop": "Day 3 PortlandOR - CascadeLocksOR L&C7",
             "picbotm": "======= Day 3 Portland - Cascade Locks ======="
@@ -355,7 +355,7 @@
           },
           {
             "picID": "7",
-            "pic": "../img/ss2sg/Day07WallaWallaWAClarkstonWALC7.png",
+            "pic": "img/ss2sg/Day07WallaWallaWAClarkstonWALC7.png",
             "piccap": "",
             "pictop": "Day 7 Walla Walla WA - Clarkston WA L&C7",
             "picbotm": "======= Walla Walla WA - Clarkston / Lewiston ID ======="
@@ -389,7 +389,7 @@
         "pdescLink3": "",
         "pdescLinktag3": "",
         "mappic": "",
-        "mappicport": "../img/ss2sg/ss2sgWeek1.jpg",
+        "mappicport": "img/ss2sg/ss2sgWeek1.jpg",
         "mapspan": "",
         "pictures": [
           {
@@ -601,26 +601,26 @@
 			"pdescLink3": "",
 			"pdescLinktag3": "",
 			"mappic": "",
-			"mappicport": "../img/ss2sg/ss2sgWeek1.jpg",
+			"mappicport": "img/ss2sg/ss2sgWeek1.jpg",
 			"mapspan": "",
 			"pictures": [
 				{
 					"picID": "1",
-					"pic": "../img/ss2sg/Day01SeasideORRainierOR.jpg",
+					"pic": "img/ss2sg/Day01SeasideORRainierOR.jpg",
 					"piccap": "",
 					"pictop": "Day 1 SunsetOR - RainierOR",
 					"picbotm": "======= Day 1 Sunset to Rainier ======="
 				},
 				{
 					"picID": "2",
-					"pic": "../img/ss2sg/Day02RainierPortland.jpg",
+					"pic": "img/ss2sg/Day02RainierPortland.jpg",
 					"piccap": "",
 					"pictop": "Day 2 RainierOR - PortlandOR L&C7",
 					"picbotm": "======= Day 2 Rainier to Portland ======="
 				},
 				{
 					"picID": "3",
-					"pic": "../img/ss2sg/Day03PortlandCascadeLocks.png",
+					"pic": "img/ss2sg/Day03PortlandCascadeLocks.png",
 					"piccap": "",
 					"pictop": "Day 3 PortlandOR - CascadeLocksOR L&C7",
 					"picbotm": "======= Day 3 Portland - Cascade Locks ======="
@@ -648,7 +648,7 @@
 				},
 				{
 					"picID": "7",
-					"pic": "../img/ss2sg/Day07WallaWallaWAClarkstonWALC7.png",
+					"pic": "img/ss2sg/Day07WallaWallaWAClarkstonWALC7.png",
 					"piccap": "",
 					"pictop": "Day 7 Walla Walla WA - Clarkston WA L&C7",
 					"picbotm": "======= Walla Walla WA - Clarkston / Lewiston ID ======="
@@ -682,7 +682,7 @@
 			"pdescLink3": "",
 			"pdescLinktag3": "",
 			"mappic": "",
-			"mappicport": "../img/ss2sg/ss2sgWeek1.jpg",
+			"mappicport": "img/ss2sg/ss2sgWeek1.jpg",
 			"mapspan": "",
 			"pictures": [
 				{

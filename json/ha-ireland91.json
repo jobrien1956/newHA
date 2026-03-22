@@ -136,7 +136,7 @@
 				},
 				{
 					"picID": "3",
-					"pic": "../img/ireland/Curraughsmap.jpg",
+					"pic": "img/ireland/Curraughsmap.jpg",
 					"piccap": "Google Maps Aeriel from 2018",
 					"picbotm": "52.2352, -8.84953"
 				}

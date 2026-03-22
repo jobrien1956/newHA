@@ -3,8 +3,8 @@
 		"nav": "1",
 		"TripId": "2015TD11",
 		"id": "ha-TD11",
-		"backgroundImg": "../img/tourdivide/day11/day11pic02.JPG",
-		"tripThumb": "../img/tourdivide/tdThumbs/day01pic02.jpg",
+		"backgroundImg": "img/tourdivide/day11/day11pic02.JPG",
+		"tripThumb": "img/tourdivide/tdThumbs/day01pic02.jpg",
 		"pageLink": "adventures/ha_future.html",
 		"pageTitle": "Day 11 Helena and a rest day on N. Davis St",
 		"pageSubtitle": "Tuesday, June 9, 2015",
@@ -41,7 +41,7 @@
 			"pdescLinktag1": "",
 			"pdescLinktag2": "",
 			"mappic": "",
-			"mappicport": "../img/tourdivide/day11/day11pic01.JPG",
+			"mappicport": "img/tourdivide/day11/day11pic01.JPG",
 			"mapspan": "On top of Priest Pass in the morning",
 			"pictures": [
 				{
@@ -52,7 +52,7 @@
 				},
 				{
 					"picID": "2",
-					"pic": "../img/tourdivide/day11/day11pic03.JPG",
+					"pic": "img/tourdivide/day11/day11pic03.JPG",
 					"piccap": "",
 					"pictop": "Short fast ride down from my camping spot just after the CD crossing. The last 10 or so was on a highway.",
 					"picbotm": "I had breakfast with my new friend Kelly Elder after my night on Priest Pass."

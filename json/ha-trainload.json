@@ -2,7 +2,7 @@
 	"trip": {
 		"nav": "1",
 		"id": "192810",
-		"backgroundImg": "../img/index/trainload.jpg",
+		"backgroundImg": "img/index/trainload.jpg",
 		"pageLink": "adventures/TrainloadOfBosses.html",
 		"pageTitle": "Trainload",
 		"pageSubtitle": "1927-1932",

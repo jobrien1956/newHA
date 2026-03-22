@@ -3,8 +3,8 @@
     "nav": "1",
     "TripId": "202001patagonia",
     "id": "ha-patagonia",
-    "backgroundImg": "../img/index/202001patagonia.jpg",
-    "tripThumb": "../img/index/thumb/202001patagonia.jpg",
+    "backgroundImg": "img/index/202001patagonia.jpg",
+    "tripThumb": "img/index/thumb/202001patagonia.jpg",
     "pageLink": "adventures/202001patagonia.html",
     "pageTitle": "Jan 2020 - Patagonia",
     "pageSubtitle": "",
@@ -27,42 +27,42 @@
     "days": [{
       "dayLink": "202001patagonia.html#20191228",
       "dayTitle": "Buenos Aires",
-      "dayThumb": "../img/patagonia/BuenosAires2.jpg"
+      "dayThumb": "img/patagonia/BuenosAires2.jpg"
     },
       {
         "dayLink": "202001patagonia.html#20191230",
         "dayTitle": "Estancia Christina",
-        "dayThumb": "../img/patagonia/EstanciaChristina.jpg"
+        "dayThumb": "img/patagonia/EstanciaChristina.jpg"
       },
       {
         "dayLink": "202001patagonia.html#20200101",
         "dayTitle": "PeritoMoreno",
-        "dayThumb": "../img/patagonia/PeritoMoreno.jpg"
+        "dayThumb": "img/patagonia/PeritoMoreno.jpg"
       },
       {
         "dayLink": "202001patagonia.html#20200102",
         "dayTitle": "Estancia La Estela",
-        "dayThumb": "../img/patagonia/EstanciaEstela.jpg"
+        "dayThumb": "img/patagonia/EstanciaEstela.jpg"
       },
       {
         "dayLink": "202001patagonia.html#20200103",
         "dayTitle": "El Diablo Hike",
-        "dayThumb": "../img/patagonia/ElDiabloHike2.jpg"
+        "dayThumb": "img/patagonia/ElDiabloHike2.jpg"
       },
       {
         "dayLink": "202001patagonia.html#20200104",
         "dayTitle": "Laguna de los Tres",
-        "dayThumb": "../img/patagonia/LagunaDeLosTres.jpg"
+        "dayThumb": "img/patagonia/LagunaDeLosTres.jpg"
       },
       {
         "dayLink": "202001patagonia.html#20200105",
         "dayTitle": "Laguna Cerro Torre",
-        "dayThumb": "../img/patagonia/CerroTorre.jpg"
+        "dayThumb": "img/patagonia/CerroTorre.jpg"
       },
       {
         "dayLink": "202001patagonia.html#20200106",
         "dayTitle": "Long Trip Home",
-        "dayThumb": "../img/patagonia/ParadorLaLeona.jpg"
+        "dayThumb": "img/patagonia/ParadorLaLeona.jpg"
       }
     ]
   },
@@ -81,8 +81,8 @@
       "pdesc3": "",
       "pdescLink3": "",
       "pdescLinktag3": "",
-      "mappic": "../img/patagonia/BuenosAires.JPG",
-      "mappic2": "../img/patagonia/RioParanaDeLasPalmas.JPG",
+      "mappic": "img/patagonia/BuenosAires.JPG",
+      "mappic2": "img/patagonia/RioParanaDeLasPalmas.JPG",
       "mappicport": "",
       "mapspan": "We had a really busy 36 hours in Buenos Aires with a food tour on Saturday afternoon and a history tour on Sunday.  ",
       "pictures": [
@@ -109,7 +109,7 @@
         },
         {
           "picID": "4",
-          "pic": "../img/patagonia/LeTigre.JPG",
+          "pic": "img/patagonia/LeTigre.JPG",
           "piccap": "These are the water taxis for the people living in the delta",
           "pictop": "",
           "picbotm": ""
@@ -141,7 +141,7 @@
       "pdescLink3": "",
       "pdescLinktag3": "",
       "mappic": "",
-      "mappicport": "../img/patagonia/EstanciaChristina.JPG",
+      "mappicport": "img/patagonia/EstanciaChristina.JPG",
       "mapspan": "",
       "pictures": [
         {
@@ -219,7 +219,7 @@
       "pdesc3": "",
       "pdescLink3": "",
       "pdescLinktag3": "",
-      "mappic": "../img/patagonia/BackroadsMap1.jpg",
+      "mappic": "img/patagonia/BackroadsMap1.jpg",
       "mappicport": "",
       "mapspan": "Day 2 of the backroads trip",
       "pictures": [
@@ -289,7 +289,7 @@
       "pdescLink3": "",
       "pdescLinktag3": "",
       "mappic": "",
-      "mappicport": "../img/patagonia/BackroadsMap2.jpg",
+      "mappicport": "img/patagonia/BackroadsMap2.jpg",
       "mapspan": "2 nights in Eco Domes and 2 nights in El Chalten",
       "pictures": [
         {
@@ -367,7 +367,7 @@
       "pdesc3": "",
       "pdescLink3": "",
       "pdescLinktag3": "",
-      "mappic": "../img/patagonia/ElDiabloHike.jpg",
+      "mappic": "img/patagonia/ElDiabloHike.jpg",
       "mappicport": "",
       "mapspan": "",
       "pictures": [
@@ -419,7 +419,7 @@
       "pdescLink3": "",
       "pdescLinktag3": "",
       "mappic": "",
-      "mappicport": "../img/patagonia/LagunaDeLosTres.jpg",
+      "mappicport": "img/patagonia/LagunaDeLosTres.jpg",
       "mapspan": "",
       "pictures": [
         {
@@ -469,7 +469,7 @@
       "pdesc3": "",
       "pdescLink3": "",
       "pdescLinktag3": "",
-      "mappic": "../img/patagonia/CerroTorre.jpg",
+      "mappic": "img/patagonia/CerroTorre.jpg",
       "mappicport": "",
       "mapspan": "",
       "pictures": [

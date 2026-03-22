@@ -3,8 +3,8 @@
     "nav": "1",
     "TripId": "202303zionbrycegc",
     "id": "ha-zionbrycegc",
-    "backgroundImg": "../img/index/202303zionbrycegc.jpg",
-    "tripThumb": "../img/index/thumb/202303zionbrycegc.jpg",
+    "backgroundImg": "img/index/202303zionbrycegc.jpg",
+    "tripThumb": "img/index/thumb/202303zionbrycegc.jpg",
     "pageLink": "adventures/202303zionbrycegc.html",
     "pageTitle": "Zion Bryce and the Grand Canyon",
     "pageSubtitle": "March 2023",
@@ -48,14 +48,14 @@
       "pictures": [
         {
           "picID": "1",
-          "pic": "../img/zionbrycegc/20220307p1.jpg",
+          "pic": "img/zionbrycegc/20220307p1.jpg",
           "piccap": "",
           "pictop": "",
           "picbotm": ""
         },
         {
           "picID": "2",
-          "pic": "../img/zionbrycegc/20220307p2.jpg",
+          "pic": "img/zionbrycegc/20220307p2.jpg",
           "piccap": "",
           "pictop": "",
           "picbotm": ""
@@ -101,14 +101,14 @@
       "pictures": [
         {
           "picID": "1",
-          "pic": "../img/zionbrycegc/20220307p1.jpg",
+          "pic": "img/zionbrycegc/20220307p1.jpg",
           "piccap": "",
           "pictop": "",
           "picbotm": ""
         },
         {
           "picID": "2",
-          "pic": "../img/zionbrycegc/20220307p2.jpg",
+          "pic": "img/zionbrycegc/20220307p2.jpg",
           "piccap": "",
           "pictop": "",
           "picbotm": ""
