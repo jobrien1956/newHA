@@ -1,4 +1,4 @@
-// Trip.js - Last updated: 2026-03-23 08:57AM - Trip page renderer - oninit/onbeforeupdate reload fix, footer Instagram only, redirect support, margin-top navbar fix, backgroundImg basePath fix
+// Trip.js - Last updated: 2026-03-23 08:57AM -Trip page renderer - oninit/onbeforeupdate reload fix, footer Instagram only, redirect support, margin-top navbar fix, backgroundImg basePath fix
 HA.views.Trip = {
 	oninit: function(vnode) {
 		vnode.state.tripName = m.route.param('tripName');
