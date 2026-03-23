@@ -3,8 +3,8 @@
 		"nav": "1",
 		"TripId": "200411canyon",
 		"id": "ha-canyon04",
-		"backgroundImg": "img/canyon/200411CanyonHike.jpg",
-		"tripThumb": "img/index/thumb/.jpg",
+		"backgroundImg": "newHA/img/canyon/200411CanyonHike.jpg",
+		"tripThumb": "newHA/img/index/thumb/.jpg",
 		"pageLink": "adventures/200411canyon.html",
 		"pageTitle": "Nov 2004 - Grand Canyon - Quick down and back",
 		"pageSubtitle": "My 3rd trip to one of the world's most amazing places",
@@ -30,7 +30,7 @@
 			"h3": "",
 			"pdate": "Friday, November 5, 2004",
 			"pdesc": "Our flights into Vegas all went smoothly and after stops at Hoover Dam and some roadside attractions we spent our first night in Tusayan outide the park",
-			"mappicport": "img/canyon/200411CanyonHikeOB106.jpg",
+			"mappicport": "newHA/img/canyon/200411CanyonHikeOB106.jpg",
 			"mapspan": "This is why we came",
 			"pictures": [
 				{

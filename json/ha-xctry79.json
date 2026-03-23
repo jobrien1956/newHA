@@ -3,8 +3,8 @@
 		"nav": "1",
 		"TripId": "197907xctry",
 		"id": "ha-xctry79",
-		"backgroundImg": "img/index/197907xctry.jpg",
-		"tripThumb": "img/index/thumb/197907xctry.jpg",
+		"backgroundImg": "newHA/img/index/197907xctry.jpg",
+		"tripThumb": "newHA/img/index/thumb/197907xctry.jpg",
 		"pageLink": "adventures/ha_future.html",
 		"pageTitle": "Jun 1979 - My first big adventure",
 		"pageSubtitle": "Six weeks - 10,000mi",
@@ -13,7 +13,7 @@
 		"introDescr": "Tony and I crossed thru 19 states on our way across the heartland, thru Denver and Aspen to the Grand Canyon and on to  San Diego.  We then went up the coast of CA and across Nevada and Utah to come back thru Yellowstone and the northern interstate route.  Our vehicle for this 10,000 mile trip would be a 1972 Chevy Van I had purchased two years before.",
 		"introPic1": "https://photos.smugmug.com/197906Xctry/Island-in-the-Sky-Monticello-UT-June-28-1979/i-fhNvnwm/0/83a7e744/L/1979Xctry%20-%2017%20of%2098-L.jpg",
 		"introPic1span": "Tony in Canyonlands NP, Utah",
-		"introPic2": "img/197907xctry/1972ChevyVanbefore.jpg",
+		"introPic2": "newHA/img/197907xctry/1972ChevyVanbefore.jpg",
 		"introPic2span": "This is the shape it was in when I purchased in 1978.  It would be transformed inside and out.  In the after picture below the wheels would also be 'improved' prior to the trip.",
 		"videoLink": "",
 		"videoIframe": "",
@@ -45,14 +45,14 @@
 			"pictures": [
 				{
 					"picID": "1",
-					"pic": "img/197907xctry/1972ChevyVanafter.jpg",
+					"pic": "newHA/img/197907xctry/1972ChevyVanafter.jpg",
 					"piccap": "",
 					"pictop": "",
 					"picbotm": "On Tuesday night, we slept at Zav's house in Pittsburgh and the following night we stayed at my future home in Chicago on S Kenwood Avenue with Pat.  "
 				},
 				{
 					"picID": "5",
-					"pic": "img/197907xctry/gmapNJ2Chi.JPG",
+					"pic": "newHA/img/197907xctry/gmapNJ2Chi.JPG",
 					"piccap": "",
 					"pictop": ""
 				}
@@ -79,13 +79,13 @@
 			"pictures": [
 				{
 					"picID": "1",
-					"pic": "img/197907xctry/5756Skenwood.jpeg",
+					"pic": "newHA/img/197907xctry/5756Skenwood.jpeg",
 					"piccap": "5756 S Kenwood Ave (Corner of s 58th and Kenwood)",
 					"pictop": ""
 				},
 				{
 					"picID": "3",
-					"pic": "img/197907xctry/5756SKenwoodMap2.JPG",
+					"pic": "newHA/img/197907xctry/5756SKenwoodMap2.JPG",
 					"piccap": "My future home along (kinda) lake Michigan ",
 					"pictop": ""
 				}
@@ -112,7 +112,7 @@
 			"pictures": [
 				{
 					"picID": "1",
-					"pic": "img/197907xctry/Front_Range.JPG",
+					"pic": "newHA/img/197907xctry/Front_Range.JPG",
 					"piccap": "",
 					"pictop": ""
 				},
@@ -166,7 +166,7 @@
 			"pdescLinktag1": "Brochure for Indepenence Ghost Town State Park",
 			"pdescLinktag2": "",
 			"mappic": "",
-			"mappicport": "img/197907xctry/197907gmapLittle2Aspen.JPG",
+			"mappicport": "newHA/img/197907xctry/197907gmapLittle2Aspen.JPG",
 			"mapspan": "",
 			"pictures": [
 				{
@@ -183,7 +183,7 @@
 				},
 				{
 					"picID": "3",
-					"pic": "img/197907xctry/197907xcntryaspen.jpg",
+					"pic": "newHA/img/197907xctry/197907xcntryaspen.jpg",
 					"piccap": "Looking down from Indepenence Pass into the starting point of the Roaring Fork ",
 					"pictop": ""
 				},
@@ -553,7 +553,7 @@
 			"pdescLinktag1": "",
 			"pdescLinktag2": "",
 			"mappic": "",
-			"mappicport": "img/197907xctry/gmapSanDiego2LA.JPG",
+			"mappicport": "newHA/img/197907xctry/gmapSanDiego2LA.JPG",
 			"mapspan": "",
 			"pictures": [
 				{

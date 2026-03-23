@@ -2,14 +2,14 @@
 	"trip": {
 		"nav": "1",
 		"id": "201201canyon",
-		"backgroundImg": "img/canyon/20120114GC001.jpg",
+		"backgroundImg": "newHA/img/canyon/20120114GC001.jpg",
 		"pageLink": "201201canyon.html",
 		"pageTitle": "Grand Canyon Backpacking",
 		"pageSubtitle": "Jan 2012",
 		"summ": "5 days, 34 miles, many, many feet down & up",
 		"intro": "Tanner-Escalante-Hance-Grandview",
 		"introDescr": "In January, 2012, my friends, Nick and Jonas, invited newbies, Kelly and I, to take a 5 day hike down into the Grand Canyon.  We went down the Tanner Trail and spent three nights along the river and then a long hike up the Hance Creek Trail to Horseshoe Mesa.  The final push in the early morning was up to Grandview Point.  By the end we had gotten a great GC education",
-		"introPic1": "img/canyon/2012mapimage.jpg",
+		"introPic1": "newHA/img/canyon/2012mapimage.jpg",
 		"introPic1span": "From Lipan Pt straight down to river",
 		"foot": "1",
 		"endMap": "1WlLI42b18FZE0Cfsbo3OAwbBcX4",
@@ -42,7 +42,7 @@
 			"h3": "It’s a 4,600-foot, knee-buckling descent to the Colorado River over 9 miles",
 			"pdate": "14-Jan-12",
 			"pdesc": "We spent the first night at a campground on the rim, where I learned that Arizona is not as warm as you think it is – a lesson that would be further emphasized upon entering the Canyon.  The next morning we woke up, scrambled around REI buying stuff we’d forgot, bummed some coffee from a hotel to make up for a night spent shivering instead of sleeping, and drove to the trailhead. We dropped in at a place called Lipan Point, about 9 miles south of where the Little Colorado meets the big.",
-			"mappic": "img/canyon/20120114GC005L.jpg",
+			"mappic": "newHA/img/canyon/20120114GC005L.jpg",
 			"mapspan": "We hiked thru snow for the first hour",
 			"pictures": [
 				{

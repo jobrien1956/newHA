@@ -1,8 +1,8 @@
 {
 	"trip": {
 		"id": "ha-costarica",
-		"backgroundImg": "img/index/201002CostaRica.jpg",
-		"tripThumb": "img/index/thumb/201002CostaRica.jpg",
+		"backgroundImg": "newHA/img/index/201002CostaRica.jpg",
+		"tripThumb": "newHA/img/index/thumb/201002CostaRica.jpg",
 		"pageLink": "",
 		"pageTitle": "Feb, 2010 Costa Rica",
 		"nav": "1",
@@ -37,7 +37,7 @@
 			"pdescLink2": "",
 			"pdescLinktag1": "",
 			"pdescLinktag2": "",
-			"mappic": "img/costarica/CRday1map.jpg",
+			"mappic": "newHA/img/costarica/CRday1map.jpg",
 			"mappicport": "",
 			"mapspan": "PENINSULA PAPAGAYO",
 			"pictures": [

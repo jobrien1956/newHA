@@ -16,7 +16,7 @@
 		"endmapName": "2010 Alaska",
 		"footerPic1": "https://photos.smugmug.com/201008-Alaska/20100828WhalesCruise/i-6zsxSR4/0/d0a11d2b/M/Alaska%20-%201st%20week-map%20of%20track-M.jpg",
 		"footerPic1Span": "This map shows a bit of an outline of the areas we went.  The one below gives you a better sense of how big Alaska is and we were  in only a tiny part.",
-		"footerPic2": "img/alaska/2010Alaska.JPG",
+		"footerPic2": "newHA/img/alaska/2010Alaska.JPG",
 		"days": [
 		]
 	},
@@ -27,7 +27,7 @@
 			"h3": "We flew all day thru Seattle and arrived in the evening.",
 			"pdate": "08/15/2010",
 			"pdesc": "We explored town in the morning and just missed the marathon.  We were picked up at the hotel in the afternoon and after stopping at the airport to pick up our new friends the Cullens we were on our way to Coopers Landing and the Kenai Riverside Lodge.Upon arriving there we had a nice cabin along the Copper river and saw the first of many bald eagles.",
-			"mappic": "img/alaska/20100815Ankmap.JPG",
+			"mappic": "newHA/img/alaska/20100815Ankmap.JPG",
 			"mapspan": "Overview of first couple days - from Anchorage to Coopers Landing",
 			"pictures": [
 				{
@@ -51,7 +51,7 @@
 			"h3": "Coopers Landing to Kenai Backcountry Lodge",
 			"pdate": "08/16/2010",
 			"pdesc": "In the morning we were up and out to start our rafting trip down the Copper and Tazlina rivers and out into Skilak Lake.  The rafting went smoothly until we entered the lake.  We dropped the engine to motor across the lake but were heading right into the wind and waves.",
-			"mappic": "img/alaska/20100816Skilakmap.JPG",
+			"mappic": "newHA/img/alaska/20100816Skilakmap.JPG",
 			"mapspan": "We rafted down the river and motored across the lake.",
 			"pictures": [
 				{
@@ -75,7 +75,7 @@
 			"h3": "A rainy day and ....",
 			"pdate": "08/17/2010",
 			"pdesc": "We had an overcast day for our hike up above the lodge.  It was a couple hour hike up a slippery path.  Once on top we had great views of the surrounding area and the lake we had crossed the previous day to get here.  In the evening we took our kyacks on the lake and didnt get back until after dark.",
-			"mappic": "img/alaska/20100817Skilakmap.JPG",
+			"mappic": "newHA/img/alaska/20100817Skilakmap.JPG",
 			"mapspan": "We rafted down the river and motored across the lake.",
 			"pictures": [
 				{
@@ -99,7 +99,7 @@
 					"h3": "Salmon running and bears tales",
 					"pdate": "08/18/2010",
 					"pdesc": "Back across the lake (by motor boat) and up the Russian River. Hiking along the streams watching the salmon fight there way up a very large water fall.  We saw the very manual fish counting process and had a nice conversation with the counter.  We also hiked to an overlook and then drove back to Coopers Landing and the Backcountry Lodge",
-					"mappic": "img/alaska/20100818RussRvrmap.jpg",
+					"mappic": "newHA/img/alaska/20100818RussRvrmap.jpg",
 					"mapspan": "On our way back to Coopers Landing we stopped at the falls.",
 					"pictures": [
 						{
@@ -123,7 +123,7 @@
 					"h3": "Ferrying along the Alaskan Coast to Kenai Fjords NP.",
 					"pdate": "08/19/2010",
 					"pdesc": "We drove from Coopers Landing to Seward where we caught a ferry to Aialk Bay and the Kenai Fjords NP.  The Kenai Fjords Glacier Lodge was our home for the next couple days.  On the way we got great views of Sea Lions and Pufers and took a ride past a glacier at the end of Aialk Bay before heading to our cabins at the lodge. ",
-					"mappic": "img/alaska/AialikFyordMap.jpg",
+					"mappic": "newHA/img/alaska/AialikFyordMap.jpg",
 					"mapspan": "Our base was by Pedersen Lagoon in Kenai Fjords NP. We kyacked to the end of the fjord.",
 					"pictures": [
 						{
@@ -147,7 +147,7 @@
 					"h3": "Kyacking amid swimming bears and calving glaciers",
 					"pdate": "08/20/2017",
 					"pdesc": "During the day we took a hike off to the side of the lodge and saw some bear activity along the way.  We then kayaked about 3 miles up to the glacier at the end of the bay where we had lunch.  On the way back a bear swam across our path on it's way to an island in the bay.  Further bear sightings came later in the day.",
-					"mappic": "img/alaska/AialikFyordMap2.jpg",
+					"mappic": "newHA/img/alaska/AialikFyordMap2.jpg",
 					"mapspan": "We kayaked to a peninsula near the glacier for lunch and to watch calving.",
 					"pictures": [
 						{
@@ -171,7 +171,7 @@
 					"h3": "A side route to car trouble on top of ...",
 					"pdate": "08/22/2010",
 					"pdesc": "After another layover night  in Achorage we rented a ford explorer and headed north toward Talkeetna and decided to take a circutous route via an old mining town.  After passing the mine we started off toward the west and the top of a pass thru the mountains.  After stopping for a brief break the car died.  It took some good samiaritans,  two phones, two tow trucks and about 4 hours to get us back on our way.  We arrived in Talketna at sunset and had time for dinner.  The following day we explored a remote area called Trappers Creeek and the town of Talkeetna",
-					"mappic": "img/alaska/20100822Talket.JPG",
+					"mappic": "newHA/img/alaska/20100822Talket.JPG",
 					"mapspan": "Our route from Anchorage to Talkeetna - with a long detour and change of cars.",
 					"pictures": [
 						{
@@ -195,7 +195,7 @@
 					"h3": "Along the coast in Prince William Sound and up close to Glaciers",
 					"pdate": "08/26/2010",
 					"pdesc": "After dropping Kelly at the airport, Allie, Kathy and I were shuttled down to Whitter for our three night cruise around Price William Sound.  We spent the next day and a half cruising around seeing glaciers and some of the fishing operations",
-					"mappic": "img/alaska/CruiseMap.jpg",
+					"mappic": "newHA/img/alaska/CruiseMap.jpg",
 					"mapspan": "Our clockwise route around Prince William Sound.",
 					"pictures": [
 						{
@@ -218,7 +218,7 @@
 					"h3": "Cruise to Cordova and Kyacking amoung Glaciers",
 					"pdate": "08/27/2010",
 					"pdesc": "Our day in Cordova was a bit rainy but we took a rafting trip along the Cooper River and after this headed back into Prince William Sound.",
-					"mappic": "img/alaska/20100822PWS.JPG",
+					"mappic": "newHA/img/alaska/20100822PWS.JPG",
 					"pictures": [
 						{
 							"picID": "1",
