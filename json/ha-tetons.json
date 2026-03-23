@@ -2,9 +2,9 @@
   "trip": {
     "nav": "1",
     "TripId": "201408tetons",
-    "id": "ha-tetons",
-    "backgroundImg": "img/tetons/20140824GTetons00.jpg",
-    "tripThumb": "img/index/thumb/20140824GTetons00.jpg",
+    "id": "ha-",
+    "backgroundImg": "newHA/img/tetons/20140824GTetons00.jpg",
+    "tripThumb": "newHA/img/index/thumb/.jpg",
     "pageLink": "adventures/ha_tetons.html",
     "pageTitle": "Tetons Crest Trail",
     "pageSubtitle": "==August 22nd to 27th, 2014==",
@@ -24,8 +24,7 @@
     "footPic1Span": "",
     "endMap": "",
     "endmapName": "",
-    "days": [
-    ]
+    "days": []
   },
   "adventureDay": [
     {
@@ -78,8 +77,8 @@
       "iframe": "",
       "smugAlbum": "",
       "smugAlbumName": "",
-      "dayMap": "1NqKktXvPEL7UkQnksBxw_ROYuTqgy8DE",
-      "daymapName": "The Drive Out"
+      "dayMap": "",
+      "daymapName": ""
     },
     {
       "dayId": "20220520",
@@ -131,8 +130,8 @@
       "iframe": "",
       "smugAlbum": "",
       "smugAlbumName": "",
-      "dayMap": "13ee2EP_rBpc0cnGekcvnCbIbB6RLCtgn",
-      "daymapName": "Seaside,OR to West Yellowstone,MT"
+      "dayMap": "",
+      "daymapName": ""
     },
     {
       "dayId": "2019xxxx",
@@ -338,5 +337,6 @@
       "smugAlbum": "",
       "smugAlbumName": ""
     }
-  ]
+  ],
+  "redirect": "/newHA/adventures/201408tetons.html"
 }
