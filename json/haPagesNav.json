@@ -25,13 +25,13 @@
       "tripSumm": "Our long delayed Greece trip to Mt Olympus, Delhi,"
     },
     {
-      "TripId": "2405egcw1.html",
-      "id": "ha-2405egcw1",
-      "storeName": "egcw1",
-      "jsonFile": "ha-egcw1.json",
-      "backgroundImg": "img/index/202405egcw1.jpg",
-      "tripThumb": "img/index/thumb/202405egcw1.jpg",
-      "pageLink": "adventures/202405egcw1.html",
+      "TripId": "2405ecgw1.html",
+      "id": "ha-2405ecgw1",
+      "storeName": "ecgw1",
+      "jsonFile": "ha-ecgw1.json",
+      "backgroundImg": "img/index/202405ecgw1.jpg",
+      "tripThumb": "img/index/thumb/202405ecgw1.jpg",
+      "pageLink": "adventures/202405ecgw1.html",
       "pageTitle": "May 2024 York PA - Rich VA",
       "pageSubtitle": "Our first sample of the ECG",
       "tripSumm": "Mike, Tim, Jim and Dave have a quick ride mostly on the ECG and Bike US1"
@@ -599,9 +599,9 @@
           "storeName": "greece2024"
         },
         {
-          "hrefx": "adventures/202405egcw1.html",
+          "hrefx": "adventures/202405ecgw1.html",
           "name": "May24 ECG",
-          "storeName": "egcw1"
+          "storeName": "ecgw1"
         },
         {
           "hrefx": "adventures/202305lisbonportosantiago.html",
