@@ -17,8 +17,7 @@
 		"footerPic1": "",
 		"footPic1Span": "",
 		"footerPic2": "",
-		"days": [
-		]
+		"days": []
 	},
 	"adventureDay": [
 		{
@@ -34,7 +33,8 @@
 			"pdescLinktag1": "",
 			"pdescLinktag2": ""
 		}
-	]
+	],
+	"redirect": "/newHA/adventures/TrainloadOfBosses.html"
 }
 
 
