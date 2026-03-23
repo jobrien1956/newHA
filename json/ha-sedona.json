@@ -3,8 +3,8 @@
 		"nav": "1",
 		"TripId": "199904sedona",
 		"id": "ha-sedona",
-		"backgroundImg": "newHA/img/index/199904Arizona.jpg",
-		"tripThumb": "newHA/img/index/thumb/199904Arizona.jpg",
+		"backgroundImg": "img/index/199904Arizona.jpg",
+		"tripThumb": "img/index/thumb/199904Arizona.jpg",
 		"pageLink": "adventures/ha_future.html",
 		"pageTitle": "Sedona and the Grand Canyon",
 		"pageSubtitle": "Apr, 1999",
@@ -91,7 +91,7 @@
 			"pdescLink3": "",
 			"pdescLinktag3": "",
 			"mappic": "https://photos.smugmug.com/199904Sedona/199904GrandCanyon/i-jBZv7Fh/0/55a9d1d9/L/199904Sedona%20-%204%20of%2020-L.jpg",
-			"mappic2": "newHA/img/canyon/ElTovar.JPG",
+			"mappic2": "img/canyon/ElTovar.JPG",
 			"mappicport": "",
 			"mapspan": "",
 			"pictures": [
@@ -118,7 +118,7 @@
 				},
 				{
 					"picID": "4",
-					"pic": "newHA/img/canyon/ViewFrmElTovar.JPG",
+					"pic": "img/canyon/ViewFrmElTovar.JPG",
 					"picbotm": "View from the El Tovar Hotel",
 					"piccap": "",
 					"pictop": ""

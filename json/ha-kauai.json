@@ -2,7 +2,7 @@
 	"trip": {
 		"nav": "1",
 		"id": "201411kauai",
-		"backgroundImg": "newHA/img/kauai/201411kauaipic1.jpg",
+		"backgroundImg": "img/kauai/201411kauaipic1.jpg",
 		"pageLink": "201411kauai.html",
 		"pageTitle": "30th Anniversary in Paradise",
 		"pageSubtitle": "Kauai, Hawaii",
@@ -57,7 +57,7 @@
 			"h3": "Waipo'o Falls (or slips)",
 			"pdate": "Saturday, Nov 8, 2015",
 			"pdesc": "We drove along the Kaumualii Highway into Waimea Canyon State Park and got as far as the Kalalau Lookout.  The view was pretty cloudy so went to discover some other areas of the park.  We had lunch at the Koke'e Lodge and then began our hike down to Waipo'o Falls.  It was quite slippery and ....",
-			"mappic": "newHA/img/kauai/201411kauaipic.jpg",
+			"mappic": "img/kauai/201411kauaipic.jpg",
 			"mapspan": "Waimea Canyon",
 			"pictures": [
 				{

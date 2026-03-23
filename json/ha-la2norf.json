@@ -2,7 +2,7 @@
 	"trip": {
 		"nav": "1",
 		"id": "200808la2norf",
-		"backgroundImg": "newHA/img/la2norf/2008LANorfolkmap.jpg",
+		"backgroundImg": "img/la2norf/2008LANorfolkmap.jpg",
 		"pageLink": "200808la2norf.html",
 		"pageTitle": "LA to Norfolk - Eight days on the road",
 		"pageSubtitle": "== Aug 2008 ==",
@@ -54,7 +54,7 @@
 			"h3": "After our big hike we mostly drive (7h47m 551mi)",
 			"pdate": "Monday Aug 11, 2008",
 			"pdesc": "Another long driving day from Winslow to Amarillo.  We stopped early in the day at the Petrified Forest NP (AZ) and did a short hike to see what remains of a heavily looted area.  Our drive across New Mexico had afternooon rain and clouds (this would come up again in 2015) but was mostly peacful with rolling hills in the distance.",
-			"mappicport": "newHA/img/la2norf/win2amarmap.jpg",
+			"mappicport": "img/la2norf/win2amarmap.jpg",
 			"mapspan": "Across New Mexico",
 			"pictures": [
 				{
@@ -80,7 +80,7 @@
 			"h3": "OKC Bomb Museum and Mickey Mantle",
 			"pdate": "Tues, Aug 12, 2008",
 			"pdesc": "In the morning we went down to Palo Duro Canyon for a hike in the state park about 30 miles south of Amarillo.  Really hot and dry with an overabundance of green headed flies.  We hiked almost to Lighthouse Rock and got our pictures.  We had a relatively short ride to Oklahoma City after stopping at the Route 66 museum and chatting with an 80yr old women who had never left the sate of Oklahoma. I found this fascinating.  In OKC we visted the Bombing Memorial and also toured the Museum before a nice dinner at Mickey Mantle's Reasturaunt next door to the minor league park in downtown.",
-			"mappicport": "newHA/img/la2norf/Amar2OKCmap.jpg",
+			"mappicport": "img/la2norf/Amar2OKCmap.jpg",
 			"mapspan": "The Texas panhandle and Oklahoma",
 			"pictures": [
 				{
@@ -112,7 +112,7 @@
 			"h3": "Graceland, Opry - a day of culture!",
 			"pdate": "Wed & Thur, Aug 13 & 14, 2008",
 			"pdesc": "Our drive from OKC to Memphis was uneventful and after four days we needed a break so went straight to Memphis where we had a nice BBQ meal and hung out on Beale Street for a while.  In the morning we went straight over to Graceland center to catch the tour bus for Graceland.  It was an amazing infrastructure built around Elvis.  It is not to be missed.   From there we drove 200 miles to Nashville where we got a tour of the Grand Old Opry and were on our way to to Gatlenburg, TN.",
-			"mappicport": "newHA/img/la2norf/OKC2MEM.jpg",
+			"mappicport": "img/la2norf/OKC2MEM.jpg",
 			"mapspan": "On to Memphis",
 			"pictures": [
 				{
@@ -138,7 +138,7 @@
 			"h3": "Rainbow falls, Clingmans Dome",
 			"pdate": "Fri, Aug 15, 2008",
 			"pdesc": "Our visit in Smokey Mtn NP was a hike up to Rainbow Falls which was great.  The trail thinned out and we started seeing signs of big brown creatures so we turned around. We then drove up to Clingmans Dome and up to the overlook.  Got thru the park at the end and spent the night in Cherokee, NC.",
-			"mappicport": "newHA/img/la2norf/Mem2Gatlin.jpg",
+			"mappicport": "img/la2norf/Mem2Gatlin.jpg",
 			"mapspan": "A full day in Tennessee",
 			"pictures": [
 				{
@@ -164,7 +164,7 @@
 			"h3": "Final day all driving",
 			"pdate": "Saturdy, Aug 6, 2008",
 			"pdesc": "The end of our trip was a long drive across North Carolina to get to Norfolk by the end of the day.  We were happy to get to Norfolk and I drove to Sea Girt the next day while Kelly stayed behind with Kathy to get his bars out.  I had really enjoyed the trip and the time with Kelly.  If life didn't get in the way traveling the interstates in the age of cell phones and 70 mph speed limits is very relaxing and a great way to better understand our wonderful country.",
-			"mappicport": "newHA/img/la2norf/Gat2Norfmap.jpg",
+			"mappicport": "img/la2norf/Gat2Norfmap.jpg",
 			"mapspan": "Eighth Day on the Road & we're going to make it home tomorrow"
 		}
 	]

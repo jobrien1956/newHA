@@ -3,8 +3,8 @@
 		"nav": "1",
 		"TripId": "201609sanjuan",
 		"id": "ha-sanjuan",
-		"backgroundImg": "newHA/img/sanjuan/20160909LopezIsl.jpg",
-		"tripThumb": "newHA/img/index/thumb/20160909LopezIsl.jpg",
+		"backgroundImg": "img/sanjuan/20160909LopezIsl.jpg",
+		"tripThumb": "img/index/thumb/20160909LopezIsl.jpg",
 		"pageLink": "adventures/201609sanjuan.html",
 		"pageTitle": "Washington and Oregon",
 		"pageSubtitle": "Biking,Hiking and Kyacking",
@@ -14,7 +14,7 @@
 		"introDescr": "We started our trip with a day in Seattle and the wine area north of town.  After staying in Burlington, we followed this with a hike up to Cascade Pass .  We then took a ferry from Anacortes to Friday Harbor in the San Juan Islands. After four days on the various islands we spent another 5 days exploring Portland, the Columbia River area and the Oregon Coast.",
 		"introPic1": "https://www.havingadventures.com/img/sanjuan/day1-2map.PNG",
 		"introPic1span": "Our route from seattle",
-		"introPic2": "newHA/img/sanjuan/day3map.jpg",
+		"introPic2": "img/sanjuan/day3map.jpg",
 		"introPic2span": "Our route around San Juan Isl",
 		"videoLink": "",
 		"videoIframe": "",
@@ -34,11 +34,11 @@
 			"h1title": "Pikes Market, Wine tour & Cascade Pass",
 			"h3": "",
 			"dayLink": "../sanjuanpost/sanjuan01.html",
-			"backgroundImg": "newHA/img/sanjuan/cascadepass.JPG",
+			"backgroundImg": "img/sanjuan/cascadepass.JPG",
 			"pdate": "Sunday & Monday, September 4th & 5th, 2016",
 			"pdesc": "We met Mike and Karen at their hotel for breakfast in Seattle and took a walk through Pikes market, along the water and through Pioneer Square before getting on the road to meet Zav, Jackie, Michelle and Leo and find some wineries around Woodinville, WA. We stopped and sampled wine at the Brian Carter Cellars , the St. Michelle Winery and finally had some lunch and wine at the Novelty Hill Januik Winery. From there it was on to the Fairfield Inn in Burlington and dinner at the Skagit River Brewery.",
 			"mappic": "",
-			"mappicport": "newHA/img/sanjuan/cascadepass.JPG",
+			"mappicport": "img/sanjuan/cascadepass.JPG",
 			"mapspan": "",
 			"pictures": [
 				{
@@ -169,7 +169,7 @@
 			"h1title": "Cycling Orcas Island",
 			"h3": "From any approach a steep climb up the top of Mount Constitution",
 			"dayLink": "../sanjuanpost/sanjuan03.html",
-			"backgroundImg": "newHA/img/sanjuan/cascadepass.JPG",
+			"backgroundImg": "img/sanjuan/cascadepass.JPG",
 			"pdate": "Thursday, Sept 8th, 2016",
 			"pdesc": "Today we once again got an early start with a brown bag lunch. We met the early Washington State ferry to Orcas Island and then cycled the horseshoe shaped highway along Orcas Island’s enchanted evergreen lined roads.",
 			"mappic": "https://www.havingadventures.com/img/sanjuan/20160908OrcasEastsound012.jpg",
@@ -221,21 +221,21 @@
 			"pictures": [
 				{
 					"picID": "1",
-					"pic": "newHA/img/sanjuan/20160909LopezIsl009.jpg",
+					"pic": "img/sanjuan/20160909LopezIsl009.jpg",
 					"piccap": "Mt Baker and the Cascade Mtns",
 					"pictop": "",
 					"picbotm": ""
 				},
 				{
 					"picID": "2",
-					"pic": "newHA/img/sanjuan/20160909LopezIsl012.jpg",
+					"pic": "img/sanjuan/20160909LopezIsl012.jpg",
 					"piccap": "Just past the Lopez Coffee Shop",
 					"pictop": "We went north to south on Lopez Island through beautiful farms and passed fog shrouded harbors. We rode through rolling pastures, past century old farmhouses eventually stopping for a break at the Sharks Reef Sancuary.",
 					"picbotm": ""
 				},
 				{
 					"picID": "3",
-					"pic": "newHA/img/sanjuan/20160909LopezIslGroup.jpg",
+					"pic": "img/sanjuan/20160909LopezIslGroup.jpg",
 					"piccap": "Strait of Juan de Fuca",
 					"pictop": "After a near catastrophe for Paul and Mike we completed our riding at a beautiful pebbled beach with a picturesque view of the Strait of Juan de Fuca.",
 					"picbotm": "Afterwards, we had a great smoked salmon salad before being shuttled back to the ferry to say our good byes to Miguel and Arnold by mid-afternoon. The ferry gave a clear views of Mount Baker and the Cascades.  At the ferry terminal we said good-bye to Zav, Jackie, Leo and Michelle who were heading home as we headed down to Portland."
@@ -411,7 +411,7 @@
 			"pdate": "Tuesday, Sept 13th, 2016",
 			"pdesc": "After a morning walk along the beach by Three Arch Rocks we drove south to see the coast. We ended up in Pacific City which is part of the Cape Kiwanda State Natural Area. This was our most relaxed day of the trip and after a nap on the beach admiring Chief Kiawanda Rock we had a leisurely lunch at The Pelican Pub and Brewery and headed back to Oceanside.",
 			"mappic": "",
-			"mappicport": "newHA/img/sanjuan/20160913OregonCoast047.jpg",
+			"mappicport": "img/sanjuan/20160913OregonCoast047.jpg",
 			"mapspan": "",
 			"dayLink": "",
 			"pictures": [

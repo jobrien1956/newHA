@@ -29,7 +29,7 @@
 			"h3": "A long flight from JFK thru Athens to Thessaloniki",
 			"pdate": "Saturday and Sunday, July 28 & 29, 2012",
 			"pdesc": "We spent our first day in Greece recovering from the long flight.  We had some excitment and Vassos's brother's car didn't fair to well but by the end of the day we went 'down to the sea' to relax",
-			"mappic": "newHA/img/greece/greecemap.jpg",
+			"mappic": "img/greece/greecemap.jpg",
 			"mapspan": "Our flights in and out of Athens",
 			"pictures": [
 				{
@@ -55,12 +55,12 @@
 			"h3": "Staying overnight at the Yosos Apostolidis shelter",
 			"pdate": "Monday & Tuesday, July 30 & 31, 2012",
 			"pdesc": "Our group of six set out in the morning and made it to the first hostel about lunch time where we took a break and continued up to the Yosos Apostolidis shelter.  We had a great surise and a sunny day to get to the peak of Mytikas, meaning 'nose', rises to 2,918 metres (9,573 ft).  This was an interesting scramble and pretty spectacular",
-			"mappic": "newHA/img/greece/20120731MtOlympus046M.jpg",
+			"mappic": "img/greece/20120731MtOlympus046M.jpg",
 			"mapspan": "Allie and Kathy at our shelter on top",
 			"pictures": [
 				{
 					"picID": "1",
-					"pic": "newHA/img/greece/olympicshelter.jpg",
+					"pic": "img/greece/olympicshelter.jpg",
 					"piccap": "Looking back at the shelter and small peak we climbed the night before",
 					"pictop": ""
 				},
@@ -106,7 +106,7 @@
 			"h1title": "Santorini",
 			"pdate": "Aug 4th & 5th, 2012",
 			"pdesc": "We had a short flight from Athens to Santorini and spent two nights there. It's a cresent shaped island which is the rements of a volcano.  We took a day trip on a sail boat arouund the southern tip into the caldera.  We had views of the homes lining the cliffs above the norhthern edge and realized we pciked the wrong side of the island.  The following day we hiked around the rim and then had dinner watching the sunset.",
-			"mappic": "newHA/img/greece/SANTORINImap2.jpg",
+			"mappic": "img/greece/SANTORINImap2.jpg",
 			"mapspan": "Our hotel was in the southern end",
 			"pictures": [
 				{

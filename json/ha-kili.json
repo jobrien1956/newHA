@@ -5,9 +5,9 @@
 		"summ": "Full board 7 day climb to the summit of Mt Kilimanjaro",
 		"intro": "--",
 		"introDescr": "My friend, Rupert Tyer, invited me to join him in celebrating his 50th birthday by climbing Mt. Kililmanjaro.  I  invited my son, Kelly, and my college roommate, Zav to join me.  The three of us and 6 other friends of Rupert took at 8 day trip to the highest point in Africa",
-		"introPic1": "newHA/img/kili/LemoshoRouteSumm.jpg",
+		"introPic1": "img/kili/LemoshoRouteSumm.jpg",
 		"introPic1span": "The route - from west to east and slowly gaining altitude",
-		"introPic2": "newHA/img/kili/LemoshoItinerary.jpg",
+		"introPic2": "img/kili/LemoshoItinerary.jpg",
 		"introPic2span": "Our 8 day Itinerary",
 		"videoLink": "https://www.youtube.com/watch?v=xspMve0L3Fs&feature=youtu.be",
 		"videoIframe": "https://www.youtube.com/embed/xspMve0L3Fs",
@@ -28,7 +28,7 @@
 			"h3": "JFK to Amsterdam and then on to Kilimanjaro airport",
 			"pdate": "Sun, Jan 13, 2013",
 			"pdesc": "We arrived at Kilimanjaro airport after about 16 hours of flying time and 24 hours of travel.  The Rivertrees Country Inn, our home for the next few nights, was close by and we checked in and went to bed.  In the morning we explored our base camp and were joined by the rest of the team who flew in from London.",
-			"mappic": "newHA/img/kili/Lemoshomap.jpg",
+			"mappic": "img/kili/Lemoshomap.jpg",
 			"mapspan": "Arriving",
 			"pictures": [
 				{

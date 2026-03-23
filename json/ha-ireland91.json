@@ -3,8 +3,8 @@
 		"nav": "1",
 		"TripId": "199108ireland",
 		"id": "ha-ireland91",
-		"backgroundImg": "newHA/img/index/199109ireland.jpg",
-		"tripThumb": "newHA/img/index/thumb/199109ireland.jpg",
+		"backgroundImg": "img/index/199109ireland.jpg",
+		"tripThumb": "img/index/thumb/199109ireland.jpg",
 		"pageLink": "adventures/ha_future.html",
 		"pageTitle": "Sep 1991 - Visiting Ireland",
 		"pageSubtitle": "Dublin, LizCarroll and Cork",
@@ -136,7 +136,7 @@
 				},
 				{
 					"picID": "3",
-					"pic": "newHA/img/ireland/Curraughsmap.jpg",
+					"pic": "img/ireland/Curraughsmap.jpg",
 					"piccap": "Google Maps Aeriel from 2018",
 					"picbotm": "52.2352, -8.84953"
 				}

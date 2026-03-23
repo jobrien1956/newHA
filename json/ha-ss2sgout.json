@@ -3,8 +3,8 @@
 		"nav": "1",
 		"TripId": "2022ss2sgout",
 		"id": "ha-ss2sgout",
-		"backgroundImg": "newHA/img/index/202205ss2sgout.jpg",
-		"tripThumb": "newHA/img/index/thumb/2022ss2sgout.jpg",
+		"backgroundImg": "img/index/202205ss2sgout.jpg",
+		"tripThumb": "img/index/thumb/2022ss2sgout.jpg",
 		"pageLink": "adventures/202205ss2sgout.html",
 		"pageTitle": "May 2022 - Ridgewood to Seaside OR",
 		"pageSubtitle": "SS2SG2022 - Six Days East to West",
@@ -12,9 +12,9 @@
 		"summ": "NJ to Oregon (by Van)",
 		"intro": "Part 1 - Wile E's Wild West Adventure",
 		"introDescr": "Mike, Tim & myself take a six day dash across the US",
-		"introPic1": "newHA/img/ss2sg/202205ss2sgoutRW.jpg",
+		"introPic1": "img/ss2sg/202205ss2sgoutRW.jpg",
 		"introPic1span": "Ridgewood, NJ",
-		"introPic2": "newHA/img/ss2sg/202205ss2sgoutSeaSide.jpg",
+		"introPic2": "img/ss2sg/202205ss2sgoutSeaSide.jpg",
 		"introPic2span": "Seaside OR",
 		"videoLink": "",
 		"videoIframe": "",
@@ -202,7 +202,7 @@
 			"pdescLink3": "",
 			"pdescLinktag3": "",
 			"mappic": "",
-			"mappicport": "newHA/img/ss2sg/DriveOut.jpg",
+			"mappicport": "img/ss2sg/DriveOut.jpg",
 			"mapspan": "--------------------------------",
 			"pictures": [
 				{
@@ -255,7 +255,7 @@
 			"pdescLink3": "",
 			"pdescLinktag3": "",
 			"mappic": "",
-			"mappicport": "newHA/img/ss2sg/WeeklyChart.jpg",
+			"mappicport": "img/ss2sg/WeeklyChart.jpg",
 			"mapspan": "",
 			"pictures": [
 				{
@@ -308,26 +308,26 @@
 			"pdescLink3": "",
 			"pdescLinktag3": "",
 			"mappic": "",
-			"mappicport": "newHA/img/ss2sg/ss2sgWeek1.jpg",
+			"mappicport": "img/ss2sg/ss2sgWeek1.jpg",
 			"mapspan": "",
 			"pictures": [
 				{
 					"picID": "1",
-					"pic": "newHA/img/ss2sg/Day01SeasideORRainierOR.jpg",
+					"pic": "img/ss2sg/Day01SeasideORRainierOR.jpg",
 					"piccap": "",
 					"pictop": "Day 1 SunsetOR - RainierOR",
 					"picbotm": "======= Day 1 Sunset to Rainier ======="
 				},
 				{
 					"picID": "2",
-					"pic": "newHA/img/ss2sg/Day02RainierPortland.jpg",
+					"pic": "img/ss2sg/Day02RainierPortland.jpg",
 					"piccap": "",
 					"pictop": "Day 2 RainierOR - PortlandOR L&C7",
 					"picbotm": "======= Day 2 Rainier to Portland ======="
 				},
 				{
 					"picID": "3",
-					"pic": "newHA/img/ss2sg/Day03PortlandCascadeLocks.png",
+					"pic": "img/ss2sg/Day03PortlandCascadeLocks.png",
 					"piccap": "",
 					"pictop": "Day 3 PortlandOR - CascadeLocksOR L&C7",
 					"picbotm": "======= Day 3 Portland - Cascade Locks ======="
@@ -355,7 +355,7 @@
 				},
 				{
 					"picID": "7",
-					"pic": "newHA/img/ss2sg/Day07WallaWallaWAClarkstonWALC7.png",
+					"pic": "img/ss2sg/Day07WallaWallaWAClarkstonWALC7.png",
 					"piccap": "",
 					"pictop": "Day 7 Walla Walla WA - Clarkston WA L&C7",
 					"picbotm": "======= Walla Walla WA - Clarkston / Lewiston ID ======="
@@ -389,7 +389,7 @@
 			"pdescLink3": "",
 			"pdescLinktag3": "",
 			"mappic": "",
-			"mappicport": "newHA/img/ss2sg/ss2sgWeek1.jpg",
+			"mappicport": "img/ss2sg/ss2sgWeek1.jpg",
 			"mapspan": "",
 			"pictures": [
 				{
