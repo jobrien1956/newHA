@@ -1,3 +1,4 @@
+// TripIndex.js - Last updated: 2026-03-24 - TripIndex - Type 2 multi-day card grid, hero image, margin-top navbar fix
 /*
  * TripIndex.js  —  HA.views.TripIndex
  *
@@ -36,13 +37,13 @@ HA.views.TripIndex = {
 
 			// ── Hero ──────────────────────────────────────────
 			m('header.intro-header', {
-				style: heroImg ? {
-					'background-image': 'url(' + heroImg + ')',
-					'background-size': 'cover',
-					'background-position': 'center',
-					'background-repeat': 'no-repeat',
-					'margin-top': '50px'
-				} : {'margin-top': '50px'}
+					style: heroImg ? {
+						'background-image': 'url(' + heroImg + ')',
+						'background-size': 'cover',
+						'background-position': 'center',
+						'background-repeat': 'no-repeat',
+						'margin-top': '50px'
+					} : {'margin-top': '50px'}
 				},
 				m('.container',
 					m('.row',
@@ -84,8 +85,8 @@ HA.views.TripIndex = {
 									style: {cursor: 'pointer', height: '100%'},
 									onclick: function () {
 										const link = page.pageLink
-											? 'tdpost/' + page.pageLink
-											: '/trip/' + dayStoreName;
+											? HA.config.basePath + '/tdpost/' + page.pageLink
+											: HA.config.basePath + '/index.html#!/trip/' + dayStoreName;
 										console.log('TripIndex → navigate to:', link);
 										window.location.href = link;
 									}
@@ -95,22 +96,22 @@ HA.views.TripIndex = {
 								m('.panel-body', {style: {padding: '0', overflow: 'hidden'}},
 									page.tripThumb
 										? m('img.img-responsive', {
-												src: page.tripThumb,
-												alt: page.pageTitle || '',
-												style: {width: '100%', display: 'block'}
-											})
+											src: HA.config.basePath + '/' + page.tripThumb,
+											alt: page.pageTitle || '',
+											style: {width: '100%', display: 'block'}
+										})
 										: m('div', {
-												style: {
-													height: '100px',
-													background: '#2a2a28',
-													display: 'flex',
-													alignItems: 'center',
-													justifyContent: 'center',
-													color: '#b8943f',
-													fontSize: '1.1rem',
-													fontWeight: 'bold'
-												}
-											}, page.TripId || ('Day ' + (idx + 1)))
+											style: {
+												height: '100px',
+												background: '#2a2a28',
+												display: 'flex',
+												alignItems: 'center',
+												justifyContent: 'center',
+												color: '#b8943f',
+												fontSize: '1.1rem',
+												fontWeight: 'bold'
+											}
+										}, page.TripId || ('Day ' + (idx + 1)))
 								),
 
 								// ── Card text ─────────────────────────────
