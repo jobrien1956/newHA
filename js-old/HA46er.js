@@ -2,7 +2,7 @@ var HA46er = {
 	views: {},
 	stores: {},
 	config: {
-		dataUrl: "/havingadventures.com"
+		dataUrl: ""
 		// production this is       dataUrl: ""
 		// dev this is       dataUrl: "/havingadventures.com"
 	}
