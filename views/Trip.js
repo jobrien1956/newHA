@@ -1,4 +1,4 @@
-// Trip.js - Last updated: 2026-03-23 - Trip page renderer - oninit/onbeforeupdate reload fix, footer Instagram only, redirect support, margin-top navbar fix, backgroundImg basePath fix
+// Trip.js - Last updated: 2026-03-23 - Trip page renderer - oninit/onbeforeupdate reload fix, footer Instagram only, redirect support, margin-top navbar fix, backgroundImg basePath fix, introDescr empty string fix
 HA.views.Trip = {
 	oninit: function(vnode) {
 		vnode.state.tripName = m.route.param('tripName');
@@ -257,6 +257,11 @@ HA.views.Trip = {
 			return m('.container', m('p', {style: {padding:'2rem'}}, 'Redirecting…'));
 		}
 
+		// Detect Type 3 trips: TDDay JSON (has dayNum/content fields for Tour Divide)
+		if (tripData.dayNum !== undefined || tripData.content !== undefined) {
+			return m(HA.views.TDDay, {tripData: tripData, tripName: tripName});
+		}
+
 		// Detect Type 2 trips: JSON has haPages[] but no adventureDay[]
 		if (!tripData.adventureDay && tripData.haPages) {
 			return m(HA.views.TripIndex, {tripData: tripData, tripName: tripName});
@@ -265,7 +270,7 @@ HA.views.Trip = {
 		var trip = tripData.trip || {};
 		return m("div", m(".row", [
 				header(trip),
-				trip.introDescr && intro(trip),
+				trip.introDescr ? intro(trip) : null,
 				tripData.adventureDay.map(function (iii) {
 					return iii.dayId && dayview(iii);
 				}),

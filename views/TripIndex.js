@@ -1,4 +1,4 @@
-// TripIndex.js - Last updated: 2026-03-21 - TripIndex - Type 2 multi-day card grid, hero image, margin-top navbar fix
+// TripIndex.js - Last updated: 2026-03-24 - TripIndex - Type 2 multi-day card grid, hero image, margin-top navbar fix
 /*
  * TripIndex.js  —  HA.views.TripIndex
  *
@@ -84,9 +84,7 @@ HA.views.TripIndex = {
 							m('.panel.panel-default', {
 									style: {cursor: 'pointer', height: '100%'},
 									onclick: function () {
-										const link = page.pageLink
-											? 'tdpost/' + page.pageLink
-											: '/trip/' + dayStoreName;
+										const link = HA.config.basePath + '/index.html#!/trip/' + dayStoreName;
 										console.log('TripIndex → navigate to:', link);
 										window.location.href = link;
 									}
@@ -96,7 +94,7 @@ HA.views.TripIndex = {
 								m('.panel-body', {style: {padding: '0', overflow: 'hidden'}},
 									page.tripThumb
 										? m('img.img-responsive', {
-												src: page.tripThumb,
+												src: HA.config.basePath + '/' + page.tripThumb,
 												alt: page.pageTitle || '',
 												style: {width: '100%', display: 'block'}
 											})
