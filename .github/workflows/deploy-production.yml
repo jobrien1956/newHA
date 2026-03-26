@@ -72,8 +72,8 @@ jobs:
           server:       ${{ secrets.TURBIFY_FTP_HOST }}
           username:     ${{ secrets.TURBIFY_FTP_USER }}
           password:     ${{ secrets.TURBIFY_FTP_PASSWORD }}
-          protocol:     ftps
-          port:         21
+          protocol:     sftp
+          port:         22
           local-dir:    ./
           server-dir:   /public_html/
           exclude: |
