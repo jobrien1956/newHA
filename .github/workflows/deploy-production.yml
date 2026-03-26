@@ -1,0 +1,86 @@
+# .github/workflows/deploy-production.yml
+#
+# Deploys newHA to havingadventures.com (Turbify) via FTPS
+# on every push to the `production` branch.
+#
+# SETUP STEPS (one-time, in your GitHub repo):
+#   1. Go to Settings → Secrets and variables → Actions → New repository secret
+#   2. Add these secrets:
+#        TURBIFY_FTP_HOST      → your Turbify FTP hostname
+#                                (find in Turbify cPanel → FTP Accounts, or use ftp.havingadventures.com)
+#        TURBIFY_FTP_USER      → your Turbify FTP username (usually your full login email)
+#        TURBIFY_FTP_PASSWORD  → your Turbify FTP password
+#
+# HOW TO DEPLOY:
+#   Option A — push directly to `production` branch
+#   Option B — merge a PR from `master` into `production`
+#
+# The workflow patches basePath and index.html paths automatically,
+# so your master branch always stays set for GitHub Pages (/newHA).
+
+name: 🚀 Deploy to havingadventures.com
+
+on:
+  push:
+    branches:
+      - production
+
+jobs:
+  deploy:
+    name: Patch paths and deploy via FTPS
+    runs-on: ubuntu-latest
+
+    steps:
+      # ── 1. Check out the production branch ──────────────────────────
+      - name: 🚚 Checkout code
+        uses: actions/checkout@v4
+
+      # ── 2. Patch views/app.js ────────────────────────────────────────
+      #    Change:  var basePath = '/newHA';
+      #    To:      var basePath = '';
+      - name: 🔧 Patch basePath in views/app.js
+        run: |
+          sed -i "s|var basePath = '/newHA';|var basePath = '';   // ← PRODUCTION: empty for havingadventures.com|g" views/app.js
+          echo "--- views/app.js basePath line after patch ---"
+          grep "basePath" views/app.js | head -5
+
+      # ── 3. Patch index.html ──────────────────────────────────────────
+      #    Strip all /newHA/ prefixes from local asset paths
+      #    (leaves CDN https:// URLs untouched)
+      - name: 🔧 Patch /newHA/ paths in index.html
+        run: |
+          sed -i 's|href="/newHA/|href="|g' index.html
+          sed -i 's|src="/newHA/|src="|g'  index.html
+          echo "--- index.html script/link lines after patch ---"
+          grep -E "(src|href)=" index.html | grep -v "maxcdn\|googleapis\|unpkg\|ajax"
+
+      # ── 4. Verify patches look correct ──────────────────────────────
+      - name: 🔍 Verify patched files
+        run: |
+          echo "=== views/app.js (first 15 lines) ==="
+          head -15 views/app.js
+          echo ""
+          echo "=== index.html ==="
+          cat index.html
+
+      # ── 5. Deploy to Turbify via FTPS ────────────────────────────────
+      #    Syncs everything EXCEPT .github, .git, node_modules, etc.
+      #    Uses FTPS (explicit TLS) as required by Turbify.
+      - name: 📂 Deploy to Turbify via FTPS
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.6
+        with:
+          server:       ${{ secrets.TURBIFY_FTP_HOST }}
+          username:     ${{ secrets.TURBIFY_FTP_USER }}
+          password:     ${{ secrets.TURBIFY_FTP_PASSWORD }}
+          protocol:     ftps
+          port:         21
+          local-dir:    ./
+          server-dir:   /public_html/
+          exclude: |
+            **/.git/**
+            **/.github/**
+            **/node_modules/**
+            .gitignore
+            README.md
+          log-level:    standard
+          dry-run:      false
